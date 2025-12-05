@@ -1,0 +1,155 @@
+.container {
+    position: relative;
+}
+
+.activeProfile {
+    display: flex;
+    align-items: center;
+    gap: 1rem;
+    padding: 0.75rem 1.25rem;
+    background: rgba(255, 255, 255, 0.05);
+    border: 1px solid rgba(255, 255, 255, 0.1);
+    border-radius: 16px;
+    cursor: pointer;
+    transition: all 0.3s ease;
+    width: 100%;
+}
+
+.activeProfile:hover {
+    background: rgba(255, 255, 255, 0.08);
+}
+
+.avatar {
+    width: 40px;
+    height: 40px;
+    border-radius: 50%;
+    background: linear-gradient(135deg, #2563eb 0%, #7c3aed 100%);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: white;
+    font-weight: 700;
+    font-size: 1.125rem;
+    overflow: hidden;
+    flex-shrink: 0;
+}
+
+.avatar img {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+}
+
+.profileInfo {
+    flex: 1;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    gap: 0.25rem;
+}
+
+.name {
+    font-weight: 600;
+    color: var(--text-primary);
+    font-size: 0.9375rem;
+}
+
+.relation {
+    font-size: 0.75rem;
+    color: var(--text-secondary);
+}
+
+.details {
+    font-size: 0.75rem;
+    color: var(--text-secondary);
+}
+
+.chevron {
+    color: var(--text-secondary);
+    transition: transform 0.3s ease;
+}
+
+.dropdown {
+    position: absolute;
+    top: calc(100% + 0.5rem);
+    left: 0;
+    right: 0;
+    background: rgba(26, 26, 46, 0.95);
+    backdrop-filter: blur(20px);
+    border: 1px solid rgba(255, 255, 255, 0.1);
+    border-radius: 16px;
+    padding: 0.5rem;
+    box-shadow: 0 10px 40px rgba(0, 0, 0, 0.3);
+    z-index: 100;
+    max-height: 400px;
+    overflow-y: auto;
+}
+
+.profileCard {
+    display: flex;
+    align-items: center;
+    gap: 1rem;
+    padding: 1rem;
+    background: rgba(255, 255, 255, 0.03);
+    border: 1px solid rgba(255, 255, 255, 0.05);
+    border-radius: 12px;
+    cursor: pointer;
+    transition: all 0.3s ease;
+    width: 100%;
+    margin-bottom: 0.5rem;
+}
+
+.profileCard:hover {
+    background: rgba(255, 255, 255, 0.08);
+    border-color: rgba(255, 255, 255, 0.1);
+}
+
+.profileCard.active {
+    background: rgba(37, 99, 235, 0.1);
+    border-color: rgba(37, 99, 235, 0.3);
+}
+
+.checkmark {
+    margin-left: auto;
+    color: #2563eb;
+    font-weight: 700;
+    font-size: 1.125rem;
+}
+
+.addProfile {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 0.75rem;
+    padding: 1rem;
+    background: linear-gradient(135deg, #2563eb 0%, #7c3aed 100%);
+    border: none;
+    border-radius: 12px;
+    color: white;
+    font-weight: 600;
+    cursor: pointer;
+    transition: all 0.3s ease;
+    width: 100%;
+    margin-top: 0.5rem;
+}
+
+.addProfile:hover {
+    box-shadow: 0 5px 20px rgba(37, 99, 235, 0.3);
+}
+
+.addIcon {
+    font-size: 1.5rem;
+    line-height: 1;
+}
+
+@media (max-width: 640px) {
+    .dropdown {
+        position: fixed;
+        top: auto;
+        bottom: 0;
+        left: 0;
+        right: 0;
+        border-radius: 24px 24px 0 0;
+        max-height: 70vh;
+    }
+}
