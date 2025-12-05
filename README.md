@@ -10,6 +10,7 @@ A next-generation AI-powered health interpretation platform that transforms comp
 
 ## ✨ Features
 
+- 🔐 **Google OAuth** - Secure authentication with Google Sign-In
 - 🎨 **Fluid Motion Design** - Animated gradients, glassmorphism, and smooth micro-interactions
 - 📤 **Smart Upload** - Drag-and-drop any medical file (PDF, images, documents)
 - 🤖 **AI-Powered Insights** - Clear explanations in plain language, not medical jargon
@@ -43,16 +44,30 @@ Open [http://localhost:3000](http://localhost:3000) in your browser.
 
 ### Environment Variables
 
-Create a \`.env.local\` file:
+Create a `.env` file (copy from `.env.example`):
 
 \`\`\`env
-NEXT_PUBLIC_API_URL=http://localhost:8000/api
+# NextAuth Configuration
+NEXTAUTH_URL=http://localhost:3000
+NEXTAUTH_SECRET=your-secret-key-here
+
+# Google OAuth
+GOOGLE_CLIENT_ID=your-google-client-id
+GOOGLE_CLIENT_SECRET=your-google-client-secret
+
+# API Configuration (optional)
+NEXT_PUBLIC_API_URL=
 \`\`\`
+
+**Important**: 
+- Generate `NEXTAUTH_SECRET` with: `openssl rand -base64 32`
+- See [GOOGLE_OAUTH_SETUP.md](./GOOGLE_OAUTH_SETUP.md) for detailed Google OAuth setup instructions
 
 ## 🏗️ Tech Stack
 
 - **Framework**: Next.js 15 (App Router)
 - **Language**: TypeScript
+- **Authentication**: NextAuth.js with Google OAuth
 - **Styling**: Vanilla CSS with CSS Modules
 - **HTTP Client**: Axios
 - **Animations**: Framer Motion + CSS
@@ -64,17 +79,28 @@ NEXT_PUBLIC_API_URL=http://localhost:8000/api
 src/
 ├── app/
 │   ├── page.tsx              # Landing page
+│   ├── login/                # Login page
+│   ├── signup/               # Signup page
 │   ├── dashboard/            # Health dashboard
 │   ├── upload/               # File upload page
-│   └── timeline/             # Health timeline
+│   ├── timeline/             # Health timeline
+│   └── api/
+│       └── auth/
+│           └── [...nextauth]/ # NextAuth API routes
 ├── components/
-│   ├── Header.tsx            # Navigation
-│   └── HeroSection.tsx       # Landing hero
-└── lib/
-    └── api/
-        ├── client.ts         # API client
-        ├── reports.ts        # Reports API
-        └── auth.ts           # Authentication
+│   ├── Header.tsx            # Navigation with auth
+│   ├── HeroSection.tsx       # Landing hero
+│   └── SessionProvider.tsx   # Auth session provider
+├── hooks/
+│   └── useAuth.ts            # Authentication hook
+├── lib/
+│   ├── auth.config.ts        # NextAuth configuration
+│   └── api/
+│       ├── client.ts         # API client
+│       ├── reports.ts        # Reports API
+│       └── auth.ts           # Authentication
+└── types/
+    └── next-auth.d.ts        # NextAuth type definitions
 \`\`\`
 
 ## 🎨 Design System
