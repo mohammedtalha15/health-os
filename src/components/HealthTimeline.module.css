@@ -1,0 +1,190 @@
+.container {
+    width: 100%;
+    max-width: 1200px;
+    margin: 0 auto;
+}
+
+.controls {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-bottom: 2rem;
+    flex-wrap: wrap;
+    gap: 1rem;
+}
+
+.filters {
+    display: flex;
+    gap: 0.5rem;
+    flex-wrap: wrap;
+}
+
+.filterBtn {
+    padding: 0.5rem 1rem;
+    background: rgba(255, 255, 255, 0.05);
+    border: 1px solid rgba(255, 255, 255, 0.1);
+    border-radius: 12px;
+    color: var(--text-secondary);
+    font-weight: 600;
+    cursor: pointer;
+    transition: all 0.3s ease;
+}
+
+.filterBtn.active {
+    background: linear-gradient(135deg, #2563eb 0%, #7c3aed 100%);
+    border-color: transparent;
+    color: white;
+}
+
+.filterBtn:hover:not(.active) {
+    background: rgba(255, 255, 255, 0.1);
+    color: var(--text-primary);
+}
+
+.zoomControls {
+    display: flex;
+    align-items: center;
+    gap: 1rem;
+    color: var(--text-primary);
+}
+
+.zoomBtn {
+    width: 32px;
+    height: 32px;
+    background: rgba(255, 255, 255, 0.05);
+    border: 1px solid rgba(255, 255, 255, 0.1);
+    border-radius: 8px;
+    color: var(--text-primary);
+    font-size: 1.25rem;
+    cursor: pointer;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.timeline {
+    position: relative;
+    padding: 2rem 0;
+    transform-origin: top left;
+    transition: transform 0.3s ease;
+}
+
+.timelineLine {
+    position: absolute;
+    left: 40px;
+    top: 0;
+    bottom: 0;
+    width: 2px;
+    background: linear-gradient(180deg,
+            rgba(37, 99, 235, 0.5) 0%,
+            rgba(124, 58, 237, 0.5) 100%);
+}
+
+.timelineEntry {
+    position: relative;
+    display: flex;
+    gap: 2rem;
+    margin-bottom: 2rem;
+    cursor: pointer;
+}
+
+.timelineDot {
+    position: relative;
+    z-index: 2;
+    width: 48px;
+    height: 48px;
+    border-radius: 50%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-size: 1.5rem;
+    flex-shrink: 0;
+    box-shadow: 0 0 20px currentColor;
+    margin-left: 16px;
+}
+
+.timelineContent {
+    flex: 1;
+}
+
+.timelineDate {
+    font-size: 0.875rem;
+    color: var(--text-secondary);
+    margin-bottom: 0.5rem;
+    font-weight: 600;
+}
+
+.timelineCard {
+    background: rgba(255, 255, 255, 0.03);
+    backdrop-filter: blur(20px);
+    border: 1px solid rgba(255, 255, 255, 0.1);
+    border-radius: 16px;
+    padding: 1.5rem;
+    transition: all 0.3s ease;
+}
+
+.timelineEntry:hover .timelineCard {
+    background: rgba(255, 255, 255, 0.05);
+    border-color: rgba(255, 255, 255, 0.2);
+}
+
+.timelineCard h3 {
+    font-size: 1.125rem;
+    font-weight: 600;
+    color: var(--text-primary);
+    margin-bottom: 0.5rem;
+}
+
+.timelineCard p {
+    color: var(--text-secondary);
+    font-size: 0.875rem;
+    line-height: 1.6;
+}
+
+.severityBadge {
+    display: inline-block;
+    margin-top: 0.75rem;
+    padding: 0.375rem 0.875rem;
+    border-radius: 20px;
+    font-size: 0.75rem;
+    font-weight: 700;
+    text-transform: uppercase;
+    letter-spacing: 0.5px;
+}
+
+.severityBadge[data-severity="green"] {
+    background: rgba(16, 185, 129, 0.2);
+    color: #10b981;
+}
+
+.severityBadge[data-severity="yellow"] {
+    background: rgba(245, 158, 11, 0.2);
+    color: #f59e0b;
+}
+
+.severityBadge[data-severity="red"] {
+    background: rgba(239, 68, 68, 0.2);
+    color: #ef4444;
+}
+
+@media (max-width: 768px) {
+    .timelineLine {
+        left: 24px;
+    }
+
+    .timelineDot {
+        width: 40px;
+        height: 40px;
+        font-size: 1.25rem;
+        margin-left: 0;
+    }
+
+    .timelineEntry {
+        gap: 1rem;
+    }
+
+    .zoomControls {
+        width: 100%;
+        justify-content: center;
+    }
+}
