@@ -3,6 +3,7 @@
 import { useState } from 'react';
 import Link from 'next/link';
 import { useRouter } from 'next/navigation';
+import { signIn } from 'next-auth/react';
 import styles from './login.module.css';
 
 export default function LoginPage() {
@@ -40,6 +41,17 @@ export default function LoginPage() {
             // Redirect to dashboard after successful login
             router.push('/dashboard');
         }, 1500);
+    };
+
+    const handleGoogleSignIn = async () => {
+        setLoading(true);
+        try {
+            await signIn('google', { callbackUrl: '/dashboard' });
+        } catch (error) {
+            console.error('Google sign in error:', error);
+            setError('Failed to sign in with Google');
+            setLoading(false);
+        }
     };
 
     return (
@@ -125,7 +137,7 @@ export default function LoginPage() {
                         </div>
 
                         <div className={styles.socialButtons}>
-                            <button type="button" className={styles.socialButton} disabled={loading}>
+                            <button type="button" className={styles.socialButton} onClick={handleGoogleSignIn} disabled={loading}>
                                 <svg width="20" height="20" viewBox="0 0 20 20" fill="none">
                                     <path d="M18.1713 8.36788H17.5V8.33329H10V11.6666H14.7096C14.0225 13.6071 12.1763 15 10 15C7.23875 15 5 12.7612 5 9.99996C5 7.23871 7.23875 4.99996 10 4.99996C11.2746 4.99996 12.4342 5.48079 13.3171 6.26621L15.6742 3.90913C14.1858 2.52204 12.195 1.66663 10 1.66663C5.39792 1.66663 1.66667 5.39788 1.66667 9.99996C1.66667 14.602 5.39792 18.3333 10 18.3333C14.6021 18.3333 18.3333 14.602 18.3333 9.99996C18.3333 9.44121 18.2758 8.89579 18.1713 8.36788Z" fill="#FFC107" />
                                     <path d="M2.6275 6.12121L5.36542 8.12913C6.10625 6.29496 7.90042 4.99996 10 4.99996C11.2746 4.99996 12.4342 5.48079 13.3171 6.26621L15.6742 3.90913C14.1858 2.52204 12.195 1.66663 10 1.66663C6.79917 1.66663 4.02334 3.47371 2.6275 6.12121Z" fill="#FF3D00" />
