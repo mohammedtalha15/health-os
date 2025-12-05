@@ -1,0 +1,230 @@
+.card {
+    position: relative;
+    background: rgba(255, 255, 255, 0.03);
+    backdrop-filter: blur(20px);
+    border: 1px solid rgba(255, 255, 255, 0.1);
+    border-radius: 24px;
+    padding: 2rem;
+    cursor: pointer;
+    overflow: hidden;
+    perspective: 1000px;
+    transition: all 0.3s ease;
+}
+
+.card[data-severity="green"] {
+    border-color: rgba(16, 185, 129, 0.2);
+}
+
+.card[data-severity="yellow"] {
+    border-color: rgba(245, 158, 11, 0.3);
+}
+
+.card[data-severity="red"] {
+    border-color: rgba(239, 68, 68, 0.4);
+}
+
+.glowRing {
+    position: absolute;
+    top: -2px;
+    left: -2px;
+    right: -2px;
+    bottom: -2px;
+    border-radius: 24px;
+    pointer-events: none;
+    z-index: -1;
+}
+
+.header {
+    display: flex;
+    justify-content: space-between;
+    align-items: flex-start;
+    margin-bottom: 1.5rem;
+}
+
+.metricName {
+    display: flex;
+    align-items: center;
+    gap: 0.75rem;
+}
+
+.icon {
+    font-size: 1.5rem;
+    font-weight: bold;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 36px;
+    height: 36px;
+    border-radius: 12px;
+    background: rgba(255, 255, 255, 0.05);
+}
+
+.metricName h3 {
+    font-size: 1.125rem;
+    font-weight: 600;
+    color: var(--text-primary);
+    margin: 0;
+}
+
+.severityBadge {
+    padding: 0.375rem 0.875rem;
+    border-radius: 20px;
+    font-size: 0.75rem;
+    font-weight: 600;
+    text-transform: uppercase;
+    letter-spacing: 0.5px;
+}
+
+.valueDisplay {
+    margin-bottom: 1.5rem;
+}
+
+.value {
+    font-size: 3rem;
+    font-weight: 700;
+    color: var(--text-primary);
+    line-height: 1;
+    display: flex;
+    align-items: baseline;
+    gap: 0.5rem;
+}
+
+.unit {
+    font-size: 1.25rem;
+    font-weight: 500;
+    color: var(--text-secondary);
+}
+
+.trend {
+    display: inline-flex;
+    align-items: center;
+    gap: 0.5rem;
+    margin-top: 0.75rem;
+    padding: 0.5rem 1rem;
+    border-radius: 12px;
+    background: rgba(255, 255, 255, 0.05);
+    font-size: 0.875rem;
+    font-weight: 600;
+}
+
+.trend[data-trend="up"] {
+    color: #10b981;
+}
+
+.trend[data-trend="down"] {
+    color: #ef4444;
+}
+
+.trend[data-trend="stable"] {
+    color: #6b7280;
+}
+
+.trendIcon {
+    font-size: 1.25rem;
+}
+
+.referenceRange {
+    margin-bottom: 1rem;
+}
+
+.rangeBar {
+    margin-bottom: 0.5rem;
+}
+
+.rangeTrack {
+    position: relative;
+    height: 8px;
+    background: rgba(255, 255, 255, 0.1);
+    border-radius: 4px;
+    overflow: hidden;
+}
+
+.rangeIndicator {
+    position: absolute;
+    top: 50%;
+    transform: translate(-50%, -50%);
+    width: 16px;
+    height: 16px;
+    border-radius: 50%;
+    box-shadow: 0 0 20px currentColor;
+}
+
+.rangeLabels {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    font-size: 0.75rem;
+    color: var(--text-secondary);
+}
+
+.normalRange {
+    color: var(--text-primary);
+    font-weight: 500;
+}
+
+.expandedContent {
+    overflow: hidden;
+}
+
+.details {
+    padding-top: 1rem;
+    border-top: 1px solid rgba(255, 255, 255, 0.1);
+}
+
+.detailRow {
+    display: flex;
+    justify-content: space-between;
+    padding: 0.5rem 0;
+    font-size: 0.875rem;
+}
+
+.detailRow span:first-child {
+    color: var(--text-secondary);
+}
+
+.detailRow span:last-child {
+    color: var(--text-primary);
+    font-weight: 500;
+}
+
+.viewHistoryBtn {
+    width: 100%;
+    margin-top: 1rem;
+    padding: 0.75rem;
+    background: linear-gradient(135deg, #2563eb 0%, #7c3aed 100%);
+    border: none;
+    border-radius: 12px;
+    color: white;
+    font-weight: 600;
+    font-size: 0.875rem;
+    cursor: pointer;
+    transition: all 0.3s ease;
+}
+
+.viewHistoryBtn:hover {
+    box-shadow: 0 10px 30px rgba(37, 99, 235, 0.3);
+}
+
+.dateStamp {
+    position: absolute;
+    bottom: 1rem;
+    right: 1rem;
+    font-size: 0.75rem;
+    color: var(--text-secondary);
+    opacity: 0.6;
+}
+
+/* Responsive */
+@media (max-width: 640px) {
+    .card {
+        padding: 1.5rem;
+    }
+
+    .value {
+        font-size: 2.5rem;
+    }
+
+    .unit {
+        font-size: 1rem;
+    }
+}
