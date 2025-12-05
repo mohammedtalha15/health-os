@@ -1,7 +1,7 @@
 from fastapi import FastAPI
 from fastapi.middleware.cors import CORSMiddleware
 from app.core.config import settings
-from app.api import auth, reports, profiles, ai
+from app.api import auth, reports, profiles, ai, emergency
 
 app = FastAPI(
     title=settings.APP_NAME,
@@ -23,6 +23,7 @@ app.include_router(auth.router, prefix="/api/auth", tags=["Authentication"])
 app.include_router(reports.router, prefix="/api/reports", tags=["Reports"])
 app.include_router(profiles.router, prefix="/api/profiles", tags=["Profiles"])
 app.include_router(ai.router, prefix="/api/ai", tags=["AI"])
+app.include_router(emergency.router, prefix="/api/emergency", tags=["Emergency"])
 
 
 @app.get("/")

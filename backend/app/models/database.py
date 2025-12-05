@@ -149,3 +149,20 @@ class AuditLog(Base):
     
     # Relationships
     user = relationship("User", back_populates="audit_logs")
+
+
+class EmergencyLink(Base):
+    __tablename__ = "emergency_links"
+    
+    id = Column(String, primary_key=True, index=True)  # UUID
+    profile_id = Column(Integer, ForeignKey("profiles.id"), nullable=False)
+    encrypted_data = Column(Text, nullable=False)  # Encrypted snapshot JSON
+    password_hash = Column(String)  # Optional password protection
+    created_at = Column(DateTime(timezone=True), server_default=func.now())
+    expires_at = Column(DateTime(timezone=True), nullable=False)
+    access_count = Column(Integer, default=0)
+    last_accessed = Column(DateTime(timezone=True))
+    is_revoked = Column(Boolean, default=False)
+    
+    # Relationships
+    profile = relationship("Profile")

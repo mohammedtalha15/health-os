@@ -225,5 +225,40 @@ class EmergencySnapshot(BaseModel):
     share_link: Optional[str] = None
 
 
+# Emergency Snapshot Schema
+class EmergencySnapshot(BaseModel):
+    profile_id: int
+    name: str
+    age: int
+    gender: str
+    blood_type: Optional[str] = None
+    allergies: List[Dict[str, Any]]
+    medications: List[Dict[str, Any]]
+    critical_flags: List[Dict[str, Any]]
+    last_vitals: Optional[Dict[str, Any]] = None
+    emergency_contacts: List[Dict[str, str]]
+    generated_at: datetime
+    expires_at: datetime
+    access_count: int = 0
+
+
+class EmergencyLinkCreate(BaseModel):
+    profile_id: int
+    medications: Optional[List[Dict[str, Any]]] = None
+    critical_flags: Optional[List[Dict[str, Any]]] = None
+    last_vitals: Optional[Dict[str, Any]] = None
+    emergency_contacts: Optional[List[Dict[str, str]]] = None
+    blood_type: Optional[str] = None
+    password: Optional[str] = None
+    expires_in_hours: Optional[int] = 24
+
+
+class EmergencyLinkResponse(BaseModel):
+    link_id: str
+    share_link: str
+    expires_at: datetime
+    qr_code_data: str
+
+
 # Update forward references
 ReportDetail.model_rebuild()
