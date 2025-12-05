@@ -10,7 +10,8 @@ const nextConfig = {
     },
     async rewrites() {
         const apiUrl = process.env.NEXT_PUBLIC_API_URL;
-        if (!apiUrl) {
+        // Only create rewrite if apiUrl is a valid URL (starts with http:// or https://)
+        if (!apiUrl || (!apiUrl.startsWith('http://') && !apiUrl.startsWith('https://'))) {
             return [];
         }
         return [

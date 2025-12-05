@@ -20,28 +20,25 @@ export default function HeroSection() {
                     </div>
 
                     <h1 className={styles.title}>
-                        Transform complex
+                        Creative
                         <br />
-                        <span className={styles.titleGradient}>medical reports</span>
+                        <span className={styles.titleGradient}>experiences</span>
                         <br />
-                        into clear insights
+                        in fluid motion
                     </h1>
 
                     <p className={styles.subtitle}>
-                        Upload any medical file and get AI-powered explanations, trend detection,
+                        Transforming digital health data with dynamic, fluid effects and
                         <br className={styles.desktopBreak} />
-                        and health timeline visualization. No medical jargon. Just clarity.
+                        real-time visual experiences that captivate and inspire.
                     </p>
 
                     <div className={styles.cta}>
                         <Link href="/upload" className="btn btn-primary btn-large">
-                            <svg width="20" height="20" viewBox="0 0 20 20" fill="none">
-                                <path d="M10 4V16M4 10H16" stroke="currentColor" strokeWidth="2" strokeLinecap="round" />
-                            </svg>
-                            Upload Your First Report
+                            Open in 4D
                         </Link>
                         <Link href="/#how-it-works" className="btn btn-secondary btn-large">
-                            See How It Works
+                            View Demo
                         </Link>
                     </div>
 
