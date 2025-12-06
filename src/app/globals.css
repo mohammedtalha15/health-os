@@ -119,6 +119,11 @@
   --z-modal: 1400;
   --z-popover: 1500;
   --z-tooltip: 1600;
+
+  /* Text Colors for Dark Backgrounds */
+  --text-primary: #f9fafb;
+  --text-secondary: #9ca3af;
+  --primary: #2563eb;
 }
 
 /* CSS Reset & Base Styles */
