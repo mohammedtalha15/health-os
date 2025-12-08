@@ -6,6 +6,13 @@ export const authOptions: NextAuthOptions = {
         GoogleProvider({
             clientId: process.env.GOOGLE_CLIENT_ID || '',
             clientSecret: process.env.GOOGLE_CLIENT_SECRET || '',
+            authorization: {
+                params: {
+                    prompt: "consent",
+                    access_type: "offline",
+                    response_type: "code"
+                }
+            }
         }),
     ],
     pages: {
@@ -17,10 +24,12 @@ export const authOptions: NextAuthOptions = {
     callbacks: {
         async signIn({ user, account, profile }) {
             // You can add custom logic here to save user to your database
+            console.log('Sign in callback:', { user, account, profile });
             return true;
         },
         async redirect({ url, baseUrl }) {
             // Redirect to dashboard after successful login
+            console.log('Redirect callback:', { url, baseUrl });
             if (url.startsWith(baseUrl)) return url;
             else if (url.startsWith('/')) return baseUrl + url;
             return baseUrl + '/dashboard';
@@ -45,4 +54,5 @@ export const authOptions: NextAuthOptions = {
         maxAge: 30 * 24 * 60 * 60, // 30 days
     },
     secret: process.env.NEXTAUTH_SECRET,
+    debug: process.env.NODE_ENV === 'development',
 };
