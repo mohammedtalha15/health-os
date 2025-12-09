@@ -7,6 +7,9 @@ import Header from '@/components/Header';
 import HealthMetricCard from '@/components/HealthMetricCard';
 import ProfileSwitcher from '@/components/ProfileSwitcher';
 import EmergencySnapshot from '@/components/EmergencySnapshot';
+import StatsCard from '@/components/StatsCard';
+import ActivityFeed from '@/components/ActivityFeed';
+import ProgressRing from '@/components/ProgressRing';
 import styles from './dashboard.module.css';
 import { animationPresets } from '@/lib/motion';
 
@@ -89,6 +92,20 @@ const mockEmergencyData = {
         { name: 'Dr. Smith', relation: 'Primary Care', phone: '+1-555-0456' },
     ],
 };
+
+const mockStats = [
+    { title: 'Total Reports', value: '24', change: 12, icon: '📄', color: 'blue' as const },
+    { title: 'Health Score', value: '87', change: 5, icon: '❤️', color: 'green' as const },
+    { title: 'Appointments', value: '3', change: -2, icon: '📅', color: 'purple' as const },
+    { title: 'Medications', value: '5', icon: '💊', color: 'orange' as const },
+];
+
+const mockActivities = [
+    { id: 1, type: 'upload' as const, title: 'New Report Uploaded', description: 'Complete Blood Count report processed', time: '2 hours ago', icon: '📤' },
+    { id: 2, type: 'alert' as const, title: 'Health Alert', description: 'Blood glucose slightly elevated', time: '5 hours ago', icon: '⚠️' },
+    { id: 3, type: 'appointment' as const, title: 'Upcoming Appointment', description: 'Dr. Smith - Annual checkup', time: 'Tomorrow at 10:00 AM', icon: '🏥' },
+    { id: 4, type: 'medication' as const, title: 'Medication Reminder', description: 'Take Metformin 500mg', time: '1 day ago', icon: '💊' },
+];
 
 export default function DashboardPage() {
     const [activeProfileId, setActiveProfileId] = useState(1);
