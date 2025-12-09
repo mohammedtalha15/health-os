@@ -1,18 +1,22 @@
 :root {
   /* Color System - Medical Blues with Warm Gradients */
-  --color-primary: #2563eb;
-  --color-primary-dark: #1e40af;
-  --color-primary-light: #3b82f6;
+  --color-primary: #3b82f6;
+  --color-primary-dark: #2563eb;
+  --color-primary-light: #60a5fa;
   --color-secondary: #f59e0b;
   --color-accent: #f97316;
+  --color-purple: #a855f7;
+  --color-pink: #ec4899;
+  --color-cyan: #06b6d4;
 
   /* Status Colors */
   --color-success: #10b981;
   --color-warning: #f59e0b;
   --color-danger: #ef4444;
   --color-critical: #dc2626;
+  --color-info: #3b82f6;
 
-  /* Neutral Colors */
+  /* Neutral Colors - Light Mode */
   --color-white: #ffffff;
   --color-gray-50: #f9fafb;
   --color-gray-100: #f3f4f6;
@@ -24,6 +28,16 @@
   --color-gray-700: #374151;
   --color-gray-800: #1f2937;
   --color-gray-900: #111827;
+  --color-black: #000000;
+
+  /* Dark Mode Colors */
+  --color-dark-bg: #0a0e1a;
+  --color-dark-surface: #131827;
+  --color-dark-surface-elevated: #1a2035;
+  --color-dark-border: #2a3447;
+  --color-dark-text-primary: #f9fafb;
+  --color-dark-text-secondary: #9ca3af;
+  --color-dark-text-tertiary: #6b7280;
 
   /* Gradient Definitions */
   --gradient-primary: linear-gradient(135deg, #2563eb 0%, #1e40af 100%);
