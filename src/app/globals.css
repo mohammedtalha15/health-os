@@ -116,10 +116,23 @@
   --shadow-xl: 0 20px 25px -5px rgb(0 0 0 / 0.1), 0 8px 10px -6px rgb(0 0 0 / 0.1);
   --shadow-2xl: 0 25px 50px -12px rgb(0 0 0 / 0.25);
 
-  /* Glassmorphism */
-  --glass-bg: rgba(255, 255, 255, 0.1);
-  --glass-border: rgba(255, 255, 255, 0.2);
-  --glass-blur: blur(10px);
+  /* Glassmorphism - Multi-level System */
+  --glass-bg-light: rgba(255, 255, 255, 0.08);
+  --glass-bg-medium: rgba(255, 255, 255, 0.12);
+  --glass-bg-heavy: rgba(255, 255, 255, 0.18);
+  --glass-border-light: rgba(255, 255, 255, 0.15);
+  --glass-border-medium: rgba(255, 255, 255, 0.25);
+  --glass-border-heavy: rgba(255, 255, 255, 0.35);
+  --glass-blur-sm: blur(8px);
+  --glass-blur-md: blur(12px);
+  --glass-blur-lg: blur(16px);
+  --glass-blur-xl: blur(24px);
+
+  /* Dark Glass */
+  --glass-dark-bg-light: rgba(19, 24, 39, 0.6);
+  --glass-dark-bg-medium: rgba(19, 24, 39, 0.75);
+  --glass-dark-bg-heavy: rgba(19, 24, 39, 0.9);
+  --glass-dark-border: rgba(42, 52, 71, 0.5);
 
   /* Transitions */
   --transition-fast: 150ms cubic-bezier(0.4, 0, 0.2, 1);
