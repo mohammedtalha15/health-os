@@ -62,7 +62,7 @@
 .metricName h3 {
     font-size: 1.125rem;
     font-weight: 600;
-    color: var(--text-primary);
+    color: #f9fafb !important;
     margin: 0;
 }
 
@@ -82,7 +82,7 @@
 .value {
     font-size: 3rem;
     font-weight: 700;
-    color: var(--text-primary);
+    color: #f9fafb !important;
     line-height: 1;
     display: flex;
     align-items: baseline;
@@ -92,7 +92,7 @@
 .unit {
     font-size: 1.25rem;
     font-weight: 500;
-    color: var(--text-secondary);
+    color: #9ca3af !important;
 }
 
 .trend {
@@ -154,11 +154,11 @@
     justify-content: space-between;
     align-items: center;
     font-size: 0.75rem;
-    color: var(--text-secondary);
+    color: #9ca3af !important;
 }
 
 .normalRange {
-    color: var(--text-primary);
+    color: #f9fafb !important;
     font-weight: 500;
 }
 

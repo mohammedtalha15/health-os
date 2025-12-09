@@ -16,11 +16,11 @@
     font-size: 2.5rem;
     font-weight: 800;
     margin-bottom: 0.5rem;
-    color: var(--text-primary);
+    color: #f9fafb !important;
 }
 
 .dashboardHeader p {
-    color: var(--text-secondary);
+    color: #9ca3af !important;
     margin: 0;
 }
 
@@ -102,7 +102,7 @@
     font-size: 1.875rem;
     font-weight: 700;
     margin-bottom: 1.5rem;
-    color: var(--text-primary);
+    color: #f9fafb !important;
 }
 
 .metricsGrid {
@@ -119,7 +119,7 @@
     font-size: 1.875rem;
     font-weight: 700;
     margin-bottom: 1.5rem;
-    color: var(--text-primary);
+    color: #f9fafb !important;
 }
 
 .actionsGrid {
@@ -158,12 +158,12 @@
 .actionCard h3 {
     font-size: 1.25rem;
     font-weight: 700;
-    color: var(--text-primary);
+    color: #f9fafb !important;
     margin-bottom: 0.5rem;
 }
 
 .actionCard p {
-    color: var(--text-secondary);
+    color: #9ca3af !important;
     font-size: 0.875rem;
     margin: 0;
 }
