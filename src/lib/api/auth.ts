@@ -1,35 +1,33 @@
 import apiClient from './client';
 
-export interface User {
-    id: string;
-    email: string;
-    name: string;
-}
-
-export interface LoginCredentials {
+export interface LoginRequest {
     email: string;
     password: string;
 }
 
-export interface SignupData {
+export interface SignupRequest {
+    name: string;
     email: string;
     password: string;
-    name: string;
 }
 
 export interface AuthResponse {
-    user: User;
+    user: {
+        id: string;
+        name: string;
+        email: string;
+    };
     token: string;
 }
 
 /**
- * Login user
+ * Login with email and password
  */
-export async function login(credentials: LoginCredentials): Promise<AuthResponse> {
-    const response = await apiClient.post<AuthResponse>('/auth/login', credentials);
+export async function login(data: LoginRequest): Promise<AuthResponse> {
+    const response = await apiClient.post('/auth/login', data);
 
     // Store token in localStorage
-    if (typeof window !== 'undefined') {
+    if (response.data.token) {
         localStorage.setItem('auth_token', response.data.token);
     }
 
@@ -37,13 +35,13 @@ export async function login(credentials: LoginCredentials): Promise<AuthResponse
 }
 
 /**
- * Signup new user
+ * Sign up new user
  */
-export async function signup(data: SignupData): Promise<AuthResponse> {
-    const response = await apiClient.post<AuthResponse>('/auth/signup', data);
+export async function signup(data: SignupRequest): Promise<AuthResponse> {
+    const response = await apiClient.post('/auth/signup', data);
 
     // Store token in localStorage
-    if (typeof window !== 'undefined') {
+    if (response.data.token) {
         localStorage.setItem('auth_token', response.data.token);
     }
 
@@ -54,21 +52,19 @@ export async function signup(data: SignupData): Promise<AuthResponse> {
  * Logout user
  */
 export function logout(): void {
-    if (typeof window !== 'undefined') {
-        localStorage.removeItem('auth_token');
-        window.location.href = '/login';
-    }
+    localStorage.removeItem('auth_token');
 }
 
 /**
- * Refresh auth token
+ * Get current auth token
  */
-export async function refreshToken(): Promise<string> {
-    const response = await apiClient.post<{ token: string }>('/auth/refresh');
+export function getAuthToken(): string | null {
+    return localStorage.getItem('auth_token');
+}
 
-    if (typeof window !== 'undefined') {
-        localStorage.setItem('auth_token', response.data.token);
-    }
-
-    return response.data.token;
+/**
+ * Check if user is authenticated
+ */
+export function isAuthenticated(): boolean {
+    return !!getAuthToken();
 }
