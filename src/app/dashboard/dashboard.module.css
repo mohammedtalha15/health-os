@@ -94,6 +94,17 @@
     background: rgba(255, 255, 255, 0.2);
 }
 
+/* Stats Section */
+.statsSection {
+    margin-bottom: 3rem;
+}
+
+.statsGrid {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
+    gap: 1.5rem;
+}
+
 .metricsSection {
     margin-bottom: 3rem;
 }
@@ -109,6 +120,58 @@
     display: grid;
     grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
     gap: 1.5rem;
+}
+
+/* Two Column Layout */
+.twoColumnLayout {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    gap: 2rem;
+    margin-bottom: 3rem;
+}
+
+.healthGoals h2 {
+    font-size: 1.875rem;
+    font-weight: 700;
+    margin-bottom: 1.5rem;
+    color: #f9fafb !important;
+}
+
+.goalsGrid {
+    display: flex;
+    flex-direction: column;
+    gap: 1.5rem;
+}
+
+.goalCard {
+    display: flex;
+    align-items: center;
+    gap: 1.5rem;
+    padding: 1.5rem;
+    background: rgba(255, 255, 255, 0.03);
+    backdrop-filter: blur(20px);
+    border: 1px solid rgba(255, 255, 255, 0.1);
+    border-radius: 20px;
+    transition: all 0.3s ease;
+}
+
+.goalCard:hover {
+    background: rgba(255, 255, 255, 0.05);
+    border-color: rgba(255, 255, 255, 0.2);
+    transform: translateY(-2px);
+}
+
+.goalInfo h4 {
+    font-size: 1rem;
+    font-weight: 600;
+    color: #f9fafb;
+    margin: 0 0 0.25rem 0;
+}
+
+.goalInfo p {
+    font-size: 0.875rem;
+    color: #9ca3af;
+    margin: 0;
 }
 
 .quickActions {
@@ -188,6 +251,14 @@
     .metricsGrid {
         grid-template-columns: 1fr;
     }
+
+    .twoColumnLayout {
+        grid-template-columns: 1fr;
+    }
+
+    .statsGrid {
+        grid-template-columns: repeat(2, 1fr);
+    }
 }
 
 @media (max-width: 640px) {
@@ -205,5 +276,9 @@
 
     .emergencyModal {
         padding: 1rem;
+    }
+
+    .statsGrid {
+        grid-template-columns: 1fr;
     }
 }
