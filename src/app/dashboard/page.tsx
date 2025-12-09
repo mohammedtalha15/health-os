@@ -102,7 +102,9 @@ export default function DashboardPage() {
                     {/* Dashboard Header */}
                     <motion.div
                         className={styles.dashboardHeader}
-                        {...animationPresets.fadeInUp}
+                        initial="initial"
+                        animate="animate"
+                        variants={animationPresets.fadeInUp}
                     >
                         <div>
                             <h1>Your Health Dashboard</h1>
