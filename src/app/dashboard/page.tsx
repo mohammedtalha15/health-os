@@ -190,6 +190,27 @@ export default function DashboardPage() {
                         </motion.div>
                     )}
 
+                    {/* Stats Overview */}
+                    <motion.div
+                        className={styles.statsSection}
+                        initial={{ opacity: 0, y: 20 }}
+                        animate={{ opacity: 1, y: 0 }}
+                        transition={{ delay: 0.3 }}
+                    >
+                        <div className={styles.statsGrid}>
+                            {mockStats.map((stat, index) => (
+                                <motion.div
+                                    key={index}
+                                    initial={{ opacity: 0, scale: 0.9 }}
+                                    animate={{ opacity: 1, scale: 1 }}
+                                    transition={{ delay: 0.4 + index * 0.1 }}
+                                >
+                                    <StatsCard {...stat} />
+                                </motion.div>
+                            ))}
+                        </div>
+                    </motion.div>
+
                     {/* Health Metrics */}
                     <motion.div
                         className={styles.metricsSection}
@@ -211,6 +232,51 @@ export default function DashboardPage() {
                             ))}
                         </div>
                     </motion.div>
+
+                    {/* Two Column Layout */}
+                    <div className={styles.twoColumnLayout}>
+                        {/* Health Goals */}
+                        <motion.div
+                            className={styles.healthGoals}
+                            initial={{ opacity: 0, x: -20 }}
+                            animate={{ opacity: 1, x: 0 }}
+                            transition={{ delay: 0.9 }}
+                        >
+                            <h2>Health Goals</h2>
+                            <div className={styles.goalsGrid}>
+                                <div className={styles.goalCard}>
+                                    <ProgressRing progress={75} color="#2563eb" label="Steps" />
+                                    <div className={styles.goalInfo}>
+                                        <h4>Daily Steps</h4>
+                                        <p>7,500 / 10,000 steps</p>
+                                    </div>
+                                </div>
+                                <div className={styles.goalCard}>
+                                    <ProgressRing progress={60} color="#10b981" label="Water" />
+                                    <div className={styles.goalInfo}>
+                                        <h4>Water Intake</h4>
+                                        <p>6 / 10 glasses</p>
+                                    </div>
+                                </div>
+                                <div className={styles.goalCard}>
+                                    <ProgressRing progress={90} color="#7c3aed" label="Sleep" />
+                                    <div className={styles.goalInfo}>
+                                        <h4>Sleep Quality</h4>
+                                        <p>7.2 / 8 hours</p>
+                                    </div>
+                                </div>
+                            </div>
+                        </motion.div>
+
+                        {/* Activity Feed */}
+                        <motion.div
+                            initial={{ opacity: 0, x: 20 }}
+                            animate={{ opacity: 1, x: 0 }}
+                            transition={{ delay: 1 }}
+                        >
+                            <ActivityFeed activities={mockActivities} />
+                        </motion.div>
+                    </div>
 
                     {/* Quick Actions */}
                     <motion.div
