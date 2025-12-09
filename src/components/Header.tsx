@@ -3,6 +3,7 @@
 import { useState } from 'react';
 import Link from 'next/link';
 import { useAuth } from '@/hooks/useAuth';
+import NotificationBell from './NotificationBell';
 import styles from './Header.module.css';
 
 export default function Header() {
@@ -46,106 +47,95 @@ export default function Header() {
                     {/* CTA Buttons / User Profile */}
                     <div className={styles.actions}>
                         {isAuthenticated ? (
-                            <div className={styles.userProfile}>
-                                <button
-                                    className={styles.profileButton}
-                                    onClick={() => setIsProfileOpen(!isProfileOpen)}
-                                >
-                                    {user?.image ? (
-                                        <img src={user.image} alt={user.name || 'User'} className={styles.avatar} />
-                                    ) : (
-                                        <div className={styles.avatarPlaceholder}>
-                                            {user?.name?.charAt(0) || user?.email?.charAt(0) || 'U'}
+                            <>
+                                <NotificationBell />
+                                <div className={styles.userProfile}>
+                                    <button
+                                        className={styles.profileButton}
+                                        onClick={() => setIsProfileOpen(!isProfileOpen)}
+                                    >
+                                        {user?.image ? (
+                                            <img src={user.image} alt={user.name || 'User'} className={styles.avatar} />
+                                        ) : (
+                                            <div className={styles.avatarPlaceholder}>
+                                                {user?.name?.charAt(0) || user?.email?.charAt(0) || 'U'}
+                                            </div>
+                                        )}
+                                        <span className={styles.userName}>{user?.name || user?.email}</span>
+                                        <svg width="16" height="16" viewBox="0 0 16 16" fill="none" className={styles.chevron}>
+                                            <path d="M4 6L8 10L12 6" stroke="currentColor" strokeWidth="2" strokeLinecap="round" strokeLinejoin="round" />
+                                        </svg>
+                                    </button>
+                                    {isProfileOpen && (
+                                        <div className={styles.profileDropdown}>
+                                            <Link href="/dashboard" className={styles.dropdownItem}>
+                                                <svg width="16" height="16" viewBox="0 0 16 16" fill="none">
+                                                    <rect x="2" y="2" width="12" height="12" rx="2" stroke="currentColor" strokeWidth="1.5" />
+                                                    <path d="M6 6H10M6 10H10" stroke="currentColor" strokeWidth="1.5" strokeLinecap="round" />
+                                                </svg>
+                                                Dashboard
+                                            </Link>
+                                            <Link href="/timeline" className={styles.dropdownItem}>
+                                                <svg width="16" height="16" viewBox="0 0 16 16" fill="none">
+                                                    <path d="M8 2V14M4 6L8 2L12 6" stroke="currentColor" strokeWidth="1.5" strokeLinecap="round" strokeLinejoin="round" />
+                                                </svg>
+                                                Timeline
+                                            </Link>
+                                            <div className={styles.dropdownDivider}></div>
+                                            <button onClick={signOut} className={styles.dropdownItem}>
+                                                <svg width="16" height="16" viewBox="0 0 16 16" fill="none">
+                                                    <path d="M6 14H3C2.44772 14 2 13.5523 2 13V3C2 2.44772 2.44772 2 3 2H6M11 11L14 8M14 8L11 5M14 8H6" stroke="currentColor" strokeWidth="1.5" strokeLinecap="round" strokeLinejoin="round" />
+                                                </svg>
+                                                Sign Out
+                                            </button>
                                         </div>
                                     )}
-                                    <span className={styles.userName}>{user?.name || user?.email}</span>
-                                    <svg width="16" height="16" viewBox="0 0 16 16" fill="none" className={styles.chevron}>
-                                        <path d="M4 6L8 10L12 6" stroke="currentColor" strokeWidth="2" strokeLinecap="round" strokeLinejoin="round" />
-                                    </svg>
-                                </button>
-                                {isProfileOpen && (
-                                    <div className={styles.profileDropdown}>
-                                        <Link href="/dashboard" className={styles.dropdownItem}>
-                                            <svg width="16" height="16" viewBox="0 0 16 16" fill="none">
-                                                <rect x="2" y="2" width="12" height="12" rx="2" stroke="currentColor" strokeWidth="1.5" />
-                                                <path d="M6 6H10M6 10H10" stroke="currentColor" strokeWidth="1.5" strokeLinecap="round" />
-                                            </svg>
-                                            Dashboard
-                                        </Link>
-                                        <Link href="/timeline" className={styles.dropdownItem}>
-                                            <svg width="16" height="16" viewBox="0 0 16 16" fill="none">
-                                                <path d="M8 2V14M4 6L8 2L12 6" stroke="currentColor" strokeWidth="1.5" strokeLinecap="round" strokeLinejoin="round" />
-                                            </svg>
-                                            Timeline
-                                        </Link>
-                                        <div className={styles.dropdownDivider}></div>
-                                        <button onClick={signOut} className={styles.dropdownItem}>
-                                            <svg width="16" height="16" viewBox="0 0 16 16" fill="none">
-                                                <path d="M6 14H3C2.44772 14 2 13.5523 2 13V3C2 2.44772 2.44772 2 3 2H6M11 11L14 8M14 8L11 5M14 8H6" stroke="currentColor" strokeWidth="1.5" strokeLinecap="round" strokeLinejoin="round" />
-                                            </svg>
-                                            Sign Out
-                                        </button>
-                                    </div>
-                                )}
-                            </div>
-                        ) : (
-                            <>
-                                <Link href="/login" className={styles.loginBtn}>Log In</Link>
-                                <Link href="/signup" className="btn btn-primary">Get Started</Link>
-                            </>
-                        )}
-                    </div>
-
-                    {/* Mobile Menu Toggle */}
-                    <button
-                        className={styles.menuToggle}
-                        onClick={() => setIsMenuOpen(!isMenuOpen)}
-                        aria-label="Toggle menu"
-                    >
-                        <span className={isMenuOpen ? styles.menuIconOpen : ''}></span>
-                        <span className={isMenuOpen ? styles.menuIconOpen : ''}></span>
-                        <span className={isMenuOpen ? styles.menuIconOpen : ''}></span>
-                    </button>
-                </div>
-
-                {/* Mobile Menu */}
-                {isMenuOpen && (
-                    <div className={styles.mobileMenu}>
-                        <Link href="/#features" className={styles.mobileLink}>Features</Link>
-                        <Link href="/#how-it-works" className={styles.mobileLink}>How It Works</Link>
-                        {isAuthenticated && (
-                            <>
-                                <Link href="/dashboard" className={styles.mobileLink}>Dashboard</Link>
-                                <Link href="/upload" className={styles.mobileLink}>Upload</Link>
-                                <Link href="/timeline" className={styles.mobileLink}>Timeline</Link>
-                            </>
-                        )}
-                        <div className={styles.mobileDivider}></div>
-                        {isAuthenticated ? (
-                            <>
-                                <div className={styles.mobileUserInfo}>
-                                    {user?.image ? (
-                                        <img src={user.image} alt={user.name || 'User'} className={styles.mobileAvatar} />
-                                    ) : (
-                                        <div className={styles.mobileAvatarPlaceholder}>
-                                            {user?.name?.charAt(0) || user?.email?.charAt(0) || 'U'}
-                                        </div>
-                                    )}
-                                    <span>{user?.name || user?.email}</span>
                                 </div>
-                                <button onClick={signOut} className={styles.mobileLink} style={{ width: '100%', textAlign: 'left' }}>
-                                    Sign Out
-                                </button>
-                            </>
-                        ) : (
-                            <>
-                                <Link href="/login" className={styles.mobileLink}>Log In</Link>
-                                <Link href="/signup" className="btn btn-primary" style={{ width: '100%' }}>Get Started</Link>
-                            </>
-                        )}
+                        >
+                                <span className={isMenuOpen ? styles.menuIconOpen : ''}></span>
+                                <span className={isMenuOpen ? styles.menuIconOpen : ''}></span>
+                                <span className={isMenuOpen ? styles.menuIconOpen : ''}></span>
+                            </button>
                     </div>
-                )}
-            </div>
+
+                    {/* Mobile Menu */}
+                    {isMenuOpen && (
+                        <div className={styles.mobileMenu}>
+                            <Link href="/#features" className={styles.mobileLink}>Features</Link>
+                            <Link href="/#how-it-works" className={styles.mobileLink}>How It Works</Link>
+                            {isAuthenticated && (
+                                <>
+                                    <Link href="/dashboard" className={styles.mobileLink}>Dashboard</Link>
+                                    <Link href="/upload" className={styles.mobileLink}>Upload</Link>
+                                    <Link href="/timeline" className={styles.mobileLink}>Timeline</Link>
+                                </>
+                            )}
+                            <div className={styles.mobileDivider}></div>
+                            {isAuthenticated ? (
+                                <>
+                                    <div className={styles.mobileUserInfo}>
+                                        {user?.image ? (
+                                            <img src={user.image} alt={user.name || 'User'} className={styles.mobileAvatar} />
+                                        ) : (
+                                            <div className={styles.mobileAvatarPlaceholder}>
+                                                {user?.name?.charAt(0) || user?.email?.charAt(0) || 'U'}
+                                            </div>
+                                        )}
+                                        <span>{user?.name || user?.email}</span>
+                                    </div>
+                                    <button onClick={signOut} className={styles.mobileLink} style={{ width: '100%', textAlign: 'left' }}>
+                                        Sign Out
+                                    </button>
+                                </>
+                            ) : (
+                                <>
+                                    <Link href="/login" className={styles.mobileLink}>Log In</Link>
+                                    <Link href="/signup" className="btn btn-primary" style={{ width: '100%' }}>Get Started</Link>
+                                </>
+                            )}
+                        </div>
+                    )}
+                </div>
         </header>
     );
 }
