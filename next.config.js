@@ -16,7 +16,8 @@ const nextConfig = {
         }
         return [
             {
-                source: '/api/:path*',
+                // Proxy backend API routes, but EXCLUDE /api/auth/* (NextAuth)
+                source: '/api/backend/:path*',
                 destination: apiUrl + '/:path*',
             },
         ];
