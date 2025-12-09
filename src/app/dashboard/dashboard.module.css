@@ -2,6 +2,7 @@
     min-height: 100vh;
     padding-top: 120px;
     padding-bottom: 4rem;
+    background: linear-gradient(135deg, #0a0a0f 0%, #1a1a2e 100%);
 }
 
 .dashboardHeader {
