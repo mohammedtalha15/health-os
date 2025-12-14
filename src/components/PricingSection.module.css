@@ -1,0 +1,208 @@
+.pricingSection {
+    padding: var(--spacing-4xl) 0;
+    background: var(--color-gray-50);
+}
+
+.sectionHeader {
+    text-align: center;
+    margin-bottom: var(--spacing-4xl);
+}
+
+.sectionHeader h2 {
+    font-size: var(--text-5xl);
+    font-weight: 800;
+    background: var(--gradient-fluid);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    background-clip: text;
+    margin-bottom: var(--spacing-md);
+}
+
+.sectionHeader p {
+    font-size: var(--text-xl);
+    color: var(--color-gray-600);
+}
+
+.pricingGrid {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(320px, 1fr));
+    gap: var(--spacing-2xl);
+    max-width: 1200px;
+    margin: 0 auto;
+}
+
+.pricingCard {
+    background: var(--color-white);
+    border-radius: var(--radius-2xl);
+    padding: var(--spacing-2xl);
+    box-shadow: var(--shadow-lg);
+    transition: all var(--transition-base);
+    position: relative;
+    border: 2px solid transparent;
+}
+
+.popularCard {
+    border-color: var(--color-primary);
+    transform: scale(1.05);
+}
+
+.popularBadge {
+    position: absolute;
+    top: -12px;
+    left: 50%;
+    transform: translateX(-50%);
+    background: var(--gradient-primary);
+    color: var(--color-white);
+    padding: var(--spacing-xs) var(--spacing-lg);
+    border-radius: var(--radius-full);
+    font-size: var(--text-sm);
+    font-weight: 700;
+    box-shadow: var(--shadow-primary);
+}
+
+.planHeader {
+    text-align: center;
+    padding-bottom: var(--spacing-xl);
+    border-bottom: 2px solid var(--color-gray-200);
+    margin-bottom: var(--spacing-xl);
+}
+
+.planName {
+    font-size: var(--text-2xl);
+    font-weight: 700;
+    color: var(--color-gray-900);
+    margin-bottom: var(--spacing-md);
+}
+
+.planPrice {
+    margin-bottom: var(--spacing-md);
+}
+
+.price {
+    font-size: var(--text-6xl);
+    font-weight: 800;
+    color: var(--color-primary);
+    font-family: var(--font-display);
+}
+
+.period {
+    font-size: var(--text-base);
+    color: var(--color-gray-600);
+    margin-left: var(--spacing-xs);
+}
+
+.planDescription {
+    font-size: var(--text-base);
+    color: var(--color-gray-600);
+}
+
+.featureList {
+    list-style: none;
+    margin-bottom: var(--spacing-2xl);
+}
+
+.feature {
+    display: flex;
+    align-items: flex-start;
+    gap: var(--spacing-sm);
+    padding: var(--spacing-sm) 0;
+    font-size: var(--text-base);
+    color: var(--color-gray-700);
+}
+
+.checkIcon {
+    color: var(--color-success);
+    font-weight: 700;
+    font-size: var(--text-lg);
+    flex-shrink: 0;
+}
+
+.ctaButton {
+    width: 100%;
+    padding: var(--spacing-md) var(--spacing-xl);
+    border-radius: var(--radius-xl);
+    font-size: var(--text-base);
+    font-weight: 600;
+    border: 2px solid var(--color-gray-300);
+    background: var(--color-white);
+    color: var(--color-gray-900);
+    cursor: pointer;
+    transition: all var(--transition-base);
+}
+
+.ctaButton:hover {
+    border-color: var(--color-primary);
+    color: var(--color-primary);
+    box-shadow: var(--shadow-md);
+}
+
+.ctaButtonPrimary {
+    background: var(--gradient-primary);
+    border-color: transparent;
+    color: var(--color-white);
+    box-shadow: var(--shadow-primary);
+}
+
+.ctaButtonPrimary:hover {
+    box-shadow: var(--shadow-xl);
+    transform: translateY(-2px);
+}
+
+.pricingNote {
+    text-align: center;
+    margin-top: var(--spacing-3xl);
+    color: var(--color-gray-600);
+    font-size: var(--text-base);
+}
+
+/* Dark mode */
+[data-theme='dark'] .pricingSection {
+    background: var(--color-dark-bg);
+}
+
+[data-theme='dark'] .pricingCard {
+    background: var(--color-dark-surface);
+    border-color: var(--color-dark-border);
+}
+
+[data-theme='dark'] .popularCard {
+    border-color: var(--color-primary);
+}
+
+[data-theme='dark'] .planHeader {
+    border-bottom-color: var(--color-dark-border);
+}
+
+[data-theme='dark'] .planName {
+    color: var(--color-dark-text-primary);
+}
+
+[data-theme='dark'] .feature {
+    color: var(--color-dark-text-secondary);
+}
+
+[data-theme='dark'] .ctaButton {
+    background: var(--color-dark-surface-elevated);
+    border-color: var(--color-dark-border);
+    color: var(--color-dark-text-primary);
+}
+
+[data-theme='dark'] .ctaButton:hover {
+    border-color: var(--color-primary);
+    color: var(--color-primary);
+}
+
+/* Mobile responsive */
+@media (max-width: 768px) {
+    .pricingGrid {
+        grid-template-columns: 1fr;
+    }
+
+    .popularCard {
+        transform: scale(1);
+    }
+
+    .sectionHeader h2 {
+        font-size: var(--text-4xl);
+    }
+}
