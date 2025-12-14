@@ -1,0 +1,187 @@
+.carousel {
+    width: 100%;
+    max-width: 800px;
+    margin: 0 auto;
+}
+
+.carouselContainer {
+    position: relative;
+    padding: var(--spacing-3xl) var(--spacing-2xl);
+    overflow: hidden;
+}
+
+.testimonialCard {
+    background: var(--color-white);
+    border-radius: var(--radius-2xl);
+    padding: var(--spacing-3xl);
+    box-shadow: var(--shadow-xl);
+    text-align: center;
+}
+
+.rating {
+    display: flex;
+    justify-content: center;
+    gap: var(--spacing-xs);
+    margin-bottom: var(--spacing-lg);
+}
+
+.star {
+    color: var(--color-warning);
+    font-size: var(--text-2xl);
+}
+
+.testimonialText {
+    font-size: var(--text-xl);
+    line-height: 1.8;
+    color: var(--color-gray-700);
+    margin-bottom: var(--spacing-2xl);
+    font-style: italic;
+}
+
+.author {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: var(--spacing-md);
+}
+
+.avatar {
+    width: 60px;
+    height: 60px;
+    border-radius: 50%;
+    background: var(--gradient-primary);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-size: var(--text-3xl);
+    box-shadow: var(--shadow-md);
+}
+
+.authorInfo {
+    text-align: left;
+}
+
+.authorName {
+    font-weight: 700;
+    font-size: var(--text-lg);
+    color: var(--color-gray-900);
+}
+
+.authorRole {
+    font-size: var(--text-sm);
+    color: var(--color-gray-600);
+}
+
+.navButton {
+    position: absolute;
+    top: 50%;
+    transform: translateY(-50%);
+    width: 48px;
+    height: 48px;
+    border-radius: 50%;
+    background: var(--color-white);
+    border: 2px solid var(--color-gray-200);
+    color: var(--color-gray-700);
+    font-size: var(--text-3xl);
+    cursor: pointer;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    transition: all var(--transition-base);
+    box-shadow: var(--shadow-md);
+    z-index: 10;
+}
+
+.navButton:hover {
+    background: var(--color-primary);
+    color: var(--color-white);
+    border-color: var(--color-primary);
+    transform: translateY(-50%) scale(1.1);
+    box-shadow: var(--shadow-primary);
+}
+
+.navButtonPrev {
+    left: 0;
+}
+
+.navButtonNext {
+    right: 0;
+}
+
+.indicators {
+    display: flex;
+    justify-content: center;
+    gap: var(--spacing-sm);
+    margin-top: var(--spacing-xl);
+}
+
+.indicator {
+    width: 12px;
+    height: 12px;
+    border-radius: 50%;
+    background: var(--color-gray-300);
+    border: none;
+    cursor: pointer;
+    transition: all var(--transition-base);
+    padding: 0;
+}
+
+.indicator:hover {
+    background: var(--color-gray-400);
+    transform: scale(1.2);
+}
+
+.indicatorActive {
+    background: var(--color-primary);
+    width: 32px;
+    border-radius: var(--radius-full);
+}
+
+/* Dark mode */
+[data-theme='dark'] .testimonialCard {
+    background: var(--color-dark-surface-elevated);
+}
+
+[data-theme='dark'] .testimonialText {
+    color: var(--color-dark-text-secondary);
+}
+
+[data-theme='dark'] .authorName {
+    color: var(--color-dark-text-primary);
+}
+
+[data-theme='dark'] .authorRole {
+    color: var(--color-dark-text-tertiary);
+}
+
+[data-theme='dark'] .navButton {
+    background: var(--color-dark-surface);
+    border-color: var(--color-dark-border);
+    color: var(--color-dark-text-primary);
+}
+
+[data-theme='dark'] .navButton:hover {
+    background: var(--color-primary);
+    color: var(--color-white);
+}
+
+/* Mobile responsive */
+@media (max-width: 640px) {
+    .carouselContainer {
+        padding: var(--spacing-xl) var(--spacing-md);
+    }
+
+    .testimonialCard {
+        padding: var(--spacing-xl);
+    }
+
+    .testimonialText {
+        font-size: var(--text-base);
+    }
+
+    .navButton {
+        width: 40px;
+        height: 40px;
+        font-size: var(--text-2xl);
+    }
+}
