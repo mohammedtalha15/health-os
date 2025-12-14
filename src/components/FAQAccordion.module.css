@@ -1,0 +1,193 @@
+.faqSection {
+    padding: var(--spacing-4xl) 0;
+}
+
+.sectionHeader {
+    text-align: center;
+    margin-bottom: var(--spacing-3xl);
+}
+
+.sectionHeader h2 {
+    font-size: var(--text-5xl);
+    font-weight: 800;
+    color: var(--color-gray-900);
+    margin-bottom: var(--spacing-md);
+}
+
+.sectionHeader p {
+    font-size: var(--text-xl);
+    color: var(--color-gray-600);
+}
+
+.searchBox {
+    max-width: 600px;
+    margin: 0 auto var(--spacing-3xl);
+    position: relative;
+}
+
+.searchInput {
+    width: 100%;
+    padding: var(--spacing-md) var(--spacing-xl);
+    padding-right: 50px;
+    border: 2px solid var(--color-gray-300);
+    border-radius: var(--radius-xl);
+    font-size: var(--text-base);
+    transition: all var(--transition-base);
+    background: var(--color-white);
+}
+
+.searchInput:focus {
+    outline: none;
+    border-color: var(--color-primary);
+    box-shadow: var(--shadow-primary);
+}
+
+.searchIcon {
+    position: absolute;
+    right: var(--spacing-lg);
+    top: 50%;
+    transform: translateY(-50%);
+    font-size: var(--text-xl);
+    pointer-events: none;
+}
+
+.faqList {
+    max-width: 800px;
+    margin: 0 auto;
+    display: flex;
+    flex-direction: column;
+    gap: var(--spacing-md);
+}
+
+.faqItem {
+    background: var(--color-white);
+    border-radius: var(--radius-xl);
+    box-shadow: var(--shadow-md);
+    overflow: hidden;
+    transition: all var(--transition-base);
+}
+
+.faqItem:hover {
+    box-shadow: var(--shadow-lg);
+}
+
+.faqQuestion {
+    width: 100%;
+    padding: var(--spacing-lg) var(--spacing-xl);
+    background: none;
+    border: none;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    cursor: pointer;
+    text-align: left;
+    transition: all var(--transition-base);
+}
+
+.faqQuestion:hover {
+    background: var(--color-gray-50);
+}
+
+.faqQuestionOpen {
+    background: var(--color-gray-50);
+}
+
+.questionText {
+    font-size: var(--text-lg);
+    font-weight: 600;
+    color: var(--color-gray-900);
+    flex: 1;
+    padding-right: var(--spacing-md);
+}
+
+.faqIcon {
+    width: 32px;
+    height: 32px;
+    border-radius: 50%;
+    background: var(--color-primary);
+    color: var(--color-white);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-size: var(--text-2xl);
+    font-weight: 300;
+    flex-shrink: 0;
+    transition: all var(--transition-base);
+}
+
+.faqQuestionOpen .faqIcon {
+    transform: rotate(180deg);
+}
+
+.faqAnswer {
+    overflow: hidden;
+}
+
+.faqAnswer p {
+    padding: 0 var(--spacing-xl) var(--spacing-lg);
+    color: var(--color-gray-700);
+    line-height: 1.8;
+    font-size: var(--text-base);
+}
+
+.noResults {
+    text-align: center;
+    color: var(--color-gray-500);
+    font-size: var(--text-lg);
+    padding: var(--spacing-3xl);
+}
+
+/* Dark mode */
+[data-theme='dark'] .sectionHeader h2 {
+    color: var(--color-dark-text-primary);
+}
+
+[data-theme='dark'] .sectionHeader p {
+    color: var(--color-dark-text-secondary);
+}
+
+[data-theme='dark'] .searchInput {
+    background: var(--color-dark-surface);
+    border-color: var(--color-dark-border);
+    color: var(--color-dark-text-primary);
+}
+
+[data-theme='dark'] .searchInput::placeholder {
+    color: var(--color-dark-text-tertiary);
+}
+
+[data-theme='dark'] .faqItem {
+    background: var(--color-dark-surface);
+}
+
+[data-theme='dark'] .faqQuestion:hover,
+[data-theme='dark'] .faqQuestionOpen {
+    background: var(--color-dark-surface-elevated);
+}
+
+[data-theme='dark'] .questionText {
+    color: var(--color-dark-text-primary);
+}
+
+[data-theme='dark'] .faqAnswer p {
+    color: var(--color-dark-text-secondary);
+}
+
+/* Mobile responsive */
+@media (max-width: 640px) {
+    .sectionHeader h2 {
+        font-size: var(--text-4xl);
+    }
+
+    .faqQuestion {
+        padding: var(--spacing-md);
+    }
+
+    .questionText {
+        font-size: var(--text-base);
+    }
+
+    .faqAnswer p {
+        padding: 0 var(--spacing-md) var(--spacing-md);
+    }
+}
