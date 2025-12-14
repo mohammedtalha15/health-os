@@ -200,6 +200,61 @@
   --primary: #2563eb;
 }
 
+/* Dark Mode Theme */
+[data-theme='dark'] {
+  /* Override colors for dark mode */
+  --color-gray-50: #1f2937;
+  --color-gray-100: #374151;
+  --color-gray-200: #4b5563;
+  --color-gray-300: #6b7280;
+  --color-gray-400: #9ca3af;
+  --color-gray-500: #d1d5db;
+  --color-gray-600: #e5e7eb;
+  --color-gray-700: #f3f4f6;
+  --color-gray-800: #f9fafb;
+  --color-gray-900: #ffffff;
+
+  /* Background colors */
+  background-color: var(--color-dark-bg);
+  color: var(--color-dark-text-primary);
+}
+
+[data-theme='dark'] body {
+  background-color: var(--color-dark-bg);
+  color: var(--color-dark-text-primary);
+}
+
+[data-theme='dark'] .card {
+  background: var(--color-dark-surface);
+  color: var(--color-dark-text-primary);
+}
+
+[data-theme='dark'] .glass-card {
+  background: var(--glass-dark-bg-medium);
+  border-color: var(--glass-dark-border);
+}
+
+[data-theme='dark'] h1,
+[data-theme='dark'] h2,
+[data-theme='dark'] h3,
+[data-theme='dark'] h4,
+[data-theme='dark'] h5,
+[data-theme='dark'] h6 {
+  color: var(--color-dark-text-primary);
+}
+
+[data-theme='dark'] p {
+  color: var(--color-dark-text-secondary);
+}
+
+[data-theme='dark'] a {
+  color: var(--color-primary-light);
+}
+
+[data-theme='dark'] a:hover {
+  color: var(--color-primary);
+}
+
 /* CSS Reset & Base Styles */
 *,
 *::before,
