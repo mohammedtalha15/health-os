@@ -1,0 +1,84 @@
+.skeleton {
+    background: linear-gradient(90deg,
+            var(--color-gray-200) 0%,
+            var(--color-gray-300) 50%,
+            var(--color-gray-200) 100%);
+    background-size: 200% 100%;
+    animation: shimmerAnimation 1.5s ease-in-out infinite;
+    border-radius: var(--radius-md);
+}
+
+@keyframes shimmerAnimation {
+    0% {
+        background-position: -200% 0;
+    }
+
+    100% {
+        background-position: 200% 0;
+    }
+}
+
+.skeleton.text {
+    height: 1rem;
+    border-radius: var(--radius-sm);
+    margin-bottom: var(--spacing-sm);
+}
+
+.skeleton.circular {
+    border-radius: 50%;
+}
+
+.skeleton.rectangular {
+    border-radius: var(--radius-md);
+}
+
+.skeleton.rounded {
+    border-radius: var(--radius-xl);
+}
+
+/* Preset Layouts */
+.skeletonCard {
+    background: var(--color-white);
+    border-radius: var(--radius-xl);
+    padding: var(--spacing-xl);
+    box-shadow: var(--shadow-md);
+}
+
+.skeletonContent {
+    margin-top: var(--spacing-md);
+    display: flex;
+    flex-direction: column;
+    gap: var(--spacing-sm);
+}
+
+.skeletonMetricCard {
+    background: var(--color-white);
+    border-radius: var(--radius-xl);
+    padding: var(--spacing-xl);
+    box-shadow: var(--shadow-md);
+    display: flex;
+    flex-direction: column;
+    gap: var(--spacing-md);
+}
+
+.skeletonHeader {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+/* Dark mode support */
+@media (prefers-color-scheme: dark) {
+    .skeleton {
+        background: linear-gradient(90deg,
+                var(--color-dark-surface) 0%,
+                var(--color-dark-surface-elevated) 50%,
+                var(--color-dark-surface) 100%);
+        background-size: 200% 100%;
+    }
+
+    .skeletonCard,
+    .skeletonMetricCard {
+        background: var(--color-dark-surface);
+    }
+}
