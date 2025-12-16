@@ -1,0 +1,43 @@
+.meterContainer {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: var(--spacing-md);
+}
+
+.meter {
+    filter: drop-shadow(0 4px 12px rgba(0, 0, 0, 0.1));
+}
+
+.progressCircle {
+    filter: drop-shadow(0 0 8px currentColor);
+}
+
+.scoreText {
+    font-size: 48px;
+    font-weight: 800;
+    font-family: var(--font-display);
+}
+
+.statusText {
+    font-size: 14px;
+    font-weight: 600;
+    text-transform: uppercase;
+    letter-spacing: 0.5px;
+}
+
+.label {
+    font-size: var(--text-lg);
+    font-weight: 600;
+    color: var(--color-gray-700);
+    text-align: center;
+}
+
+/* Dark mode */
+[data-theme='dark'] .label {
+    color: var(--color-dark-text-primary);
+}
+
+[data-theme='dark'] .statusText {
+    fill: var(--color-dark-text-secondary);
+}
