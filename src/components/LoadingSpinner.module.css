@@ -1,0 +1,31 @@
+.container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    gap: var(--spacing-md);
+    padding: var(--spacing-xl);
+}
+
+.spinner {
+    border: 4px solid;
+    border-radius: 50%;
+    animation: spin 1s linear infinite;
+}
+
+@keyframes spin {
+    to {
+        transform: rotate(360deg);
+    }
+}
+
+.text {
+    color: var(--color-gray-600);
+    font-size: var(--text-sm);
+    font-weight: 500;
+    margin: 0;
+}
+
+[data-theme='dark'] .text {
+    color: var(--color-dark-text-secondary);
+}
