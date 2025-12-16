@@ -1,0 +1,12 @@
+.sparkline {
+    display: block;
+    overflow: visible;
+}
+
+.dot {
+    transition: r var(--transition-fast);
+}
+
+.sparkline:hover .dot {
+    r: 3;
+}
