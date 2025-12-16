@@ -1,7 +1,8 @@
 'use client';
 
-import { motion, useMotionValue, useTransform } from 'framer-motion';
-import { useState } from 'react';
+import { motion } from 'framer-motion';
+import Sparkline from './Sparkline';
+import Badge from './Badge';
 import styles from './HealthMetricCard.module.css';
 import { animationPresets, severityAnimations } from '@/lib/motion';
 
@@ -9,12 +10,13 @@ interface HealthMetricCardProps {
     metric: string;
     value: number;
     unit: string;
-    refLow?: number;
-    refHigh?: number;
+    refLow: number;
+    refHigh: number;
     severity: 'green' | 'yellow' | 'red';
     trend?: 'up' | 'down' | 'stable';
     trendPercent?: number;
     date: string;
+    history?: number[];
 }
 
 export default function HealthMetricCard({
