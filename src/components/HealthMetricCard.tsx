@@ -1,6 +1,7 @@
 'use client';
 
-import { motion } from 'framer-motion';
+import { motion, useMotionValue, useTransform } from 'framer-motion';
+import { useState } from 'react';
 import Sparkline from './Sparkline';
 import Badge from './Badge';
 import styles from './HealthMetricCard.module.css';
