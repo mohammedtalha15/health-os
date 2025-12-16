@@ -91,11 +91,24 @@ export default function Header() {
                                         </div>
                                     )}
                                 </div>
+                            </>
+                        ) : (
+                            <>
+                                <Link href="/login" className="btn btn-secondary">Log In</Link>
+                                <Link href="/signup" className="btn btn-primary">Get Started</Link>
+                            </>
+                        )}
+
+                        {/* Mobile Menu Button */}
+                        <button
+                            className={styles.menuButton}
+                            onClick={() => setIsMenuOpen(!isMenuOpen)}
+                            aria-label="Toggle menu"
                         >
-                                <span className={isMenuOpen ? styles.menuIconOpen : ''}></span>
-                                <span className={isMenuOpen ? styles.menuIconOpen : ''}></span>
-                                <span className={isMenuOpen ? styles.menuIconOpen : ''}></span>
-                            </button>
+                            <span className={isMenuOpen ? styles.menuIconOpen : ''}></span>
+                            <span className={isMenuOpen ? styles.menuIconOpen : ''}></span>
+                            <span className={isMenuOpen ? styles.menuIconOpen : ''}></span>
+                        </button>
                     </div>
 
                     {/* Mobile Menu */}
@@ -136,6 +149,7 @@ export default function Header() {
                         </div>
                     )}
                 </div>
+            </div>
         </header>
     );
 }
