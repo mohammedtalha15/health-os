@@ -1,0 +1,187 @@
+.searchTrigger {
+    display: flex;
+    align-items: center;
+    gap: var(--spacing-sm);
+    padding: var(--spacing-sm) var(--spacing-md);
+    background: var(--color-gray-100);
+    border: 1px solid var(--color-gray-300);
+    border-radius: var(--radius-lg);
+    cursor: pointer;
+    transition: all var(--transition-base);
+    min-width: 200px;
+}
+
+.searchTrigger:hover {
+    background: var(--color-gray-200);
+    border-color: var(--color-gray-400);
+}
+
+.searchIcon {
+    font-size: var(--text-lg);
+}
+
+.searchText {
+    flex: 1;
+    text-align: left;
+    color: var(--color-gray-500);
+    font-size: var(--text-sm);
+}
+
+.shortcut {
+    padding: 2px 6px;
+    background: var(--color-white);
+    border: 1px solid var(--color-gray-300);
+    border-radius: var(--radius-sm);
+    font-size: var(--text-xs);
+    color: var(--color-gray-600);
+    font-family: var(--font-mono);
+}
+
+.searchOverlay {
+    position: fixed;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    background: rgba(0, 0, 0, 0.5);
+    backdrop-filter: blur(4px);
+    z-index: var(--z-modal);
+    display: flex;
+    align-items: flex-start;
+    justify-content: center;
+    padding-top: 15vh;
+}
+
+.searchModal {
+    background: var(--color-white);
+    border-radius: var(--radius-2xl);
+    box-shadow: var(--shadow-2xl);
+    width: 90%;
+    max-width: 600px;
+    overflow: hidden;
+}
+
+.searchForm {
+    display: flex;
+    align-items: center;
+    gap: var(--spacing-md);
+    padding: var(--spacing-lg) var(--spacing-xl);
+    border-bottom: 1px solid var(--color-gray-200);
+}
+
+.searchIconLarge {
+    font-size: var(--text-2xl);
+}
+
+.searchInput {
+    flex: 1;
+    border: none;
+    outline: none;
+    font-size: var(--text-lg);
+    color: var(--color-gray-900);
+    background: transparent;
+}
+
+.searchInput::placeholder {
+    color: var(--color-gray-400);
+}
+
+.clearButton {
+    width: 28px;
+    height: 28px;
+    border-radius: 50%;
+    background: var(--color-gray-200);
+    border: none;
+    color: var(--color-gray-600);
+    cursor: pointer;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    transition: all var(--transition-fast);
+}
+
+.clearButton:hover {
+    background: var(--color-gray-300);
+    color: var(--color-gray-900);
+}
+
+.searchHints {
+    display: flex;
+    gap: var(--spacing-lg);
+    padding: var(--spacing-md) var(--spacing-xl);
+    background: var(--color-gray-50);
+    font-size: var(--text-xs);
+    color: var(--color-gray-600);
+}
+
+.hint {
+    display: flex;
+    align-items: center;
+    gap: var(--spacing-xs);
+}
+
+.hint kbd {
+    padding: 2px 6px;
+    background: var(--color-white);
+    border: 1px solid var(--color-gray-300);
+    border-radius: var(--radius-sm);
+    font-family: var(--font-mono);
+    font-size: 10px;
+    box-shadow: var(--shadow-xs);
+}
+
+/* Dark mode */
+[data-theme='dark'] .searchTrigger {
+    background: var(--color-dark-surface);
+    border-color: var(--color-dark-border);
+}
+
+[data-theme='dark'] .searchTrigger:hover {
+    background: var(--color-dark-surface-elevated);
+}
+
+[data-theme='dark'] .searchText {
+    color: var(--color-dark-text-tertiary);
+}
+
+[data-theme='dark'] .shortcut {
+    background: var(--color-dark-surface-elevated);
+    border-color: var(--color-dark-border);
+    color: var(--color-dark-text-secondary);
+}
+
+[data-theme='dark'] .searchModal {
+    background: var(--color-dark-surface);
+}
+
+[data-theme='dark'] .searchForm {
+    border-bottom-color: var(--color-dark-border);
+}
+
+[data-theme='dark'] .searchInput {
+    color: var(--color-dark-text-primary);
+}
+
+[data-theme='dark'] .searchInput::placeholder {
+    color: var(--color-dark-text-tertiary);
+}
+
+[data-theme='dark'] .clearButton {
+    background: var(--color-dark-surface-elevated);
+    color: var(--color-dark-text-secondary);
+}
+
+[data-theme='dark'] .clearButton:hover {
+    background: var(--color-dark-border);
+    color: var(--color-dark-text-primary);
+}
+
+[data-theme='dark'] .searchHints {
+    background: var(--color-dark-bg);
+    color: var(--color-dark-text-tertiary);
+}
+
+[data-theme='dark'] .hint kbd {
+    background: var(--color-dark-surface-elevated);
+    border-color: var(--color-dark-border);
+}
