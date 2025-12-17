@@ -1,0 +1,90 @@
+.container {
+    display: inline-flex;
+    align-items: center;
+    gap: var(--spacing-md);
+    cursor: pointer;
+    user-select: none;
+}
+
+.container.disabled {
+    opacity: 0.5;
+    cursor: not-allowed;
+}
+
+.input {
+    position: absolute;
+    opacity: 0;
+    width: 0;
+    height: 0;
+}
+
+.switch {
+    position: relative;
+    background: var(--color-gray-300);
+    border-radius: var(--radius-full);
+    transition: background-color var(--transition-base);
+    padding: 2px;
+}
+
+.switch.small {
+    width: 36px;
+    height: 20px;
+}
+
+.switch.medium {
+    width: 48px;
+    height: 26px;
+}
+
+.switch.large {
+    width: 60px;
+    height: 32px;
+}
+
+.switch.checked {
+    background: var(--color-primary);
+}
+
+.thumb {
+    background: var(--color-white);
+    border-radius: 50%;
+    box-shadow: var(--shadow-sm);
+}
+
+.small .thumb {
+    width: 16px;
+    height: 16px;
+}
+
+.medium .thumb {
+    width: 22px;
+    height: 22px;
+}
+
+.large .thumb {
+    width: 28px;
+    height: 28px;
+}
+
+.checked .thumb {
+    transform: translateX(calc(100% + 2px));
+}
+
+.label {
+    font-size: var(--text-base);
+    color: var(--color-gray-700);
+    font-weight: 500;
+}
+
+/* Dark mode */
+[data-theme='dark'] .switch {
+    background: var(--color-dark-surface-elevated);
+}
+
+[data-theme='dark'] .switch.checked {
+    background: var(--color-primary);
+}
+
+[data-theme='dark'] .label {
+    color: var(--color-dark-text-primary);
+}
