@@ -1,0 +1,119 @@
+.alert {
+    display: flex;
+    align-items: flex-start;
+    gap: var(--spacing-md);
+    padding: var(--spacing-lg);
+    border-radius: var(--radius-xl);
+    border-left: 4px solid;
+}
+
+.alert.info {
+    background: rgba(59, 130, 246, 0.1);
+    border-left-color: var(--color-primary);
+}
+
+.alert.success {
+    background: rgba(16, 185, 129, 0.1);
+    border-left-color: var(--color-success);
+}
+
+.alert.warning {
+    background: rgba(245, 158, 11, 0.1);
+    border-left-color: var(--color-warning);
+}
+
+.alert.danger {
+    background: rgba(239, 68, 68, 0.1);
+    border-left-color: var(--color-danger);
+}
+
+.iconWrapper {
+    flex-shrink: 0;
+}
+
+.icon {
+    font-size: var(--text-2xl);
+}
+
+.content {
+    flex: 1;
+}
+
+.title {
+    font-size: var(--text-base);
+    font-weight: 700;
+    margin-bottom: var(--spacing-xs);
+}
+
+.alert.info .title {
+    color: var(--color-primary);
+}
+
+.alert.success .title {
+    color: var(--color-success);
+}
+
+.alert.warning .title {
+    color: var(--color-warning);
+}
+
+.alert.danger .title {
+    color: var(--color-danger);
+}
+
+.message {
+    font-size: var(--text-sm);
+    color: var(--color-gray-700);
+    line-height: 1.6;
+}
+
+.closeButton {
+    flex-shrink: 0;
+    width: 24px;
+    height: 24px;
+    border-radius: 50%;
+    background: transparent;
+    border: none;
+    color: var(--color-gray-600);
+    font-size: var(--text-lg);
+    cursor: pointer;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    transition: all var(--transition-fast);
+}
+
+.closeButton:hover {
+    background: rgba(0, 0, 0, 0.05);
+    color: var(--color-gray-900);
+}
+
+/* Dark mode */
+[data-theme='dark'] .alert.info {
+    background: rgba(59, 130, 246, 0.15);
+}
+
+[data-theme='dark'] .alert.success {
+    background: rgba(16, 185, 129, 0.15);
+}
+
+[data-theme='dark'] .alert.warning {
+    background: rgba(245, 158, 11, 0.15);
+}
+
+[data-theme='dark'] .alert.danger {
+    background: rgba(239, 68, 68, 0.15);
+}
+
+[data-theme='dark'] .message {
+    color: var(--color-dark-text-secondary);
+}
+
+[data-theme='dark'] .closeButton {
+    color: var(--color-dark-text-secondary);
+}
+
+[data-theme='dark'] .closeButton:hover {
+    background: rgba(255, 255, 255, 0.05);
+    color: var(--color-dark-text-primary);
+}
