@@ -1,0 +1,111 @@
+.container {
+    width: 100%;
+}
+
+.label {
+    display: block;
+    font-size: var(--text-sm);
+    font-weight: 600;
+    color: var(--color-gray-700);
+    margin-bottom: var(--spacing-sm);
+}
+
+.required {
+    color: var(--color-danger);
+    margin-left: 2px;
+}
+
+.inputWrapper {
+    position: relative;
+    display: flex;
+    align-items: center;
+    background: var(--color-white);
+    border: 2px solid var(--color-gray-300);
+    border-radius: var(--radius-lg);
+    transition: all var(--transition-base);
+}
+
+.inputWrapper:hover:not(.error) {
+    border-color: var(--color-gray-400);
+}
+
+.inputWrapper.focused {
+    border-color: var(--color-primary);
+    box-shadow: 0 0 0 3px rgba(59, 130, 246, 0.1);
+}
+
+.inputWrapper.error {
+    border-color: var(--color-danger);
+}
+
+.inputWrapper.error.focused {
+    box-shadow: 0 0 0 3px rgba(239, 68, 68, 0.1);
+}
+
+.input {
+    flex: 1;
+    padding: var(--spacing-md) var(--spacing-lg);
+    border: none;
+    background: transparent;
+    font-size: var(--text-base);
+    color: var(--color-gray-900);
+    outline: none;
+}
+
+.input::placeholder {
+    color: var(--color-gray-400);
+}
+
+.input:disabled {
+    opacity: 0.5;
+    cursor: not-allowed;
+}
+
+.icon {
+    padding-left: var(--spacing-lg);
+    color: var(--color-gray-500);
+    display: flex;
+    align-items: center;
+}
+
+.suffix {
+    padding-right: var(--spacing-lg);
+    color: var(--color-gray-500);
+    font-size: var(--text-sm);
+    display: flex;
+    align-items: center;
+}
+
+.errorMessage {
+    margin-top: var(--spacing-xs);
+    font-size: var(--text-sm);
+    color: var(--color-danger);
+    margin-bottom: 0;
+}
+
+/* Dark mode */
+[data-theme='dark'] .label {
+    color: var(--color-dark-text-primary);
+}
+
+[data-theme='dark'] .inputWrapper {
+    background: var(--color-dark-surface);
+    border-color: var(--color-dark-border);
+}
+
+[data-theme='dark'] .inputWrapper:hover:not(.error) {
+    border-color: var(--color-gray-600);
+}
+
+[data-theme='dark'] .input {
+    color: var(--color-dark-text-primary);
+}
+
+[data-theme='dark'] .input::placeholder {
+    color: var(--color-dark-text-tertiary);
+}
+
+[data-theme='dark'] .icon,
+[data-theme='dark'] .suffix {
+    color: var(--color-dark-text-secondary);
+}
