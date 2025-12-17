@@ -1,0 +1,125 @@
+.container {
+    width: 100%;
+}
+
+.tabList {
+    display: flex;
+    gap: var(--spacing-sm);
+    border-bottom: 2px solid var(--color-gray-200);
+    margin-bottom: var(--spacing-xl);
+}
+
+.tabList.pills {
+    border-bottom: none;
+    background: var(--color-gray-100);
+    padding: var(--spacing-xs);
+    border-radius: var(--radius-xl);
+}
+
+.tabList.underline {
+    border-bottom: 2px solid var(--color-gray-200);
+}
+
+.tab {
+    position: relative;
+    padding: var(--spacing-md) var(--spacing-lg);
+    background: transparent;
+    border: none;
+    color: var(--color-gray-600);
+    font-size: var(--text-base);
+    font-weight: 600;
+    cursor: pointer;
+    transition: all var(--transition-base);
+    display: flex;
+    align-items: center;
+    gap: var(--spacing-sm);
+    border-radius: var(--radius-lg);
+}
+
+.tab:hover {
+    color: var(--color-gray-900);
+    background: var(--color-gray-50);
+}
+
+.tab.active {
+    color: var(--color-primary);
+}
+
+.pills .tab {
+    border-radius: var(--radius-lg);
+}
+
+.pills .tab.active {
+    background: var(--color-white);
+    box-shadow: var(--shadow-sm);
+}
+
+.underline .tab {
+    border-radius: 0;
+    background: transparent;
+}
+
+.underline .tab:hover {
+    background: transparent;
+}
+
+.activeIndicator {
+    position: absolute;
+    bottom: -2px;
+    left: 0;
+    right: 0;
+    height: 2px;
+    background: var(--color-primary);
+}
+
+.icon {
+    font-size: var(--text-lg);
+}
+
+.tabContent {
+    padding: var(--spacing-md) 0;
+}
+
+/* Dark mode */
+[data-theme='dark'] .tabList {
+    border-bottom-color: var(--color-dark-border);
+}
+
+[data-theme='dark'] .tabList.pills {
+    background: var(--color-dark-surface);
+}
+
+[data-theme='dark'] .tab {
+    color: var(--color-dark-text-secondary);
+}
+
+[data-theme='dark'] .tab:hover {
+    color: var(--color-dark-text-primary);
+    background: var(--color-dark-surface-elevated);
+}
+
+[data-theme='dark'] .tab.active {
+    color: var(--color-primary-light);
+}
+
+[data-theme='dark'] .pills .tab.active {
+    background: var(--color-dark-surface-elevated);
+}
+
+/* Mobile responsive */
+@media (max-width: 640px) {
+    .tabList {
+        overflow-x: auto;
+        scrollbar-width: none;
+    }
+
+    .tabList::-webkit-scrollbar {
+        display: none;
+    }
+
+    .tab {
+        white-space: nowrap;
+        padding: var(--spacing-sm) var(--spacing-md);
+        font-size: var(--text-sm);
+    }
+}
