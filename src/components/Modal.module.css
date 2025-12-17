@@ -1,0 +1,128 @@
+.overlay {
+    position: fixed;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    background: rgba(0, 0, 0, 0.6);
+    backdrop-filter: blur(4px);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    z-index: var(--z-modal);
+    padding: var(--spacing-lg);
+}
+
+.modal {
+    background: var(--color-white);
+    border-radius: var(--radius-2xl);
+    box-shadow: var(--shadow-2xl);
+    max-height: 90vh;
+    overflow: hidden;
+    display: flex;
+    flex-direction: column;
+}
+
+.modal.small {
+    width: 100%;
+    max-width: 400px;
+}
+
+.modal.medium {
+    width: 100%;
+    max-width: 600px;
+}
+
+.modal.large {
+    width: 100%;
+    max-width: 900px;
+}
+
+.modal.fullscreen {
+    width: 95vw;
+    height: 95vh;
+    max-width: none;
+    max-height: 95vh;
+}
+
+.header {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: var(--spacing-xl);
+    border-bottom: 1px solid var(--color-gray-200);
+}
+
+.title {
+    font-size: var(--text-2xl);
+    font-weight: 700;
+    color: var(--color-gray-900);
+    margin: 0;
+}
+
+.closeButton {
+    width: 32px;
+    height: 32px;
+    border-radius: 50%;
+    background: transparent;
+    border: none;
+    color: var(--color-gray-600);
+    font-size: var(--text-xl);
+    cursor: pointer;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    transition: all var(--transition-fast);
+}
+
+.closeButton:hover {
+    background: var(--color-gray-100);
+    color: var(--color-gray-900);
+}
+
+.content {
+    padding: var(--spacing-xl);
+    overflow-y: auto;
+    flex: 1;
+}
+
+/* Dark mode */
+[data-theme='dark'] .modal {
+    background: var(--color-dark-surface);
+}
+
+[data-theme='dark'] .header {
+    border-bottom-color: var(--color-dark-border);
+}
+
+[data-theme='dark'] .title {
+    color: var(--color-dark-text-primary);
+}
+
+[data-theme='dark'] .closeButton {
+    color: var(--color-dark-text-secondary);
+}
+
+[data-theme='dark'] .closeButton:hover {
+    background: var(--color-dark-surface-elevated);
+    color: var(--color-dark-text-primary);
+}
+
+/* Mobile responsive */
+@media (max-width: 640px) {
+    .overlay {
+        padding: 0;
+    }
+
+    .modal {
+        border-radius: 0;
+        max-height: 100vh;
+    }
+
+    .modal.small,
+    .modal.medium,
+    .modal.large {
+        width: 100vw;
+        max-width: 100vw;
+    }
+}
