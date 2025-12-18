@@ -1,0 +1,128 @@
+.container {
+    width: 100%;
+}
+
+.groupLabel {
+    display: block;
+    font-size: var(--text-sm);
+    font-weight: 600;
+    color: var(--color-gray-700);
+    margin-bottom: var(--spacing-md);
+}
+
+.radioGroup {
+    display: flex;
+    gap: var(--spacing-md);
+}
+
+.radioGroup.vertical {
+    flex-direction: column;
+}
+
+.radioGroup.horizontal {
+    flex-direction: row;
+    flex-wrap: wrap;
+}
+
+.option {
+    display: flex;
+    align-items: flex-start;
+    gap: var(--spacing-md);
+    padding: var(--spacing-lg);
+    border: 2px solid var(--color-gray-200);
+    border-radius: var(--radius-xl);
+    cursor: pointer;
+    transition: all var(--transition-base);
+    user-select: none;
+}
+
+.option:hover:not(.disabled) {
+    border-color: var(--color-primary);
+    background: var(--color-gray-50);
+}
+
+.option.selected {
+    border-color: var(--color-primary);
+    background: rgba(59, 130, 246, 0.05);
+}
+
+.option.disabled {
+    opacity: 0.5;
+    cursor: not-allowed;
+}
+
+.input {
+    position: absolute;
+    opacity: 0;
+    width: 0;
+    height: 0;
+}
+
+.radio {
+    width: 20px;
+    height: 20px;
+    border: 2px solid var(--color-gray-400);
+    border-radius: 50%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-shrink: 0;
+    transition: all var(--transition-base);
+}
+
+.option.selected .radio {
+    border-color: var(--color-primary);
+}
+
+.dot {
+    width: 10px;
+    height: 10px;
+    background: var(--color-primary);
+    border-radius: 50%;
+}
+
+.labelContent {
+    flex: 1;
+}
+
+.label {
+    font-size: var(--text-base);
+    font-weight: 500;
+    color: var(--color-gray-900);
+    margin-bottom: 2px;
+}
+
+.description {
+    font-size: var(--text-sm);
+    color: var(--color-gray-600);
+    line-height: 1.5;
+}
+
+/* Dark mode */
+[data-theme='dark'] .groupLabel {
+    color: var(--color-dark-text-primary);
+}
+
+[data-theme='dark'] .option {
+    border-color: var(--color-dark-border);
+}
+
+[data-theme='dark'] .option:hover:not(.disabled) {
+    background: var(--color-dark-surface-elevated);
+}
+
+[data-theme='dark'] .option.selected {
+    background: rgba(59, 130, 246, 0.1);
+}
+
+[data-theme='dark'] .radio {
+    border-color: var(--color-dark-border);
+}
+
+[data-theme='dark'] .label {
+    color: var(--color-dark-text-primary);
+}
+
+[data-theme='dark'] .description {
+    color: var(--color-dark-text-secondary);
+}
