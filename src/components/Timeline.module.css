@@ -1,0 +1,149 @@
+.timeline {
+    position: relative;
+}
+
+.timeline.vertical {
+    display: flex;
+    flex-direction: column;
+    gap: var(--spacing-xl);
+}
+
+.timeline.vertical::before {
+    content: '';
+    position: absolute;
+    left: 20px;
+    top: 0;
+    bottom: 0;
+    width: 2px;
+    background: var(--color-gray-200);
+}
+
+.timeline.horizontal {
+    display: flex;
+    flex-direction: row;
+    gap: var(--spacing-2xl);
+    overflow-x: auto;
+    padding-bottom: var(--spacing-lg);
+}
+
+.item {
+    display: flex;
+    gap: var(--spacing-lg);
+    position: relative;
+}
+
+.vertical .item {
+    flex-direction: row;
+}
+
+.horizontal .item {
+    flex-direction: column;
+    min-width: 250px;
+}
+
+.marker {
+    width: 40px;
+    height: 40px;
+    border-radius: 50%;
+    background: var(--color-white);
+    border: 3px solid var(--color-primary);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-shrink: 0;
+    position: relative;
+    z-index: 1;
+}
+
+.marker.success {
+    border-color: var(--color-success);
+}
+
+.marker.warning {
+    border-color: var(--color-warning);
+}
+
+.marker.danger {
+    border-color: var(--color-danger);
+}
+
+.dot {
+    width: 12px;
+    height: 12px;
+    border-radius: 50%;
+    background: var(--color-primary);
+}
+
+.marker.success .dot {
+    background: var(--color-success);
+}
+
+.marker.warning .dot {
+    background: var(--color-warning);
+}
+
+.marker.danger .dot {
+    background: var(--color-danger);
+}
+
+.icon {
+    font-size: var(--text-lg);
+}
+
+.content {
+    flex: 1;
+    padding-bottom: var(--spacing-md);
+}
+
+.date {
+    font-size: var(--text-sm);
+    color: var(--color-gray-500);
+    margin-bottom: var(--spacing-xs);
+    font-weight: 500;
+}
+
+.title {
+    font-size: var(--text-lg);
+    font-weight: 700;
+    color: var(--color-gray-900);
+    margin-bottom: var(--spacing-xs);
+}
+
+.description {
+    font-size: var(--text-base);
+    color: var(--color-gray-600);
+    line-height: 1.6;
+}
+
+/* Dark mode */
+[data-theme='dark'] .timeline.vertical::before {
+    background: var(--color-dark-border);
+}
+
+[data-theme='dark'] .marker {
+    background: var(--color-dark-surface);
+}
+
+[data-theme='dark'] .date {
+    color: var(--color-dark-text-tertiary);
+}
+
+[data-theme='dark'] .title {
+    color: var(--color-dark-text-primary);
+}
+
+[data-theme='dark'] .description {
+    color: var(--color-dark-text-secondary);
+}
+
+/* Mobile responsive */
+@media (max-width: 640px) {
+    .timeline.horizontal {
+        flex-direction: column;
+    }
+
+    .horizontal .item {
+        flex-direction: row;
+        min-width: auto;
+    }
+}
