@@ -1,0 +1,36 @@
+.rating {
+    display: inline-flex;
+    gap: var(--spacing-xs);
+}
+
+.star {
+    background: none;
+    border: none;
+    padding: 0;
+    font-size: 24px;
+    color: var(--color-gray-300);
+    cursor: pointer;
+    transition: all var(--transition-fast);
+    line-height: 1;
+}
+
+.star.filled {
+    color: var(--color-warning);
+}
+
+.star.readonly {
+    cursor: default;
+}
+
+.rating.small .star {
+    font-size: 16px;
+}
+
+.rating.large .star {
+    font-size: 32px;
+}
+
+/* Dark mode */
+[data-theme='dark'] .star {
+    color: var(--color-gray-600);
+}
