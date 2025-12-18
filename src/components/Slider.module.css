@@ -1,0 +1,122 @@
+.container {
+    width: 100%;
+}
+
+.labelRow {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-bottom: var(--spacing-md);
+}
+
+.label {
+    font-size: var(--text-sm);
+    font-weight: 600;
+    color: var(--color-gray-700);
+}
+
+.value {
+    font-size: var(--text-sm);
+    font-weight: 700;
+    color: var(--color-primary);
+    padding: 2px var(--spacing-sm);
+    background: rgba(59, 130, 246, 0.1);
+    border-radius: var(--radius-md);
+}
+
+.sliderWrapper {
+    position: relative;
+    padding: var(--spacing-md) 0;
+}
+
+.input {
+    position: absolute;
+    width: 100%;
+    height: 100%;
+    opacity: 0;
+    cursor: pointer;
+    z-index: 2;
+}
+
+.input:disabled {
+    cursor: not-allowed;
+}
+
+.track {
+    position: relative;
+    height: 6px;
+    background: var(--color-gray-200);
+    border-radius: var(--radius-full);
+}
+
+.fill {
+    position: absolute;
+    height: 100%;
+    background: var(--gradient-primary);
+    border-radius: var(--radius-full);
+}
+
+.thumb {
+    position: absolute;
+    top: 50%;
+    transform: translate(-50%, -50%);
+    width: 20px;
+    height: 20px;
+    background: var(--color-white);
+    border: 3px solid var(--color-primary);
+    border-radius: 50%;
+    box-shadow: var(--shadow-md);
+    pointer-events: none;
+}
+
+.thumbActive {
+    box-shadow: 0 0 0 8px rgba(59, 130, 246, 0.2);
+}
+
+.marks {
+    position: relative;
+    margin-top: var(--spacing-lg);
+}
+
+.mark {
+    position: absolute;
+    transform: translateX(-50%);
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.markDot {
+    width: 4px;
+    height: 4px;
+    background: var(--color-gray-400);
+    border-radius: 50%;
+    margin-bottom: var(--spacing-xs);
+}
+
+.markLabel {
+    font-size: var(--text-xs);
+    color: var(--color-gray-600);
+    white-space: nowrap;
+}
+
+/* Dark mode */
+[data-theme='dark'] .label {
+    color: var(--color-dark-text-primary);
+}
+
+[data-theme='dark'] .track {
+    background: var(--color-dark-surface-elevated);
+}
+
+[data-theme='dark'] .thumb {
+    background: var(--color-dark-surface);
+}
+
+[data-theme='dark'] .markDot {
+    background: var(--color-dark-text-tertiary);
+}
+
+[data-theme='dark'] .markLabel {
+    color: var(--color-dark-text-secondary);
+}
