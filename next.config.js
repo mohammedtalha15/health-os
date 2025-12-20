@@ -1,24 +1,64 @@
 /** @type {import('next').NextConfig} */
 const nextConfig = {
+    reactStrictMode: true,
+    swcMinify: true,
+
+    // Image optimization
     images: {
-        remotePatterns: [
-            {
-                protocol: 'https',
-                hostname: '**',
-            },
-        ],
+        domains: ['localhost', 'your-domain.com'],
+        formats: ['image/avif', 'image/webp'],
     },
-    async rewrites() {
-        const apiUrl = process.env.NEXT_PUBLIC_API_URL;
-        // Only create rewrite if apiUrl is a valid URL (starts with http:// or https://)
-        if (!apiUrl || (!apiUrl.startsWith('http://') && !apiUrl.startsWith('https://'))) {
-            return [];
+
+    // Environment variables
+    env: {
+        NEXT_PUBLIC_APP_NAME: 'Health OS',
+        NEXT_PUBLIC_APP_VERSION: '1.0.0',
+    },
+
+    // Webpack configuration
+    webpack: (config, { isServer }) => {
+        if (!isServer) {
+            config.resolve.fallback = {
+                ...config.resolve.fallback,
+                fs: false,
+                net: false,
+                tls: false,
+            };
         }
+        return config;
+    },
+
+    // Headers for security
+    async headers() {
         return [
             {
-                // Proxy backend API routes, but EXCLUDE /api/auth/* (NextAuth)
-                source: '/api/backend/:path*',
-                destination: apiUrl + '/:path*',
+                source: '/:path*',
+                headers: [
+                    {
+                        key: 'X-DNS-Prefetch-Control',
+                        value: 'on',
+                    },
+                    {
+                        key: 'Strict-Transport-Security',
+                        value: 'max-age=63072000; includeSubDomains; preload',
+                    },
+                    {
+                        key: 'X-Frame-Options',
+                        value: 'SAMEORIGIN',
+                    },
+                    {
+                        key: 'X-Content-Type-Options',
+                        value: 'nosniff',
+                    },
+                    {
+                        key: 'X-XSS-Protection',
+                        value: '1; mode=block',
+                    },
+                    {
+                        key: 'Referrer-Policy',
+                        value: 'origin-when-cross-origin',
+                    },
+                ],
             },
         ];
     },
