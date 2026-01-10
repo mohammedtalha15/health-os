@@ -5,6 +5,11 @@ All notable changes to this project will be documented in this file.
 ## [Unreleased]
 
 ### Added
+- 🔧 Test script placeholder in package.json
+- 📚 Code of Conduct for community guidelines
+- 🔧 EditorConfig for consistent coding style
+- 🔧 .nvmrc for Node version management
+
 - 🎨 **40+ Reusable Components** - Complete UI component library
   - Form components (Input, Checkbox, Switch, Dropdown, RadioGroup, Slider)
   - Feedback components (Alert, Toast, Modal, LoadingSpinner, Skeleton, EmptyState)
