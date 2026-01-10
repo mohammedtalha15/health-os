@@ -12,7 +12,8 @@
     "format": "prettier --write \"src/**/*.{ts,tsx,css,md}\"",
     "format:check": "prettier --check \"src/**/*.{ts,tsx,css,md}\"",
     "clean": "rm -rf .next out node_modules",
-    "analyze": "ANALYZE=true next build"
+    "analyze": "ANALYZE=true next build",
+    "test": "echo \"Tests will be added soon\" && exit 0"
   },
   "dependencies": {
     "next": "14.0.4",
