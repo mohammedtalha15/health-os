@@ -18,6 +18,11 @@ A next-generation AI-powered health interpretation platform that transforms comp
 - 📅 **Timeline View** - Visualize your complete health history chronologically
 - 🔔 **Critical Alerts** - Instant notifications for values needing attention
 - 📱 **Fully Responsive** - Beautiful on desktop, tablet, and mobile
+- 🛠️ **Rich Utilities** - Comprehensive utility functions for strings, arrays, objects, URLs, and more
+- 🎣 **Custom Hooks** - Reusable React hooks for common patterns
+- ⚡ **Performance Monitoring** - Built-in performance tracking and optimization
+- 🔄 **Retry Logic** - Automatic retry with exponential backoff for failed operations
+- 💾 **Safe Storage** - Error-handled localStorage and sessionStorage wrappers
 
 ## 🚀 Quick Start
 
