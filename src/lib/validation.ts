@@ -125,6 +125,15 @@ export const commonRules = {
     },
 };
 
+/**
+ * Validates phone number format
+ * Accepts international formats with optional country code
+ */
+export function isValidPhone(phone: string): boolean {
+    const phoneRegex = /^\+?[\d\s-()]{10,}$/;
+    return phoneRegex.test(phone);
+}
+
 // Sanitization utilities
 export function sanitizeInput(input: string): string {
     return input
