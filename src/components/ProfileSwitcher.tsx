@@ -38,6 +38,9 @@ export default function ProfileSwitcher({
                 onClick={() => setIsOpen(!isOpen)}
                 whileHover={{ scale: 1.02 }}
                 whileTap={{ scale: 0.98 }}
+                aria-label="Switch profile"
+                aria-expanded={isOpen}
+                aria-haspopup="true"
             >
                 <div className={styles.avatar}>
                     {activeProfile?.avatar ? (
