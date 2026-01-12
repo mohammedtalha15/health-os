@@ -86,6 +86,13 @@ class Logger {
         this.warn(`Security Event: ${event}`, context);
     }
 
+    /**
+     * Log user actions for analytics
+     */
+    userAction(action: string, context?: LogContext): void {
+        this.info(`User Action: ${action}`, context);
+    }
+
     // Measure execution time
     async measure<T>(operation: string, fn: () => Promise<T>): Promise<T> {
         const start = Date.now();
