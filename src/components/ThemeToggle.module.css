@@ -6,6 +6,11 @@
     display: flex;
     align-items: center;
     justify-content: center;
+    transition: transform 0.2s ease;
+}
+
+.themeToggle:hover {
+    transform: scale(1.05);
 }
 
 .toggleTrack {
