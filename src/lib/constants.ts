@@ -6,6 +6,8 @@ export const APP_DESCRIPTION = 'Your personal health clarity engine';
 // API Configuration
 export const API_BASE_URL = process.env.NEXT_PUBLIC_API_URL || 'http://localhost:8000';
 export const API_TIMEOUT = 30000; // 30 seconds
+export const API_RETRY_ATTEMPTS = 3;
+export const API_RETRY_DELAY = 1000; // 1 second
 
 // File Upload
 export const MAX_FILE_SIZE = 10 * 1024 * 1024; // 10MB
