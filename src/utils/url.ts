@@ -110,3 +110,15 @@ export function joinPaths(...paths: string[]): string {
         })
         .join('/');
 }
+
+/**
+ * Sanitize URL to prevent XSS attacks
+ */
+export function sanitizeUrl(url: string): string {
+    // Remove javascript: and data: protocols
+    const dangerous = /^(javascript|data|vbscript):/i;
+    if (dangerous.test(url)) {
+        return '';
+    }
+    return url;
+}
