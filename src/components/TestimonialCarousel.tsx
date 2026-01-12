@@ -52,6 +52,11 @@ export default function TestimonialCarousel() {
     const [currentIndex, setCurrentIndex] = useState(0);
     const [direction, setDirection] = useState(0);
 
+    // Safety check for empty testimonials
+    if (!testimonials || testimonials.length === 0) {
+        return null;
+    }
+
     useEffect(() => {
         const timer = setInterval(() => {
             setDirection(1);
