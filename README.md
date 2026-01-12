@@ -178,6 +178,24 @@ npm run lint
 4. **User Privacy** - Secure data handling and storage
 5. **Premium UX** - Beautiful, intuitive, and accessible
 
+## 🔧 Troubleshooting
+
+### Common Issues
+
+**Build Errors**
+- Clear `.next` folder: `rm -rf .next`
+- Delete `node_modules` and reinstall: `rm -rf node_modules && npm install`
+
+**Authentication Issues**
+- Verify Google OAuth credentials in `.env`
+- Check `NEXTAUTH_URL` matches your domain
+- Ensure `NEXTAUTH_SECRET` is properly generated
+
+**Performance Issues**
+- Enable production mode: `npm run build && npm start`
+- Check browser console for errors
+- Monitor network tab for slow API calls
+
 ## 📝 License
 
 MIT License - feel free to use this project for your own purposes.
