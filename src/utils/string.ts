@@ -87,3 +87,16 @@ export function getInitials(name: string, maxLength: number = 2): string {
     const initials = parts.map(part => part.charAt(0).toUpperCase());
     return initials.slice(0, maxLength).join('');
 }
+
+/**
+ * Generate URL-friendly slug from string
+ */
+export function slugify(str: string): string {
+    if (!str) return '';
+    return str
+        .toLowerCase()
+        .trim()
+        .replace(/[^\w\s-]/g, '')
+        .replace(/[\s_-]+/g, '-')
+        .replace(/^-+|-+$/g, '');
+}
