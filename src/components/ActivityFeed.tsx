@@ -32,31 +32,37 @@ export default function ActivityFeed({ activities }: ActivityFeedProps) {
             <h3 className={styles.title}>Recent Activity</h3>
 
             <div className={styles.feed}>
-                {activities.map((activity, index) => (
-                    <motion.div
-                        key={activity.id}
-                        className={styles.activityItem}
-                        initial={{ opacity: 0, x: -20 }}
-                        animate={{ opacity: 1, x: 0 }}
-                        transition={{ delay: index * 0.1 }}
-                        whileHover={{ x: 5 }}
-                    >
-                        <div
-                            className={styles.iconWrapper}
-                            style={{ backgroundColor: `${getActivityColor(activity.type)}20` }}
+                {activities.length === 0 ? (
+                    <div className={styles.emptyState}>
+                        <p>No recent activity</p>
+                    </div>
+                ) : (
+                    activities.map((activity, index) => (
+                        <motion.div
+                            key={activity.id}
+                            className={styles.activityItem}
+                            initial={{ opacity: 0, x: -20 }}
+                            animate={{ opacity: 1, x: 0 }}
+                            transition={{ delay: index * 0.1 }}
+                            whileHover={{ x: 5 }}
                         >
-                            <span style={{ color: getActivityColor(activity.type) }}>
-                                {activity.icon}
-                            </span>
-                        </div>
+                            <div
+                                className={styles.iconWrapper}
+                                style={{ backgroundColor: `${getActivityColor(activity.type)}20` }}
+                            >
+                                <span style={{ color: getActivityColor(activity.type) }}>
+                                    {activity.icon}
+                                </span>
+                            </div>
 
-                        <div className={styles.content}>
-                            <h4>{activity.title}</h4>
-                            <p>{activity.description}</p>
-                            <span className={styles.time}>{activity.time}</span>
-                        </div>
-                    </motion.div>
-                ))}
+                            <div className={styles.content}>
+                                <h4>{activity.title}</h4>
+                                <p>{activity.description}</p>
+                                <span className={styles.time}>{activity.time}</span>
+                            </div>
+                        </motion.div>
+                    ))
+                )}
             </div>
         </div>
     );
