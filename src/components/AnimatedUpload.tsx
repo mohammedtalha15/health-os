@@ -15,6 +15,7 @@ export default function AnimatedUpload({ onUpload, profileId }: AnimatedUploadPr
     const [uploading, setUploading] = useState(false);
     const [progress, setProgress] = useState(0);
     const [uploadedFile, setUploadedFile] = useState<File | null>(null);
+    const [error, setError] = useState<string | null>(null);
 
     const onDrop = useCallback(async (acceptedFiles: File[]) => {
         if (acceptedFiles.length === 0) return;
@@ -23,6 +24,7 @@ export default function AnimatedUpload({ onUpload, profileId }: AnimatedUploadPr
         setUploadedFile(file);
         setUploading(true);
         setProgress(0);
+        setError(null);
 
         // Simulate upload progress
         const interval = setInterval(() => {
@@ -44,6 +46,7 @@ export default function AnimatedUpload({ onUpload, profileId }: AnimatedUploadPr
             }, 1500);
         } catch (error) {
             console.error('Upload failed:', error);
+            setError('Upload failed. Please try again.');
             setUploading(false);
             setProgress(0);
         } finally {
