@@ -1,5 +1,9 @@
 // Motion Tokens - Animation Design System for Health OS
 
+/**
+ * Motion tokens defining the animation design system for Health OS
+ * Includes durations, easing functions, opacity, scale, blur effects, and more
+ */
 export const motionTokens = {
     // Durations (ms)
     duration: {
