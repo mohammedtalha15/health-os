@@ -113,3 +113,29 @@ export const addAlpha = (color: string, alpha: number): string => {
 
     return `rgba(${rgb.r}, ${rgb.g}, ${rgb.b}, ${alpha})`;
 };
+
+/**
+ * Calculate relative luminance for WCAG contrast ratio
+ */
+export const getLuminance = (color: string): number => {
+    const rgb = hexToRgb(color);
+    if (!rgb) return 0;
+
+    const { r, g, b } = rgb;
+    const [rs, gs, bs] = [r, g, b].map((c) => {
+        const val = c / 255;
+        return val <= 0.03928 ? val / 12.92 : Math.pow((val + 0.055) / 1.055, 2.4);
+    });
+
+    return 0.2126 * rs + 0.7152 * gs + 0.0722 * bs;
+};
+
+/**
+ * Check if color contrast meets WCAG AA standards (4.5:1)
+ */
+export const hasGoodContrast = (color1: string, color2: string): boolean => {
+    const lum1 = getLuminance(color1);
+    const lum2 = getLuminance(color2);
+    const ratio = (Math.max(lum1, lum2) + 0.05) / (Math.min(lum1, lum2) + 0.05);
+    return ratio >= 4.5;
+};
