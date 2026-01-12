@@ -106,6 +106,27 @@ class StorageWrapper {
             return [];
         }
     }
+
+    /**
+     * Get approximate storage size in bytes
+     */
+    getSize(type: StorageType = 'local'): number {
+        try {
+            const storage = this.getStorage(type);
+            if (!storage) return 0;
+
+            let size = 0;
+            for (const key in storage) {
+                if (storage.hasOwnProperty(key)) {
+                    size += key.length + (storage.getItem(key)?.length || 0);
+                }
+            }
+            return size;
+        } catch (error) {
+            console.error(`Error calculating ${type} storage size:`, error);
+            return 0;
+        }
+    }
 }
 
 export const storage = new StorageWrapper();
