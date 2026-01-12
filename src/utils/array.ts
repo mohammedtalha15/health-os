@@ -105,3 +105,17 @@ export function first<T>(array: T[]): T | undefined {
 export function last<T>(array: T[]): T | undefined {
     return array[array.length - 1];
 }
+
+/**
+ * Get difference between two arrays
+ */
+export function difference<T>(array1: T[], array2: T[]): T[] {
+    return array1.filter(item => !array2.includes(item));
+}
+
+/**
+ * Get intersection of two arrays
+ */
+export function intersection<T>(array1: T[], array2: T[]): T[] {
+    return array1.filter(item => array2.includes(item));
+}
