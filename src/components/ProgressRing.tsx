@@ -11,6 +11,8 @@ interface ProgressRingProps {
     color?: string;
     label?: string;
     showPercentage?: boolean;
+    gradient?: boolean;
+    glow?: boolean;
 }
 
 export default function ProgressRing({
@@ -19,7 +21,9 @@ export default function ProgressRing({
     strokeWidth = 8,
     color = '#2563eb',
     label,
-    showPercentage = true
+    showPercentage = true,
+    gradient = false,
+    glow = false
 }: ProgressRingProps) {
     const [animatedProgress, setAnimatedProgress] = useState(0);
 
@@ -35,6 +39,25 @@ export default function ProgressRing({
     return (
         <div className={styles.container}>
             <svg width={size} height={size} className={styles.svg}>
+                {/* Gradient definition */}
+                {gradient && (
+                    <defs>
+                        <linearGradient id={`gradient-${color}`} x1="0%" y1="0%" x2="100%" y2="100%">
+                            <stop offset="0%" stopColor={color} stopOpacity="1" />
+                            <stop offset="100%" stopColor={color} stopOpacity="0.6" />
+                        </linearGradient>
+                        {glow && (
+                            <filter id={`glow-${color}`}>
+                                <feGaussianBlur stdDeviation="3" result="coloredBlur" />
+                                <feMerge>
+                                    <feMergeNode in="coloredBlur" />
+                                    <feMergeNode in="SourceGraphic" />
+                                </feMerge>
+                            </filter>
+                        )}
+                    </defs>
+                )}
+
                 {/* Background circle */}
                 <circle
                     cx={size / 2}
@@ -51,7 +74,7 @@ export default function ProgressRing({
                     cy={size / 2}
                     r={radius}
                     fill="none"
-                    stroke={color}
+                    stroke={gradient ? `url(#gradient-${color})` : color}
                     strokeWidth={strokeWidth}
                     strokeLinecap="round"
                     strokeDasharray={circumference}
@@ -60,6 +83,7 @@ export default function ProgressRing({
                     initial={{ strokeDashoffset: circumference }}
                     animate={{ strokeDashoffset: offset }}
                     transition={{ duration: 1, ease: 'easeOut' }}
+                    filter={glow ? `url(#glow-${color})` : undefined}
                 />
             </svg>
 
