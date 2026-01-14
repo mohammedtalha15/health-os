@@ -39,9 +39,10 @@ export default function ParticleBackground() {
             'rgba(236, 72, 153, 0.6)',   // Pink
         ];
 
-        // Create particles
+        // Create particles - reduce count on mobile for performance
         const particles: Particle[] = [];
-        const particleCount = 50;
+        const isMobile = window.innerWidth < 768;
+        const particleCount = isMobile ? 25 : 50;
 
         for (let i = 0; i < particleCount; i++) {
             particles.push({
