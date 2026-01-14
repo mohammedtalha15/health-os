@@ -14,6 +14,8 @@
 .toast {
     position: relative;
     background: var(--color-white);
+    backdrop-filter: blur(10px);
+    -webkit-backdrop-filter: blur(10px);
     border-radius: var(--radius-xl);
     padding: var(--spacing-lg);
     box-shadow: var(--shadow-xl);
@@ -23,6 +25,11 @@
     pointer-events: all;
     overflow: hidden;
     border-left: 4px solid;
+    transition: transform 0.2s ease;
+}
+
+.toast:hover {
+    transform: translateX(-4px);
 }
 
 .toast.success {
