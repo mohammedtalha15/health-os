@@ -21,9 +21,12 @@ interface ToastProps {
 
 function Toast({ toast, onClose }: ToastProps) {
     const [progress, setProgress] = useState(100);
+    const [isPaused, setIsPaused] = useState(false);
     const duration = toast.duration || 5000;
 
     useEffect(() => {
+        if (isPaused) return;
+
         const interval = setInterval(() => {
             setProgress((prev) => {
                 const newProgress = prev - (100 / (duration / 100));
@@ -37,7 +40,7 @@ function Toast({ toast, onClose }: ToastProps) {
         }, 100);
 
         return () => clearInterval(interval);
-    }, [toast.id, duration, onClose]);
+    }, [toast.id, duration, onClose, isPaused]);
 
     const icons = {
         success: '✓',
@@ -53,6 +56,8 @@ function Toast({ toast, onClose }: ToastProps) {
             animate={{ opacity: 1, y: 0, scale: 1 }}
             exit={{ opacity: 0, x: 100, scale: 0.95 }}
             transition={{ duration: 0.3, ease: 'easeOut' }}
+            onMouseEnter={() => setIsPaused(true)}
+            onMouseLeave={() => setIsPaused(false)}
         >
             <div className={styles.toastIcon}>
                 {icons[toast.type]}
