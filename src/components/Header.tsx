@@ -1,6 +1,6 @@
 'use client';
 
-import { useState } from 'react';
+import { useState, useCallback, useEffect, useRef } from 'react';
 import Link from 'next/link';
 import { useAuth } from '@/hooks/useAuth';
 import NotificationBell from './NotificationBell';
@@ -10,6 +10,39 @@ export default function Header() {
     const [isMenuOpen, setIsMenuOpen] = useState(false);
     const [isProfileOpen, setIsProfileOpen] = useState(false);
     const { user, isAuthenticated, signOut } = useAuth();
+    const profileRef = useRef<HTMLDivElement>(null);
+
+    // Close profile dropdown when clicking outside
+    useEffect(() => {
+        const handleClickOutside = (event: MouseEvent) => {
+            if (profileRef.current && !profileRef.current.contains(event.target as Node)) {
+                setIsProfileOpen(false);
+            }
+        };
+
+        if (isProfileOpen) {
+            document.addEventListener('mousedown', handleClickOutside);
+        }
+
+        return () => {
+            document.removeEventListener('mousedown', handleClickOutside);
+        };
+    }, [isProfileOpen]);
+
+    // Memoized handlers
+    const toggleMenu = useCallback(() => {
+        setIsMenuOpen(prev => !prev);
+    }, []);
+
+    const toggleProfile = useCallback(() => {
+        setIsProfileOpen(prev => !prev);
+    }, []);
+
+    const handleSignOut = useCallback(() => {
+        setIsProfileOpen(false);
+        signOut();
+    }, [signOut]);
+
 
     return (
         <header className={styles.header}>
@@ -49,10 +82,10 @@ export default function Header() {
                         {isAuthenticated ? (
                             <>
                                 <NotificationBell />
-                                <div className={styles.userProfile}>
+                                <div className={styles.userProfile} ref={profileRef}>
                                     <button
                                         className={styles.profileButton}
-                                        onClick={() => setIsProfileOpen(!isProfileOpen)}
+                                        onClick={toggleProfile}
                                     >
                                         {user?.image ? (
                                             <img src={user.image} alt={user.name || 'User'} className={styles.avatar} />
@@ -82,7 +115,7 @@ export default function Header() {
                                                 Timeline
                                             </Link>
                                             <div className={styles.dropdownDivider}></div>
-                                            <button onClick={signOut} className={styles.dropdownItem}>
+                                            <button onClick={handleSignOut} className={styles.dropdownItem}>
                                                 <svg width="16" height="16" viewBox="0 0 16 16" fill="none">
                                                     <path d="M6 14H3C2.44772 14 2 13.5523 2 13V3C2 2.44772 2.44772 2 3 2H6M11 11L14 8M14 8L11 5M14 8H6" stroke="currentColor" strokeWidth="1.5" strokeLinecap="round" strokeLinejoin="round" />
                                                 </svg>
@@ -102,7 +135,7 @@ export default function Header() {
                         {/* Mobile Menu Button */}
                         <button
                             className={styles.menuButton}
-                            onClick={() => setIsMenuOpen(!isMenuOpen)}
+                            onClick={toggleMenu}
                             aria-label="Toggle menu"
                         >
                             <span className={isMenuOpen ? styles.menuIconOpen : ''}></span>
@@ -136,7 +169,7 @@ export default function Header() {
                                         )}
                                         <span>{user?.name || user?.email}</span>
                                     </div>
-                                    <button onClick={signOut} className={styles.mobileLink} style={{ width: '100%', textAlign: 'left' }}>
+                                    <button onClick={handleSignOut} className={styles.mobileLink} style={{ width: '100%', textAlign: 'left' }}>
                                         Sign Out
                                     </button>
                                 </>
