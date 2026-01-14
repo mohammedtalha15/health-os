@@ -7,22 +7,26 @@ interface SkeletonProps {
     width?: string | number;
     height?: string | number;
     className?: string;
+    animation?: 'pulse' | 'wave' | 'none';
 }
 
 export default function Skeleton({
     variant = 'text',
     width,
     height,
-    className = ''
+    className = '',
+    animation = 'pulse'
 }: SkeletonProps) {
     const style: React.CSSProperties = {
         width: typeof width === 'number' ? `${width}px` : width,
         height: typeof height === 'number' ? `${height}px` : height,
     };
 
+    const animationClass = animation !== 'none' ? styles[animation] : '';
+
     return (
         <div
-            className={`${styles.skeleton} ${styles[variant]} ${className}`}
+            className={`${styles.skeleton} ${styles[variant]} ${animationClass} ${className}`}
             style={style}
             aria-busy="true"
             aria-live="polite"
