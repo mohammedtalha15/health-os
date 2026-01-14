@@ -7,10 +7,10 @@ import styles from './HeroSection.module.css';
 
 export default function HeroSection() {
     return (
-        <section className={styles.hero}>
+        <section className={styles.hero} aria-label="Hero section">
             <ParticleBackground />
 
-            <div className={styles.fluidBackground}>
+            <div className={styles.fluidBackground} aria-hidden="true">
                 <div className={styles.orb1}></div>
                 <div className={styles.orb2}></div>
                 <div className={styles.orb3}></div>
@@ -23,8 +23,10 @@ export default function HeroSection() {
                         initial={{ opacity: 0, y: 20 }}
                         animate={{ opacity: 1, y: 0 }}
                         transition={{ duration: 0.6 }}
+                        role="status"
+                        aria-label="Platform status"
                     >
-                        <span className={styles.badgeDot}></span>
+                        <span className={styles.badgeDot} aria-hidden="true"></span>
                         Your Health Clarity Engine
                     </motion.div>
 
@@ -57,14 +59,16 @@ export default function HeroSection() {
                         initial={{ opacity: 0, y: 20 }}
                         animate={{ opacity: 1, y: 0 }}
                         transition={{ duration: 0.8, delay: 0.6 }}
+                        role="group"
+                        aria-label="Call to action buttons"
                     >
-                        <Link href="/signup" className="btn btn-primary btn-large">
+                        <Link href="/signup" className="btn btn-primary btn-large" aria-label="Sign up for free account">
                             <span>Get Started Free</span>
-                            <svg width="20" height="20" viewBox="0 0 20 20" fill="none">
+                            <svg width="20" height="20" viewBox="0 0 20 20" fill="none" aria-hidden="true">
                                 <path d="M7 10H13M13 10L10 7M13 10L10 13" stroke="currentColor" strokeWidth="2" strokeLinecap="round" strokeLinejoin="round" />
                             </svg>
                         </Link>
-                        <Link href="/#how-it-works" className="btn btn-secondary btn-large">
+                        <Link href="/#how-it-works" className="btn btn-secondary btn-large" aria-label="Learn how the platform works">
                             <span>See How It Works</span>
                         </Link>
                     </motion.div>
@@ -74,19 +78,21 @@ export default function HeroSection() {
                         initial={{ opacity: 0, y: 20 }}
                         animate={{ opacity: 1, y: 0 }}
                         transition={{ duration: 0.8, delay: 0.8 }}
+                        role="region"
+                        aria-label="Platform statistics"
                     >
                         <div className={styles.stat}>
-                            <div className={styles.statValue}>10K+</div>
+                            <div className={styles.statValue} aria-label="10,000 plus reports analyzed">10K+</div>
                             <div className={styles.statLabel}>Reports Analyzed</div>
                         </div>
-                        <div className={styles.statDivider}></div>
+                        <div className={styles.statDivider} aria-hidden="true"></div>
                         <div className={styles.stat}>
-                            <div className={styles.statValue}>98%</div>
+                            <div className={styles.statValue} aria-label="98 percent accuracy rate">98%</div>
                             <div className={styles.statLabel}>Accuracy Rate</div>
                         </div>
-                        <div className={styles.statDivider}></div>
+                        <div className={styles.statDivider} aria-hidden="true"></div>
                         <div className={styles.stat}>
-                            <div className={styles.statValue}>5K+</div>
+                            <div className={styles.statValue} aria-label="5,000 plus happy users">5K+</div>
                             <div className={styles.statLabel}>Happy Users</div>
                         </div>
                     </motion.div>
@@ -98,8 +104,17 @@ export default function HeroSection() {
                 initial={{ opacity: 0 }}
                 animate={{ opacity: 1 }}
                 transition={{ duration: 1, delay: 1.2 }}
+                role="button"
+                tabIndex={0}
+                aria-label="Scroll down to explore more"
+                onKeyDown={(e) => {
+                    if (e.key === 'Enter' || e.key === ' ') {
+                        window.scrollBy({ top: window.innerHeight, behavior: 'smooth' });
+                    }
+                }}
+                onClick={() => window.scrollBy({ top: window.innerHeight, behavior: 'smooth' })}
             >
-                <div className={styles.mouse}>
+                <div className={styles.mouse} aria-hidden="true">
                     <div className={styles.wheel}></div>
                 </div>
                 <span>Scroll to explore</span>
