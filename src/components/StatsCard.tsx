@@ -9,10 +9,26 @@ interface StatsCardProps {
     change?: number;
     icon: string;
     color: 'blue' | 'green' | 'purple' | 'orange';
+    loading?: boolean;
 }
 
-export default function StatsCard({ title, value, change, icon, color }: StatsCardProps) {
+export default function StatsCard({ title, value, change, icon, color, loading = false }: StatsCardProps) {
     const isPositive = change && change > 0;
+
+    if (loading) {
+        return (
+            <div className={styles.card} data-color={color}>
+                <div className={styles.iconWrapper}>
+                    <div className={styles.skeletonIcon} />
+                </div>
+                <div className={styles.content}>
+                    <div className={styles.skeletonTitle} />
+                    <div className={styles.skeletonValue} />
+                    <div className={styles.skeletonChange} />
+                </div>
+            </div>
+        );
+    }
 
     return (
         <motion.div
