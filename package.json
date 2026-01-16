@@ -18,10 +18,13 @@
   },
   "dependencies": {
     "next": "14.0.4",
+    "next-auth": "^4.24.5",
     "react": "^18",
     "react-dom": "^18",
     "framer-motion": "^10.16.16",
-    "axios": "^1.6.2"
+    "axios": "^1.6.2",
+    "qrcode.react": "^3.1.0",
+    "react-dropzone": "^14.2.3"
   },
   "devDependencies": {
     "typescript": "^5",
