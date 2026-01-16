@@ -93,9 +93,8 @@ export default function HealthTimeline({ entries, onEntryClick }: HealthTimeline
                         key={entry.id}
                         className={styles.timelineEntry}
                         data-type={entry.type}
-                        variants={animationPresets.listItem}
-                        initial="initial"
-                        animate="animate"
+                        initial={animationPresets.listItem.initial}
+                        animate={animationPresets.listItem.animate}
                         transition={{ delay: index * 0.1 }}
                         onClick={() => onEntryClick?.(entry)}
                         whileHover={{ scale: 1.02, x: 10 }}

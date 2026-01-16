@@ -75,9 +75,9 @@ export default function AnimatedUpload({ onUpload, profileId }: AnimatedUploadPr
                 className={styles.dropzone}
                 data-active={isDragActive}
                 data-uploading={uploading}
-                variants={animationPresets.morphCard}
-                whileHover={!uploading ? "hover" : undefined}
-                whileTap={!uploading ? "tap" : undefined}
+                initial={animationPresets.morphCard.initial}
+                whileHover={!uploading ? animationPresets.morphCard.hover : undefined}
+                whileTap={!uploading ? animationPresets.morphCard.tap : undefined}
             >
                 <input {...getInputProps()} />
 

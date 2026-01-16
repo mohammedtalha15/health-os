@@ -61,10 +61,9 @@ export default function ProfileSwitcher({
             {isOpen && (
                 <motion.div
                     className={styles.dropdown}
-                    variants={animationPresets.scaleIn}
-                    initial="initial"
-                    animate="animate"
-                    exit="exit"
+                    initial={animationPresets.scaleIn.initial}
+                    animate={animationPresets.scaleIn.animate}
+                    exit={animationPresets.scaleIn.exit}
                 >
                     {profiles.map((profile, index) => (
                         <motion.button

@@ -65,10 +65,9 @@ export default function HealthMetricCard({
         <motion.div
             className={styles.card}
             data-severity={severity}
-            variants={animationPresets.morphCard}
-            initial="initial"
-            whileHover="hover"
-            whileTap="tap"
+            initial={animationPresets.morphCard.initial}
+            whileHover={animationPresets.morphCard.hover}
+            whileTap={animationPresets.morphCard.tap}
             animate={animateProps}
             style={{
                 rotateX,
