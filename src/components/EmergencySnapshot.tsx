@@ -34,9 +34,9 @@ export default function EmergencySnapshot({ data, shareLink, expiresAt }: Emerge
     return (
         <motion.div
             className={styles.container}
-            variants={animationPresets.fadeInUp}
-            initial="initial"
-            animate="animate"
+            initial={animationPresets.fadeInUp.initial}
+            animate={animationPresets.fadeInUp.animate}
+        // exit prop omitted as not needed for static page
         >
             {/* Header */}
             <div className={styles.header}>
