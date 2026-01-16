@@ -49,7 +49,7 @@ export function exportToExcel(data: any[], filename: string): void {
 export function exportMetricsToCSV(metrics: HealthMetric[], filename: string = 'health-metrics.csv'): void {
     const data = metrics.map(metric => ({
         Date: metric.date,
-        Name: metric.name,
+        Name: metric.name || metric.metric,
         Value: metric.value,
         Unit: metric.unit,
         'Reference Low': metric.refLow || 'N/A',
@@ -125,7 +125,8 @@ function downloadFile(content: string, filename: string, mimeType: string): void
 // Helper: Generate Apple Health XML
 function generateAppleHealthXML(metrics: HealthMetric[]): string {
     const records = metrics.map(metric => {
-        const type = mapToAppleHealthType(metric.name);
+        const metricName = metric.name || metric.metric;
+        const type = mapToAppleHealthType(metricName);
         return `
   <Record type="${type}" 
           value="${metric.value}" 
@@ -148,14 +149,17 @@ function generateGoogleFitJSON(metrics: HealthMetric[]): any {
         dataSourceId: 'health-os',
         minStartTimeNs: Date.now() * 1000000,
         maxEndTimeNs: Date.now() * 1000000,
-        point: metrics.map(metric => ({
-            startTimeNanos: new Date(metric.date).getTime() * 1000000,
-            endTimeNanos: new Date(metric.date).getTime() * 1000000,
-            dataTypeName: mapToGoogleFitType(metric.name),
-            value: [{
-                fpVal: metric.value,
-            }],
-        })),
+        point: metrics.map(metric => {
+            const metricName = metric.name || metric.metric;
+            return {
+                startTimeNanos: new Date(metric.date).getTime() * 1000000,
+                endTimeNanos: new Date(metric.date).getTime() * 1000000,
+                dataTypeName: mapToGoogleFitType(metricName),
+                value: [{
+                    fpVal: metric.value,
+                }],
+            };
+        }),
     };
 }
 

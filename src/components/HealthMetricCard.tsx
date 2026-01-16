@@ -58,6 +58,8 @@ export default function HealthMetricCard({
     };
 
     const config = severityConfig[severity];
+    const severityAnim = severityAnimations[severity];
+    const animateProps = 'animate' in severityAnim ? severityAnim.animate : undefined;
 
     return (
         <motion.div
@@ -67,7 +69,7 @@ export default function HealthMetricCard({
             initial="initial"
             whileHover="hover"
             whileTap="tap"
-            animate={severityAnimations[severity].animate}
+            animate={animateProps}
             style={{
                 rotateX,
                 rotateY,

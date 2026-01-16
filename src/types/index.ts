@@ -1,5 +1,6 @@
 export interface HealthMetric {
     metric: string;
+    name?: string;
     value: number | string;
     unit: string;
     refLow: number;
@@ -41,6 +42,9 @@ export interface Report {
     s3Path?: string;
     parsedData?: any;
 }
+
+// Alias for backwards compatibility
+export type HealthReport = Report;
 
 export interface Alert {
     id: number;

@@ -65,10 +65,13 @@ export default function AnimatedUpload({ onUpload, profileId }: AnimatedUploadPr
         disabled: uploading,
     });
 
+    // Extract dropzone props and exclude conflicting event handlers
+    const { onAnimationStart, onDragStart, onDragEnd, onDrag, ...dropzoneProps } = getRootProps();
+
     return (
         <div className={styles.container}>
             <motion.div
-                {...getRootProps()}
+                {...dropzoneProps}
                 className={styles.dropzone}
                 data-active={isDragActive}
                 data-uploading={uploading}

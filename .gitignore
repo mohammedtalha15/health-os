@@ -46,3 +46,4 @@ yarn-error.log*
 *.pem
 .vercel
 .turbo
+.env.production
