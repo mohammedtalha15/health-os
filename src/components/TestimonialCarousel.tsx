@@ -52,12 +52,9 @@ export default function TestimonialCarousel() {
     const [currentIndex, setCurrentIndex] = useState(0);
     const [direction, setDirection] = useState(0);
 
-    // Safety check for empty testimonials
-    if (!testimonials || testimonials.length === 0) {
-        return null;
-    }
-
     useEffect(() => {
+        if (!testimonials || testimonials.length === 0) return;
+
         const timer = setInterval(() => {
             setDirection(1);
             setCurrentIndex((prev) => (prev + 1) % testimonials.length);
@@ -65,6 +62,11 @@ export default function TestimonialCarousel() {
 
         return () => clearInterval(timer);
     }, []);
+
+    // Safety check for empty testimonials
+    if (!testimonials || testimonials.length === 0) {
+        return null;
+    }
 
     const handlePrevious = () => {
         setDirection(-1);

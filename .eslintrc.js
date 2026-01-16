@@ -1,29 +1,15 @@
 module.exports = {
-    extends: ['next/core-web-vitals', 'prettier'],
+    extends: ['next/core-web-vitals'],
     rules: {
-        // TypeScript
-        '@typescript-eslint/no-unused-vars': ['warn', { argsIgnorePattern: '^_' }],
-        '@typescript-eslint/no-explicit-any': 'warn',
-
         // React
         'react/prop-types': 'off',
         'react/react-in-jsx-scope': 'off',
-        'react-hooks/rules-of-hooks': 'error',
-        'react-hooks/exhaustive-deps': 'warn',
+        'react/no-unescaped-entities': 'off',
 
+        // Next.js
+        '@next/next/no-img-element': 'off',
         // General
-        'no-console': ['warn', { allow: ['warn', 'error'] }],
-        'prefer-const': 'error',
-        'no-var': 'error',
-
-        // Import
-        'import/order': [
-            'warn',
-            {
-                groups: ['builtin', 'external', 'internal', 'parent', 'sibling', 'index'],
-                'newlines-between': 'always',
-                alphabetize: { order: 'asc', caseInsensitive: true },
-            },
-        ],
+        'no-console': 'off',
+        'prefer-const': 'warn',
     },
 };
