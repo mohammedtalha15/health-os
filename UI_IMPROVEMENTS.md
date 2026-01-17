@@ -4072,3 +4072,8 @@ Tracking all UI enhancements made to Health OS.
 - **Change**: improve badge styling
 - **Time**: 00:33:28
 
+## Commit 815
+- **Component**: Header
+- **Change**: improve card shadow depth
+- **Time**: 00:33:28
+
