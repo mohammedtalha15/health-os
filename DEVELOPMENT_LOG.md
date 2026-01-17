@@ -1252,3 +1252,8 @@ This file tracks incremental development progress.
 - **Area**: sidebar
 - **Change**: enhance debugging support
 
+## Entry 251 - 2026-01-18 00:22:34
+- **Type**: style
+- **Area**: header
+- **Change**: update API endpoints
+
