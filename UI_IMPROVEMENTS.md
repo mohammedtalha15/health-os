@@ -1432,3 +1432,8 @@ Tracking all UI enhancements made to Health OS.
 - **Change**: improve card shadow depth
 - **Time**: 00:33:16
 
+## Commit 287
+- **Component**: Switch
+- **Change**: refine breadcrumb navigation
+- **Time**: 00:33:16
+
