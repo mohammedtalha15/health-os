@@ -2807,3 +2807,8 @@ Tracking all UI enhancements made to Health OS.
 - **Change**: refine feature cards
 - **Time**: 00:33:22
 
+## Commit 562
+- **Component**: Stepper
+- **Change**: refine dropdown menus
+- **Time**: 00:33:22
+
