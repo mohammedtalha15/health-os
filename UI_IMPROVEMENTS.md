@@ -2197,3 +2197,8 @@ Tracking all UI enhancements made to Health OS.
 - **Change**: refine dropdown menus
 - **Time**: 00:33:19
 
+## Commit 440
+- **Component**: HealthMetricCard
+- **Change**: improve switch component
+- **Time**: 00:33:19
+
