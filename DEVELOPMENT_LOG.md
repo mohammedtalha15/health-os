@@ -452,3 +452,8 @@ This file tracks incremental development progress.
 - **Area**: api-client
 - **Change**: enhance data handling
 
+## Entry 91 - 2026-01-18 00:22:29
+- **Type**: ci
+- **Area**: charts
+- **Change**: enhance keyboard navigation
+
