@@ -327,3 +327,8 @@ Tracking all UI enhancements made to Health OS.
 - **Change**: improve card shadow depth
 - **Time**: 00:33:10
 
+## Commit 66
+- **Component**: Input
+- **Change**: improve badge styling
+- **Time**: 00:33:10
+
