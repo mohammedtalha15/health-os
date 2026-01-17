@@ -2877,3 +2877,8 @@ Tracking all UI enhancements made to Health OS.
 - **Change**: refine checkbox styling
 - **Time**: 00:33:22
 
+## Commit 576
+- **Component**: Rating
+- **Change**: enhance radio button design
+- **Time**: 00:33:22
+
