@@ -4482,3 +4482,8 @@ Tracking all UI enhancements made to Health OS.
 - **Change**: enhance color contrast
 - **Time**: 00:33:30
 
+## Commit 897
+- **Component**: ProgressRing
+- **Change**: refine breadcrumb navigation
+- **Time**: 00:33:30
+
