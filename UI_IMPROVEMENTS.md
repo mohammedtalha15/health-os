@@ -777,3 +777,8 @@ Tracking all UI enhancements made to Health OS.
 - **Change**: enhance radio button design
 - **Time**: 00:33:12
 
+## Commit 156
+- **Component**: Chip
+- **Change**: refine modal animations
+- **Time**: 00:33:12
+
