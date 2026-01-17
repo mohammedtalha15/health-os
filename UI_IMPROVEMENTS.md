@@ -2632,3 +2632,8 @@ Tracking all UI enhancements made to Health OS.
 - **Change**: refine border radius values
 - **Time**: 00:33:21
 
+## Commit 527
+- **Component**: EmptyState
+- **Change**: improve testimonial carousel
+- **Time**: 00:33:21
+
