@@ -32,3 +32,8 @@ Tracking all UI enhancements made to Health OS.
 - **Change**: improve input field focus
 - **Time**: 00:33:07
 
+## Commit 7
+- **Component**: Checkbox
+- **Change**: refine modal animations
+- **Time**: 00:33:07
+
