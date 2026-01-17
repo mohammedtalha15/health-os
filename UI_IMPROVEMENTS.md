@@ -4247,3 +4247,8 @@ Tracking all UI enhancements made to Health OS.
 - **Change**: enhance alert styling
 - **Time**: 00:33:29
 
+## Commit 850
+- **Component**: Accordion
+- **Change**: improve badge styling
+- **Time**: 00:33:29
+
