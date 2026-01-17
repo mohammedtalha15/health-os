@@ -722,3 +722,8 @@ Tracking all UI enhancements made to Health OS.
 - **Change**: improve testimonial carousel
 - **Time**: 00:33:12
 
+## Commit 145
+- **Component**: Modal
+- **Change**: enhance pricing section
+- **Time**: 00:33:12
+
