@@ -1007,3 +1007,8 @@ Tracking all UI enhancements made to Health OS.
 - **Change**: refine border radius values
 - **Time**: 00:33:14
 
+## Commit 202
+- **Component**: EmptyState
+- **Change**: refine feature cards
+- **Time**: 00:33:14
+
