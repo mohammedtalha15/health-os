@@ -4762,3 +4762,8 @@ Tracking all UI enhancements made to Health OS.
 - **Change**: improve loading states
 - **Time**: 00:33:31
 
+## Commit 953
+- **Component**: Dropdown
+- **Change**: optimize animation timing
+- **Time**: 00:33:31
+
