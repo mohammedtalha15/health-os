@@ -362,3 +362,8 @@ Tracking all UI enhancements made to Health OS.
 - **Change**: improve search bar design
 - **Time**: 00:33:10
 
+## Commit 73
+- **Component**: RadioGroup
+- **Change**: enhance icon alignments
+- **Time**: 00:33:10
+
