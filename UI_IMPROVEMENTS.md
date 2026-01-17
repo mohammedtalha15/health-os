@@ -1272,3 +1272,8 @@ Tracking all UI enhancements made to Health OS.
 - **Change**: add micro-interactions
 - **Time**: 00:33:15
 
+## Commit 255
+- **Component**: StatsCard
+- **Change**: improve empty state display
+- **Time**: 00:33:15
+
