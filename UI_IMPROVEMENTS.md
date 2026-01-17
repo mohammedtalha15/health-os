@@ -2887,3 +2887,8 @@ Tracking all UI enhancements made to Health OS.
 - **Change**: improve glassmorphism effects
 - **Time**: 00:33:22
 
+## Commit 578
+- **Component**: FeatureCard
+- **Change**: refine modal animations
+- **Time**: 00:33:22
+
