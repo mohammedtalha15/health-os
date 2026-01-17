@@ -3522,3 +3522,8 @@ Tracking all UI enhancements made to Health OS.
 - **Change**: improve toast notifications
 - **Time**: 00:33:25
 
+## Commit 705
+- **Component**: Switch
+- **Change**: enhance button hover states
+- **Time**: 00:33:25
+
