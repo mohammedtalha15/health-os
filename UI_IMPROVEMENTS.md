@@ -1472,3 +1472,8 @@ Tracking all UI enhancements made to Health OS.
 - **Change**: refine typography scale
 - **Time**: 00:33:16
 
+## Commit 295
+- **Component**: Card
+- **Change**: add micro-interactions
+- **Time**: 00:33:16
+
