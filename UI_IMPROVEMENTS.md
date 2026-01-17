@@ -4872,3 +4872,8 @@ Tracking all UI enhancements made to Health OS.
 - **Change**: enhance tooltip positioning
 - **Time**: 00:33:32
 
+## Commit 975
+- **Component**: HeroSection
+- **Change**: improve empty state display
+- **Time**: 00:33:32
+
