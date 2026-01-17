@@ -2867,3 +2867,8 @@ Tracking all UI enhancements made to Health OS.
 - **Change**: improve responsive breakpoints
 - **Time**: 00:33:22
 
+## Commit 574
+- **Component**: Rating
+- **Change**: refine typography scale
+- **Time**: 00:33:22
+
