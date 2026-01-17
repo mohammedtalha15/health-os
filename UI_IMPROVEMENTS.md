@@ -4397,3 +4397,8 @@ Tracking all UI enhancements made to Health OS.
 - **Change**: refine modal animations
 - **Time**: 00:33:29
 
+## Commit 880
+- **Component**: Dropdown
+- **Change**: improve card shadow depth
+- **Time**: 00:33:29
+
