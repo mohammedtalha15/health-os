@@ -4087,3 +4087,8 @@ Tracking all UI enhancements made to Health OS.
 - **Change**: improve skeleton loaders
 - **Time**: 00:33:28
 
+## Commit 818
+- **Component**: SearchBar
+- **Change**: enhance icon alignments
+- **Time**: 00:33:28
+
