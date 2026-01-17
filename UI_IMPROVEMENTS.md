@@ -1467,3 +1467,8 @@ Tracking all UI enhancements made to Health OS.
 - **Change**: improve toast notifications
 - **Time**: 00:33:16
 
+## Commit 294
+- **Component**: ProgressRing
+- **Change**: refine typography scale
+- **Time**: 00:33:16
+
