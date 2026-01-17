@@ -4117,3 +4117,8 @@ Tracking all UI enhancements made to Health OS.
 - **Change**: improve badge styling
 - **Time**: 00:33:28
 
+## Commit 824
+- **Component**: Rating
+- **Change**: refine checkbox styling
+- **Time**: 00:33:28
+
