@@ -22,3 +22,8 @@ Tracking all UI enhancements made to Health OS.
 - **Change**: refine breadcrumb navigation
 - **Time**: 00:33:06
 
+## Commit 5
+- **Component**: Rating
+- **Change**: refine slider appearance
+- **Time**: 00:33:07
+
