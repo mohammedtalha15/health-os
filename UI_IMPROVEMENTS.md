@@ -4807,3 +4807,8 @@ Tracking all UI enhancements made to Health OS.
 - **Change**: improve badge styling
 - **Time**: 00:33:31
 
+## Commit 962
+- **Component**: Tabs
+- **Change**: enhance button hover states
+- **Time**: 00:33:31
+
