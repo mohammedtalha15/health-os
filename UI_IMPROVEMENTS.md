@@ -1102,3 +1102,8 @@ Tracking all UI enhancements made to Health OS.
 - **Change**: enhance tooltip positioning
 - **Time**: 00:33:14
 
+## Commit 221
+- **Component**: Card
+- **Change**: refine modal animations
+- **Time**: 00:33:14
+
