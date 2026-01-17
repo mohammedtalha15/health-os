@@ -3727,3 +3727,8 @@ Tracking all UI enhancements made to Health OS.
 - **Change**: enhance alert styling
 - **Time**: 00:33:26
 
+## Commit 746
+- **Component**: Tooltip
+- **Change**: optimize animation timing
+- **Time**: 00:33:26
+
