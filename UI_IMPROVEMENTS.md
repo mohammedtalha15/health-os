@@ -4007,3 +4007,8 @@ Tracking all UI enhancements made to Health OS.
 - **Change**: improve form field styling
 - **Time**: 00:33:28
 
+## Commit 802
+- **Component**: Badge
+- **Change**: improve testimonial carousel
+- **Time**: 00:33:28
+
