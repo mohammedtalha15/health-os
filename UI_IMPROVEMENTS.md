@@ -1032,3 +1032,8 @@ Tracking all UI enhancements made to Health OS.
 - **Change**: refine modal animations
 - **Time**: 00:33:14
 
+## Commit 207
+- **Component**: ProgressBar
+- **Change**: improve loading states
+- **Time**: 00:33:14
+
