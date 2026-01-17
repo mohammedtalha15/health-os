@@ -2397,3 +2397,8 @@ Tracking all UI enhancements made to Health OS.
 - **Change**: improve input field focus
 - **Time**: 00:33:20
 
+## Commit 480
+- **Component**: RadioGroup
+- **Change**: add micro-interactions
+- **Time**: 00:33:20
+
