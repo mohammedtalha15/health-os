@@ -4462,3 +4462,8 @@ Tracking all UI enhancements made to Health OS.
 - **Change**: enhance divider styling
 - **Time**: 00:33:30
 
+## Commit 893
+- **Component**: Pagination
+- **Change**: enhance radio button design
+- **Time**: 00:33:30
+
