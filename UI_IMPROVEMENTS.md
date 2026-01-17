@@ -3732,3 +3732,8 @@ Tracking all UI enhancements made to Health OS.
 - **Change**: optimize animation timing
 - **Time**: 00:33:26
 
+## Commit 747
+- **Component**: Breadcrumb
+- **Change**: enhance card hover effects
+- **Time**: 00:33:26
+
