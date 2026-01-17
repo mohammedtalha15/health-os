@@ -4802,3 +4802,8 @@ Tracking all UI enhancements made to Health OS.
 - **Change**: improve toast notifications
 - **Time**: 00:33:31
 
+## Commit 961
+- **Component**: HealthMetricCard
+- **Change**: improve badge styling
+- **Time**: 00:33:31
+
