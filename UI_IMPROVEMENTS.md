@@ -317,3 +317,8 @@ Tracking all UI enhancements made to Health OS.
 - **Change**: enhance color contrast
 - **Time**: 00:33:10
 
+## Commit 64
+- **Component**: ProgressRing
+- **Change**: improve card shadow depth
+- **Time**: 00:33:10
+
