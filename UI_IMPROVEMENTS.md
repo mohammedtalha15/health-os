@@ -1652,3 +1652,8 @@ Tracking all UI enhancements made to Health OS.
 - **Change**: improve empty state display
 - **Time**: 00:33:17
 
+## Commit 331
+- **Component**: Stepper
+- **Change**: improve card shadow depth
+- **Time**: 00:33:17
+
