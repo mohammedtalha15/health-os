@@ -4917,3 +4917,8 @@ Tracking all UI enhancements made to Health OS.
 - **Change**: improve responsive breakpoints
 - **Time**: 00:33:32
 
+## Commit 984
+- **Component**: Dropdown
+- **Change**: optimize animation timing
+- **Time**: 00:33:32
+
