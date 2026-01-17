@@ -347,3 +347,8 @@ Tracking all UI enhancements made to Health OS.
 - **Change**: refine border radius values
 - **Time**: 00:33:10
 
+## Commit 70
+- **Component**: Pagination
+- **Change**: refine dropdown menus
+- **Time**: 00:33:10
+
