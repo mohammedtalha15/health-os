@@ -422,3 +422,8 @@ This file tracks incremental development progress.
 - **Area**: buttons
 - **Change**: update test coverage
 
+## Entry 85 - 2026-01-18 00:22:29
+- **Type**: build
+- **Area**: data-upload
+- **Change**: improve tooltip display
+
