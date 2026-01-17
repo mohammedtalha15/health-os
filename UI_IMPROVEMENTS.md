@@ -3562,3 +3562,8 @@ Tracking all UI enhancements made to Health OS.
 - **Change**: enhance focus indicators
 - **Time**: 00:33:26
 
+## Commit 713
+- **Component**: Chip
+- **Change**: refine typography scale
+- **Time**: 00:33:26
+
