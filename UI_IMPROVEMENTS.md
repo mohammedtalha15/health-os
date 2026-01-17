@@ -117,3 +117,8 @@ Tracking all UI enhancements made to Health OS.
 - **Change**: refine typography scale
 - **Time**: 00:33:07
 
+## Commit 24
+- **Component**: Tooltip
+- **Change**: improve switch component
+- **Time**: 00:33:08
+
