@@ -1842,3 +1842,8 @@ Tracking all UI enhancements made to Health OS.
 - **Change**: refine modal animations
 - **Time**: 00:33:18
 
+## Commit 369
+- **Component**: Card
+- **Change**: improve badge styling
+- **Time**: 00:33:18
+
