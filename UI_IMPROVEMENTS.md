@@ -307,3 +307,8 @@ Tracking all UI enhancements made to Health OS.
 - **Change**: refine avatar components
 - **Time**: 00:33:10
 
+## Commit 62
+- **Component**: Stepper
+- **Change**: improve glassmorphism effects
+- **Time**: 00:33:10
+
