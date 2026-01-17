@@ -3467,3 +3467,8 @@ Tracking all UI enhancements made to Health OS.
 - **Change**: refine slider appearance
 - **Time**: 00:33:25
 
+## Commit 694
+- **Component**: Popover
+- **Change**: improve card shadow depth
+- **Time**: 00:33:25
+
