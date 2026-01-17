@@ -407,3 +407,8 @@ This file tracks incremental development progress.
 - **Area**: buttons
 - **Change**: enhance session handling
 
+## Entry 82 - 2026-01-18 00:22:29
+- **Type**: style
+- **Area**: forms
+- **Change**: improve scroll behavior
+
