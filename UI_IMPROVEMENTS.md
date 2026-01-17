@@ -4327,3 +4327,8 @@ Tracking all UI enhancements made to Health OS.
 - **Change**: enhance pricing section
 - **Time**: 00:33:29
 
+## Commit 866
+- **Component**: Badge
+- **Change**: enhance icon alignments
+- **Time**: 00:33:29
+
