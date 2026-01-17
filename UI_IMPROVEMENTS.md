@@ -3552,3 +3552,8 @@ Tracking all UI enhancements made to Health OS.
 - **Change**: improve form field styling
 - **Time**: 00:33:26
 
+## Commit 711
+- **Component**: Card
+- **Change**: refine border radius values
+- **Time**: 00:33:26
+
