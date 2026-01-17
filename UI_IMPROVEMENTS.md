@@ -602,3 +602,8 @@ Tracking all UI enhancements made to Health OS.
 - **Change**: enhance icon alignments
 - **Time**: 00:33:12
 
+## Commit 121
+- **Component**: Tabs
+- **Change**: refine modal animations
+- **Time**: 00:33:12
+
