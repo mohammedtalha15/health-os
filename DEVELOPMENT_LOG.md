@@ -942,3 +942,8 @@ This file tracks incremental development progress.
 - **Area**: modals
 - **Change**: update authentication flow
 
+## Entry 189 - 2026-01-18 00:22:32
+- **Type**: test
+- **Area**: api-client
+- **Change**: enhance debugging support
+
