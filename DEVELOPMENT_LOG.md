@@ -62,3 +62,8 @@ This file tracks incremental development progress.
 - **Area**: forms
 - **Change**: update modal behavior
 
+## Entry 13 - 2026-01-18 00:22:27
+- **Type**: fix
+- **Area**: modals
+- **Change**: improve type definitions
+
