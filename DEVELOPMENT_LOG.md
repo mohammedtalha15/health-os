@@ -1872,3 +1872,8 @@ This file tracks incremental development progress.
 - **Area**: analytics
 - **Change**: enhance dropdown menus
 
+## Entry 375 - 2026-01-18 00:22:37
+- **Type**: feat
+- **Area**: charts
+- **Change**: update icon library
+
