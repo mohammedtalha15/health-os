@@ -1732,3 +1732,8 @@ Tracking all UI enhancements made to Health OS.
 - **Change**: refine typography scale
 - **Time**: 00:33:17
 
+## Commit 347
+- **Component**: RadioGroup
+- **Change**: improve card shadow depth
+- **Time**: 00:33:17
+
