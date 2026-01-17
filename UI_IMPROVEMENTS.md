@@ -382,3 +382,8 @@ Tracking all UI enhancements made to Health OS.
 - **Change**: improve responsive breakpoints
 - **Time**: 00:33:10
 
+## Commit 77
+- **Component**: Modal
+- **Change**: enhance dark mode colors
+- **Time**: 00:33:10
+
