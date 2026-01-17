@@ -1592,3 +1592,8 @@ Tracking all UI enhancements made to Health OS.
 - **Change**: improve testimonial carousel
 - **Time**: 00:33:16
 
+## Commit 319
+- **Component**: Popover
+- **Change**: enhance focus indicators
+- **Time**: 00:33:16
+
