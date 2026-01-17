@@ -2502,3 +2502,8 @@ Tracking all UI enhancements made to Health OS.
 - **Change**: enhance divider styling
 - **Time**: 00:33:21
 
+## Commit 501
+- **Component**: Dropdown
+- **Change**: improve loading states
+- **Time**: 00:33:21
+
