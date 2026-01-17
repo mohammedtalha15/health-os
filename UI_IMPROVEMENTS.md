@@ -3592,3 +3592,8 @@ Tracking all UI enhancements made to Health OS.
 - **Change**: enhance pagination controls
 - **Time**: 00:33:26
 
+## Commit 719
+- **Component**: HealthMetricCard
+- **Change**: enhance radio button design
+- **Time**: 00:33:26
+
