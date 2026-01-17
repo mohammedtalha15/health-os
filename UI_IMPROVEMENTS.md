@@ -37,3 +37,8 @@ Tracking all UI enhancements made to Health OS.
 - **Change**: refine modal animations
 - **Time**: 00:33:07
 
+## Commit 8
+- **Component**: LoadingSpinner
+- **Change**: improve empty state display
+- **Time**: 00:33:07
+
