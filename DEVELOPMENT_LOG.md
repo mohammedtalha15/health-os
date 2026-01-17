@@ -1582,3 +1582,8 @@ This file tracks incremental development progress.
 - **Area**: user-profile
 - **Change**: improve data validation
 
+## Entry 317 - 2026-01-18 00:22:36
+- **Type**: style
+- **Area**: notifications
+- **Change**: improve tooltip display
+
