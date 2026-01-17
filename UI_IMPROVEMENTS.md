@@ -3612,3 +3612,8 @@ Tracking all UI enhancements made to Health OS.
 - **Change**: improve loading states
 - **Time**: 00:33:26
 
+## Commit 723
+- **Component**: StatsCard
+- **Change**: improve badge styling
+- **Time**: 00:33:26
+
