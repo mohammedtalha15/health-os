@@ -4497,3 +4497,8 @@ Tracking all UI enhancements made to Health OS.
 - **Change**: improve loading states
 - **Time**: 00:33:30
 
+## Commit 900
+- **Component**: Tabs
+- **Change**: improve skeleton loaders
+- **Time**: 00:33:30
+
