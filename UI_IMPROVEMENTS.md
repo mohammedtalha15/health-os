@@ -4032,3 +4032,8 @@ Tracking all UI enhancements made to Health OS.
 - **Change**: refine avatar components
 - **Time**: 00:33:28
 
+## Commit 807
+- **Component**: Header
+- **Change**: improve card shadow depth
+- **Time**: 00:33:28
+
