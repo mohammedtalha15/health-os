@@ -2417,3 +2417,8 @@ Tracking all UI enhancements made to Health OS.
 - **Change**: refine dropdown menus
 - **Time**: 00:33:20
 
+## Commit 484
+- **Component**: Rating
+- **Change**: enhance radio button design
+- **Time**: 00:33:20
+
