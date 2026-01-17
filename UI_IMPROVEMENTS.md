@@ -4277,3 +4277,8 @@ Tracking all UI enhancements made to Health OS.
 - **Change**: enhance radio button design
 - **Time**: 00:33:29
 
+## Commit 856
+- **Component**: Rating
+- **Change**: improve input field focus
+- **Time**: 00:33:29
+
