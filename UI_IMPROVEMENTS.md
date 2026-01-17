@@ -2752,3 +2752,8 @@ Tracking all UI enhancements made to Health OS.
 - **Change**: enhance pricing section
 - **Time**: 00:33:22
 
+## Commit 551
+- **Component**: Alert
+- **Change**: refine typography scale
+- **Time**: 00:33:22
+
