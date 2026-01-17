@@ -42,3 +42,8 @@ Tracking all UI enhancements made to Health OS.
 - **Change**: improve empty state display
 - **Time**: 00:33:07
 
+## Commit 9
+- **Component**: Timeline
+- **Change**: refine dropdown menus
+- **Time**: 00:33:07
+
