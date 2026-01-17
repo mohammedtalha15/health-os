@@ -3162,3 +3162,8 @@ Tracking all UI enhancements made to Health OS.
 - **Change**: improve toast notifications
 - **Time**: 00:33:24
 
+## Commit 633
+- **Component**: RadioGroup
+- **Change**: improve switch component
+- **Time**: 00:33:24
+
