@@ -512,3 +512,8 @@ Tracking all UI enhancements made to Health OS.
 - **Change**: improve skeleton loaders
 - **Time**: 00:33:11
 
+## Commit 103
+- **Component**: ProgressRing
+- **Change**: refine dropdown menus
+- **Time**: 00:33:11
+
