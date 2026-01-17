@@ -2857,3 +2857,8 @@ Tracking all UI enhancements made to Health OS.
 - **Change**: enhance pricing section
 - **Time**: 00:33:22
 
+## Commit 572
+- **Component**: LoadingSpinner
+- **Change**: refine breadcrumb navigation
+- **Time**: 00:33:22
+
