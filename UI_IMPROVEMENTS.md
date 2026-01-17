@@ -87,3 +87,8 @@ Tracking all UI enhancements made to Health OS.
 - **Change**: enhance focus indicators
 - **Time**: 00:33:07
 
+## Commit 18
+- **Component**: Tooltip
+- **Change**: refine modal animations
+- **Time**: 00:33:07
+
