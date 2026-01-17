@@ -4502,3 +4502,8 @@ Tracking all UI enhancements made to Health OS.
 - **Change**: improve skeleton loaders
 - **Time**: 00:33:30
 
+## Commit 901
+- **Component**: Accordion
+- **Change**: improve badge styling
+- **Time**: 00:33:30
+
