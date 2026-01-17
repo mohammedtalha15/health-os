@@ -3447,3 +3447,8 @@ Tracking all UI enhancements made to Health OS.
 - **Change**: refine modal animations
 - **Time**: 00:33:25
 
+## Commit 690
+- **Component**: ProgressBar
+- **Change**: refine breadcrumb navigation
+- **Time**: 00:33:25
+
