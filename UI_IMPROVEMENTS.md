@@ -3627,3 +3627,8 @@ Tracking all UI enhancements made to Health OS.
 - **Change**: enhance icon alignments
 - **Time**: 00:33:26
 
+## Commit 726
+- **Component**: Badge
+- **Change**: refine breadcrumb navigation
+- **Time**: 00:33:26
+
