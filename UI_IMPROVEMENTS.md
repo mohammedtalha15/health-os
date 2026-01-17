@@ -3252,3 +3252,8 @@ Tracking all UI enhancements made to Health OS.
 - **Change**: improve toast notifications
 - **Time**: 00:33:24
 
+## Commit 651
+- **Component**: LoadingSpinner
+- **Change**: improve empty state display
+- **Time**: 00:33:24
+
