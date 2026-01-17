@@ -892,3 +892,8 @@ This file tracks incremental development progress.
 - **Area**: reports
 - **Change**: update caching strategy
 
+## Entry 179 - 2026-01-18 00:22:32
+- **Type**: chore
+- **Area**: footer
+- **Change**: update modal behavior
+
