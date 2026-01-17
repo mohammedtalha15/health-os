@@ -1167,3 +1167,8 @@ Tracking all UI enhancements made to Health OS.
 - **Change**: improve skeleton loaders
 - **Time**: 00:33:14
 
+## Commit 234
+- **Component**: Tabs
+- **Change**: improve input field focus
+- **Time**: 00:33:14
+
