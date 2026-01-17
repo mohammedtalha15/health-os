@@ -162,3 +162,8 @@ Tracking all UI enhancements made to Health OS.
 - **Change**: enhance pricing section
 - **Time**: 00:33:08
 
+## Commit 33
+- **Component**: HeroSection
+- **Change**: improve testimonial carousel
+- **Time**: 00:33:08
+
