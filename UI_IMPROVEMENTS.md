@@ -3747,3 +3747,8 @@ Tracking all UI enhancements made to Health OS.
 - **Change**: refine checkbox styling
 - **Time**: 00:33:26
 
+## Commit 750
+- **Component**: EmptyState
+- **Change**: improve search bar design
+- **Time**: 00:33:26
+
