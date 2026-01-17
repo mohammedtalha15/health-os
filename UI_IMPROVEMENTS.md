@@ -4192,3 +4192,8 @@ Tracking all UI enhancements made to Health OS.
 - **Change**: improve input field focus
 - **Time**: 00:33:29
 
+## Commit 839
+- **Component**: Accordion
+- **Change**: refine dropdown menus
+- **Time**: 00:33:29
+
