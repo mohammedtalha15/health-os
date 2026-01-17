@@ -952,3 +952,8 @@ Tracking all UI enhancements made to Health OS.
 - **Change**: improve input field focus
 - **Time**: 00:33:13
 
+## Commit 191
+- **Component**: HeroSection
+- **Change**: refine typography scale
+- **Time**: 00:33:13
+
