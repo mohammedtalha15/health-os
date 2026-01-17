@@ -1242,3 +1242,8 @@ Tracking all UI enhancements made to Health OS.
 - **Change**: refine border radius values
 - **Time**: 00:33:15
 
+## Commit 249
+- **Component**: Timeline
+- **Change**: improve skeleton loaders
+- **Time**: 00:33:15
+
