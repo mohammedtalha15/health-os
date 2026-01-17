@@ -1587,3 +1587,8 @@ This file tracks incremental development progress.
 - **Area**: notifications
 - **Change**: improve tooltip display
 
+## Entry 318 - 2026-01-18 00:22:36
+- **Type**: feat
+- **Area**: api-client
+- **Change**: enhance image optimization
+
