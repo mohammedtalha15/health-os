@@ -1122,3 +1122,8 @@ This file tracks incremental development progress.
 - **Area**: modals
 - **Change**: improve loading states
 
+## Entry 225 - 2026-01-18 00:22:33
+- **Type**: style
+- **Area**: timeline-view
+- **Change**: update API endpoints
+
