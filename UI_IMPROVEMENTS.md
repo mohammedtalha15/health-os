@@ -4332,3 +4332,8 @@ Tracking all UI enhancements made to Health OS.
 - **Change**: enhance icon alignments
 - **Time**: 00:33:29
 
+## Commit 867
+- **Component**: Button
+- **Change**: optimize animation timing
+- **Time**: 00:33:29
+
