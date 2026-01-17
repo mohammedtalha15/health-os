@@ -467,3 +467,8 @@ Tracking all UI enhancements made to Health OS.
 - **Change**: enhance radio button design
 - **Time**: 00:33:11
 
+## Commit 94
+- **Component**: Pagination
+- **Change**: improve badge styling
+- **Time**: 00:33:11
+
