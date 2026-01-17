@@ -352,3 +352,8 @@ Tracking all UI enhancements made to Health OS.
 - **Change**: refine dropdown menus
 - **Time**: 00:33:10
 
+## Commit 71
+- **Component**: Chip
+- **Change**: add micro-interactions
+- **Time**: 00:33:10
+
