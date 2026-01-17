@@ -932,3 +932,8 @@ This file tracks incremental development progress.
 - **Area**: timeline-view
 - **Change**: optimize bundle size
 
+## Entry 187 - 2026-01-18 00:22:32
+- **Type**: chore
+- **Area**: api-client
+- **Change**: enhance dropdown menus
+
