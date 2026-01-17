@@ -2872,3 +2872,8 @@ Tracking all UI enhancements made to Health OS.
 - **Change**: refine typography scale
 - **Time**: 00:33:22
 
+## Commit 575
+- **Component**: Badge
+- **Change**: refine checkbox styling
+- **Time**: 00:33:22
+
