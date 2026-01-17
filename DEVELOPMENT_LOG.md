@@ -2282,3 +2282,8 @@ This file tracks incremental development progress.
 - **Area**: reports
 - **Change**: update logging mechanism
 
+## Entry 457 - 2026-01-18 00:22:40
+- **Type**: fix
+- **Area**: settings
+- **Change**: enhance dropdown menus
+
