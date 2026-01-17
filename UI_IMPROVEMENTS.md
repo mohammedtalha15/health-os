@@ -3927,3 +3927,8 @@ Tracking all UI enhancements made to Health OS.
 - **Change**: refine border radius values
 - **Time**: 00:33:27
 
+## Commit 786
+- **Component**: Input
+- **Change**: refine checkbox styling
+- **Time**: 00:33:27
+
