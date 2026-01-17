@@ -4382,3 +4382,8 @@ Tracking all UI enhancements made to Health OS.
 - **Change**: improve loading states
 - **Time**: 00:33:29
 
+## Commit 877
+- **Component**: Input
+- **Change**: refine checkbox styling
+- **Time**: 00:33:29
+
