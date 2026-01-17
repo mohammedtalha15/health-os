@@ -1937,3 +1937,8 @@ Tracking all UI enhancements made to Health OS.
 - **Change**: improve responsive breakpoints
 - **Time**: 00:33:18
 
+## Commit 388
+- **Component**: RadioGroup
+- **Change**: improve badge styling
+- **Time**: 00:33:18
+
