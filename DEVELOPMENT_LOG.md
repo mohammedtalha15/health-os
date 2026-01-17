@@ -817,3 +817,8 @@ This file tracks incremental development progress.
 - **Area**: sidebar
 - **Change**: update authentication flow
 
+## Entry 164 - 2026-01-18 00:22:31
+- **Type**: feat
+- **Area**: timeline-view
+- **Change**: improve scroll behavior
+
