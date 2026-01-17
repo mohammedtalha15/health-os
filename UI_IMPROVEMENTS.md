@@ -2757,3 +2757,8 @@ Tracking all UI enhancements made to Health OS.
 - **Change**: refine typography scale
 - **Time**: 00:33:22
 
+## Commit 552
+- **Component**: HeroSection
+- **Change**: refine modal animations
+- **Time**: 00:33:22
+
