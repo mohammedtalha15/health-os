@@ -2412,3 +2412,8 @@ Tracking all UI enhancements made to Health OS.
 - **Change**: improve card shadow depth
 - **Time**: 00:33:20
 
+## Commit 483
+- **Component**: Avatar
+- **Change**: refine dropdown menus
+- **Time**: 00:33:20
+
