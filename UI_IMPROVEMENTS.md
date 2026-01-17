@@ -2352,3 +2352,8 @@ Tracking all UI enhancements made to Health OS.
 - **Change**: improve form field styling
 - **Time**: 00:33:20
 
+## Commit 471
+- **Component**: Skeleton
+- **Change**: improve loading states
+- **Time**: 00:33:20
+
