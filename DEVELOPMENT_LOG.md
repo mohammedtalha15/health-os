@@ -1857,3 +1857,8 @@ This file tracks incremental development progress.
 - **Area**: notifications
 - **Change**: improve scroll behavior
 
+## Entry 372 - 2026-01-18 00:22:37
+- **Type**: feat
+- **Area**: modals
+- **Change**: update caching strategy
+
