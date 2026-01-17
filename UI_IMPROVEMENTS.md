@@ -517,3 +517,8 @@ Tracking all UI enhancements made to Health OS.
 - **Change**: refine dropdown menus
 - **Time**: 00:33:11
 
+## Commit 104
+- **Component**: EmptyState
+- **Change**: enhance dark mode colors
+- **Time**: 00:33:11
+
