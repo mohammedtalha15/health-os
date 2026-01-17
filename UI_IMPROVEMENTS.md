@@ -4127,3 +4127,8 @@ Tracking all UI enhancements made to Health OS.
 - **Change**: enhance divider styling
 - **Time**: 00:33:28
 
+## Commit 826
+- **Component**: Rating
+- **Change**: refine checkbox styling
+- **Time**: 00:33:28
+
