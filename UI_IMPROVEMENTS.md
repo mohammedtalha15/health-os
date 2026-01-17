@@ -2967,3 +2967,8 @@ Tracking all UI enhancements made to Health OS.
 - **Change**: improve empty state display
 - **Time**: 00:33:23
 
+## Commit 594
+- **Component**: Stepper
+- **Change**: refine checkbox styling
+- **Time**: 00:33:23
+
