@@ -1832,3 +1832,8 @@ Tracking all UI enhancements made to Health OS.
 - **Change**: enhance dark mode colors
 - **Time**: 00:33:17
 
+## Commit 367
+- **Component**: Popover
+- **Change**: enhance color contrast
+- **Time**: 00:33:18
+
