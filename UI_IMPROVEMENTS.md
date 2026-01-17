@@ -2152,3 +2152,8 @@ Tracking all UI enhancements made to Health OS.
 - **Change**: improve skeleton loaders
 - **Time**: 00:33:19
 
+## Commit 431
+- **Component**: Rating
+- **Change**: improve empty state display
+- **Time**: 00:33:19
+
