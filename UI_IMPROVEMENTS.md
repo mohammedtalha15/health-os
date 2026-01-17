@@ -332,3 +332,8 @@ Tracking all UI enhancements made to Health OS.
 - **Change**: improve badge styling
 - **Time**: 00:33:10
 
+## Commit 67
+- **Component**: Dropdown
+- **Change**: improve badge styling
+- **Time**: 00:33:10
+
