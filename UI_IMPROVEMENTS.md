@@ -137,3 +137,8 @@ Tracking all UI enhancements made to Health OS.
 - **Change**: improve search bar design
 - **Time**: 00:33:08
 
+## Commit 28
+- **Component**: ProgressBar
+- **Change**: refine border radius values
+- **Time**: 00:33:08
+
