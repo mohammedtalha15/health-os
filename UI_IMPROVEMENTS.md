@@ -1572,3 +1572,8 @@ Tracking all UI enhancements made to Health OS.
 - **Change**: improve form field styling
 - **Time**: 00:33:16
 
+## Commit 315
+- **Component**: Stepper
+- **Change**: enhance tooltip positioning
+- **Time**: 00:33:16
+
