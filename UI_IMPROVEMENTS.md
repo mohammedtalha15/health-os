@@ -4852,3 +4852,8 @@ Tracking all UI enhancements made to Health OS.
 - **Change**: add micro-interactions
 - **Time**: 00:33:32
 
+## Commit 971
+- **Component**: Dropdown
+- **Change**: enhance color contrast
+- **Time**: 00:33:32
+
