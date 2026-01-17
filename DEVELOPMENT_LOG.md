@@ -2427,3 +2427,8 @@ This file tracks incremental development progress.
 - **Area**: settings
 - **Change**: refine animation timing
 
+## Entry 486 - 2026-01-18 00:22:41
+- **Type**: test
+- **Area**: api-client
+- **Change**: improve error messages
+
