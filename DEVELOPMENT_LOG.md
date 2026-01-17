@@ -1302,3 +1302,8 @@ This file tracks incremental development progress.
 - **Area**: cards
 - **Change**: update modal behavior
 
+## Entry 261 - 2026-01-18 00:22:34
+- **Type**: refactor
+- **Area**: user-profile
+- **Change**: enhance filter options
+
