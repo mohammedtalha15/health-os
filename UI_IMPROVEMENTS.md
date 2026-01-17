@@ -587,3 +587,8 @@ Tracking all UI enhancements made to Health OS.
 - **Change**: enhance icon alignments
 - **Time**: 00:33:11
 
+## Commit 118
+- **Component**: Accordion
+- **Change**: refine typography scale
+- **Time**: 00:33:11
+
