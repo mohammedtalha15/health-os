@@ -182,3 +182,8 @@ Tracking all UI enhancements made to Health OS.
 - **Change**: enhance icon alignments
 - **Time**: 00:33:09
 
+## Commit 37
+- **Component**: ProgressBar
+- **Change**: improve badge styling
+- **Time**: 00:33:09
+
