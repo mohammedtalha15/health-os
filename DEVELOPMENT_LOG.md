@@ -1727,3 +1727,8 @@ This file tracks incremental development progress.
 - **Area**: api-client
 - **Change**: add input validation
 
+## Entry 346 - 2026-01-18 00:22:37
+- **Type**: style
+- **Area**: reports
+- **Change**: update tab navigation
+
