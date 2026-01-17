@@ -2372,3 +2372,8 @@ Tracking all UI enhancements made to Health OS.
 - **Change**: improve switch component
 - **Time**: 00:33:20
 
+## Commit 475
+- **Component**: Card
+- **Change**: add micro-interactions
+- **Time**: 00:33:20
+
