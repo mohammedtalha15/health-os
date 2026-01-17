@@ -3572,3 +3572,8 @@ Tracking all UI enhancements made to Health OS.
 - **Change**: enhance alert styling
 - **Time**: 00:33:26
 
+## Commit 715
+- **Component**: Header
+- **Change**: refine checkbox styling
+- **Time**: 00:33:26
+
