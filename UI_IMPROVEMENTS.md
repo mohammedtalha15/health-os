@@ -4932,3 +4932,8 @@ Tracking all UI enhancements made to Health OS.
 - **Change**: refine feature cards
 - **Time**: 00:33:32
 
+## Commit 987
+- **Component**: Button
+- **Change**: refine checkbox styling
+- **Time**: 00:33:32
+
