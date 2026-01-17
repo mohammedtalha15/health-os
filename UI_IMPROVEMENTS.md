@@ -1232,3 +1232,8 @@ Tracking all UI enhancements made to Health OS.
 - **Change**: enhance tooltip positioning
 - **Time**: 00:33:15
 
+## Commit 247
+- **Component**: Stepper
+- **Change**: improve switch component
+- **Time**: 00:33:15
+
