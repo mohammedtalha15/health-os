@@ -202,3 +202,8 @@ This file tracks incremental development progress.
 - **Area**: authentication
 - **Change**: enhance session handling
 
+## Entry 41 - 2026-01-18 00:22:28
+- **Type**: docs
+- **Area**: api-client
+- **Change**: update build process
+
