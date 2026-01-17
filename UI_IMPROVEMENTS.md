@@ -357,3 +357,8 @@ Tracking all UI enhancements made to Health OS.
 - **Change**: add micro-interactions
 - **Time**: 00:33:10
 
+## Commit 72
+- **Component**: Popover
+- **Change**: improve search bar design
+- **Time**: 00:33:10
+
