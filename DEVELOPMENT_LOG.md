@@ -367,3 +367,8 @@ This file tracks incremental development progress.
 - **Area**: charts
 - **Change**: update authentication flow
 
+## Entry 74 - 2026-01-18 00:22:29
+- **Type**: style
+- **Area**: api-client
+- **Change**: improve scroll behavior
+
