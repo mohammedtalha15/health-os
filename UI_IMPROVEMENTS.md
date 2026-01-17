@@ -697,3 +697,8 @@ Tracking all UI enhancements made to Health OS.
 - **Change**: enhance focus indicators
 - **Time**: 00:33:12
 
+## Commit 140
+- **Component**: EmptyState
+- **Change**: enhance button hover states
+- **Time**: 00:33:12
+
