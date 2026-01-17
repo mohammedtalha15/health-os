@@ -1577,3 +1577,8 @@ Tracking all UI enhancements made to Health OS.
 - **Change**: enhance tooltip positioning
 - **Time**: 00:33:16
 
+## Commit 316
+- **Component**: FeatureCard
+- **Change**: improve testimonial carousel
+- **Time**: 00:33:16
+
