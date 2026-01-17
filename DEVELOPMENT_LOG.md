@@ -317,3 +317,8 @@ This file tracks incremental development progress.
 - **Area**: settings
 - **Change**: add input validation
 
+## Entry 64 - 2026-01-18 00:22:29
+- **Type**: feat
+- **Area**: cards
+- **Change**: improve tooltip display
+
