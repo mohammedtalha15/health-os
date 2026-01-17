@@ -3742,3 +3742,8 @@ Tracking all UI enhancements made to Health OS.
 - **Change**: enhance card hover effects
 - **Time**: 00:33:26
 
+## Commit 749
+- **Component**: Header
+- **Change**: refine checkbox styling
+- **Time**: 00:33:26
+
