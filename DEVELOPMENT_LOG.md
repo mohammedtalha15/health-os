@@ -2472,3 +2472,8 @@ This file tracks incremental development progress.
 - **Area**: settings
 - **Change**: update modal behavior
 
+## Entry 495 - 2026-01-18 00:22:41
+- **Type**: style
+- **Area**: timeline-view
+- **Change**: refine animation timing
+
