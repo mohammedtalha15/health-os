@@ -1877,3 +1877,8 @@ Tracking all UI enhancements made to Health OS.
 - **Change**: enhance divider styling
 - **Time**: 00:33:18
 
+## Commit 376
+- **Component**: Tabs
+- **Change**: enhance focus indicators
+- **Time**: 00:33:18
+
