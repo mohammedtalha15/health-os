@@ -537,3 +537,8 @@ This file tracks incremental development progress.
 - **Area**: charts
 - **Change**: enhance keyboard navigation
 
+## Entry 108 - 2026-01-18 00:22:30
+- **Type**: ci
+- **Area**: api-client
+- **Change**: enhance theme support
+
