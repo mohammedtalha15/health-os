@@ -4487,3 +4487,8 @@ Tracking all UI enhancements made to Health OS.
 - **Change**: refine breadcrumb navigation
 - **Time**: 00:33:30
 
+## Commit 898
+- **Component**: Popover
+- **Change**: refine avatar components
+- **Time**: 00:33:30
+
