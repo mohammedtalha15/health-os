@@ -1177,3 +1177,8 @@ This file tracks incremental development progress.
 - **Area**: dashboard
 - **Change**: add input validation
 
+## Entry 236 - 2026-01-18 00:22:34
+- **Type**: build
+- **Area**: modals
+- **Change**: improve tooltip display
+
