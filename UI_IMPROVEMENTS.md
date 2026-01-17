@@ -2167,3 +2167,8 @@ Tracking all UI enhancements made to Health OS.
 - **Change**: improve loading states
 - **Time**: 00:33:19
 
+## Commit 434
+- **Component**: HeroSection
+- **Change**: enhance radio button design
+- **Time**: 00:33:19
+
