@@ -1582,3 +1582,8 @@ Tracking all UI enhancements made to Health OS.
 - **Change**: improve testimonial carousel
 - **Time**: 00:33:16
 
+## Commit 317
+- **Component**: Skeleton
+- **Change**: improve skeleton loaders
+- **Time**: 00:33:16
+
