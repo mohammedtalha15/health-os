@@ -1712,3 +1712,8 @@ Tracking all UI enhancements made to Health OS.
 - **Change**: enhance pagination controls
 - **Time**: 00:33:17
 
+## Commit 343
+- **Component**: Modal
+- **Change**: improve loading states
+- **Time**: 00:33:17
+
