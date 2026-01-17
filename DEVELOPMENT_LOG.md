@@ -1882,3 +1882,8 @@ This file tracks incremental development progress.
 - **Area**: footer
 - **Change**: update modal behavior
 
+## Entry 377 - 2026-01-18 00:22:37
+- **Type**: chore
+- **Area**: navigation
+- **Change**: update authentication flow
+
