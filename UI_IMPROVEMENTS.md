@@ -152,3 +152,8 @@ Tracking all UI enhancements made to Health OS.
 - **Change**: enhance focus indicators
 - **Time**: 00:33:08
 
+## Commit 31
+- **Component**: Badge
+- **Change**: refine border radius values
+- **Time**: 00:33:08
+
