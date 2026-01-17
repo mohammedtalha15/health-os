@@ -3362,3 +3362,8 @@ Tracking all UI enhancements made to Health OS.
 - **Change**: enhance alert styling
 - **Time**: 00:33:25
 
+## Commit 673
+- **Component**: Breadcrumb
+- **Change**: refine gradient transitions
+- **Time**: 00:33:25
+
