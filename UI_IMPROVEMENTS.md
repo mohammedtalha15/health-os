@@ -3937,3 +3937,8 @@ Tracking all UI enhancements made to Health OS.
 - **Change**: refine dropdown menus
 - **Time**: 00:33:27
 
+## Commit 788
+- **Component**: FeatureCard
+- **Change**: improve testimonial carousel
+- **Time**: 00:33:27
+
