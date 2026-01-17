@@ -2782,3 +2782,8 @@ Tracking all UI enhancements made to Health OS.
 - **Change**: refine dropdown menus
 - **Time**: 00:33:22
 
+## Commit 557
+- **Component**: ProgressBar
+- **Change**: refine modal animations
+- **Time**: 00:33:22
+
