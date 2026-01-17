@@ -1647,3 +1647,8 @@ Tracking all UI enhancements made to Health OS.
 - **Change**: enhance color contrast
 - **Time**: 00:33:17
 
+## Commit 330
+- **Component**: Modal
+- **Change**: improve empty state display
+- **Time**: 00:33:17
+
