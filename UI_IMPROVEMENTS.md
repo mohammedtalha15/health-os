@@ -67,3 +67,8 @@ Tracking all UI enhancements made to Health OS.
 - **Change**: refine feature cards
 - **Time**: 00:33:07
 
+## Commit 14
+- **Component**: SearchBar
+- **Change**: improve glassmorphism effects
+- **Time**: 00:33:07
+
