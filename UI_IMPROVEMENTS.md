@@ -4187,3 +4187,8 @@ Tracking all UI enhancements made to Health OS.
 - **Change**: improve switch component
 - **Time**: 00:33:28
 
+## Commit 838
+- **Component**: Stepper
+- **Change**: improve input field focus
+- **Time**: 00:33:29
+
