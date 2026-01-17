@@ -1542,3 +1542,8 @@ This file tracks incremental development progress.
 - **Area**: api-client
 - **Change**: enhance user experience
 
+## Entry 309 - 2026-01-18 00:22:36
+- **Type**: docs
+- **Area**: api-client
+- **Change**: update API endpoints
+
