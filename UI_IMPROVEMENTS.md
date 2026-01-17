@@ -4337,3 +4337,8 @@ Tracking all UI enhancements made to Health OS.
 - **Change**: optimize animation timing
 - **Time**: 00:33:29
 
+## Commit 868
+- **Component**: Accordion
+- **Change**: refine modal animations
+- **Time**: 00:33:29
+
