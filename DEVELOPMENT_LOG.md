@@ -57,3 +57,8 @@ This file tracks incremental development progress.
 - **Area**: user-profile
 - **Change**: improve code documentation
 
+## Entry 12 - 2026-01-18 00:22:27
+- **Type**: fix
+- **Area**: forms
+- **Change**: update modal behavior
+
