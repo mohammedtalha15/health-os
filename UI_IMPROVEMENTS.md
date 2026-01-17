@@ -1837,3 +1837,8 @@ Tracking all UI enhancements made to Health OS.
 - **Change**: enhance color contrast
 - **Time**: 00:33:18
 
+## Commit 368
+- **Component**: Tooltip
+- **Change**: refine modal animations
+- **Time**: 00:33:18
+
