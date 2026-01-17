@@ -872,3 +872,8 @@ Tracking all UI enhancements made to Health OS.
 - **Change**: refine spacing consistency
 - **Time**: 00:33:13
 
+## Commit 175
+- **Component**: FeatureCard
+- **Change**: improve card shadow depth
+- **Time**: 00:33:13
+
