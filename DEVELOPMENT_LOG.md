@@ -267,3 +267,8 @@ This file tracks incremental development progress.
 - **Area**: health-metrics
 - **Change**: update icon library
 
+## Entry 54 - 2026-01-18 00:22:28
+- **Type**: refactor
+- **Area**: user-profile
+- **Change**: update modal behavior
+
