@@ -1477,3 +1477,8 @@ Tracking all UI enhancements made to Health OS.
 - **Change**: add micro-interactions
 - **Time**: 00:33:16
 
+## Commit 296
+- **Component**: SearchBar
+- **Change**: refine modal animations
+- **Time**: 00:33:16
+
