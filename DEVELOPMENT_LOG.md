@@ -1757,3 +1757,8 @@ This file tracks incremental development progress.
 - **Area**: user-profile
 - **Change**: enhance image optimization
 
+## Entry 352 - 2026-01-18 00:22:37
+- **Type**: docs
+- **Area**: api-client
+- **Change**: update error handling logic
+
