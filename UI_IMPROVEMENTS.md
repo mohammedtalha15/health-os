@@ -1747,3 +1747,8 @@ Tracking all UI enhancements made to Health OS.
 - **Change**: enhance alert styling
 - **Time**: 00:33:17
 
+## Commit 350
+- **Component**: Rating
+- **Change**: improve loading states
+- **Time**: 00:33:17
+
