@@ -3817,3 +3817,8 @@ Tracking all UI enhancements made to Health OS.
 - **Change**: improve toast notifications
 - **Time**: 00:33:27
 
+## Commit 764
+- **Component**: Rating
+- **Change**: improve skeleton loaders
+- **Time**: 00:33:27
+
