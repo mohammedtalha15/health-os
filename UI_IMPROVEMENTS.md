@@ -17,3 +17,8 @@ Tracking all UI enhancements made to Health OS.
 - **Change**: improve badge styling
 - **Time**: 00:33:06
 
+## Commit 4
+- **Component**: Avatar
+- **Change**: refine breadcrumb navigation
+- **Time**: 00:33:06
+
