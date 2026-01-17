@@ -4677,3 +4677,8 @@ Tracking all UI enhancements made to Health OS.
 - **Change**: improve search bar design
 - **Time**: 00:33:31
 
+## Commit 936
+- **Component**: EmptyState
+- **Change**: add micro-interactions
+- **Time**: 00:33:31
+
