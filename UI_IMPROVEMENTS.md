@@ -3932,3 +3932,8 @@ Tracking all UI enhancements made to Health OS.
 - **Change**: refine checkbox styling
 - **Time**: 00:33:27
 
+## Commit 787
+- **Component**: Header
+- **Change**: refine dropdown menus
+- **Time**: 00:33:27
+
