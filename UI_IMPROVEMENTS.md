@@ -3962,3 +3962,8 @@ Tracking all UI enhancements made to Health OS.
 - **Change**: improve switch component
 - **Time**: 00:33:27
 
+## Commit 793
+- **Component**: Alert
+- **Change**: improve glassmorphism effects
+- **Time**: 00:33:27
+
