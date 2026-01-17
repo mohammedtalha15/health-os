@@ -3837,3 +3837,8 @@ Tracking all UI enhancements made to Health OS.
 - **Change**: improve switch component
 - **Time**: 00:33:27
 
+## Commit 768
+- **Component**: Breadcrumb
+- **Change**: enhance focus indicators
+- **Time**: 00:33:27
+
