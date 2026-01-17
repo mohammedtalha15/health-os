@@ -727,3 +727,8 @@ Tracking all UI enhancements made to Health OS.
 - **Change**: enhance pricing section
 - **Time**: 00:33:12
 
+## Commit 146
+- **Component**: Rating
+- **Change**: improve switch component
+- **Time**: 00:33:12
+
