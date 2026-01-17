@@ -1117,3 +1117,8 @@ This file tracks incremental development progress.
 - **Area**: notifications
 - **Change**: improve sorting mechanism
 
+## Entry 224 - 2026-01-18 00:22:33
+- **Type**: refactor
+- **Area**: modals
+- **Change**: improve loading states
+
