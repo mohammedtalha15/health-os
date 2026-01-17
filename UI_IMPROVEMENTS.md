@@ -2842,3 +2842,8 @@ Tracking all UI enhancements made to Health OS.
 - **Change**: refine border radius values
 - **Time**: 00:33:22
 
+## Commit 569
+- **Component**: RadioGroup
+- **Change**: refine typography scale
+- **Time**: 00:33:22
+
