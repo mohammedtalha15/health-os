@@ -802,3 +802,8 @@ Tracking all UI enhancements made to Health OS.
 - **Change**: enhance dark mode colors
 - **Time**: 00:33:13
 
+## Commit 161
+- **Component**: Tabs
+- **Change**: refine typography scale
+- **Time**: 00:33:13
+
