@@ -142,3 +142,8 @@ Tracking all UI enhancements made to Health OS.
 - **Change**: refine border radius values
 - **Time**: 00:33:08
 
+## Commit 29
+- **Component**: StatsCard
+- **Change**: enhance tab navigation
+- **Time**: 00:33:08
+
