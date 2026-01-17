@@ -4847,3 +4847,8 @@ Tracking all UI enhancements made to Health OS.
 - **Change**: enhance radio button design
 - **Time**: 00:33:32
 
+## Commit 970
+- **Component**: ProgressRing
+- **Change**: add micro-interactions
+- **Time**: 00:33:32
+
