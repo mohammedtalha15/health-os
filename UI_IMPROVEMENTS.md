@@ -2437,3 +2437,8 @@ Tracking all UI enhancements made to Health OS.
 - **Change**: improve search bar design
 - **Time**: 00:33:20
 
+## Commit 488
+- **Component**: FeatureCard
+- **Change**: refine typography scale
+- **Time**: 00:33:20
+
