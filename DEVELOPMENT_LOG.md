@@ -1362,3 +1362,8 @@ This file tracks incremental development progress.
 - **Area**: notifications
 - **Change**: improve code documentation
 
+## Entry 273 - 2026-01-18 00:22:35
+- **Type**: chore
+- **Area**: api-client
+- **Change**: enhance filter options
+
