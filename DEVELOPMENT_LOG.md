@@ -2407,3 +2407,8 @@ This file tracks incremental development progress.
 - **Area**: api-client
 - **Change**: update pagination logic
 
+## Entry 482 - 2026-01-18 00:22:41
+- **Type**: docs
+- **Area**: header
+- **Change**: improve error messages
+
