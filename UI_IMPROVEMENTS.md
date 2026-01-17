@@ -1497,3 +1497,8 @@ Tracking all UI enhancements made to Health OS.
 - **Change**: enhance dark mode colors
 - **Time**: 00:33:16
 
+## Commit 300
+- **Component**: Slider
+- **Change**: refine border radius values
+- **Time**: 00:33:16
+
