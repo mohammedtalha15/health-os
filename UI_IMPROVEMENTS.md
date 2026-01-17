@@ -4492,3 +4492,8 @@ Tracking all UI enhancements made to Health OS.
 - **Change**: refine avatar components
 - **Time**: 00:33:30
 
+## Commit 899
+- **Component**: LoadingSpinner
+- **Change**: improve loading states
+- **Time**: 00:33:30
+
