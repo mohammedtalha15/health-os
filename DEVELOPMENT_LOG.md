@@ -2347,3 +2347,8 @@ This file tracks incremental development progress.
 - **Area**: timeline-view
 - **Change**: improve error messages
 
+## Entry 470 - 2026-01-18 00:22:40
+- **Type**: perf
+- **Area**: modals
+- **Change**: improve error messages
+
