@@ -4232,3 +4232,8 @@ Tracking all UI enhancements made to Health OS.
 - **Change**: improve form field styling
 - **Time**: 00:33:29
 
+## Commit 847
+- **Component**: Stepper
+- **Change**: refine modal animations
+- **Time**: 00:33:29
+
