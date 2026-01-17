@@ -787,3 +787,8 @@ Tracking all UI enhancements made to Health OS.
 - **Change**: improve toast notifications
 - **Time**: 00:33:13
 
+## Commit 158
+- **Component**: FeatureCard
+- **Change**: refine dropdown menus
+- **Time**: 00:33:13
+
