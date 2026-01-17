@@ -52,3 +52,8 @@ Tracking all UI enhancements made to Health OS.
 - **Change**: improve loading states
 - **Time**: 00:33:07
 
+## Commit 11
+- **Component**: Modal
+- **Change**: improve empty state display
+- **Time**: 00:33:07
+
