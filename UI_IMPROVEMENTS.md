@@ -4212,3 +4212,8 @@ Tracking all UI enhancements made to Health OS.
 - **Change**: improve loading states
 - **Time**: 00:33:29
 
+## Commit 843
+- **Component**: LoadingSpinner
+- **Change**: refine breadcrumb navigation
+- **Time**: 00:33:29
+
