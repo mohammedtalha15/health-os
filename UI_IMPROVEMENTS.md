@@ -3902,3 +3902,8 @@ Tracking all UI enhancements made to Health OS.
 - **Change**: refine gradient transitions
 - **Time**: 00:33:27
 
+## Commit 781
+- **Component**: Badge
+- **Change**: refine dropdown menus
+- **Time**: 00:33:27
+
