@@ -1557,3 +1557,8 @@ Tracking all UI enhancements made to Health OS.
 - **Change**: enhance divider styling
 - **Time**: 00:33:16
 
+## Commit 312
+- **Component**: RadioGroup
+- **Change**: improve testimonial carousel
+- **Time**: 00:33:16
+
