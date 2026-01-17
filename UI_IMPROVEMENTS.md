@@ -4942,3 +4942,8 @@ Tracking all UI enhancements made to Health OS.
 - **Change**: enhance color contrast
 - **Time**: 00:33:32
 
+## Commit 989
+- **Component**: Stepper
+- **Change**: refine typography scale
+- **Time**: 00:33:32
+
