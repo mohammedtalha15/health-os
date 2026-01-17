@@ -72,3 +72,8 @@ Tracking all UI enhancements made to Health OS.
 - **Change**: improve glassmorphism effects
 - **Time**: 00:33:07
 
+## Commit 15
+- **Component**: ProgressRing
+- **Change**: improve loading states
+- **Time**: 00:33:07
+
