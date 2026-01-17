@@ -3127,3 +3127,8 @@ Tracking all UI enhancements made to Health OS.
 - **Change**: refine progress indicators
 - **Time**: 00:33:24
 
+## Commit 626
+- **Component**: FeatureCard
+- **Change**: refine breadcrumb navigation
+- **Time**: 00:33:24
+
