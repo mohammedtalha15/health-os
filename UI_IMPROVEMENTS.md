@@ -1622,3 +1622,8 @@ Tracking all UI enhancements made to Health OS.
 - **Change**: refine avatar components
 - **Time**: 00:33:16
 
+## Commit 325
+- **Component**: HeroSection
+- **Change**: improve testimonial carousel
+- **Time**: 00:33:16
+
