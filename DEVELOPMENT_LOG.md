@@ -1072,3 +1072,8 @@ This file tracks incremental development progress.
 - **Area**: forms
 - **Change**: refine component styling
 
+## Entry 215 - 2026-01-18 00:22:33
+- **Type**: feat
+- **Area**: api-client
+- **Change**: improve error messages
+
