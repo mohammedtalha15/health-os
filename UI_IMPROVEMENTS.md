@@ -1527,3 +1527,8 @@ Tracking all UI enhancements made to Health OS.
 - **Change**: enhance divider styling
 - **Time**: 00:33:16
 
+## Commit 306
+- **Component**: HealthMetricCard
+- **Change**: improve glassmorphism effects
+- **Time**: 00:33:16
+
