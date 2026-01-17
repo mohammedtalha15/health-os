@@ -247,3 +247,8 @@ Tracking all UI enhancements made to Health OS.
 - **Change**: enhance pricing section
 - **Time**: 00:33:09
 
+## Commit 50
+- **Component**: HealthMetricCard
+- **Change**: refine checkbox styling
+- **Time**: 00:33:09
+
