@@ -1487,3 +1487,8 @@ Tracking all UI enhancements made to Health OS.
 - **Change**: enhance divider styling
 - **Time**: 00:33:16
 
+## Commit 298
+- **Component**: Switch
+- **Change**: enhance color contrast
+- **Time**: 00:33:16
+
