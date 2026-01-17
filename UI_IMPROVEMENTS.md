@@ -2487,3 +2487,8 @@ Tracking all UI enhancements made to Health OS.
 - **Change**: enhance pricing section
 - **Time**: 00:33:21
 
+## Commit 498
+- **Component**: FeatureCard
+- **Change**: improve glassmorphism effects
+- **Time**: 00:33:21
+
