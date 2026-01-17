@@ -2452,3 +2452,8 @@ This file tracks incremental development progress.
 - **Area**: sidebar
 - **Change**: improve accessibility features
 
+## Entry 491 - 2026-01-18 00:22:41
+- **Type**: refactor
+- **Area**: data-upload
+- **Change**: improve scroll behavior
+
