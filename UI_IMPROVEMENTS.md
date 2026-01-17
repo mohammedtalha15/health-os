@@ -502,3 +502,8 @@ Tracking all UI enhancements made to Health OS.
 - **Change**: improve testimonial carousel
 - **Time**: 00:33:11
 
+## Commit 101
+- **Component**: Modal
+- **Change**: optimize animation timing
+- **Time**: 00:33:11
+
