@@ -1057,3 +1057,8 @@ This file tracks incremental development progress.
 - **Area**: header
 - **Change**: update test coverage
 
+## Entry 212 - 2026-01-18 00:22:33
+- **Type**: style
+- **Area**: health-metrics
+- **Change**: update modal behavior
+
