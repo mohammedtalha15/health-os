@@ -1157,3 +1157,8 @@ Tracking all UI enhancements made to Health OS.
 - **Change**: enhance tooltip positioning
 - **Time**: 00:33:14
 
+## Commit 232
+- **Component**: StatsCard
+- **Change**: improve loading states
+- **Time**: 00:33:14
+
