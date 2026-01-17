@@ -1297,3 +1297,8 @@ This file tracks incremental development progress.
 - **Area**: user-profile
 - **Change**: optimize performance metrics
 
+## Entry 260 - 2026-01-18 00:22:34
+- **Type**: docs
+- **Area**: cards
+- **Change**: update modal behavior
+
