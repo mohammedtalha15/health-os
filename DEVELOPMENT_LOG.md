@@ -1747,3 +1747,8 @@ This file tracks incremental development progress.
 - **Area**: buttons
 - **Change**: enhance mobile support
 
+## Entry 350 - 2026-01-18 00:22:37
+- **Type**: refactor
+- **Area**: reports
+- **Change**: improve scroll behavior
+
