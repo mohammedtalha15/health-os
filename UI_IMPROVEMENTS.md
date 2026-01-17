@@ -1372,3 +1372,8 @@ Tracking all UI enhancements made to Health OS.
 - **Change**: refine avatar components
 - **Time**: 00:33:15
 
+## Commit 275
+- **Component**: Badge
+- **Change**: optimize animation timing
+- **Time**: 00:33:15
+
