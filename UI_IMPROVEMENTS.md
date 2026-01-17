@@ -3682,3 +3682,8 @@ Tracking all UI enhancements made to Health OS.
 - **Change**: improve search bar design
 - **Time**: 00:33:26
 
+## Commit 737
+- **Component**: HeroSection
+- **Change**: improve search bar design
+- **Time**: 00:33:26
+
