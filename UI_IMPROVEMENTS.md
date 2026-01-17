@@ -597,3 +597,8 @@ Tracking all UI enhancements made to Health OS.
 - **Change**: improve search bar design
 - **Time**: 00:33:12
 
+## Commit 120
+- **Component**: HealthMetricCard
+- **Change**: enhance icon alignments
+- **Time**: 00:33:12
+
