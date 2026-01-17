@@ -4607,3 +4607,8 @@ Tracking all UI enhancements made to Health OS.
 - **Change**: optimize animation timing
 - **Time**: 00:33:30
 
+## Commit 922
+- **Component**: Popover
+- **Change**: improve skeleton loaders
+- **Time**: 00:33:30
+
