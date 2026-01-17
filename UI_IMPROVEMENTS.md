@@ -2962,3 +2962,8 @@ Tracking all UI enhancements made to Health OS.
 - **Change**: improve card shadow depth
 - **Time**: 00:33:23
 
+## Commit 593
+- **Component**: Tabs
+- **Change**: improve empty state display
+- **Time**: 00:33:23
+
