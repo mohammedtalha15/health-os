@@ -1877,3 +1877,8 @@ This file tracks incremental development progress.
 - **Area**: charts
 - **Change**: update icon library
 
+## Entry 376 - 2026-01-18 00:22:37
+- **Type**: ci
+- **Area**: footer
+- **Change**: update modal behavior
+
