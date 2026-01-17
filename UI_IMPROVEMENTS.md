@@ -1682,3 +1682,8 @@ Tracking all UI enhancements made to Health OS.
 - **Change**: enhance button hover states
 - **Time**: 00:33:17
 
+## Commit 337
+- **Component**: EmptyState
+- **Change**: improve form field styling
+- **Time**: 00:33:17
+
