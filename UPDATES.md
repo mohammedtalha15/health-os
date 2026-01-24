@@ -14,3 +14,4 @@
 - style(footer): modernize design elements
 - fix(modal): improve close button positioning
 - feat(search): enhance search bar styling
+- style(badges): add status indicator colors
