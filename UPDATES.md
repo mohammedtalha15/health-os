@@ -4,3 +4,4 @@
 - perf(components): optimize rendering performance
 - fix(header): improve mobile navigation
 - feat(auth): enhance login form validation
+- style(buttons): add premium gradient effects
