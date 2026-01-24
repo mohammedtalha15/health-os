@@ -22,3 +22,4 @@
 - fix(dropdown): improve menu animations
 - feat(avatar): add user profile enhancements
 - style(progress): improve progress bar design
+- perf(css): reduce stylesheet bundle size
