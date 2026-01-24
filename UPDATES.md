@@ -12,3 +12,4 @@
 - fix(forms): improve input field accessibility
 - feat(notifications): add toast animations
 - style(footer): modernize design elements
+- fix(modal): improve close button positioning
