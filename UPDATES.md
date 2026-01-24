@@ -23,3 +23,4 @@
 - feat(avatar): add user profile enhancements
 - style(progress): improve progress bar design
 - perf(css): reduce stylesheet bundle size
+- fix(tabs): improve tab switching animations
