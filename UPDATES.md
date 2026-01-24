@@ -7,3 +7,4 @@
 - style(buttons): add premium gradient effects
 - fix(layout): improve responsive breakpoints
 - feat(timeline): add smooth scroll animations
+- style(cards): enhance shadow and depth effects
