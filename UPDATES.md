@@ -11,3 +11,4 @@
 - perf(images): implement lazy loading
 - fix(forms): improve input field accessibility
 - feat(notifications): add toast animations
+- style(footer): modernize design elements
