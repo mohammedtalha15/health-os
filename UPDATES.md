@@ -18,3 +18,4 @@
 - perf(fonts): optimize font loading strategy
 - fix(tooltip): improve positioning logic
 - feat(charts): add data visualization styles
+- style(sidebar): enhance navigation styling
