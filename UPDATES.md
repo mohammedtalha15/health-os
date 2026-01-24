@@ -24,3 +24,4 @@
 - style(progress): improve progress bar design
 - perf(css): reduce stylesheet bundle size
 - fix(tabs): improve tab switching animations
+- feat(alerts): add dismissible alert styles
