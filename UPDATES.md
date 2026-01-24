@@ -27,3 +27,4 @@
 - feat(alerts): add dismissible alert styles
 - style(theme): enhance dark mode colors
 - fix(pagination): improve button spacing
+- feat(skeleton): add loading state animations
