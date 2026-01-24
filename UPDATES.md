@@ -15,3 +15,4 @@
 - fix(modal): improve close button positioning
 - feat(search): enhance search bar styling
 - style(badges): add status indicator colors
+- perf(fonts): optimize font loading strategy
