@@ -9,3 +9,4 @@
 - feat(timeline): add smooth scroll animations
 - style(cards): enhance shadow and depth effects
 - perf(images): implement lazy loading
+- fix(forms): improve input field accessibility
