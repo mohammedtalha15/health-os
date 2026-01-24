@@ -20,3 +20,4 @@
 - feat(charts): add data visualization styles
 - style(sidebar): enhance navigation styling
 - fix(dropdown): improve menu animations
+- feat(avatar): add user profile enhancements
