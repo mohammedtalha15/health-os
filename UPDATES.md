@@ -26,3 +26,4 @@
 - fix(tabs): improve tab switching animations
 - feat(alerts): add dismissible alert styles
 - style(theme): enhance dark mode colors
+- fix(pagination): improve button spacing
