@@ -1202,3 +1202,4 @@
 - perf(security): configure event-handlers (Reference #1202)
 - ci(profile): refactor unit-tests (Reference #1203)
 - chore(search): update validation (Reference #1204)
+- perf(settings): enhance loading-states (Reference #1205)
