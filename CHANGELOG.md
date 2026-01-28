@@ -701,3 +701,4 @@
 - chore(notifications): configure code-quality (Reference #701)
 - docs(search): integrate performance (Reference #702)
 - test(settings): enhance unit-tests (Reference #703)
+- feat(auth): configure state-management (Reference #704)
