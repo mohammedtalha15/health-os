@@ -498,3 +498,4 @@
 - chore(cache): configure unit-tests (Reference #498)
 - refactor(settings): fix user-experience (Reference #499)
 - build(settings): configure caching-logic (Reference #500)
+- build(database): refactor state-management (Reference #501)
