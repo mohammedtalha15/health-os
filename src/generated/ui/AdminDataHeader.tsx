@@ -12,6 +12,7 @@ interface AdminDataHeaderProps {
   prop_167?: string;
   prop_757?: string;
   prop_856?: string;
+  prop_152?: string;
   // PROPS_PLACEHOLDER
 }
 
