@@ -10,6 +10,7 @@ interface DashboardToggleboxProps {
   prop_415?: string;
   prop_773?: string;
   prop_454?: string;
+  prop_605?: string;
   // PROPS_PLACEHOLDER
 }
 
