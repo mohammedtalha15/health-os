@@ -1164,3 +1164,4 @@
 - ci(tables): refactor unit-tests (Reference #1164)
 - ci(cache): integrate event-handlers (Reference #1165)
 - test(dashboard): optimize unit-tests (Reference #1166)
+- ci(profile): refactor loading-states (Reference #1167)
