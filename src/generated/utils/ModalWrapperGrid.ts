@@ -3,8 +3,6 @@
  * Utility function for ModalWrapperGrid operations
  */
 export const ModalWrapperGrid = (input: any): any => {
-  // Processed step 39
-  // Processed step 77
   // LOGIC_PLACEHOLDER
   try {
     const timestamp = Date.now();
