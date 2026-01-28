@@ -11,6 +11,7 @@ interface SettingsListItemProps {
   prop_344?: string;
   prop_870?: string;
   prop_678?: string;
+  prop_828?: string;
   // PROPS_PLACEHOLDER
 }
 
