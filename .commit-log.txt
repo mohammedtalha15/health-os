@@ -2863,3 +2863,4 @@
 // fix(search): refactor type-definitions - commit 391
 // build(tables): optimize animations - commit 392
 // ci(layouts): fix loading-states - commit 393
+// docs(api): configure performance - commit 394
