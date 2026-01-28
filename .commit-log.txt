@@ -52,3 +52,4 @@
 // fix(analytics): optimize event-handlers - commit 1000
 // style(tables): optimize data-fetching - commit 1001
 // build(inputs): integrate code-quality - commit 1002
+// chore(forms): integrate unit-tests - commit 1003
