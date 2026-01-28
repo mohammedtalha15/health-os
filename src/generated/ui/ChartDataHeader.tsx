@@ -5,12 +5,6 @@ interface ChartDataHeaderProps {
   id?: string;
   className?: string;
   children?: React.ReactNode;
-  prop_180?: string;
-  prop_560?: string;
-  prop_154?: string;
-  prop_708?: string;
-  prop_900?: string;
-  prop_104?: string;
   // PROPS_PLACEHOLDER
 }
 
