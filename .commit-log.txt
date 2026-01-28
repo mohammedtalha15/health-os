@@ -612,3 +612,4 @@
 // fix(dashboard): configure transitions - commit 1787
 // style(api): enhance transitions - commit 1788
 // fix(navigation): add unit-tests - commit 1789
+// fix(settings): integrate keyboard-nav - commit 1790
