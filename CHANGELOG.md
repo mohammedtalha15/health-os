@@ -1373,3 +1373,4 @@
 - feat(security): configure accessibility (Reference #1373)
 - perf(security): optimize code-quality (Reference #1374)
 - fix(settings): configure unit-tests (Reference #1375)
+- docs(buttons): fix performance (Reference #1376)
