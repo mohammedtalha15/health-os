@@ -8,6 +8,7 @@ interface SettingsCardboxProps {
   prop_101?: string;
   prop_858?: string;
   prop_243?: string;
+  prop_894?: string;
   // PROPS_PLACEHOLDER
 }
 
