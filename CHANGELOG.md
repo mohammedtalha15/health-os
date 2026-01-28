@@ -707,3 +707,4 @@
 - docs(notifications): fix state-management (Reference #707)
 - build(tables): improve validation (Reference #708)
 - fix(search): enhance data-fetching (Reference #709)
+- chore(inputs): improve loading-states (Reference #710)
