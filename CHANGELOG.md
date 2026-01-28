@@ -152,3 +152,4 @@
 - feat(dashboard): configure error-handling (Reference #152)
 - refactor(dashboard): configure performance (Reference #153)
 - refactor(forms): configure animations (Reference #154)
+- build(dashboard): fix code-quality (Reference #155)
