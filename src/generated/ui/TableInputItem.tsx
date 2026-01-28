@@ -9,6 +9,7 @@ interface TableInputItemProps {
   prop_547?: string;
   prop_655?: string;
   prop_541?: string;
+  prop_201?: string;
   // PROPS_PLACEHOLDER
 }
 
