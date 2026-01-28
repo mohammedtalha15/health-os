@@ -8,6 +8,7 @@ interface TableContainerboxProps {
   prop_941?: string;
   prop_773?: string;
   prop_243?: string;
+  prop_411?: string;
   // PROPS_PLACEHOLDER
 }
 
