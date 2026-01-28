@@ -3,9 +3,6 @@
  * Utility function for ChartCardGroup operations
  */
 export const ChartCardGroup = (input: any): any => {
-  // Processed step 30
-  // Processed step 71
-  // Processed step 76
   // LOGIC_PLACEHOLDER
   try {
     const timestamp = Date.now();
