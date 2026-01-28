@@ -1412,3 +1412,4 @@
 // chore(search): fix error-handling - commit 2587
 // feat(database): add mobile-support - commit 2588
 // perf(charts): configure code-quality - commit 2589
+// style(charts): refactor performance - commit 2590
