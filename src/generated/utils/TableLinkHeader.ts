@@ -3,8 +3,6 @@
  * Utility function for TableLinkHeader operations
  */
 export const TableLinkHeader = (input: any): any => {
-  // Processed step 94
-  // Processed step 26
   // LOGIC_PLACEHOLDER
   try {
     const timestamp = Date.now();
