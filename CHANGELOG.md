@@ -1282,3 +1282,4 @@
 - perf(ui): optimize event-handlers (Reference #1282)
 - ci(notifications): implement data-fetching (Reference #1283)
 - refactor(dashboard): enhance error-handling (Reference #1284)
+- feat(ui): update accessibility (Reference #1285)
