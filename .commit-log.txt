@@ -2148,3 +2148,4 @@
 // fix(notifications): improve transitions - commit 184
 // style(modals): configure responsiveness - commit 185
 // style(notifications): fix responsiveness - commit 186
+// feat(): improve type definitions - commit 187
