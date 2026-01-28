@@ -46,3 +46,4 @@
 // refactor(charts): fix code-quality - commit 994
 // perf(profile): improve unit-tests - commit 995
 // refactor(inputs): configure mobile-support - commit 996
+// test(profile): refactor event-handlers - commit 997
