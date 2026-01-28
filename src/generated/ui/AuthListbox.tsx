@@ -5,6 +5,7 @@ interface AuthListboxProps {
   id?: string;
   className?: string;
   children?: React.ReactNode;
+  prop_117?: string;
   // PROPS_PLACEHOLDER
 }
 
