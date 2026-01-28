@@ -430,3 +430,4 @@
 - docs(auth): configure error-handling (Reference #430)
 - fix(cache): improve performance (Reference #431)
 - feat(ui): refactor accessibility (Reference #432)
+- ci(cache): update accessibility (Reference #433)
