@@ -2417,3 +2417,4 @@
 // chore(charts): refactor  - commit 453
 // fix(api): implement loading states - commit 454
 // test(tables): improve event handlers - commit 455
+// feat(security): fix mobile support - commit 456
