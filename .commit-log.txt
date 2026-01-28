@@ -1507,3 +1507,4 @@
 // feat(inputs): add type-definitions - commit 2682
 // feat(layouts): update type-definitions - commit 2683
 // perf(security): improve type-definitions - commit 2684
+// fix(database): implement documentation - commit 2685
