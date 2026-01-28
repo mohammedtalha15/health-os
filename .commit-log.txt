@@ -1364,3 +1364,4 @@
 // ci(ui): improve responsiveness - commit 2539
 // fix(charts): add type-definitions - commit 2540
 // ci(layouts): configure loading-states - commit 2541
+// style(tables): optimize type-definitions - commit 2542
