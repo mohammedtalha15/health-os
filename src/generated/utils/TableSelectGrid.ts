@@ -3,8 +3,6 @@
  * Utility function for TableSelectGrid operations
  */
 export const TableSelectGrid = (input: any): any => {
-  // Processed step 41
-  // Processed step 24
   // LOGIC_PLACEHOLDER
   try {
     const timestamp = Date.now();
