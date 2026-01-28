@@ -1029,3 +1029,4 @@
 - perf(database): add documentation (Reference #1029)
 - feat(security): implement responsiveness (Reference #1030)
 - build(database): implement type-definitions (Reference #1031)
+- ci(layouts): enhance unit-tests (Reference #1032)
