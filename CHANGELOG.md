@@ -1197,3 +1197,4 @@
 - test(dashboard): improve dark-mode (Reference #1197)
 - docs(inputs): integrate animations (Reference #1198)
 - docs(search): optimize performance (Reference #1199)
+- ci(ui): improve mobile-support (Reference #1200)
