@@ -3,9 +3,6 @@
  * Utility function for TableListRow operations
  */
 export const TableListRow = (input: any): any => {
-  // Processed step 35
-  // Processed step 38
-  // Processed step 64
   // LOGIC_PLACEHOLDER
   try {
     const timestamp = Date.now();
