@@ -5,22 +5,6 @@ interface ChartViewHeaderProps {
   id?: string;
   className?: string;
   children?: React.ReactNode;
-  prop_905?: string;
-  prop_482?: string;
-  prop_649?: string;
-  prop_116?: string;
-  prop_708?: string;
-  prop_473?: string;
-  prop_410?: string;
-  prop_628?: string;
-  prop_909?: string;
-  prop_903?: string;
-  prop_439?: string;
-  prop_645?: string;
-  prop_464?: string;
-  prop_830?: string;
-  prop_965?: string;
-  prop_313?: string;
   // PROPS_PLACEHOLDER
 }
 
