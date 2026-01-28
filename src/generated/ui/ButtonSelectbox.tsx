@@ -13,6 +13,7 @@ interface ButtonSelectboxProps {
   prop_338?: string;
   prop_495?: string;
   prop_396?: string;
+  prop_977?: string;
   // PROPS_PLACEHOLDER
 }
 
