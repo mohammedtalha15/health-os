@@ -803,3 +803,4 @@
 - build(inputs): optimize error-handling (Reference #803)
 - test(settings): update validation (Reference #804)
 - fix(cache): refactor event-handlers (Reference #805)
+- test(settings): optimize performance (Reference #806)
