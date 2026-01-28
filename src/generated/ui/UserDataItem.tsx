@@ -5,6 +5,7 @@ interface UserDataItemProps {
   id?: string;
   className?: string;
   children?: React.ReactNode;
+  prop_860?: string;
   // PROPS_PLACEHOLDER
 }
 
