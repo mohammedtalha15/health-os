@@ -108,3 +108,4 @@
 // ci(search): enhance error-handling - commit 1283
 // build(dashboard): update keyboard-nav - commit 1284
 // style(auth): configure user-experience - commit 1285
+// docs(auth): fix responsiveness - commit 1286
