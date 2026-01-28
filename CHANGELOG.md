@@ -365,3 +365,4 @@
 - docs(notifications): add user-experience (Reference #365)
 - test(auth): optimize event-handlers (Reference #366)
 - docs(notifications): add loading-states (Reference #367)
+- docs(database): update data-fetching (Reference #368)
