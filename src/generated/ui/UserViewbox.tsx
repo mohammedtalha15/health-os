@@ -7,6 +7,7 @@ interface UserViewboxProps {
   children?: React.ReactNode;
   prop_282?: string;
   prop_269?: string;
+  prop_613?: string;
   // PROPS_PLACEHOLDER
 }
 
