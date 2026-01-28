@@ -1256,3 +1256,4 @@
 - test(profile): integrate caching-logic (Reference #1256)
 - chore(auth): update keyboard-nav (Reference #1257)
 - docs(charts): implement performance (Reference #1258)
+- refactor(navigation): improve error-handling (Reference #1259)
