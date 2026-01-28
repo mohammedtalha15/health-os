@@ -1121,3 +1121,4 @@
 - feat(auth): add state-management (Reference #1121)
 - build(charts): update responsiveness (Reference #1122)
 - fix(security): configure user-experience (Reference #1123)
+- feat(charts): optimize error-handling (Reference #1124)
