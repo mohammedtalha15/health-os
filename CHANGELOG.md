@@ -844,3 +844,4 @@
 - ci(notifications): improve user-experience (Reference #844)
 - style(settings): configure type-definitions (Reference #845)
 - feat(buttons): configure unit-tests (Reference #846)
+- refactor(tables): refactor validation (Reference #847)
