@@ -7,6 +7,7 @@ interface ButtonViewGridProps {
   children?: React.ReactNode;
   prop_234?: string;
   prop_812?: string;
+  prop_380?: string;
   // PROPS_PLACEHOLDER
 }
 
