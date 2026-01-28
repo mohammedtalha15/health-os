@@ -230,3 +230,4 @@
 - refactor(profile): enhance animations (Reference #230)
 - perf(charts): refactor responsiveness (Reference #231)
 - build(layouts): implement performance (Reference #232)
+- build(inputs): configure unit-tests (Reference #233)
