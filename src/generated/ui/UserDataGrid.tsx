@@ -7,6 +7,7 @@ interface UserDataGridProps {
   children?: React.ReactNode;
   prop_290?: string;
   prop_901?: string;
+  prop_380?: string;
   // PROPS_PLACEHOLDER
 }
 
