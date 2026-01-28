@@ -6,6 +6,7 @@ interface TableToggleGridProps {
   className?: string;
   children?: React.ReactNode;
   prop_552?: string;
+  prop_712?: string;
   // PROPS_PLACEHOLDER
 }
 
