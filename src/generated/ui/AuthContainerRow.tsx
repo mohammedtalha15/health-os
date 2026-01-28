@@ -5,20 +5,6 @@ interface AuthContainerRowProps {
   id?: string;
   className?: string;
   children?: React.ReactNode;
-  prop_893?: string;
-  prop_819?: string;
-  prop_590?: string;
-  prop_625?: string;
-  prop_177?: string;
-  prop_963?: string;
-  prop_928?: string;
-  prop_689?: string;
-  prop_791?: string;
-  prop_976?: string;
-  prop_339?: string;
-  prop_839?: string;
-  prop_430?: string;
-  prop_468?: string;
   // PROPS_PLACEHOLDER
 }
 
