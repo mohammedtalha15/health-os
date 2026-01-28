@@ -10,6 +10,7 @@ interface ModalDataFooterProps {
   prop_535?: string;
   prop_319?: string;
   prop_566?: string;
+  prop_716?: string;
   // PROPS_PLACEHOLDER
 }
 
