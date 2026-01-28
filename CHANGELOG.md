@@ -213,3 +213,4 @@
 - feat(database): enhance code-quality (Reference #213)
 - refactor(inputs): implement unit-tests (Reference #214)
 - refactor(dashboard): optimize accessibility (Reference #215)
+- feat(search): refactor responsiveness (Reference #216)
