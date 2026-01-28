@@ -8,6 +8,7 @@ interface SettingsInputGridProps {
   prop_903?: string;
   prop_309?: string;
   prop_882?: string;
+  prop_603?: string;
   // PROPS_PLACEHOLDER
 }
 
