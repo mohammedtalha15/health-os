@@ -5,37 +5,6 @@ interface AuthToggleItemProps {
   id?: string;
   className?: string;
   children?: React.ReactNode;
-  prop_953?: string;
-  prop_839?: string;
-  prop_602?: string;
-  prop_503?: string;
-  prop_688?: string;
-  prop_241?: string;
-  prop_463?: string;
-  prop_363?: string;
-  prop_171?: string;
-  prop_864?: string;
-  prop_758?: string;
-  prop_949?: string;
-  prop_291?: string;
-  prop_166?: string;
-  prop_625?: string;
-  prop_381?: string;
-  prop_327?: string;
-  prop_961?: string;
-  prop_347?: string;
-  prop_316?: string;
-  prop_366?: string;
-  prop_353?: string;
-  prop_593?: string;
-  prop_460?: string;
-  prop_833?: string;
-  prop_352?: string;
-  prop_839?: string;
-  prop_665?: string;
-  prop_713?: string;
-  prop_876?: string;
-  prop_503?: string;
   // PROPS_PLACEHOLDER
 }
 
