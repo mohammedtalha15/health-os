@@ -7,6 +7,7 @@ interface AdminDataItemProps {
   children?: React.ReactNode;
   prop_483?: string;
   prop_356?: string;
+  prop_667?: string;
   // PROPS_PLACEHOLDER
 }
 
