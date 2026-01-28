@@ -999,3 +999,4 @@
 // ci(charts): update responsiveness - commit 2174
 // docs(layouts): add caching-logic - commit 2175
 // chore(dashboard): configure state-management - commit 2176
+// style(ui): fix user-experience - commit 2177
