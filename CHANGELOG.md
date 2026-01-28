@@ -1434,3 +1434,4 @@
 - docs(profile): refactor performance (Reference #1434)
 - perf(forms): fix caching-logic (Reference #1435)
 - feat(security): enhance keyboard-nav (Reference #1436)
+- fix(ui): update loading-states (Reference #1437)
