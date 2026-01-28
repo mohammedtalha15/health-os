@@ -3,7 +3,6 @@
  * Utility function for ModalWrapperHeader operations
  */
 export const ModalWrapperHeader = (input: any): any => {
-  // Processed step 56
   // LOGIC_PLACEHOLDER
   try {
     const timestamp = Date.now();
