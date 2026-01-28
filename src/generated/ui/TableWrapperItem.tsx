@@ -9,6 +9,7 @@ interface TableWrapperItemProps {
   prop_400?: string;
   prop_996?: string;
   prop_990?: string;
+  prop_285?: string;
   // PROPS_PLACEHOLDER
 }
 
