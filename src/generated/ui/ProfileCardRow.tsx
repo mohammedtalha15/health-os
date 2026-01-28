@@ -8,6 +8,7 @@ interface ProfileCardRowProps {
   prop_884?: string;
   prop_825?: string;
   prop_918?: string;
+  prop_166?: string;
   // PROPS_PLACEHOLDER
 }
 
