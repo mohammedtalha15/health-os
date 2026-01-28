@@ -14,6 +14,7 @@ interface ModalWrapperSidebarProps {
   prop_338?: string;
   prop_724?: string;
   prop_257?: string;
+  prop_539?: string;
   // PROPS_PLACEHOLDER
 }
 
