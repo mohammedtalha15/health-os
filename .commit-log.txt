@@ -1372,3 +1372,4 @@
 // test(security): refactor type-definitions - commit 2547
 // ci(analytics): optimize event-handlers - commit 2548
 // chore(settings): add unit-tests - commit 2549
+// feat(ui): add event-handlers - commit 2550
