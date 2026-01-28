@@ -281,3 +281,4 @@
 - ci(security): implement documentation (Reference #281)
 - test(cache): optimize accessibility (Reference #282)
 - test(settings): implement performance (Reference #283)
+- test(settings): fix type-definitions (Reference #284)
