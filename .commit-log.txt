@@ -111,3 +111,4 @@
 // fix(buttons): update event-handlers - commit 1059
 // style(charts): optimize documentation - commit 1060
 // feat(tables): configure user-experience - commit 1061
+// chore(layouts): fix mobile-support - commit 1062
