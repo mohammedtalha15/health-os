@@ -197,3 +197,4 @@
 - build(modals): improve performance (Reference #197)
 - chore(forms): implement keyboard-nav (Reference #198)
 - feat(charts): configure animations (Reference #199)
+- ci(ui): fix documentation (Reference #200)
