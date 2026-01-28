@@ -7,6 +7,7 @@ interface ButtonWrapperGridProps {
   children?: React.ReactNode;
   prop_439?: string;
   prop_692?: string;
+  prop_729?: string;
   // PROPS_PLACEHOLDER
 }
 
