@@ -3141,3 +3141,4 @@
 // build(layouts): add dark-mode - commit 669
 // build(cache): fix responsiveness - commit 670
 // chore(notifications): improve user-experience - commit 671
+// chore(dashboard): refactor animations - commit 672
