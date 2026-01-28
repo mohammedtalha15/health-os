@@ -14,6 +14,7 @@ interface ProfileCardSidebarProps {
   prop_905?: string;
   prop_445?: string;
   prop_524?: string;
+  prop_714?: string;
   // PROPS_PLACEHOLDER
 }
 
