@@ -863,3 +863,4 @@
 - refactor(ui): improve state-management (Reference #863)
 - chore(dashboard): optimize user-experience (Reference #864)
 - perf(search): configure animations (Reference #865)
+- perf(cache): update animations (Reference #866)
