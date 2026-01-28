@@ -5,23 +5,6 @@ interface UserListSidebarProps {
   id?: string;
   className?: string;
   children?: React.ReactNode;
-  prop_116?: string;
-  prop_229?: string;
-  prop_881?: string;
-  prop_695?: string;
-  prop_465?: string;
-  prop_117?: string;
-  prop_685?: string;
-  prop_758?: string;
-  prop_912?: string;
-  prop_508?: string;
-  prop_524?: string;
-  prop_194?: string;
-  prop_715?: string;
-  prop_482?: string;
-  prop_740?: string;
-  prop_310?: string;
-  prop_746?: string;
   // PROPS_PLACEHOLDER
 }
 
