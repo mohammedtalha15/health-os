@@ -15,6 +15,7 @@ interface ChartCardboxProps {
   prop_762?: string;
   prop_488?: string;
   prop_874?: string;
+  prop_377?: string;
   // PROPS_PLACEHOLDER
 }
 
