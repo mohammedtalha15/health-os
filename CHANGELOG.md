@@ -1247,3 +1247,4 @@
 - style(navigation): improve unit-tests (Reference #1247)
 - feat(buttons): implement user-experience (Reference #1248)
 - build(modals): enhance performance (Reference #1249)
+- docs(cache): enhance unit-tests (Reference #1250)
