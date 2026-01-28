@@ -1520,3 +1520,4 @@
 // feat(charts): improve type-definitions - commit 2695
 // refactor(ui): add user-experience - commit 2696
 // chore(analytics): fix responsiveness - commit 2697
+// style(security): configure responsiveness - commit 2698
