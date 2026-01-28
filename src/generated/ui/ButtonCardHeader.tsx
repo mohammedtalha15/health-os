@@ -5,21 +5,6 @@ interface ButtonCardHeaderProps {
   id?: string;
   className?: string;
   children?: React.ReactNode;
-  prop_372?: string;
-  prop_383?: string;
-  prop_295?: string;
-  prop_851?: string;
-  prop_231?: string;
-  prop_868?: string;
-  prop_967?: string;
-  prop_480?: string;
-  prop_877?: string;
-  prop_285?: string;
-  prop_936?: string;
-  prop_337?: string;
-  prop_242?: string;
-  prop_722?: string;
-  prop_116?: string;
   // PROPS_PLACEHOLDER
 }
 
