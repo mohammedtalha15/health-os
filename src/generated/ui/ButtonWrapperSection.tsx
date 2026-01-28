@@ -5,8 +5,6 @@ interface ButtonWrapperSectionProps {
   id?: string;
   className?: string;
   children?: React.ReactNode;
-  prop_316?: string;
-  prop_304?: string;
   // PROPS_PLACEHOLDER
 }
 
