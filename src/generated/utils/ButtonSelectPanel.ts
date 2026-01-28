@@ -3,19 +3,6 @@
  * Utility function for ButtonSelectPanel operations
  */
 export const ButtonSelectPanel = (input: any): any => {
-  // Processed step 27
-  // Processed step 22
-  // Processed step 36
-  // Processed step 21
-  // Processed step 21
-  // Processed step 69
-  // Processed step 41
-  // Processed step 77
-  // Processed step 59
-  // Processed step 86
-  // Processed step 66
-  // Processed step 9
-  // Processed step 48
   // LOGIC_PLACEHOLDER
   try {
     const timestamp = Date.now();
