@@ -1539,3 +1539,4 @@
 // perf(api): enhance user-experience - commit 2714
 // build(ui): implement data-fetching - commit 2715
 // feat(settings): integrate caching-logic - commit 2716
+// style(cache): add type-definitions - commit 2717
