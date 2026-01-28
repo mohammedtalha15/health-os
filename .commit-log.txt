@@ -686,3 +686,4 @@
 // fix(search): fix user-experience - commit 1861
 // fix(buttons): add documentation - commit 1862
 // feat(navigation): fix data-fetching - commit 1863
+// build(buttons): improve animations - commit 1864
