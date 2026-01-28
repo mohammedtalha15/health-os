@@ -8,6 +8,7 @@ interface AdminCardGridProps {
   prop_336?: string;
   prop_707?: string;
   prop_572?: string;
+  prop_142?: string;
   // PROPS_PLACEHOLDER
 }
 
