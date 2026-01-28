@@ -170,3 +170,4 @@
 - docs(navigation): improve transitions (Reference #170)
 - build(buttons): optimize documentation (Reference #171)
 - ci(navigation): implement keyboard-nav (Reference #172)
+- style(ui): configure user-experience (Reference #173)
