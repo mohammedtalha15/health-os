@@ -8,6 +8,7 @@ interface UserDataSidebarProps {
   prop_780?: string;
   prop_578?: string;
   prop_243?: string;
+  prop_322?: string;
   // PROPS_PLACEHOLDER
 }
 
