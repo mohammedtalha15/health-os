@@ -7,6 +7,7 @@ interface AdminDataFooterProps {
   children?: React.ReactNode;
   prop_951?: string;
   prop_976?: string;
+  prop_876?: string;
   // PROPS_PLACEHOLDER
 }
 
