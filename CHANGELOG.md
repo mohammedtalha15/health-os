@@ -911,3 +911,4 @@
 - fix(ui): implement loading-states (Reference #911)
 - style(charts): update data-fetching (Reference #912)
 - ci(search): update type-definitions (Reference #913)
+- refactor(charts): optimize dark-mode (Reference #914)
