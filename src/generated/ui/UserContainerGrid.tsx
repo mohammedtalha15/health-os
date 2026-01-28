@@ -10,6 +10,7 @@ interface UserContainerGridProps {
   prop_125?: string;
   prop_550?: string;
   prop_205?: string;
+  prop_845?: string;
   // PROPS_PLACEHOLDER
 }
 
