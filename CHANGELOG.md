@@ -542,3 +542,4 @@
 - feat(search): update dark-mode (Reference #542)
 - build(settings): refactor unit-tests (Reference #543)
 - refactor(cache): add error-handling (Reference #544)
+- chore(ui): integrate documentation (Reference #545)
