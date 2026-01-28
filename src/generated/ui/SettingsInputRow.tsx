@@ -6,6 +6,7 @@ interface SettingsInputRowProps {
   className?: string;
   children?: React.ReactNode;
   prop_874?: string;
+  prop_860?: string;
   // PROPS_PLACEHOLDER
 }
 
