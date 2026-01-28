@@ -744,3 +744,4 @@
 // test(cache): refactor caching-logic - commit 1919
 // refactor(cache): fix data-fetching - commit 1920
 // refactor(cache): optimize dark-mode - commit 1921
+// docs(ui): add type-definitions - commit 1922
