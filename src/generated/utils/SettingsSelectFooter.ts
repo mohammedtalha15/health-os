@@ -3,9 +3,6 @@
  * Utility function for SettingsSelectFooter operations
  */
 export const SettingsSelectFooter = (input: any): any => {
-  // Processed step 90
-  // Processed step 58
-  // Processed step 2
   // LOGIC_PLACEHOLDER
   try {
     const timestamp = Date.now();
