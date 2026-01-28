@@ -3,11 +3,6 @@
  * Utility function for ChartToggleSidebar operations
  */
 export const ChartToggleSidebar = (input: any): any => {
-  // Processed step 60
-  // Processed step 95
-  // Processed step 81
-  // Processed step 46
-  // Processed step 63
   // LOGIC_PLACEHOLDER
   try {
     const timestamp = Date.now();
