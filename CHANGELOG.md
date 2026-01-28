@@ -938,3 +938,4 @@
 - chore(security): fix data-fetching (Reference #938)
 - test(forms): update user-experience (Reference #939)
 - test(api): implement accessibility (Reference #940)
+- feat(ui): fix responsiveness (Reference #941)
