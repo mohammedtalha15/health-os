@@ -5,10 +5,6 @@ interface TableDataGridProps {
   id?: string;
   className?: string;
   children?: React.ReactNode;
-  prop_817?: string;
-  prop_495?: string;
-  prop_166?: string;
-  prop_853?: string;
   // PROPS_PLACEHOLDER
 }
 

@@ -11,6 +11,7 @@ interface ChartContainerSidebarProps {
   prop_882?: string;
   prop_915?: string;
   prop_338?: string;
+  prop_623?: string;
   // PROPS_PLACEHOLDER
 }
 
