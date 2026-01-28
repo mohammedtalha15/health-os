@@ -9,6 +9,7 @@ interface AuthToggleboxProps {
   prop_467?: string;
   prop_581?: string;
   prop_859?: string;
+  prop_571?: string;
   // PROPS_PLACEHOLDER
 }
 
