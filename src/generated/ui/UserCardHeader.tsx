@@ -5,18 +5,6 @@ interface UserCardHeaderProps {
   id?: string;
   className?: string;
   children?: React.ReactNode;
-  prop_387?: string;
-  prop_221?: string;
-  prop_453?: string;
-  prop_227?: string;
-  prop_318?: string;
-  prop_858?: string;
-  prop_268?: string;
-  prop_311?: string;
-  prop_642?: string;
-  prop_611?: string;
-  prop_287?: string;
-  prop_483?: string;
   // PROPS_PLACEHOLDER
 }
 
