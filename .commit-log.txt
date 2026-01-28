@@ -542,3 +542,4 @@
 // test(forms): add code-quality - commit 1717
 // ci(database): optimize type-definitions - commit 1718
 // style(inputs): implement data-fetching - commit 1719
+// ci(inputs): refactor transitions - commit 1720
