@@ -5,13 +5,6 @@ interface SettingsContainerItemProps {
   id?: string;
   className?: string;
   children?: React.ReactNode;
-  prop_170?: string;
-  prop_824?: string;
-  prop_903?: string;
-  prop_499?: string;
-  prop_230?: string;
-  prop_693?: string;
-  prop_285?: string;
   // PROPS_PLACEHOLDER
 }
 
