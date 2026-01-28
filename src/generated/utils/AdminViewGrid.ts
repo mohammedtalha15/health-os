@@ -3,9 +3,6 @@
  * Utility function for AdminViewGrid operations
  */
 export const AdminViewGrid = (input: any): any => {
-  // Processed step 54
-  // Processed step 83
-  // Processed step 77
   // LOGIC_PLACEHOLDER
   try {
     const timestamp = Date.now();
