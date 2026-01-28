@@ -7,6 +7,7 @@ interface SettingsDataboxProps {
   children?: React.ReactNode;
   prop_972?: string;
   prop_675?: string;
+  prop_290?: string;
   // PROPS_PLACEHOLDER
 }
 
