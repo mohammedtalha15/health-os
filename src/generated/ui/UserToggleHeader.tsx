@@ -6,6 +6,7 @@ interface UserToggleHeaderProps {
   className?: string;
   children?: React.ReactNode;
   prop_278?: string;
+  prop_941?: string;
   // PROPS_PLACEHOLDER
 }
 
