@@ -3,9 +3,6 @@
  * Utility function for ProfileInputSection operations
  */
 export const ProfileInputSection = (input: any): any => {
-  // Processed step 88
-  // Processed step 87
-  // Processed step 58
   // LOGIC_PLACEHOLDER
   try {
     const timestamp = Date.now();
