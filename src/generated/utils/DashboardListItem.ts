@@ -3,8 +3,6 @@
  * Utility function for DashboardListItem operations
  */
 export const DashboardListItem = (input: any): any => {
-  // Processed step 97
-  // Processed step 8
   // LOGIC_PLACEHOLDER
   try {
     const timestamp = Date.now();
