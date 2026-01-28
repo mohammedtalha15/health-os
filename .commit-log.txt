@@ -536,3 +536,4 @@
 // feat(profile): improve error-handling - commit 1711
 // chore(notifications): add animations - commit 1712
 // fix(navigation): fix caching-logic - commit 1713
+// feat(api): configure error-handling - commit 1714
