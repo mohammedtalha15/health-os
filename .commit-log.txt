@@ -524,3 +524,4 @@
 // build(database): update accessibility - commit 1699
 // feat(auth): update state-management - commit 1700
 // test(modals): configure responsiveness - commit 1701
+// refactor(layouts): refactor animations - commit 1702
