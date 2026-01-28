@@ -302,3 +302,4 @@
 - feat(database): implement validation (Reference #302)
 - fix(profile): optimize responsiveness (Reference #303)
 - style(settings): optimize code-quality (Reference #304)
+- refactor(search): implement animations (Reference #305)
