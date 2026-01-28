@@ -162,3 +162,4 @@
 - fix(auth): optimize performance (Reference #162)
 - style(analytics): fix unit-tests (Reference #163)
 - fix(charts): implement responsiveness (Reference #164)
+- perf(navigation): implement caching-logic (Reference #165)
