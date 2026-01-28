@@ -3,10 +3,6 @@
  * Utility function for ChartToggleGroup operations
  */
 export const ChartToggleGroup = (input: any): any => {
-  // Processed step 63
-  // Processed step 82
-  // Processed step 57
-  // Processed step 6
   // LOGIC_PLACEHOLDER
   try {
     const timestamp = Date.now();
