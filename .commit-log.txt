@@ -2894,3 +2894,4 @@
 // feat(notifications): improve performance - commit 422
 // fix(search): add loading-states - commit 423
 // style(profile): add documentation - commit 424
+// style(ui): implement type-definitions - commit 425
