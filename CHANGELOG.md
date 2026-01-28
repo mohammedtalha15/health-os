@@ -786,3 +786,4 @@
 - fix(api): update performance (Reference #786)
 - style(search): improve loading-states (Reference #787)
 - docs(ui): integrate user-experience (Reference #788)
+- feat(search): fix data-fetching (Reference #789)
