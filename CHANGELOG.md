@@ -714,3 +714,4 @@
 - ci(profile): enhance unit-tests (Reference #714)
 - docs(settings): integrate event-handlers (Reference #715)
 - chore(database): update animations (Reference #716)
+- docs(auth): add documentation (Reference #717)
