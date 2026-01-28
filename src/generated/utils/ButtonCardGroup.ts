@@ -3,9 +3,6 @@
  * Utility function for ButtonCardGroup operations
  */
 export const ButtonCardGroup = (input: any): any => {
-  // Processed step 3
-  // Processed step 74
-  // Processed step 44
   // LOGIC_PLACEHOLDER
   try {
     const timestamp = Date.now();
