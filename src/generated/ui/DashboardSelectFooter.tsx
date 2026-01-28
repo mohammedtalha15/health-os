@@ -5,13 +5,6 @@ interface DashboardSelectFooterProps {
   id?: string;
   className?: string;
   children?: React.ReactNode;
-  prop_464?: string;
-  prop_696?: string;
-  prop_886?: string;
-  prop_707?: string;
-  prop_735?: string;
-  prop_488?: string;
-  prop_929?: string;
   // PROPS_PLACEHOLDER
 }
 
