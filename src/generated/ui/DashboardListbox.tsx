@@ -13,6 +13,7 @@ interface DashboardListboxProps {
   prop_852?: string;
   prop_166?: string;
   prop_668?: string;
+  prop_384?: string;
   // PROPS_PLACEHOLDER
 }
 
