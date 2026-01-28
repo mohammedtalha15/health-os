@@ -3,13 +3,6 @@
  * Utility function for TableDatabox operations
  */
 export const TableDatabox = (input: any): any => {
-  // Processed step 17
-  // Processed step 21
-  // Processed step 20
-  // Processed step 43
-  // Processed step 30
-  // Processed step 97
-  // Processed step 76
   // LOGIC_PLACEHOLDER
   try {
     const timestamp = Date.now();
