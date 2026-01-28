@@ -12,6 +12,7 @@ interface AdminToggleFooterProps {
   prop_929?: string;
   prop_345?: string;
   prop_829?: string;
+  prop_885?: string;
   // PROPS_PLACEHOLDER
 }
 
