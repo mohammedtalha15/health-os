@@ -3,8 +3,6 @@
  * Utility function for ButtonWrapperbox operations
  */
 export const ButtonWrapperbox = (input: any): any => {
-  // Processed step 42
-  // Processed step 60
   // LOGIC_PLACEHOLDER
   try {
     const timestamp = Date.now();
