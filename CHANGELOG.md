@@ -75,3 +75,4 @@
 - build(search): integrate dark-mode (Reference #75)
 - ci(inputs): configure performance (Reference #76)
 - test(modals): optimize error-handling (Reference #77)
+- feat(api): integrate unit-tests (Reference #78)
