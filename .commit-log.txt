@@ -454,3 +454,4 @@
 // build(api): fix responsiveness - commit 1629
 // fix(notifications): configure event-handlers - commit 1630
 // perf(modals): update dark-mode - commit 1631
+// chore(forms): configure accessibility - commit 1632
