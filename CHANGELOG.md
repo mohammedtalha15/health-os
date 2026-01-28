@@ -561,3 +561,4 @@
 - fix(database): update unit-tests (Reference #561)
 - fix(search): enhance keyboard-nav (Reference #562)
 - test(forms): fix caching-logic (Reference #563)
+- chore(security): implement validation (Reference #564)
