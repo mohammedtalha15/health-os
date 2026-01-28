@@ -18,6 +18,7 @@ interface TableToggleItemProps {
   prop_881?: string;
   prop_381?: string;
   prop_682?: string;
+  prop_650?: string;
   // PROPS_PLACEHOLDER
 }
 
