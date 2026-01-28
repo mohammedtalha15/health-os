@@ -3,9 +3,6 @@
  * Utility function for DashboardToggleRow operations
  */
 export const DashboardToggleRow = (input: any): any => {
-  // Processed step 31
-  // Processed step 63
-  // Processed step 8
   // LOGIC_PLACEHOLDER
   try {
     const timestamp = Date.now();
