@@ -6,6 +6,7 @@ interface SettingsContainerFooterProps {
   className?: string;
   children?: React.ReactNode;
   prop_860?: string;
+  prop_781?: string;
   // PROPS_PLACEHOLDER
 }
 
