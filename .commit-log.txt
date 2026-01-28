@@ -1247,3 +1247,4 @@
 // chore(cache): fix loading-states - commit 2422
 // docs(dashboard): integrate documentation - commit 2423
 // build(auth): refactor event-handlers - commit 2424
+// docs(ui): refactor animations - commit 2425
