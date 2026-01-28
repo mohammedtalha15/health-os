@@ -12,6 +12,7 @@ interface ModalContainerSidebarProps {
   prop_708?: string;
   prop_673?: string;
   prop_140?: string;
+  prop_321?: string;
   // PROPS_PLACEHOLDER
 }
 
