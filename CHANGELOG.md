@@ -270,3 +270,4 @@
 - refactor(analytics): update responsiveness (Reference #270)
 - docs(security): integrate caching-logic (Reference #271)
 - feat(settings): optimize validation (Reference #272)
+- chore(notifications): add documentation (Reference #273)
