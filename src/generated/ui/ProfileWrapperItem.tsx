@@ -7,6 +7,7 @@ interface ProfileWrapperItemProps {
   children?: React.ReactNode;
   prop_863?: string;
   prop_997?: string;
+  prop_575?: string;
   // PROPS_PLACEHOLDER
 }
 
