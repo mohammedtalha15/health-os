@@ -6,6 +6,7 @@ interface ButtonLinkPanelProps {
   className?: string;
   children?: React.ReactNode;
   prop_942?: string;
+  prop_988?: string;
   // PROPS_PLACEHOLDER
 }
 
