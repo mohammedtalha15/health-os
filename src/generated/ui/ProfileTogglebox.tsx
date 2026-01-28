@@ -7,6 +7,7 @@ interface ProfileToggleboxProps {
   children?: React.ReactNode;
   prop_530?: string;
   prop_392?: string;
+  prop_777?: string;
   // PROPS_PLACEHOLDER
 }
 
