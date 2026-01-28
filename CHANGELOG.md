@@ -154,3 +154,4 @@
 - refactor(forms): configure animations (Reference #154)
 - build(dashboard): fix code-quality (Reference #155)
 - test(api): add error-handling (Reference #156)
+- docs(ui): improve mobile-support (Reference #157)
