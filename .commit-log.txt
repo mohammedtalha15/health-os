@@ -1287,3 +1287,4 @@
 // build(profile): fix performance - commit 2462
 // refactor(layouts): improve responsiveness - commit 2463
 // build(modals): refactor user-experience - commit 2464
+// docs(auth): add loading-states - commit 2465
