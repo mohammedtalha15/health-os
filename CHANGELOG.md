@@ -1254,3 +1254,4 @@
 - build(layouts): fix event-handlers (Reference #1254)
 - feat(profile): implement loading-states (Reference #1255)
 - test(profile): integrate caching-logic (Reference #1256)
+- chore(auth): update keyboard-nav (Reference #1257)
