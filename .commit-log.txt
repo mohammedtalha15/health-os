@@ -46,3 +46,4 @@
 // refactor(navigation): update dark-mode - commit 1221
 // perf(notifications): configure dark-mode - commit 1222
 // style(analytics): update loading-states - commit 1223
+// refactor(tables): improve code-quality - commit 1224
