@@ -196,3 +196,4 @@
 - ci(profile): add data-fetching (Reference #196)
 - build(modals): improve performance (Reference #197)
 - chore(forms): implement keyboard-nav (Reference #198)
+- feat(charts): configure animations (Reference #199)
