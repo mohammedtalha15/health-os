@@ -2776,3 +2776,4 @@
 // style(database): improve caching-logic - commit 304
 // test(tables): refactor transitions - commit 305
 // feat(search): update documentation - commit 306
+// perf(api): add responsiveness - commit 307
