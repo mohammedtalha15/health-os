@@ -5,18 +5,6 @@ interface UserLinkGroupProps {
   id?: string;
   className?: string;
   children?: React.ReactNode;
-  prop_866?: string;
-  prop_660?: string;
-  prop_284?: string;
-  prop_832?: string;
-  prop_457?: string;
-  prop_722?: string;
-  prop_288?: string;
-  prop_222?: string;
-  prop_444?: string;
-  prop_945?: string;
-  prop_233?: string;
-  prop_908?: string;
   // PROPS_PLACEHOLDER
 }
 
