@@ -189,3 +189,4 @@
 // ci(dashboard): add keyboard-nav - commit 1364
 // feat(layouts): add accessibility - commit 1365
 // fix(api): fix transitions - commit 1366
+// chore(settings): update state-management - commit 1367
