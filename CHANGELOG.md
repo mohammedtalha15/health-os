@@ -257,3 +257,4 @@
 - style(cache): configure caching-logic (Reference #257)
 - perf(api): update mobile-support (Reference #258)
 - ci(notifications): update data-fetching (Reference #259)
+- refactor(profile): configure state-management (Reference #260)
