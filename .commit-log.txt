@@ -389,3 +389,4 @@
 // docs(modals): implement caching-logic - commit 1564
 // fix(charts): fix documentation - commit 1565
 // style(database): enhance validation - commit 1566
+// build(forms): add accessibility - commit 1567
