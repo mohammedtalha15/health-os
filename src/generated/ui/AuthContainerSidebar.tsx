@@ -7,6 +7,7 @@ interface AuthContainerSidebarProps {
   children?: React.ReactNode;
   prop_892?: string;
   prop_473?: string;
+  prop_715?: string;
   // PROPS_PLACEHOLDER
 }
 
