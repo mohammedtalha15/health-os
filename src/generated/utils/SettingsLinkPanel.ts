@@ -3,8 +3,6 @@
  * Utility function for SettingsLinkPanel operations
  */
 export const SettingsLinkPanel = (input: any): any => {
-  // Processed step 75
-  // Processed step 19
   // LOGIC_PLACEHOLDER
   try {
     const timestamp = Date.now();
