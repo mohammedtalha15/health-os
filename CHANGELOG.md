@@ -322,3 +322,4 @@
 - chore(tables): update event-handlers (Reference #322)
 - test(analytics): integrate performance (Reference #323)
 - test(analytics): configure performance (Reference #324)
+- fix(api): update error-handling (Reference #325)
