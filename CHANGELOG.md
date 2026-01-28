@@ -832,3 +832,4 @@
 - build(auth): enhance mobile-support (Reference #832)
 - feat(notifications): fix accessibility (Reference #833)
 - perf(inputs): fix user-experience (Reference #834)
+- refactor(layouts): improve keyboard-nav (Reference #835)
