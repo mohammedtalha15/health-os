@@ -802,3 +802,4 @@
 - chore(inputs): integrate code-quality (Reference #802)
 - build(inputs): optimize error-handling (Reference #803)
 - test(settings): update validation (Reference #804)
+- fix(cache): refactor event-handlers (Reference #805)
