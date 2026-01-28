@@ -969,3 +969,4 @@
 - ci(database): implement unit-tests (Reference #969)
 - feat(dashboard): configure animations (Reference #970)
 - chore(forms): optimize error-handling (Reference #971)
+- perf(forms): add mobile-support (Reference #972)
