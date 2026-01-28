@@ -583,3 +583,4 @@
 - refactor(navigation): enhance event-handlers (Reference #583)
 - feat(analytics): optimize event-handlers (Reference #584)
 - style(api): refactor data-fetching (Reference #585)
+- test(auth): update transitions (Reference #586)
