@@ -1269,3 +1269,4 @@
 - docs(tables): update data-fetching (Reference #1269)
 - refactor(charts): fix mobile-support (Reference #1270)
 - docs(security): refactor error-handling (Reference #1271)
+- chore(database): enhance loading-states (Reference #1272)
