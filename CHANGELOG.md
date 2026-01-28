@@ -1053,3 +1053,4 @@
 - style(ui): fix user-experience (Reference #1053)
 - test(tables): update event-handlers (Reference #1054)
 - refactor(database): refactor performance (Reference #1055)
+- fix(buttons): add loading-states (Reference #1056)
