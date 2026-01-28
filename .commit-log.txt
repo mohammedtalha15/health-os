@@ -3240,3 +3240,4 @@
 // fix(auth): refactor loading-states - commit 768
 // test(tables): enhance data-fetching - commit 769
 // test(charts): implement error-handling - commit 770
+// chore(buttons): improve type-definitions - commit 771
