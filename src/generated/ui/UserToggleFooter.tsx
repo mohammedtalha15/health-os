@@ -6,6 +6,7 @@ interface UserToggleFooterProps {
   className?: string;
   children?: React.ReactNode;
   prop_824?: string;
+  prop_831?: string;
   // PROPS_PLACEHOLDER
 }
 
