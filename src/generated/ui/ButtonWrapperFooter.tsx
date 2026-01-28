@@ -5,12 +5,6 @@ interface ButtonWrapperFooterProps {
   id?: string;
   className?: string;
   children?: React.ReactNode;
-  prop_362?: string;
-  prop_763?: string;
-  prop_545?: string;
-  prop_750?: string;
-  prop_477?: string;
-  prop_332?: string;
   // PROPS_PLACEHOLDER
 }
 
