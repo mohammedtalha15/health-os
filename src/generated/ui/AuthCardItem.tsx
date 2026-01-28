@@ -7,6 +7,7 @@ interface AuthCardItemProps {
   children?: React.ReactNode;
   prop_473?: string;
   prop_792?: string;
+  prop_643?: string;
   // PROPS_PLACEHOLDER
 }
 
