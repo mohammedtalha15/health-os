@@ -7,6 +7,7 @@ interface SettingsDataHeaderProps {
   children?: React.ReactNode;
   prop_983?: string;
   prop_115?: string;
+  prop_167?: string;
   // PROPS_PLACEHOLDER
 }
 
