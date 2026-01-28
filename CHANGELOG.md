@@ -358,3 +358,4 @@
 - ci(security): implement loading-states (Reference #358)
 - docs(search): optimize documentation (Reference #359)
 - perf(security): integrate unit-tests (Reference #360)
+- perf(settings): refactor dark-mode (Reference #361)
