@@ -5,33 +5,6 @@ interface AdminViewHeaderProps {
   id?: string;
   className?: string;
   children?: React.ReactNode;
-  prop_667?: string;
-  prop_383?: string;
-  prop_266?: string;
-  prop_911?: string;
-  prop_633?: string;
-  prop_771?: string;
-  prop_579?: string;
-  prop_356?: string;
-  prop_915?: string;
-  prop_927?: string;
-  prop_587?: string;
-  prop_568?: string;
-  prop_407?: string;
-  prop_498?: string;
-  prop_778?: string;
-  prop_673?: string;
-  prop_693?: string;
-  prop_130?: string;
-  prop_813?: string;
-  prop_173?: string;
-  prop_162?: string;
-  prop_234?: string;
-  prop_470?: string;
-  prop_647?: string;
-  prop_416?: string;
-  prop_189?: string;
-  prop_487?: string;
   // PROPS_PLACEHOLDER
 }
 
