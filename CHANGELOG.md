@@ -54,3 +54,4 @@
 - style(settings): update dark-mode (Reference #54)
 - docs(modals): improve keyboard-nav (Reference #55)
 - feat(database): enhance error-handling (Reference #56)
+- docs(charts): update performance (Reference #57)
