@@ -7,6 +7,7 @@ interface ChartSelectFooterProps {
   children?: React.ReactNode;
   prop_113?: string;
   prop_668?: string;
+  prop_616?: string;
   // PROPS_PLACEHOLDER
 }
 
