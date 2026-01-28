@@ -7,6 +7,7 @@ interface ChartInputSidebarProps {
   children?: React.ReactNode;
   prop_773?: string;
   prop_311?: string;
+  prop_434?: string;
   // PROPS_PLACEHOLDER
 }
 
