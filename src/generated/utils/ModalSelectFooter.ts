@@ -3,6 +3,7 @@
  * Utility function for ModalSelectFooter operations
  */
 export const ModalSelectFooter = (input: any): any => {
+  // Processed step 4
   // LOGIC_PLACEHOLDER
   try {
     const timestamp = Date.now();
