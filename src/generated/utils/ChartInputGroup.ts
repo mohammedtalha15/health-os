@@ -3,9 +3,6 @@
  * Utility function for ChartInputGroup operations
  */
 export const ChartInputGroup = (input: any): any => {
-  // Processed step 35
-  // Processed step 6
-  // Processed step 1
   // LOGIC_PLACEHOLDER
   try {
     const timestamp = Date.now();
