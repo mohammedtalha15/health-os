@@ -9,6 +9,7 @@ interface AuthDataboxProps {
   prop_385?: string;
   prop_119?: string;
   prop_990?: string;
+  prop_361?: string;
   // PROPS_PLACEHOLDER
 }
 
