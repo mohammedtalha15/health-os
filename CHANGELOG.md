@@ -1311,3 +1311,4 @@
 - chore(tables): refactor state-management (Reference #1311)
 - build(settings): add error-handling (Reference #1312)
 - feat(notifications): configure data-fetching (Reference #1313)
+- perf(navigation): optimize user-experience (Reference #1314)
