@@ -7,6 +7,7 @@ interface SettingsContainerSectionProps {
   children?: React.ReactNode;
   prop_601?: string;
   prop_195?: string;
+  prop_757?: string;
   // PROPS_PLACEHOLDER
 }
 
