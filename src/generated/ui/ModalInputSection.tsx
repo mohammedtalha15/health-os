@@ -11,6 +11,7 @@ interface ModalInputSectionProps {
   prop_799?: string;
   prop_240?: string;
   prop_226?: string;
+  prop_259?: string;
   // PROPS_PLACEHOLDER
 }
 
