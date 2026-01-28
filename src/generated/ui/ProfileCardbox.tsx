@@ -10,6 +10,7 @@ interface ProfileCardboxProps {
   prop_460?: string;
   prop_135?: string;
   prop_987?: string;
+  prop_162?: string;
   // PROPS_PLACEHOLDER
 }
 
