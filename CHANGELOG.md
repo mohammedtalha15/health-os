@@ -686,3 +686,4 @@
 - refactor(profile): configure unit-tests (Reference #686)
 - refactor(dashboard): configure dark-mode (Reference #687)
 - test(analytics): optimize unit-tests (Reference #688)
+- feat(profile): integrate keyboard-nav (Reference #689)
