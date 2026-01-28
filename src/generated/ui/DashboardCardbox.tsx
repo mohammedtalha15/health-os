@@ -6,6 +6,7 @@ interface DashboardCardboxProps {
   className?: string;
   children?: React.ReactNode;
   prop_209?: string;
+  prop_175?: string;
   // PROPS_PLACEHOLDER
 }
 
