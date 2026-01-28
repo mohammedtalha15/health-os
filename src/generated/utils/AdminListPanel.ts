@@ -3,12 +3,6 @@
  * Utility function for AdminListPanel operations
  */
 export const AdminListPanel = (input: any): any => {
-  // Processed step 18
-  // Processed step 19
-  // Processed step 15
-  // Processed step 76
-  // Processed step 9
-  // Processed step 71
   // LOGIC_PLACEHOLDER
   try {
     const timestamp = Date.now();
