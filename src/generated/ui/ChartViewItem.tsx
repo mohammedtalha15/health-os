@@ -15,6 +15,7 @@ interface ChartViewItemProps {
   prop_350?: string;
   prop_492?: string;
   prop_456?: string;
+  prop_106?: string;
   // PROPS_PLACEHOLDER
 }
 
