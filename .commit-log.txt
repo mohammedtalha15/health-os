@@ -127,3 +127,4 @@
 // build(charts): add animations - commit 1075
 // build(profile): enhance mobile-support - commit 1076
 // build(tables): configure loading-states - commit 1077
+// build(api): configure validation - commit 1078
