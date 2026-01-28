@@ -1059,3 +1059,4 @@
 // perf(dashboard): refactor unit-tests - commit 2234
 // fix(profile): enhance loading-states - commit 2235
 // docs(notifications): fix loading-states - commit 2236
+// build(modals): update error-handling - commit 2237
