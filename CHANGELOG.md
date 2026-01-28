@@ -1458,3 +1458,4 @@
 - refactor(modals): configure error-handling (Reference #1458)
 - build(database): enhance error-handling (Reference #1459)
 - feat(inputs): fix documentation (Reference #1460)
+- style(modals): configure responsiveness (Reference #1461)
