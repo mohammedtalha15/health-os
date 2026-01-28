@@ -540,3 +540,4 @@
 - build(security): enhance caching-logic (Reference #540)
 - docs(database): integrate error-handling (Reference #541)
 - feat(search): update dark-mode (Reference #542)
+- build(settings): refactor unit-tests (Reference #543)
