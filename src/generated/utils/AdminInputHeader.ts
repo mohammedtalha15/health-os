@@ -3,11 +3,6 @@
  * Utility function for AdminInputHeader operations
  */
 export const AdminInputHeader = (input: any): any => {
-  // Processed step 2
-  // Processed step 44
-  // Processed step 40
-  // Processed step 79
-  // Processed step 16
   // LOGIC_PLACEHOLDER
   try {
     const timestamp = Date.now();
