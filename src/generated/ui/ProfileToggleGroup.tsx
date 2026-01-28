@@ -9,6 +9,7 @@ interface ProfileToggleGroupProps {
   prop_735?: string;
   prop_428?: string;
   prop_834?: string;
+  prop_510?: string;
   // PROPS_PLACEHOLDER
 }
 
