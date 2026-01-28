@@ -13,6 +13,7 @@ interface ButtonInputPanelProps {
   prop_658?: string;
   prop_307?: string;
   prop_638?: string;
+  prop_644?: string;
   // PROPS_PLACEHOLDER
 }
 
