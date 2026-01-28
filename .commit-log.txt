@@ -2463,3 +2463,4 @@
 // perf(): configure dark mode - commit 499
 // docs(search):  screen reader support - commit 500
 // style(): configure keyboard navigation - commit 501
+// chore(inputs): configure screen reader support - commit 502
