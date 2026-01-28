@@ -825,3 +825,4 @@
 // perf(profile): implement error-handling - commit 2000
 // style(ui): refactor user-experience - commit 2001
 // chore(auth): integrate event-handlers - commit 2002
+// docs(tables): refactor loading-states - commit 2003
