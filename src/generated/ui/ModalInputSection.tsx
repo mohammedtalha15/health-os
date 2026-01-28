@@ -5,17 +5,6 @@ interface ModalInputSectionProps {
   id?: string;
   className?: string;
   children?: React.ReactNode;
-  prop_121?: string;
-  prop_899?: string;
-  prop_972?: string;
-  prop_673?: string;
-  prop_115?: string;
-  prop_371?: string;
-  prop_997?: string;
-  prop_876?: string;
-  prop_528?: string;
-  prop_502?: string;
-  prop_620?: string;
   // PROPS_PLACEHOLDER
 }
 
