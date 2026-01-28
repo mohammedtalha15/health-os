@@ -5,13 +5,6 @@ interface DashboardLinkPanelProps {
   id?: string;
   className?: string;
   children?: React.ReactNode;
-  prop_794?: string;
-  prop_646?: string;
-  prop_239?: string;
-  prop_178?: string;
-  prop_302?: string;
-  prop_598?: string;
-  prop_765?: string;
   // PROPS_PLACEHOLDER
 }
 
