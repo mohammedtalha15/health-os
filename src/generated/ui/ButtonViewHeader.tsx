@@ -10,6 +10,7 @@ interface ButtonViewHeaderProps {
   prop_789?: string;
   prop_336?: string;
   prop_231?: string;
+  prop_634?: string;
   // PROPS_PLACEHOLDER
 }
 
