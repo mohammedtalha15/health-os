@@ -8,6 +8,7 @@ interface UserListSectionProps {
   prop_404?: string;
   prop_610?: string;
   prop_464?: string;
+  prop_186?: string;
   // PROPS_PLACEHOLDER
 }
 
