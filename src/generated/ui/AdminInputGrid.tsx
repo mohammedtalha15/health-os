@@ -5,9 +5,6 @@ interface AdminInputGridProps {
   id?: string;
   className?: string;
   children?: React.ReactNode;
-  prop_667?: string;
-  prop_537?: string;
-  prop_845?: string;
   // PROPS_PLACEHOLDER
 }
 
