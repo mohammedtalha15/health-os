@@ -5,7 +5,6 @@ interface DashboardLinkFooterProps {
   id?: string;
   className?: string;
   children?: React.ReactNode;
-  prop_744?: string;
   // PROPS_PLACEHOLDER
 }
 
