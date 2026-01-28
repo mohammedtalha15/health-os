@@ -8,6 +8,7 @@ interface ChartContainerboxProps {
   prop_824?: string;
   prop_753?: string;
   prop_694?: string;
+  prop_319?: string;
   // PROPS_PLACEHOLDER
 }
 
