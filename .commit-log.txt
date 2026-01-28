@@ -2569,3 +2569,4 @@
 // docs(layouts): improve event-handlers - commit 97
 // fix(profile): improve type-definitions - commit 98
 // perf(api): integrate type-definitions - commit 99
+// perf(ui): configure data-fetching - commit 100
