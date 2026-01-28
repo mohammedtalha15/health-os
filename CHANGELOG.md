@@ -736,3 +736,4 @@
 - perf(settings): implement mobile-support (Reference #736)
 - perf(layouts): add keyboard-nav (Reference #737)
 - build(charts): enhance type-definitions (Reference #738)
+- fix(modals): implement responsiveness (Reference #739)
