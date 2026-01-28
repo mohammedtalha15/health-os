@@ -11,6 +11,7 @@ interface SettingsViewSectionProps {
   prop_549?: string;
   prop_588?: string;
   prop_790?: string;
+  prop_924?: string;
   // PROPS_PLACEHOLDER
 }
 
