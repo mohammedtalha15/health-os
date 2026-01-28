@@ -3,23 +3,6 @@
  * Utility function for TableLinkSidebar operations
  */
 export const TableLinkSidebar = (input: any): any => {
-  // Processed step 49
-  // Processed step 45
-  // Processed step 99
-  // Processed step 40
-  // Processed step 86
-  // Processed step 35
-  // Processed step 81
-  // Processed step 39
-  // Processed step 34
-  // Processed step 20
-  // Processed step 79
-  // Processed step 36
-  // Processed step 73
-  // Processed step 26
-  // Processed step 3
-  // Processed step 10
-  // Processed step 6
   // LOGIC_PLACEHOLDER
   try {
     const timestamp = Date.now();
