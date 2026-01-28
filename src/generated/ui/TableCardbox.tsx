@@ -9,6 +9,7 @@ interface TableCardboxProps {
   prop_290?: string;
   prop_673?: string;
   prop_375?: string;
+  prop_967?: string;
   // PROPS_PLACEHOLDER
 }
 
