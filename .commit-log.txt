@@ -464,3 +464,4 @@
 // docs(api): update keyboard-nav - commit 1639
 // build(tables): enhance error-handling - commit 1640
 // perf(modals): fix dark-mode - commit 1641
+// build(tables): improve animations - commit 1642
