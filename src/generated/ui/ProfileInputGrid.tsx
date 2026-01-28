@@ -7,6 +7,7 @@ interface ProfileInputGridProps {
   children?: React.ReactNode;
   prop_658?: string;
   prop_709?: string;
+  prop_655?: string;
   // PROPS_PLACEHOLDER
 }
 
