@@ -219,3 +219,4 @@
 - docs(dashboard): optimize mobile-support (Reference #219)
 - build(auth): integrate transitions (Reference #220)
 - ci(settings): integrate mobile-support (Reference #221)
+- perf(database): add data-fetching (Reference #222)
