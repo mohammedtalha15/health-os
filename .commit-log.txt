@@ -1255,3 +1255,4 @@
 // refactor(search): update responsiveness - commit 2430
 // refactor(api): improve caching-logic - commit 2431
 // build(dashboard): fix unit-tests - commit 2432
+// style(settings): implement responsiveness - commit 2433
