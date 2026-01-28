@@ -691,3 +691,4 @@
 - docs(api): update user-experience (Reference #691)
 - docs(inputs): update validation (Reference #692)
 - refactor(security): add performance (Reference #693)
+- docs(navigation): configure state-management (Reference #694)
