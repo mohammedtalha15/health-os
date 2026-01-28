@@ -1502,3 +1502,4 @@
 - perf(search): refactor responsiveness (Reference #1502)
 - chore(analytics): optimize performance (Reference #1503)
 - feat(buttons): enhance documentation (Reference #1504)
+- fix(buttons): update keyboard-nav (Reference #1505)
