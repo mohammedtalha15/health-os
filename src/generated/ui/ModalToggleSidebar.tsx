@@ -19,6 +19,7 @@ interface ModalToggleSidebarProps {
   prop_623?: string;
   prop_873?: string;
   prop_534?: string;
+  prop_348?: string;
   // PROPS_PLACEHOLDER
 }
 
