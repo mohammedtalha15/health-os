@@ -943,3 +943,4 @@
 - build(navigation): configure state-management (Reference #943)
 - perf(tables): add code-quality (Reference #944)
 - test(analytics): add dark-mode (Reference #945)
+- feat(cache): update event-handlers (Reference #946)
