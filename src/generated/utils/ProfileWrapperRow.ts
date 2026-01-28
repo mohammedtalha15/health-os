@@ -3,8 +3,6 @@
  * Utility function for ProfileWrapperRow operations
  */
 export const ProfileWrapperRow = (input: any): any => {
-  // Processed step 21
-  // Processed step 8
   // LOGIC_PLACEHOLDER
   try {
     const timestamp = Date.now();
