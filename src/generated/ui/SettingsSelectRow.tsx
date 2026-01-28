@@ -5,25 +5,6 @@ interface SettingsSelectRowProps {
   id?: string;
   className?: string;
   children?: React.ReactNode;
-  prop_272?: string;
-  prop_706?: string;
-  prop_856?: string;
-  prop_738?: string;
-  prop_488?: string;
-  prop_693?: string;
-  prop_432?: string;
-  prop_893?: string;
-  prop_647?: string;
-  prop_823?: string;
-  prop_964?: string;
-  prop_576?: string;
-  prop_506?: string;
-  prop_126?: string;
-  prop_389?: string;
-  prop_241?: string;
-  prop_173?: string;
-  prop_145?: string;
-  prop_607?: string;
   // PROPS_PLACEHOLDER
 }
 
