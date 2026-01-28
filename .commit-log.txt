@@ -2895,3 +2895,4 @@
 // fix(search): add loading-states - commit 423
 // style(profile): add documentation - commit 424
 // style(ui): implement type-definitions - commit 425
+// chore(notifications): refactor animations - commit 426
