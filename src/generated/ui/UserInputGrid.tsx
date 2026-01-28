@@ -26,6 +26,7 @@ interface UserInputGridProps {
   prop_481?: string;
   prop_447?: string;
   prop_279?: string;
+  prop_707?: string;
   // PROPS_PLACEHOLDER
 }
 
