@@ -5,6 +5,7 @@ interface TableCardGridProps {
   id?: string;
   className?: string;
   children?: React.ReactNode;
+  prop_690?: string;
   // PROPS_PLACEHOLDER
 }
 
