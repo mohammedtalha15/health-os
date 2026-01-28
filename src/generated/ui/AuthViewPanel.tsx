@@ -9,6 +9,7 @@ interface AuthViewPanelProps {
   prop_302?: string;
   prop_381?: string;
   prop_748?: string;
+  prop_648?: string;
   // PROPS_PLACEHOLDER
 }
 
