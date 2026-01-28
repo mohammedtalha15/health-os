@@ -16,6 +16,7 @@ interface TableWrapperRowProps {
   prop_888?: string;
   prop_641?: string;
   prop_541?: string;
+  prop_169?: string;
   // PROPS_PLACEHOLDER
 }
 
