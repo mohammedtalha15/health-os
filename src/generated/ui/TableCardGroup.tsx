@@ -8,6 +8,7 @@ interface TableCardGroupProps {
   prop_108?: string;
   prop_120?: string;
   prop_986?: string;
+  prop_455?: string;
   // PROPS_PLACEHOLDER
 }
 
