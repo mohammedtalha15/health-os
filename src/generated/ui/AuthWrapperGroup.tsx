@@ -5,6 +5,7 @@ interface AuthWrapperGroupProps {
   id?: string;
   className?: string;
   children?: React.ReactNode;
+  prop_540?: string;
   // PROPS_PLACEHOLDER
 }
 
