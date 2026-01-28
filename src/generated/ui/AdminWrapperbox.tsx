@@ -5,12 +5,6 @@ interface AdminWrapperboxProps {
   id?: string;
   className?: string;
   children?: React.ReactNode;
-  prop_648?: string;
-  prop_664?: string;
-  prop_840?: string;
-  prop_287?: string;
-  prop_230?: string;
-  prop_748?: string;
   // PROPS_PLACEHOLDER
 }
 
