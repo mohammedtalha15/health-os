@@ -6,6 +6,7 @@ interface UserListFooterProps {
   className?: string;
   children?: React.ReactNode;
   prop_456?: string;
+  prop_544?: string;
   // PROPS_PLACEHOLDER
 }
 
