@@ -1884,3 +1884,4 @@
 // style(buttons): add data-fetching - commit 3059
 // perf(buttons): configure caching-logic - commit 3060
 // feat(search): optimize unit-tests - commit 3061
+// test(navigation): update event-handlers - commit 3062
