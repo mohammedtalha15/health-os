@@ -1166,3 +1166,4 @@
 - test(dashboard): optimize unit-tests (Reference #1166)
 - ci(profile): refactor loading-states (Reference #1167)
 - refactor(charts): implement dark-mode (Reference #1168)
+- refactor(modals): implement dark-mode (Reference #1169)
