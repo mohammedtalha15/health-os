@@ -745,3 +745,4 @@
 - docs(layouts): add error-handling (Reference #745)
 - test(modals): optimize validation (Reference #746)
 - docs(navigation): optimize accessibility (Reference #747)
+- style(dashboard): fix accessibility (Reference #748)
