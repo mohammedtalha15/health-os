@@ -24,3 +24,4 @@
 // style(cache): integrate mobile-support - commit 1199
 // refactor(ui): configure transitions - commit 1200
 // build(security): optimize performance - commit 1201
+// fix(settings): refactor keyboard-nav - commit 1202
