@@ -177,3 +177,4 @@
 - build(forms): optimize error-handling (Reference #177)
 - fix(cache): enhance event-handlers (Reference #178)
 - feat(inputs): enhance documentation (Reference #179)
+- chore(modals): improve data-fetching (Reference #180)
