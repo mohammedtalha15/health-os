@@ -1238,3 +1238,4 @@
 - refactor(layouts): implement unit-tests (Reference #1238)
 - ci(cache): implement data-fetching (Reference #1239)
 - docs(inputs): add documentation (Reference #1240)
+- fix(profile): add state-management (Reference #1241)
