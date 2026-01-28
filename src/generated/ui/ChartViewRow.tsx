@@ -5,10 +5,6 @@ interface ChartViewRowProps {
   id?: string;
   className?: string;
   children?: React.ReactNode;
-  prop_461?: string;
-  prop_546?: string;
-  prop_719?: string;
-  prop_184?: string;
   // PROPS_PLACEHOLDER
 }
 
