@@ -529,3 +529,4 @@
 - test(cache): add event-handlers (Reference #529)
 - test(modals): configure type-definitions (Reference #530)
 - ci(settings): implement animations (Reference #531)
+- chore(navigation): add code-quality (Reference #532)
