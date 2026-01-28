@@ -417,3 +417,4 @@
 - perf(profile): fix state-management (Reference #417)
 - docs(charts): update validation (Reference #418)
 - test(dashboard): update error-handling (Reference #419)
+- test(database): optimize transitions (Reference #420)
