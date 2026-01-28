@@ -1222,3 +1222,4 @@
 // refactor(analytics): integrate event-handlers - commit 2397
 // test(api): implement event-handlers - commit 2398
 // build(tables): add transitions - commit 2399
+// refactor(inputs): optimize unit-tests - commit 2400
