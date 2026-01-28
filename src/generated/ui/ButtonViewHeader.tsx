@@ -5,9 +5,6 @@ interface ButtonViewHeaderProps {
   id?: string;
   className?: string;
   children?: React.ReactNode;
-  prop_600?: string;
-  prop_687?: string;
-  prop_518?: string;
   // PROPS_PLACEHOLDER
 }
 
