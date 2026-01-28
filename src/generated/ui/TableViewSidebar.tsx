@@ -10,6 +10,7 @@ interface TableViewSidebarProps {
   prop_932?: string;
   prop_610?: string;
   prop_156?: string;
+  prop_682?: string;
   // PROPS_PLACEHOLDER
 }
 
