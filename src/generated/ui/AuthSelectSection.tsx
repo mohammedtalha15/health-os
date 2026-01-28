@@ -5,18 +5,6 @@ interface AuthSelectSectionProps {
   id?: string;
   className?: string;
   children?: React.ReactNode;
-  prop_406?: string;
-  prop_221?: string;
-  prop_443?: string;
-  prop_476?: string;
-  prop_219?: string;
-  prop_939?: string;
-  prop_368?: string;
-  prop_480?: string;
-  prop_814?: string;
-  prop_287?: string;
-  prop_402?: string;
-  prop_395?: string;
   // PROPS_PLACEHOLDER
 }
 
