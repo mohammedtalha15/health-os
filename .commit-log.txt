@@ -3374,3 +3374,4 @@
 // perf(navigation): configure documentation - commit 902
 // perf(notifications): refactor mobile-support - commit 903
 // fix(forms): optimize accessibility - commit 904
+// feat(tables): configure event-handlers - commit 905
