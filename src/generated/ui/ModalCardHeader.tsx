@@ -7,6 +7,7 @@ interface ModalCardHeaderProps {
   children?: React.ReactNode;
   prop_462?: string;
   prop_126?: string;
+  prop_643?: string;
   // PROPS_PLACEHOLDER
 }
 
