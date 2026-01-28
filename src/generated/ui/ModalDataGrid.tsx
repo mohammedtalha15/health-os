@@ -5,8 +5,6 @@ interface ModalDataGridProps {
   id?: string;
   className?: string;
   children?: React.ReactNode;
-  prop_587?: string;
-  prop_357?: string;
   // PROPS_PLACEHOLDER
 }
 
