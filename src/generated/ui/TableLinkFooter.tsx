@@ -5,30 +5,6 @@ interface TableLinkFooterProps {
   id?: string;
   className?: string;
   children?: React.ReactNode;
-  prop_132?: string;
-  prop_703?: string;
-  prop_666?: string;
-  prop_877?: string;
-  prop_248?: string;
-  prop_779?: string;
-  prop_682?: string;
-  prop_101?: string;
-  prop_410?: string;
-  prop_318?: string;
-  prop_109?: string;
-  prop_652?: string;
-  prop_310?: string;
-  prop_869?: string;
-  prop_387?: string;
-  prop_485?: string;
-  prop_458?: string;
-  prop_382?: string;
-  prop_674?: string;
-  prop_680?: string;
-  prop_584?: string;
-  prop_324?: string;
-  prop_688?: string;
-  prop_746?: string;
   // PROPS_PLACEHOLDER
 }
 
