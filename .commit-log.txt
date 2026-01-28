@@ -2135,3 +2135,4 @@
 // build(navigation): refactor caching-logic - commit 3310
 // docs(layouts): add caching-logic - commit 3311
 // refactor(charts): refactor loading-states - commit 3312
+// docs(settings): implement error-handling - commit 3313
