@@ -7,6 +7,7 @@ interface UserViewSectionProps {
   children?: React.ReactNode;
   prop_407?: string;
   prop_407?: string;
+  prop_699?: string;
   // PROPS_PLACEHOLDER
 }
 
