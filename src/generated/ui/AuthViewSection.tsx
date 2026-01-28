@@ -7,6 +7,7 @@ interface AuthViewSectionProps {
   children?: React.ReactNode;
   prop_857?: string;
   prop_803?: string;
+  prop_983?: string;
   // PROPS_PLACEHOLDER
 }
 
