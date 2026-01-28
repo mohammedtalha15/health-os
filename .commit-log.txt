@@ -1259,3 +1259,4 @@
 // chore(layouts): integrate mobile-support - commit 2434
 // chore(forms): implement documentation - commit 2435
 // test(search): enhance loading-states - commit 2436
+// feat(charts): refactor documentation - commit 2437
