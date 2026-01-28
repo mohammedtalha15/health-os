@@ -895,3 +895,4 @@
 - build(layouts): add code-quality (Reference #895)
 - docs(charts): implement unit-tests (Reference #896)
 - perf(profile): integrate error-handling (Reference #897)
+- docs(search): configure validation (Reference #898)
