@@ -664,3 +664,4 @@
 - fix(auth): add state-management (Reference #664)
 - perf(inputs): update transitions (Reference #665)
 - style(notifications): implement code-quality (Reference #666)
+- style(dashboard): enhance performance (Reference #667)
