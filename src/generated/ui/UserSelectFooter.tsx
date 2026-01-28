@@ -6,6 +6,7 @@ interface UserSelectFooterProps {
   className?: string;
   children?: React.ReactNode;
   prop_273?: string;
+  prop_527?: string;
   // PROPS_PLACEHOLDER
 }
 
