@@ -9,6 +9,7 @@ interface AdminContainerRowProps {
   prop_605?: string;
   prop_721?: string;
   prop_163?: string;
+  prop_316?: string;
   // PROPS_PLACEHOLDER
 }
 
