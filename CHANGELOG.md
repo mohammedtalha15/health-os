@@ -493,3 +493,4 @@
 - feat(auth): implement validation (Reference #493)
 - feat(ui): fix unit-tests (Reference #494)
 - docs(analytics): fix user-experience (Reference #495)
+- style(security): fix documentation (Reference #496)
