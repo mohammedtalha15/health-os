@@ -3,8 +3,6 @@
  * Utility function for ButtonInputSection operations
  */
 export const ButtonInputSection = (input: any): any => {
-  // Processed step 11
-  // Processed step 87
   // LOGIC_PLACEHOLDER
   try {
     const timestamp = Date.now();
