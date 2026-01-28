@@ -8,6 +8,7 @@ interface TableViewItemProps {
   prop_201?: string;
   prop_990?: string;
   prop_909?: string;
+  prop_950?: string;
   // PROPS_PLACEHOLDER
 }
 
