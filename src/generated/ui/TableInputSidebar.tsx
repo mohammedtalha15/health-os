@@ -6,6 +6,7 @@ interface TableInputSidebarProps {
   className?: string;
   children?: React.ReactNode;
   prop_403?: string;
+  prop_242?: string;
   // PROPS_PLACEHOLDER
 }
 
