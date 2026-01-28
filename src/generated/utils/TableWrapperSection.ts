@@ -3,8 +3,6 @@
  * Utility function for TableWrapperSection operations
  */
 export const TableWrapperSection = (input: any): any => {
-  // Processed step 84
-  // Processed step 27
   // LOGIC_PLACEHOLDER
   try {
     const timestamp = Date.now();
