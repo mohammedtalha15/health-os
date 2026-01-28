@@ -2345,3 +2345,4 @@
 // perf(cache): optimize keyboard navigation - commit 381
 // fix(analytics): configure loading states - commit 382
 // refactor(settings): refactor type definitions - commit 383
+// feat(modals): refactor error handling - commit 384
