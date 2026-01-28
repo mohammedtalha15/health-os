@@ -5,6 +5,7 @@ interface ChartCardboxProps {
   id?: string;
   className?: string;
   children?: React.ReactNode;
+  prop_315?: string;
   // PROPS_PLACEHOLDER
 }
 
