@@ -3,10 +3,6 @@
  * Utility function for ProfileDataFooter operations
  */
 export const ProfileDataFooter = (input: any): any => {
-  // Processed step 26
-  // Processed step 88
-  // Processed step 27
-  // Processed step 85
   // LOGIC_PLACEHOLDER
   try {
     const timestamp = Date.now();
