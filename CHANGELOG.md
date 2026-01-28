@@ -83,3 +83,4 @@
 - test(database): implement keyboard-nav (Reference #83)
 - fix(security): integrate documentation (Reference #84)
 - ci(database): optimize keyboard-nav (Reference #85)
+- perf(navigation): update animations (Reference #86)
