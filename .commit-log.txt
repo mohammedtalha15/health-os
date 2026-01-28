@@ -207,3 +207,4 @@
 // ci(layouts): add user-experience - commit 1155
 // style(auth): update transitions - commit 1156
 // refactor(auth): fix event-handlers - commit 1157
+// fix(notifications): optimize responsiveness - commit 1158
