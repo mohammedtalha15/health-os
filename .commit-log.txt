@@ -1205,3 +1205,4 @@
 // feat(tables): configure loading-states - commit 2380
 // docs(tables): fix validation - commit 2381
 // style(analytics): improve mobile-support - commit 2382
+// style(navigation): fix type-definitions - commit 2383
