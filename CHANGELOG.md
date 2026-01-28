@@ -212,3 +212,4 @@
 - test(inputs): add event-handlers (Reference #212)
 - feat(database): enhance code-quality (Reference #213)
 - refactor(inputs): implement unit-tests (Reference #214)
+- refactor(dashboard): optimize accessibility (Reference #215)
