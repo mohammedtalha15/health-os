@@ -14,6 +14,7 @@ interface AdminViewSidebarProps {
   prop_523?: string;
   prop_592?: string;
   prop_644?: string;
+  prop_219?: string;
   // PROPS_PLACEHOLDER
 }
 
