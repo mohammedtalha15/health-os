@@ -973,3 +973,4 @@
 - style(api): configure unit-tests (Reference #973)
 - refactor(notifications): implement code-quality (Reference #974)
 - build(ui): update animations (Reference #975)
+- ci(search): fix type-definitions (Reference #976)
