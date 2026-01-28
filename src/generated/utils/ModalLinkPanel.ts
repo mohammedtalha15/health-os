@@ -3,11 +3,6 @@
  * Utility function for ModalLinkPanel operations
  */
 export const ModalLinkPanel = (input: any): any => {
-  // Processed step 48
-  // Processed step 80
-  // Processed step 30
-  // Processed step 7
-  // Processed step 64
   // LOGIC_PLACEHOLDER
   try {
     const timestamp = Date.now();
