@@ -5,16 +5,6 @@ interface UserViewboxProps {
   id?: string;
   className?: string;
   children?: React.ReactNode;
-  prop_951?: string;
-  prop_669?: string;
-  prop_295?: string;
-  prop_526?: string;
-  prop_405?: string;
-  prop_759?: string;
-  prop_759?: string;
-  prop_524?: string;
-  prop_915?: string;
-  prop_946?: string;
   // PROPS_PLACEHOLDER
 }
 
