@@ -504,3 +504,4 @@
 - feat(analytics): optimize user-experience (Reference #504)
 - perf(api): configure keyboard-nav (Reference #505)
 - perf(security): update user-experience (Reference #506)
+- test(forms): refactor code-quality (Reference #507)
