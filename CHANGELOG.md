@@ -350,3 +350,4 @@
 - perf(cache): implement data-fetching (Reference #350)
 - build(buttons): implement performance (Reference #351)
 - feat(charts): integrate documentation (Reference #352)
+- refactor(charts): implement unit-tests (Reference #353)
