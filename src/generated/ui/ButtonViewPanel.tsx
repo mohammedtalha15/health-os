@@ -7,6 +7,7 @@ interface ButtonViewPanelProps {
   children?: React.ReactNode;
   prop_110?: string;
   prop_997?: string;
+  prop_961?: string;
   // PROPS_PLACEHOLDER
 }
 
