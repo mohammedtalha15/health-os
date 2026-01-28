@@ -8,6 +8,7 @@ interface AuthWrapperGridProps {
   prop_191?: string;
   prop_332?: string;
   prop_550?: string;
+  prop_468?: string;
   // PROPS_PLACEHOLDER
 }
 
