@@ -924,3 +924,4 @@
 - fix(dashboard): refactor event-handlers (Reference #924)
 - ci(notifications): optimize unit-tests (Reference #925)
 - test(api): optimize responsiveness (Reference #926)
+- test(api): update unit-tests (Reference #927)
