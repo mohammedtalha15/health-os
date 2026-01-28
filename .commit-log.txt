@@ -130,3 +130,4 @@
 // test(search): refactor accessibility - commit 1305
 // ci(settings): improve responsiveness - commit 1306
 // feat(charts): implement user-experience - commit 1307
+// feat(analytics): improve responsiveness - commit 1308
