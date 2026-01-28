@@ -6,6 +6,7 @@ interface UserContainerRowProps {
   className?: string;
   children?: React.ReactNode;
   prop_762?: string;
+  prop_891?: string;
   // PROPS_PLACEHOLDER
 }
 
