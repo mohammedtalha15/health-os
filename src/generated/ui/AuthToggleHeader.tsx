@@ -5,22 +5,6 @@ interface AuthToggleHeaderProps {
   id?: string;
   className?: string;
   children?: React.ReactNode;
-  prop_242?: string;
-  prop_623?: string;
-  prop_902?: string;
-  prop_448?: string;
-  prop_524?: string;
-  prop_628?: string;
-  prop_444?: string;
-  prop_143?: string;
-  prop_476?: string;
-  prop_652?: string;
-  prop_240?: string;
-  prop_331?: string;
-  prop_336?: string;
-  prop_886?: string;
-  prop_292?: string;
-  prop_192?: string;
   // PROPS_PLACEHOLDER
 }
 
