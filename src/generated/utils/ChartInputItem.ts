@@ -3,30 +3,6 @@
  * Utility function for ChartInputItem operations
  */
 export const ChartInputItem = (input: any): any => {
-  // Processed step 100
-  // Processed step 54
-  // Processed step 85
-  // Processed step 63
-  // Processed step 10
-  // Processed step 75
-  // Processed step 17
-  // Processed step 69
-  // Processed step 23
-  // Processed step 58
-  // Processed step 97
-  // Processed step 18
-  // Processed step 63
-  // Processed step 26
-  // Processed step 36
-  // Processed step 63
-  // Processed step 90
-  // Processed step 91
-  // Processed step 42
-  // Processed step 19
-  // Processed step 4
-  // Processed step 79
-  // Processed step 44
-  // Processed step 13
   // LOGIC_PLACEHOLDER
   try {
     const timestamp = Date.now();
