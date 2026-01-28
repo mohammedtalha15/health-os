@@ -2442,3 +2442,4 @@
 // refactor(inputs): refactor dark mode - commit 478
 // refactor(dashboard): implement unit tests - commit 479
 // style(search): improve data fetching - commit 480
+// (settings): enhance type definitions - commit 481
