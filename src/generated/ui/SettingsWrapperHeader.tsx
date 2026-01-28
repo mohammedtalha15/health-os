@@ -7,6 +7,7 @@ interface SettingsWrapperHeaderProps {
   children?: React.ReactNode;
   prop_218?: string;
   prop_950?: string;
+  prop_825?: string;
   // PROPS_PLACEHOLDER
 }
 
