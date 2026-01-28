@@ -2518,3 +2518,4 @@
 // build(forms): configure unit-tests - commit 46
 // ci(tables): update validation - commit 47
 // ci(dashboard): improve error-handling - commit 48
+// fix(analytics): configure dark-mode - commit 49
