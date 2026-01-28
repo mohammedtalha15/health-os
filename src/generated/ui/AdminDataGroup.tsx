@@ -5,13 +5,6 @@ interface AdminDataGroupProps {
   id?: string;
   className?: string;
   children?: React.ReactNode;
-  prop_918?: string;
-  prop_587?: string;
-  prop_347?: string;
-  prop_595?: string;
-  prop_941?: string;
-  prop_112?: string;
-  prop_540?: string;
   // PROPS_PLACEHOLDER
 }
 
