@@ -799,3 +799,4 @@
 - refactor(database): refactor dark-mode (Reference #799)
 - style(forms): add code-quality (Reference #800)
 - refactor(search): update responsiveness (Reference #801)
+- chore(inputs): integrate code-quality (Reference #802)
