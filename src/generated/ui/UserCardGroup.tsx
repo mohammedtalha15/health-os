@@ -7,6 +7,7 @@ interface UserCardGroupProps {
   children?: React.ReactNode;
   prop_349?: string;
   prop_960?: string;
+  prop_849?: string;
   // PROPS_PLACEHOLDER
 }
 
