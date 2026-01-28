@@ -7,6 +7,7 @@ interface UserSelectGroupProps {
   children?: React.ReactNode;
   prop_905?: string;
   prop_732?: string;
+  prop_375?: string;
   // PROPS_PLACEHOLDER
 }
 
