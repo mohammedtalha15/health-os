@@ -5,9 +5,6 @@ interface TableViewHeaderProps {
   id?: string;
   className?: string;
   children?: React.ReactNode;
-  prop_831?: string;
-  prop_370?: string;
-  prop_949?: string;
   // PROPS_PLACEHOLDER
 }
 
