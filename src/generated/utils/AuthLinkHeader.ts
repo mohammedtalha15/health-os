@@ -3,11 +3,6 @@
  * Utility function for AuthLinkHeader operations
  */
 export const AuthLinkHeader = (input: any): any => {
-  // Processed step 86
-  // Processed step 16
-  // Processed step 42
-  // Processed step 2
-  // Processed step 28
   // LOGIC_PLACEHOLDER
   try {
     const timestamp = Date.now();
