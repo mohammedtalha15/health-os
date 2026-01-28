@@ -1595,3 +1595,4 @@
 // feat(search): implement transitions - commit 2770
 // feat(tables): refactor loading-states - commit 2771
 // test(security): improve mobile-support - commit 2772
+// refactor(navigation): implement data-fetching - commit 2773
