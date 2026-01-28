@@ -2264,3 +2264,4 @@
 // perf(buttons): implement performance - commit 300
 // docs(inputs): optimize validation - commit 301
 // (forms): fix keyboard navigation - commit 302
+// refactor(charts): fix unit tests - commit 303
