@@ -12,6 +12,7 @@ interface ChartSelectboxProps {
   prop_780?: string;
   prop_891?: string;
   prop_696?: string;
+  prop_747?: string;
   // PROPS_PLACEHOLDER
 }
 
