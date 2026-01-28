@@ -673,3 +673,4 @@
 - refactor(tables): integrate data-fetching (Reference #673)
 - perf(analytics): configure performance (Reference #674)
 - chore(analytics): add code-quality (Reference #675)
+- docs(search): enhance loading-states (Reference #676)
