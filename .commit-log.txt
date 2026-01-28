@@ -343,3 +343,4 @@
 // ci(modals): configure caching-logic - commit 1518
 // build(profile): fix loading-states - commit 1519
 // perf(cache): add data-fetching - commit 1520
+// docs(auth): fix performance - commit 1521
