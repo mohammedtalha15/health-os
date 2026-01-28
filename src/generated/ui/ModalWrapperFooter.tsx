@@ -11,6 +11,7 @@ interface ModalWrapperFooterProps {
   prop_434?: string;
   prop_717?: string;
   prop_701?: string;
+  prop_664?: string;
   // PROPS_PLACEHOLDER
 }
 
