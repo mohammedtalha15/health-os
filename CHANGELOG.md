@@ -485,3 +485,4 @@
 - docs(api): fix mobile-support (Reference #485)
 - build(charts): enhance accessibility (Reference #486)
 - ci(search): update state-management (Reference #487)
+- feat(buttons): implement mobile-support (Reference #488)
