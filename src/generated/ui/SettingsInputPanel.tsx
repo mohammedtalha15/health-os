@@ -7,6 +7,7 @@ interface SettingsInputPanelProps {
   children?: React.ReactNode;
   prop_830?: string;
   prop_660?: string;
+  prop_797?: string;
   // PROPS_PLACEHOLDER
 }
 
