@@ -3163,3 +3163,4 @@
 // docs(charts): improve state-management - commit 691
 // perf(cache): add performance - commit 692
 // feat(analytics): refactor unit-tests - commit 693
+// feat(dashboard): improve loading-states - commit 694
