@@ -12,6 +12,7 @@ interface ModalSelectboxProps {
   prop_530?: string;
   prop_269?: string;
   prop_278?: string;
+  prop_396?: string;
   // PROPS_PLACEHOLDER
 }
 
