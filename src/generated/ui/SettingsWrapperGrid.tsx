@@ -10,6 +10,7 @@ interface SettingsWrapperGridProps {
   prop_640?: string;
   prop_292?: string;
   prop_252?: string;
+  prop_757?: string;
   // PROPS_PLACEHOLDER
 }
 
