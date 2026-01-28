@@ -210,3 +210,4 @@
 - style(analytics): refactor caching-logic (Reference #210)
 - style(cache): add accessibility (Reference #211)
 - test(inputs): add event-handlers (Reference #212)
+- feat(database): enhance code-quality (Reference #213)
