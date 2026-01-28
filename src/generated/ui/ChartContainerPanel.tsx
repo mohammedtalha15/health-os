@@ -5,13 +5,6 @@ interface ChartContainerPanelProps {
   id?: string;
   className?: string;
   children?: React.ReactNode;
-  prop_301?: string;
-  prop_955?: string;
-  prop_467?: string;
-  prop_122?: string;
-  prop_514?: string;
-  prop_406?: string;
-  prop_822?: string;
   // PROPS_PLACEHOLDER
 }
 
