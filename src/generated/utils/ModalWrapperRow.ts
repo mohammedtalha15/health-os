@@ -3,16 +3,6 @@
  * Utility function for ModalWrapperRow operations
  */
 export const ModalWrapperRow = (input: any): any => {
-  // Processed step 25
-  // Processed step 42
-  // Processed step 23
-  // Processed step 56
-  // Processed step 91
-  // Processed step 22
-  // Processed step 81
-  // Processed step 68
-  // Processed step 81
-  // Processed step 24
   // LOGIC_PLACEHOLDER
   try {
     const timestamp = Date.now();
