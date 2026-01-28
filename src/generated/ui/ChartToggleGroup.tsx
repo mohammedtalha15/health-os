@@ -6,6 +6,7 @@ interface ChartToggleGroupProps {
   className?: string;
   children?: React.ReactNode;
   prop_118?: string;
+  prop_560?: string;
   // PROPS_PLACEHOLDER
 }
 
