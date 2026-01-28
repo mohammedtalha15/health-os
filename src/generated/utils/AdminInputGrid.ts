@@ -3,8 +3,6 @@
  * Utility function for AdminInputGrid operations
  */
 export const AdminInputGrid = (input: any): any => {
-  // Processed step 19
-  // Processed step 95
   // LOGIC_PLACEHOLDER
   try {
     const timestamp = Date.now();
