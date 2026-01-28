@@ -1019,3 +1019,4 @@
 - refactor(cache): enhance performance (Reference #1019)
 - fix(buttons): implement caching-logic (Reference #1020)
 - chore(buttons): optimize event-handlers (Reference #1021)
+- perf(analytics): improve keyboard-nav (Reference #1022)
