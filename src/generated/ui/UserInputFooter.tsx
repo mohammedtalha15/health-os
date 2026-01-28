@@ -13,6 +13,7 @@ interface UserInputFooterProps {
   prop_166?: string;
   prop_803?: string;
   prop_234?: string;
+  prop_242?: string;
   // PROPS_PLACEHOLDER
 }
 
