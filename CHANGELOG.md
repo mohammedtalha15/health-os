@@ -892,3 +892,4 @@
 - fix(layouts): implement error-handling (Reference #892)
 - build(security): fix transitions (Reference #893)
 - fix(api): improve data-fetching (Reference #894)
+- build(layouts): add code-quality (Reference #895)
