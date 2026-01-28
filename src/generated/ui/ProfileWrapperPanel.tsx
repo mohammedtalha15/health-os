@@ -13,6 +13,7 @@ interface ProfileWrapperPanelProps {
   prop_539?: string;
   prop_918?: string;
   prop_504?: string;
+  prop_980?: string;
   // PROPS_PLACEHOLDER
 }
 
