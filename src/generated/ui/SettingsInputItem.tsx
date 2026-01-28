@@ -13,6 +13,7 @@ interface SettingsInputItemProps {
   prop_818?: string;
   prop_798?: string;
   prop_748?: string;
+  prop_788?: string;
   // PROPS_PLACEHOLDER
 }
 
