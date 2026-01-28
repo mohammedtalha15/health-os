@@ -5,10 +5,6 @@ interface ButtonCardPanelProps {
   id?: string;
   className?: string;
   children?: React.ReactNode;
-  prop_825?: string;
-  prop_448?: string;
-  prop_321?: string;
-  prop_302?: string;
   // PROPS_PLACEHOLDER
 }
 
