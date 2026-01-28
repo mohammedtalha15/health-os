@@ -114,3 +114,4 @@
 // feat(forms): optimize mobile-support - commit 1289
 // perf(tables): implement validation - commit 1290
 // feat(ui): add transitions - commit 1291
+// docs(notifications): fix keyboard-nav - commit 1292
