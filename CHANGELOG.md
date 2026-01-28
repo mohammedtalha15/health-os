@@ -1479,3 +1479,4 @@
 - build(navigation): add error-handling (Reference #1479)
 - chore(navigation): implement accessibility (Reference #1480)
 - perf(buttons): refactor user-experience (Reference #1481)
+- docs(navigation): refactor responsiveness (Reference #1482)
