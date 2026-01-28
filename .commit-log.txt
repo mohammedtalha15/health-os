@@ -209,3 +209,4 @@
 // refactor(auth): fix event-handlers - commit 1157
 // fix(notifications): optimize responsiveness - commit 1158
 // style(auth): fix unit-tests - commit 1159
+// fix(charts): integrate transitions - commit 1160
