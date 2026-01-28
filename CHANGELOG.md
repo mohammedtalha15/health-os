@@ -1459,3 +1459,4 @@
 - build(database): enhance error-handling (Reference #1459)
 - feat(inputs): fix documentation (Reference #1460)
 - style(modals): configure responsiveness (Reference #1461)
+- docs(cache): implement event-handlers (Reference #1462)
