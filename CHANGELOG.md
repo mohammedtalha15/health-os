@@ -847,3 +847,4 @@
 - refactor(tables): refactor validation (Reference #847)
 - test(buttons): configure error-handling (Reference #848)
 - ci(inputs): update accessibility (Reference #849)
+- fix(charts): implement unit-tests (Reference #850)
