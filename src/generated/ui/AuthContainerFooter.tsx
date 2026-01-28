@@ -7,6 +7,7 @@ interface AuthContainerFooterProps {
   children?: React.ReactNode;
   prop_647?: string;
   prop_648?: string;
+  prop_431?: string;
   // PROPS_PLACEHOLDER
 }
 
