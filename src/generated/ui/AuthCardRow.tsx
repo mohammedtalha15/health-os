@@ -5,10 +5,6 @@ interface AuthCardRowProps {
   id?: string;
   className?: string;
   children?: React.ReactNode;
-  prop_577?: string;
-  prop_276?: string;
-  prop_733?: string;
-  prop_209?: string;
   // PROPS_PLACEHOLDER
 }
 
