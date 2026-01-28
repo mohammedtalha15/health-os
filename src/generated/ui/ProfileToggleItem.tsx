@@ -7,6 +7,7 @@ interface ProfileToggleItemProps {
   children?: React.ReactNode;
   prop_969?: string;
   prop_193?: string;
+  prop_584?: string;
   // PROPS_PLACEHOLDER
 }
 
