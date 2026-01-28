@@ -11,6 +11,7 @@ interface ChartCardGroupProps {
   prop_417?: string;
   prop_220?: string;
   prop_441?: string;
+  prop_239?: string;
   // PROPS_PLACEHOLDER
 }
 
