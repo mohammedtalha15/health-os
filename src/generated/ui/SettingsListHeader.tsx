@@ -5,24 +5,6 @@ interface SettingsListHeaderProps {
   id?: string;
   className?: string;
   children?: React.ReactNode;
-  prop_891?: string;
-  prop_812?: string;
-  prop_440?: string;
-  prop_873?: string;
-  prop_919?: string;
-  prop_540?: string;
-  prop_160?: string;
-  prop_728?: string;
-  prop_570?: string;
-  prop_261?: string;
-  prop_612?: string;
-  prop_642?: string;
-  prop_967?: string;
-  prop_852?: string;
-  prop_999?: string;
-  prop_410?: string;
-  prop_791?: string;
-  prop_261?: string;
   // PROPS_PLACEHOLDER
 }
 
