@@ -5,18 +5,6 @@ interface ChartLinkRowProps {
   id?: string;
   className?: string;
   children?: React.ReactNode;
-  prop_542?: string;
-  prop_209?: string;
-  prop_328?: string;
-  prop_669?: string;
-  prop_536?: string;
-  prop_999?: string;
-  prop_432?: string;
-  prop_219?: string;
-  prop_479?: string;
-  prop_199?: string;
-  prop_268?: string;
-  prop_860?: string;
   // PROPS_PLACEHOLDER
 }
 
