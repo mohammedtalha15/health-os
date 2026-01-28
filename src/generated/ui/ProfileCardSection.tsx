@@ -7,6 +7,7 @@ interface ProfileCardSectionProps {
   children?: React.ReactNode;
   prop_824?: string;
   prop_843?: string;
+  prop_517?: string;
   // PROPS_PLACEHOLDER
 }
 
