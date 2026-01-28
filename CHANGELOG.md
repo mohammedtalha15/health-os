@@ -1451,3 +1451,4 @@
 - style(dashboard): refactor documentation (Reference #1451)
 - style(modals): update loading-states (Reference #1452)
 - fix(profile): integrate caching-logic (Reference #1453)
+- feat(dashboard): implement validation (Reference #1454)
