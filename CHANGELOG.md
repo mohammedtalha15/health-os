@@ -272,3 +272,4 @@
 - feat(settings): optimize validation (Reference #272)
 - chore(notifications): add documentation (Reference #273)
 - perf(layouts): update user-experience (Reference #274)
+- build(ui): improve caching-logic (Reference #275)
