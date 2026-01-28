@@ -11,6 +11,7 @@ interface ModalCardItemProps {
   prop_564?: string;
   prop_344?: string;
   prop_147?: string;
+  prop_506?: string;
   // PROPS_PLACEHOLDER
 }
 
