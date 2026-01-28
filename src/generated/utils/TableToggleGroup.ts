@@ -3,8 +3,6 @@
  * Utility function for TableToggleGroup operations
  */
 export const TableToggleGroup = (input: any): any => {
-  // Processed step 57
-  // Processed step 87
   // LOGIC_PLACEHOLDER
   try {
     const timestamp = Date.now();
