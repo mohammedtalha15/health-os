@@ -935,3 +935,4 @@
 - chore(forms): add event-handlers (Reference #935)
 - docs(analytics): refactor unit-tests (Reference #936)
 - chore(modals): update mobile-support (Reference #937)
+- chore(security): fix data-fetching (Reference #938)
