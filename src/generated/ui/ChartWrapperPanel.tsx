@@ -8,6 +8,7 @@ interface ChartWrapperPanelProps {
   prop_606?: string;
   prop_438?: string;
   prop_860?: string;
+  prop_621?: string;
   // PROPS_PLACEHOLDER
 }
 
