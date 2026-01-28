@@ -5,15 +5,6 @@ interface UserListboxProps {
   id?: string;
   className?: string;
   children?: React.ReactNode;
-  prop_748?: string;
-  prop_417?: string;
-  prop_572?: string;
-  prop_714?: string;
-  prop_979?: string;
-  prop_966?: string;
-  prop_128?: string;
-  prop_700?: string;
-  prop_169?: string;
   // PROPS_PLACEHOLDER
 }
 
