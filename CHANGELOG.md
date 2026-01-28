@@ -1548,3 +1548,4 @@
 - fix(modals): enhance animations (Reference #1548)
 - ci(search): optimize documentation (Reference #1549)
 - build(search): update performance (Reference #1550)
+- refactor(dashboard): configure keyboard-nav (Reference #1551)
