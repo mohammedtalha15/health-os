@@ -3,8 +3,6 @@
  * Utility function for AuthWrapperPanel operations
  */
 export const AuthWrapperPanel = (input: any): any => {
-  // Processed step 10
-  // Processed step 11
   // LOGIC_PLACEHOLDER
   try {
     const timestamp = Date.now();
