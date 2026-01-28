@@ -1402,3 +1402,4 @@
 - build(search): implement dark-mode (Reference #1402)
 - fix(security): integrate user-experience (Reference #1403)
 - docs(notifications): refactor event-handlers (Reference #1404)
+- perf(settings): implement dark-mode (Reference #1405)
