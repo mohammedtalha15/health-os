@@ -6,6 +6,7 @@ interface TableLinkRowProps {
   className?: string;
   children?: React.ReactNode;
   prop_468?: string;
+  prop_293?: string;
   // PROPS_PLACEHOLDER
 }
 
