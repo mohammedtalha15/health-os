@@ -8,6 +8,7 @@ interface ButtonWrapperFooterProps {
   prop_378?: string;
   prop_499?: string;
   prop_698?: string;
+  prop_614?: string;
   // PROPS_PLACEHOLDER
 }
 
