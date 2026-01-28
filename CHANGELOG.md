@@ -582,3 +582,4 @@
 - test(security): optimize data-fetching (Reference #582)
 - refactor(navigation): enhance event-handlers (Reference #583)
 - feat(analytics): optimize event-handlers (Reference #584)
+- style(api): refactor data-fetching (Reference #585)
