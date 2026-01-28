@@ -5,13 +5,6 @@ interface AuthWrapperboxProps {
   id?: string;
   className?: string;
   children?: React.ReactNode;
-  prop_516?: string;
-  prop_234?: string;
-  prop_356?: string;
-  prop_862?: string;
-  prop_484?: string;
-  prop_369?: string;
-  prop_408?: string;
   // PROPS_PLACEHOLDER
 }
 
