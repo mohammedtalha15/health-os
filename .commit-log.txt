@@ -426,3 +426,4 @@
 // ci(api): integrate documentation - commit 1601
 // perf(charts): fix keyboard-nav - commit 1602
 // style(modals): refactor event-handlers - commit 1603
+// chore(api): fix user-experience - commit 1604
