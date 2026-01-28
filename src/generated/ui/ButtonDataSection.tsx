@@ -5,31 +5,6 @@ interface ButtonDataSectionProps {
   id?: string;
   className?: string;
   children?: React.ReactNode;
-  prop_380?: string;
-  prop_302?: string;
-  prop_558?: string;
-  prop_735?: string;
-  prop_178?: string;
-  prop_459?: string;
-  prop_174?: string;
-  prop_684?: string;
-  prop_599?: string;
-  prop_509?: string;
-  prop_257?: string;
-  prop_953?: string;
-  prop_446?: string;
-  prop_608?: string;
-  prop_731?: string;
-  prop_850?: string;
-  prop_184?: string;
-  prop_449?: string;
-  prop_369?: string;
-  prop_927?: string;
-  prop_404?: string;
-  prop_470?: string;
-  prop_120?: string;
-  prop_607?: string;
-  prop_386?: string;
   // PROPS_PLACEHOLDER
 }
 
