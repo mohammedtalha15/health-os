@@ -464,3 +464,4 @@
 - test(tables): update mobile-support (Reference #464)
 - perf(analytics): configure loading-states (Reference #465)
 - refactor(modals): implement caching-logic (Reference #466)
+- test(tables): configure performance (Reference #467)
