@@ -556,3 +556,4 @@
 // perf(inputs): integrate validation - commit 1731
 // refactor(cache): implement state-management - commit 1732
 // build(modals): implement state-management - commit 1733
+// chore(forms): improve event-handlers - commit 1734
