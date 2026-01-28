@@ -22,6 +22,7 @@ interface ModalDataboxProps {
   prop_230?: string;
   prop_249?: string;
   prop_786?: string;
+  prop_960?: string;
   // PROPS_PLACEHOLDER
 }
 
