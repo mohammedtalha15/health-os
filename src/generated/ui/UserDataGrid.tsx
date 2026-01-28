@@ -13,6 +13,7 @@ interface UserDataGridProps {
   prop_160?: string;
   prop_725?: string;
   prop_833?: string;
+  prop_942?: string;
   // PROPS_PLACEHOLDER
 }
 
