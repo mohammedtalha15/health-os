@@ -15,3 +15,4 @@
 // perf(security): add loading-states - commit 1190
 // style(modals): implement type-definitions - commit 1191
 // test(settings): implement transitions - commit 1192
+// refactor(modals): enhance accessibility - commit 1193
