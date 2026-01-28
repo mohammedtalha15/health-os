@@ -1227,3 +1227,4 @@
 // perf(inputs): implement transitions - commit 2402
 // style(buttons): improve validation - commit 2403
 // style(database): add event-handlers - commit 2404
+// perf(modals): update documentation - commit 2405
