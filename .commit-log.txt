@@ -1433,3 +1433,4 @@
 // test(analytics): integrate mobile-support - commit 2608
 // perf(charts): fix event-handlers - commit 2609
 // feat(tables): implement documentation - commit 2610
+// feat(notifications): configure type-definitions - commit 2611
