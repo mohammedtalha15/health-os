@@ -8,6 +8,7 @@ interface AdminCardSidebarProps {
   prop_555?: string;
   prop_831?: string;
   prop_577?: string;
+  prop_464?: string;
   // PROPS_PLACEHOLDER
 }
 
