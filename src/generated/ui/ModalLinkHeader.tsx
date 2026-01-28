@@ -12,6 +12,7 @@ interface ModalLinkHeaderProps {
   prop_374?: string;
   prop_949?: string;
   prop_785?: string;
+  prop_480?: string;
   // PROPS_PLACEHOLDER
 }
 
