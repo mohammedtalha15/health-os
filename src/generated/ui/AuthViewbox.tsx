@@ -11,6 +11,7 @@ interface AuthViewboxProps {
   prop_113?: string;
   prop_672?: string;
   prop_475?: string;
+  prop_323?: string;
   // PROPS_PLACEHOLDER
 }
 
