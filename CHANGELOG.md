@@ -545,3 +545,4 @@
 - chore(ui): integrate documentation (Reference #545)
 - refactor(navigation): fix animations (Reference #546)
 - build(notifications): implement validation (Reference #547)
+- fix(charts): configure animations (Reference #548)
