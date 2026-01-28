@@ -3,8 +3,6 @@
  * Utility function for ButtonInputGroup operations
  */
 export const ButtonInputGroup = (input: any): any => {
-  // Processed step 71
-  // Processed step 88
   // LOGIC_PLACEHOLDER
   try {
     const timestamp = Date.now();
