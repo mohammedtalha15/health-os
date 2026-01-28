@@ -27,3 +27,4 @@
 // feat(dashboard): refactor caching-logic - commit 975
 // feat(cache): refactor event-handlers - commit 976
 // build(analytics): improve transitions - commit 977
+// fix(notifications): optimize animations - commit 978
