@@ -7,6 +7,7 @@ interface UserDataboxProps {
   children?: React.ReactNode;
   prop_492?: string;
   prop_664?: string;
+  prop_549?: string;
   // PROPS_PLACEHOLDER
 }
 
