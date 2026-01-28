@@ -403,3 +403,4 @@
 - perf(auth): configure keyboard-nav (Reference #403)
 - feat(buttons): update mobile-support (Reference #404)
 - chore(database): optimize performance (Reference #405)
+- build(modals): enhance code-quality (Reference #406)
