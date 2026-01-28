@@ -1114,3 +1114,4 @@
 - refactor(modals): implement mobile-support (Reference #1114)
 - build(dashboard): enhance animations (Reference #1115)
 - feat(navigation): update code-quality (Reference #1116)
+- refactor(auth): integrate type-definitions (Reference #1117)
