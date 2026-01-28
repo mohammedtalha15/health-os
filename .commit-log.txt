@@ -1864,3 +1864,4 @@
 // feat(layouts): refactor dark-mode - commit 3039
 // refactor(security): add documentation - commit 3040
 // ci(tables): enhance accessibility - commit 3041
+// fix(buttons): refactor dark-mode - commit 3042
