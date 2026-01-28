@@ -2168,3 +2168,4 @@
 // docs(dashboard): fix event-handlers - commit 3343
 // style(cache): update accessibility - commit 3344
 // build(cache): refactor event-handlers - commit 3345
+// ci(ui): fix mobile-support - commit 3346
