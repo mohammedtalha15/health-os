@@ -14,6 +14,7 @@ interface DashboardContainerSidebarProps {
   prop_825?: string;
   prop_266?: string;
   prop_593?: string;
+  prop_283?: string;
   // PROPS_PLACEHOLDER
 }
 
