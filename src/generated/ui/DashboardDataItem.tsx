@@ -9,6 +9,7 @@ interface DashboardDataItemProps {
   prop_235?: string;
   prop_315?: string;
   prop_242?: string;
+  prop_485?: string;
   // PROPS_PLACEHOLDER
 }
 
