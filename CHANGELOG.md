@@ -1360,3 +1360,4 @@
 - style(settings): enhance accessibility (Reference #1360)
 - test(layouts): configure validation (Reference #1361)
 - build(dashboard): implement dark-mode (Reference #1362)
+- perf(api): fix dark-mode (Reference #1363)
