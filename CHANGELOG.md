@@ -70,3 +70,4 @@
 - docs(settings): update caching-logic (Reference #70)
 - style(charts): refactor user-experience (Reference #71)
 - ci(auth): fix documentation (Reference #72)
+- fix(dashboard): add keyboard-nav (Reference #73)
