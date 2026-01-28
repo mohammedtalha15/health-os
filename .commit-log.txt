@@ -1837,3 +1837,4 @@
 // fix(settings): improve mobile-support - commit 3012
 // build(dashboard): integrate caching-logic - commit 3013
 // perf(charts): fix performance - commit 3014
+// fix(layouts): fix mobile-support - commit 3015
