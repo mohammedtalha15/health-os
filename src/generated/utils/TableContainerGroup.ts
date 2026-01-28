@@ -3,10 +3,6 @@
  * Utility function for TableContainerGroup operations
  */
 export const TableContainerGroup = (input: any): any => {
-  // Processed step 67
-  // Processed step 30
-  // Processed step 50
-  // Processed step 74
   // LOGIC_PLACEHOLDER
   try {
     const timestamp = Date.now();
