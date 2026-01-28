@@ -6,6 +6,7 @@ interface SettingsViewGridProps {
   className?: string;
   children?: React.ReactNode;
   prop_408?: string;
+  prop_208?: string;
   // PROPS_PLACEHOLDER
 }
 
