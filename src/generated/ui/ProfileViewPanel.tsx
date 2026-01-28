@@ -13,6 +13,7 @@ interface ProfileViewPanelProps {
   prop_329?: string;
   prop_879?: string;
   prop_744?: string;
+  prop_295?: string;
   // PROPS_PLACEHOLDER
 }
 
