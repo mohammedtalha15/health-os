@@ -11,6 +11,7 @@ interface DashboardContainerboxProps {
   prop_687?: string;
   prop_919?: string;
   prop_859?: string;
+  prop_394?: string;
   // PROPS_PLACEHOLDER
 }
 
