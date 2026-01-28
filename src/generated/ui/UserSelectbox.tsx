@@ -15,6 +15,7 @@ interface UserSelectboxProps {
   prop_253?: string;
   prop_833?: string;
   prop_275?: string;
+  prop_301?: string;
   // PROPS_PLACEHOLDER
 }
 
