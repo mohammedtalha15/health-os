@@ -7,6 +7,7 @@ interface ModalDataboxProps {
   children?: React.ReactNode;
   prop_651?: string;
   prop_840?: string;
+  prop_741?: string;
   // PROPS_PLACEHOLDER
 }
 
