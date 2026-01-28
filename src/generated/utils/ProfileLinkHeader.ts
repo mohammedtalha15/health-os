@@ -3,8 +3,6 @@
  * Utility function for ProfileLinkHeader operations
  */
 export const ProfileLinkHeader = (input: any): any => {
-  // Processed step 33
-  // Processed step 54
   // LOGIC_PLACEHOLDER
   try {
     const timestamp = Date.now();
