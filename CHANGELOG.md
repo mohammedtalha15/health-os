@@ -755,3 +755,4 @@
 - feat(ui): refactor responsiveness (Reference #755)
 - perf(auth): refactor accessibility (Reference #756)
 - feat(auth): update state-management (Reference #757)
+- feat(dashboard): refactor type-definitions (Reference #758)
