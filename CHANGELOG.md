@@ -772,3 +772,4 @@
 - ci(database): add validation (Reference #772)
 - fix(notifications): add performance (Reference #773)
 - build(profile): configure keyboard-nav (Reference #774)
+- chore(tables): integrate accessibility (Reference #775)
