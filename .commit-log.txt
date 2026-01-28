@@ -259,3 +259,4 @@
 // test(api): fix event-handlers - commit 1434
 // docs(api): optimize event-handlers - commit 1435
 // build(layouts): improve state-management - commit 1436
+// style(tables): improve mobile-support - commit 1437
