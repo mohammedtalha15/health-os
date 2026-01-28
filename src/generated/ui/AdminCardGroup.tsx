@@ -7,6 +7,7 @@ interface AdminCardGroupProps {
   children?: React.ReactNode;
   prop_405?: string;
   prop_526?: string;
+  prop_323?: string;
   // PROPS_PLACEHOLDER
 }
 
