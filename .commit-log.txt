@@ -1935,3 +1935,4 @@
 // fix(ui): improve caching-logic - commit 3110
 // fix(forms): add responsiveness - commit 3111
 // chore(layouts): fix responsiveness - commit 3112
+// docs(auth): enhance responsiveness - commit 3113
