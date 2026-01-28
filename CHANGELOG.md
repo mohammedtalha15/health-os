@@ -595,3 +595,4 @@
 - chore(database): update dark-mode (Reference #595)
 - build(navigation): implement state-management (Reference #596)
 - build(analytics): update caching-logic (Reference #597)
+- chore(buttons): optimize state-management (Reference #598)
