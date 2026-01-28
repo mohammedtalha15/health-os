@@ -7,6 +7,7 @@ interface AuthCardHeaderProps {
   children?: React.ReactNode;
   prop_110?: string;
   prop_784?: string;
+  prop_311?: string;
   // PROPS_PLACEHOLDER
 }
 
