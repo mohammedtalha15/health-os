@@ -5,6 +5,7 @@ interface AuthCardPanelProps {
   id?: string;
   className?: string;
   children?: React.ReactNode;
+  prop_385?: string;
   // PROPS_PLACEHOLDER
 }
 
