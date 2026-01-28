@@ -93,3 +93,4 @@
 - perf(charts): refactor loading-states (Reference #93)
 - ci(search): configure state-management (Reference #94)
 - perf(charts): refactor validation (Reference #95)
+- ci(security): enhance caching-logic (Reference #96)
