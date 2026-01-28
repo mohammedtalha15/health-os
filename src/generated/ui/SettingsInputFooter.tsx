@@ -5,10 +5,6 @@ interface SettingsInputFooterProps {
   id?: string;
   className?: string;
   children?: React.ReactNode;
-  prop_269?: string;
-  prop_404?: string;
-  prop_675?: string;
-  prop_738?: string;
   // PROPS_PLACEHOLDER
 }
 
