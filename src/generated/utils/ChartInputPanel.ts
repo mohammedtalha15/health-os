@@ -3,13 +3,6 @@
  * Utility function for ChartInputPanel operations
  */
 export const ChartInputPanel = (input: any): any => {
-  // Processed step 78
-  // Processed step 77
-  // Processed step 35
-  // Processed step 32
-  // Processed step 30
-  // Processed step 66
-  // Processed step 100
   // LOGIC_PLACEHOLDER
   try {
     const timestamp = Date.now();
