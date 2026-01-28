@@ -5,15 +5,6 @@ interface UserInputHeaderProps {
   id?: string;
   className?: string;
   children?: React.ReactNode;
-  prop_229?: string;
-  prop_168?: string;
-  prop_859?: string;
-  prop_644?: string;
-  prop_191?: string;
-  prop_428?: string;
-  prop_943?: string;
-  prop_905?: string;
-  prop_605?: string;
   // PROPS_PLACEHOLDER
 }
 
