@@ -1206,3 +1206,4 @@
 // docs(tables): fix validation - commit 2381
 // style(analytics): improve mobile-support - commit 2382
 // style(navigation): fix type-definitions - commit 2383
+// build(modals): integrate user-experience - commit 2384
