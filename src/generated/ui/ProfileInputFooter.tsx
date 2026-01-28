@@ -5,17 +5,6 @@ interface ProfileInputFooterProps {
   id?: string;
   className?: string;
   children?: React.ReactNode;
-  prop_188?: string;
-  prop_932?: string;
-  prop_584?: string;
-  prop_223?: string;
-  prop_775?: string;
-  prop_864?: string;
-  prop_846?: string;
-  prop_719?: string;
-  prop_936?: string;
-  prop_821?: string;
-  prop_822?: string;
   // PROPS_PLACEHOLDER
 }
 
