@@ -10,6 +10,7 @@ interface SettingsToggleItemProps {
   prop_777?: string;
   prop_802?: string;
   prop_482?: string;
+  prop_777?: string;
   // PROPS_PLACEHOLDER
 }
 
