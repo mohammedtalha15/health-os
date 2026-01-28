@@ -428,3 +428,4 @@
 - chore(auth): fix responsiveness (Reference #428)
 - refactor(notifications): configure documentation (Reference #429)
 - docs(auth): configure error-handling (Reference #430)
+- fix(cache): improve performance (Reference #431)
