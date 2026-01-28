@@ -3242,3 +3242,4 @@
 // test(charts): implement error-handling - commit 770
 // chore(buttons): improve type-definitions - commit 771
 // refactor(forms): refactor documentation - commit 772
+// feat(profile): improve dark-mode - commit 773
