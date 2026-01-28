@@ -3,12 +3,6 @@
  * Utility function for ChartInputbox operations
  */
 export const ChartInputbox = (input: any): any => {
-  // Processed step 46
-  // Processed step 98
-  // Processed step 9
-  // Processed step 65
-  // Processed step 91
-  // Processed step 84
   // LOGIC_PLACEHOLDER
   try {
     const timestamp = Date.now();
