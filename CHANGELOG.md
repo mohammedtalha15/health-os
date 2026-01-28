@@ -942,3 +942,4 @@
 - test(database): integrate documentation (Reference #942)
 - build(navigation): configure state-management (Reference #943)
 - perf(tables): add code-quality (Reference #944)
+- test(analytics): add dark-mode (Reference #945)
