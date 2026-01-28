@@ -7,6 +7,7 @@ interface SettingsToggleGroupProps {
   children?: React.ReactNode;
   prop_864?: string;
   prop_670?: string;
+  prop_101?: string;
   // PROPS_PLACEHOLDER
 }
 
