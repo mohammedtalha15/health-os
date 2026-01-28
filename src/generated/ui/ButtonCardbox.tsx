@@ -9,6 +9,7 @@ interface ButtonCardboxProps {
   prop_766?: string;
   prop_307?: string;
   prop_105?: string;
+  prop_213?: string;
   // PROPS_PLACEHOLDER
 }
 
