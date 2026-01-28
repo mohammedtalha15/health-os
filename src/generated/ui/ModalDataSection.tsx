@@ -9,6 +9,7 @@ interface ModalDataSectionProps {
   prop_867?: string;
   prop_464?: string;
   prop_176?: string;
+  prop_285?: string;
   // PROPS_PLACEHOLDER
 }
 
