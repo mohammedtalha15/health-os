@@ -7,6 +7,7 @@ interface ModalSelectGridProps {
   children?: React.ReactNode;
   prop_878?: string;
   prop_497?: string;
+  prop_430?: string;
   // PROPS_PLACEHOLDER
 }
 
