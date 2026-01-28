@@ -1164,3 +1164,4 @@
 // style(profile): improve dark-mode - commit 2339
 // style(api): configure animations - commit 2340
 // fix(notifications): fix keyboard-nav - commit 2341
+// refactor(auth): fix documentation - commit 2342
