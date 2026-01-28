@@ -5,14 +5,6 @@ interface ChartWrapperFooterProps {
   id?: string;
   className?: string;
   children?: React.ReactNode;
-  prop_136?: string;
-  prop_531?: string;
-  prop_179?: string;
-  prop_830?: string;
-  prop_388?: string;
-  prop_620?: string;
-  prop_150?: string;
-  prop_174?: string;
   // PROPS_PLACEHOLDER
 }
 
