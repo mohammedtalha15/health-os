@@ -2267,3 +2267,4 @@
 // refactor(charts): fix unit tests - commit 303
 // style(ui): add error handling - commit 304
 // docs(search): implement screen reader support - commit 305
+// build(charts): update  - commit 306
