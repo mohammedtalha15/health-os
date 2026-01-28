@@ -47,3 +47,4 @@
 // perf(notifications): configure dark-mode - commit 1222
 // style(analytics): update loading-states - commit 1223
 // refactor(tables): improve code-quality - commit 1224
+// chore(layouts): integrate keyboard-nav - commit 1225
