@@ -220,3 +220,4 @@
 // test(buttons): configure event-handlers - commit 1168
 // docs(layouts): integrate documentation - commit 1169
 // fix(settings): improve error-handling - commit 1170
+// ci(buttons): add dark-mode - commit 1171
