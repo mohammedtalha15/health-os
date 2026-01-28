@@ -5,16 +5,6 @@ interface ModalToggleGroupProps {
   id?: string;
   className?: string;
   children?: React.ReactNode;
-  prop_858?: string;
-  prop_843?: string;
-  prop_139?: string;
-  prop_965?: string;
-  prop_105?: string;
-  prop_670?: string;
-  prop_846?: string;
-  prop_977?: string;
-  prop_438?: string;
-  prop_947?: string;
   // PROPS_PLACEHOLDER
 }
 
