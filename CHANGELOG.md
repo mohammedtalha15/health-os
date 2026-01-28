@@ -771,3 +771,4 @@
 - test(modals): implement user-experience (Reference #771)
 - ci(database): add validation (Reference #772)
 - fix(notifications): add performance (Reference #773)
+- build(profile): configure keyboard-nav (Reference #774)
