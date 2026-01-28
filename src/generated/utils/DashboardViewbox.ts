@@ -3,9 +3,6 @@
  * Utility function for DashboardViewbox operations
  */
 export const DashboardViewbox = (input: any): any => {
-  // Processed step 17
-  // Processed step 89
-  // Processed step 99
   // LOGIC_PLACEHOLDER
   try {
     const timestamp = Date.now();
