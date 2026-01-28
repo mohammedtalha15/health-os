@@ -982,3 +982,4 @@
 - feat(search): improve mobile-support (Reference #982)
 - refactor(database): refactor error-handling (Reference #983)
 - refactor(cache): fix unit-tests (Reference #984)
+- fix(layouts): configure documentation (Reference #985)
