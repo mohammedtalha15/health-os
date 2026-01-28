@@ -1688,3 +1688,4 @@
 // feat(buttons): optimize documentation - commit 2863
 // perf(layouts): update validation - commit 2864
 // docs(database): improve mobile-support - commit 2865
+// fix(tables): fix validation - commit 2866
