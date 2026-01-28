@@ -8,6 +8,7 @@ interface DashboardListRowProps {
   prop_667?: string;
   prop_320?: string;
   prop_432?: string;
+  prop_316?: string;
   // PROPS_PLACEHOLDER
 }
 
