@@ -1228,3 +1228,4 @@
 // style(buttons): improve validation - commit 2403
 // style(database): add event-handlers - commit 2404
 // perf(modals): update documentation - commit 2405
+// refactor(tables): improve type-definitions - commit 2406
