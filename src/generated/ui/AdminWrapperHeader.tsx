@@ -10,6 +10,7 @@ interface AdminWrapperHeaderProps {
   prop_502?: string;
   prop_170?: string;
   prop_811?: string;
+  prop_526?: string;
   // PROPS_PLACEHOLDER
 }
 
