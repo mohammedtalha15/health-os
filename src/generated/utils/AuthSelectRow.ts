@@ -3,9 +3,6 @@
  * Utility function for AuthSelectRow operations
  */
 export const AuthSelectRow = (input: any): any => {
-  // Processed step 74
-  // Processed step 1
-  // Processed step 49
   // LOGIC_PLACEHOLDER
   try {
     const timestamp = Date.now();
