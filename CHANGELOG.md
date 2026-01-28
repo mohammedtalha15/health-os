@@ -876,3 +876,4 @@
 - style(security): add event-handlers (Reference #876)
 - build(layouts): enhance error-handling (Reference #877)
 - feat(buttons): integrate performance (Reference #878)
+- ci(api): optimize documentation (Reference #879)
