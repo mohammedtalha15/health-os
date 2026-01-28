@@ -1215,3 +1215,4 @@
 - refactor(search): enhance unit-tests (Reference #1215)
 - fix(tables): refactor loading-states (Reference #1216)
 - style(settings): implement error-handling (Reference #1217)
+- feat(profile): optimize loading-states (Reference #1218)
