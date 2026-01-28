@@ -1087,3 +1087,4 @@
 - feat(dashboard): enhance unit-tests (Reference #1087)
 - style(database): add validation (Reference #1088)
 - style(database): fix animations (Reference #1089)
+- test(ui): update user-experience (Reference #1090)
