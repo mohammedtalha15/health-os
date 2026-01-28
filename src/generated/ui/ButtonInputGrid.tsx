@@ -6,6 +6,7 @@ interface ButtonInputGridProps {
   className?: string;
   children?: React.ReactNode;
   prop_747?: string;
+  prop_692?: string;
   // PROPS_PLACEHOLDER
 }
 
