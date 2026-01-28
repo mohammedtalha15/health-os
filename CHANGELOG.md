@@ -1469,3 +1469,4 @@
 - docs(database): fix documentation (Reference #1469)
 - test(dashboard): fix dark-mode (Reference #1470)
 - refactor(profile): implement state-management (Reference #1471)
+- chore(tables): refactor performance (Reference #1472)
