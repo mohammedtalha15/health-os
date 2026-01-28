@@ -741,3 +741,4 @@
 - feat(api): update documentation (Reference #741)
 - test(search): fix dark-mode (Reference #742)
 - test(notifications): refactor code-quality (Reference #743)
+- ci(profile): refactor loading-states (Reference #744)
