@@ -5,14 +5,6 @@ interface TableViewPanelProps {
   id?: string;
   className?: string;
   children?: React.ReactNode;
-  prop_723?: string;
-  prop_142?: string;
-  prop_877?: string;
-  prop_957?: string;
-  prop_618?: string;
-  prop_478?: string;
-  prop_315?: string;
-  prop_742?: string;
   // PROPS_PLACEHOLDER
 }
 
