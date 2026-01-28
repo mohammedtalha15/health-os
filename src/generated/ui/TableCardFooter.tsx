@@ -8,6 +8,7 @@ interface TableCardFooterProps {
   prop_365?: string;
   prop_755?: string;
   prop_933?: string;
+  prop_306?: string;
   // PROPS_PLACEHOLDER
 }
 
