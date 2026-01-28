@@ -910,3 +910,4 @@
 - docs(ui): refactor error-handling (Reference #910)
 - fix(ui): implement loading-states (Reference #911)
 - style(charts): update data-fetching (Reference #912)
+- ci(search): update type-definitions (Reference #913)
