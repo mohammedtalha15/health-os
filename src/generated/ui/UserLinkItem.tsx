@@ -8,6 +8,7 @@ interface UserLinkItemProps {
   prop_982?: string;
   prop_145?: string;
   prop_607?: string;
+  prop_814?: string;
   // PROPS_PLACEHOLDER
 }
 
