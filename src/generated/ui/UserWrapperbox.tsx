@@ -5,10 +5,6 @@ interface UserWrapperboxProps {
   id?: string;
   className?: string;
   children?: React.ReactNode;
-  prop_976?: string;
-  prop_190?: string;
-  prop_733?: string;
-  prop_248?: string;
   // PROPS_PLACEHOLDER
 }
 
