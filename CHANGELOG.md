@@ -761,3 +761,4 @@
 - feat(forms): configure mobile-support (Reference #761)
 - test(dashboard): update documentation (Reference #762)
 - style(forms): improve user-experience (Reference #763)
+- test(modals): optimize user-experience (Reference #764)
