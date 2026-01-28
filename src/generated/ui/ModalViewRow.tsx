@@ -12,6 +12,7 @@ interface ModalViewRowProps {
   prop_947?: string;
   prop_321?: string;
   prop_695?: string;
+  prop_408?: string;
   // PROPS_PLACEHOLDER
 }
 
