@@ -5,16 +5,6 @@ interface TableContainerPanelProps {
   id?: string;
   className?: string;
   children?: React.ReactNode;
-  prop_777?: string;
-  prop_679?: string;
-  prop_694?: string;
-  prop_663?: string;
-  prop_715?: string;
-  prop_760?: string;
-  prop_156?: string;
-  prop_958?: string;
-  prop_940?: string;
-  prop_319?: string;
   // PROPS_PLACEHOLDER
 }
 
