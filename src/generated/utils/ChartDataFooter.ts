@@ -8,6 +8,7 @@ export const ChartDataFooter = (input: any): any => {
   // Processed step 100
   // Processed step 91
   // Processed step 50
+  // Processed step 1
   // LOGIC_PLACEHOLDER
   try {
     const timestamp = Date.now();
