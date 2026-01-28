@@ -623,3 +623,4 @@
 - perf(analytics): optimize data-fetching (Reference #623)
 - ci(auth): enhance unit-tests (Reference #624)
 - style(ui): enhance transitions (Reference #625)
+- fix(settings): optimize unit-tests (Reference #626)
