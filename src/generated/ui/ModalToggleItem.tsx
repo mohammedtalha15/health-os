@@ -6,6 +6,7 @@ interface ModalToggleItemProps {
   className?: string;
   children?: React.ReactNode;
   prop_177?: string;
+  prop_213?: string;
   // PROPS_PLACEHOLDER
 }
 
