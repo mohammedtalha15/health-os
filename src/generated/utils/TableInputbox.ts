@@ -3,8 +3,6 @@
  * Utility function for TableInputbox operations
  */
 export const TableInputbox = (input: any): any => {
-  // Processed step 54
-  // Processed step 21
   // LOGIC_PLACEHOLDER
   try {
     const timestamp = Date.now();
