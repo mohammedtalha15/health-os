@@ -604,3 +604,4 @@
 - fix(layouts): enhance user-experience (Reference #604)
 - fix(buttons): fix code-quality (Reference #605)
 - fix(ui): integrate animations (Reference #606)
+- build(database): add unit-tests (Reference #607)
