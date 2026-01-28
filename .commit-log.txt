@@ -3067,3 +3067,4 @@
 // docs(analytics): refactor data-fetching - commit 595
 // docs(analytics): configure mobile-support - commit 596
 // ci(database): fix validation - commit 597
+// perf(inputs): add type-definitions - commit 598
