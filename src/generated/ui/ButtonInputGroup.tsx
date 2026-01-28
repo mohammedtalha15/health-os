@@ -11,6 +11,7 @@ interface ButtonInputGroupProps {
   prop_410?: string;
   prop_227?: string;
   prop_359?: string;
+  prop_295?: string;
   // PROPS_PLACEHOLDER
 }
 
