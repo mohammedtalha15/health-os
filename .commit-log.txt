@@ -653,3 +653,4 @@
 // style(database): update mobile-support - commit 1828
 // test(search): enhance mobile-support - commit 1829
 // perf(profile): update documentation - commit 1830
+// style(modals): add documentation - commit 1831
