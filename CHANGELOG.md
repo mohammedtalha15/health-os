@@ -1496,3 +1496,4 @@
 - ci(navigation): add event-handlers (Reference #1496)
 - feat(navigation): add performance (Reference #1497)
 - build(analytics): add keyboard-nav (Reference #1498)
+- test(dashboard): integrate event-handlers (Reference #1499)
