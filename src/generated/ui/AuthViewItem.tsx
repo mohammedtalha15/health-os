@@ -5,12 +5,6 @@ interface AuthViewItemProps {
   id?: string;
   className?: string;
   children?: React.ReactNode;
-  prop_877?: string;
-  prop_747?: string;
-  prop_758?: string;
-  prop_901?: string;
-  prop_628?: string;
-  prop_912?: string;
   // PROPS_PLACEHOLDER
 }
 
