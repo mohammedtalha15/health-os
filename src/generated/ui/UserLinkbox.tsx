@@ -5,17 +5,6 @@ interface UserLinkboxProps {
   id?: string;
   className?: string;
   children?: React.ReactNode;
-  prop_543?: string;
-  prop_265?: string;
-  prop_158?: string;
-  prop_927?: string;
-  prop_743?: string;
-  prop_160?: string;
-  prop_452?: string;
-  prop_964?: string;
-  prop_320?: string;
-  prop_723?: string;
-  prop_228?: string;
   // PROPS_PLACEHOLDER
 }
 
