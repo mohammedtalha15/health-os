@@ -5,30 +5,6 @@ interface ModalLinkFooterProps {
   id?: string;
   className?: string;
   children?: React.ReactNode;
-  prop_299?: string;
-  prop_527?: string;
-  prop_408?: string;
-  prop_458?: string;
-  prop_690?: string;
-  prop_360?: string;
-  prop_832?: string;
-  prop_469?: string;
-  prop_119?: string;
-  prop_542?: string;
-  prop_983?: string;
-  prop_775?: string;
-  prop_172?: string;
-  prop_133?: string;
-  prop_532?: string;
-  prop_373?: string;
-  prop_433?: string;
-  prop_739?: string;
-  prop_510?: string;
-  prop_801?: string;
-  prop_964?: string;
-  prop_123?: string;
-  prop_429?: string;
-  prop_155?: string;
   // PROPS_PLACEHOLDER
 }
 
