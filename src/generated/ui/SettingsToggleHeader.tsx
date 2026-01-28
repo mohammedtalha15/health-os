@@ -5,19 +5,6 @@ interface SettingsToggleHeaderProps {
   id?: string;
   className?: string;
   children?: React.ReactNode;
-  prop_109?: string;
-  prop_464?: string;
-  prop_876?: string;
-  prop_693?: string;
-  prop_300?: string;
-  prop_125?: string;
-  prop_596?: string;
-  prop_951?: string;
-  prop_557?: string;
-  prop_552?: string;
-  prop_146?: string;
-  prop_498?: string;
-  prop_720?: string;
   // PROPS_PLACEHOLDER
 }
 
