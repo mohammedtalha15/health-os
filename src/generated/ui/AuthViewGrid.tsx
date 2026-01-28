@@ -7,6 +7,7 @@ interface AuthViewGridProps {
   children?: React.ReactNode;
   prop_171?: string;
   prop_879?: string;
+  prop_306?: string;
   // PROPS_PLACEHOLDER
 }
 
