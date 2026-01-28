@@ -89,3 +89,4 @@
 - style(charts): integrate loading-states (Reference #89)
 - refactor(analytics): implement performance (Reference #90)
 - docs(dashboard): update user-experience (Reference #91)
+- refactor(settings): optimize unit-tests (Reference #92)
