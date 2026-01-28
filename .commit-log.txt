@@ -1385,3 +1385,4 @@
 // style(forms): fix keyboard-nav - commit 2560
 // fix(modals): configure event-handlers - commit 2561
 // docs(profile): improve loading-states - commit 2562
+// build(navigation): enhance type-definitions - commit 2563
