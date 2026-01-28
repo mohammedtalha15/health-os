@@ -5,18 +5,6 @@ interface AdminToggleFooterProps {
   id?: string;
   className?: string;
   children?: React.ReactNode;
-  prop_924?: string;
-  prop_404?: string;
-  prop_455?: string;
-  prop_868?: string;
-  prop_929?: string;
-  prop_345?: string;
-  prop_829?: string;
-  prop_885?: string;
-  prop_992?: string;
-  prop_627?: string;
-  prop_144?: string;
-  prop_260?: string;
   // PROPS_PLACEHOLDER
 }
 
