@@ -1262,3 +1262,4 @@
 // feat(charts): refactor documentation - commit 2437
 // build(layouts): enhance dark-mode - commit 2438
 // build(api): update documentation - commit 2439
+// style(dashboard): fix documentation - commit 2440
