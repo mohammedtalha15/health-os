@@ -616,3 +616,4 @@
 - perf(tables): integrate loading-states (Reference #616)
 - docs(auth): refactor caching-logic (Reference #617)
 - build(security): integrate type-definitions (Reference #618)
+- build(inputs): update validation (Reference #619)
