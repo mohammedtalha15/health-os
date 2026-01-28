@@ -8,6 +8,7 @@ interface ButtonViewPanelProps {
   prop_984?: string;
   prop_186?: string;
   prop_709?: string;
+  prop_844?: string;
   // PROPS_PLACEHOLDER
 }
 
