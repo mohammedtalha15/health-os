@@ -5,11 +5,6 @@ interface UserTogglePanelProps {
   id?: string;
   className?: string;
   children?: React.ReactNode;
-  prop_176?: string;
-  prop_798?: string;
-  prop_856?: string;
-  prop_988?: string;
-  prop_843?: string;
   // PROPS_PLACEHOLDER
 }
 
