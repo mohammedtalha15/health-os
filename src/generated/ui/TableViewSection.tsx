@@ -5,6 +5,7 @@ interface TableViewSectionProps {
   id?: string;
   className?: string;
   children?: React.ReactNode;
+  prop_148?: string;
   // PROPS_PLACEHOLDER
 }
 
