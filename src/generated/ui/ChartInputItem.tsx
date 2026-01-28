@@ -9,6 +9,7 @@ interface ChartInputItemProps {
   prop_105?: string;
   prop_612?: string;
   prop_714?: string;
+  prop_205?: string;
   // PROPS_PLACEHOLDER
 }
 
