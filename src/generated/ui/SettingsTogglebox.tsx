@@ -5,10 +5,6 @@ interface SettingsToggleboxProps {
   id?: string;
   className?: string;
   children?: React.ReactNode;
-  prop_609?: string;
-  prop_567?: string;
-  prop_211?: string;
-  prop_422?: string;
   // PROPS_PLACEHOLDER
 }
 
