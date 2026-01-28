@@ -6,6 +6,7 @@ interface UserWrapperFooterProps {
   className?: string;
   children?: React.ReactNode;
   prop_666?: string;
+  prop_541?: string;
   // PROPS_PLACEHOLDER
 }
 
