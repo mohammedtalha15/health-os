@@ -5,20 +5,6 @@ interface ProfileCardSidebarProps {
   id?: string;
   className?: string;
   children?: React.ReactNode;
-  prop_804?: string;
-  prop_840?: string;
-  prop_789?: string;
-  prop_837?: string;
-  prop_385?: string;
-  prop_340?: string;
-  prop_905?: string;
-  prop_445?: string;
-  prop_524?: string;
-  prop_714?: string;
-  prop_171?: string;
-  prop_929?: string;
-  prop_707?: string;
-  prop_250?: string;
   // PROPS_PLACEHOLDER
 }
 
