@@ -5,17 +5,6 @@ interface AuthInputRowProps {
   id?: string;
   className?: string;
   children?: React.ReactNode;
-  prop_152?: string;
-  prop_989?: string;
-  prop_797?: string;
-  prop_615?: string;
-  prop_944?: string;
-  prop_306?: string;
-  prop_344?: string;
-  prop_618?: string;
-  prop_932?: string;
-  prop_396?: string;
-  prop_139?: string;
   // PROPS_PLACEHOLDER
 }
 
