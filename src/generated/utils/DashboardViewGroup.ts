@@ -3,7 +3,6 @@
  * Utility function for DashboardViewGroup operations
  */
 export const DashboardViewGroup = (input: any): any => {
-  // Processed step 7
   // LOGIC_PLACEHOLDER
   try {
     const timestamp = Date.now();
