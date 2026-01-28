@@ -3,9 +3,6 @@
  * Utility function for ModalLinkSidebar operations
  */
 export const ModalLinkSidebar = (input: any): any => {
-  // Processed step 64
-  // Processed step 26
-  // Processed step 33
   // LOGIC_PLACEHOLDER
   try {
     const timestamp = Date.now();
