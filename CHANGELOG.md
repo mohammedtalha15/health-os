@@ -1301,3 +1301,4 @@
 - chore(profile): implement event-handlers (Reference #1301)
 - style(search): fix documentation (Reference #1302)
 - docs(inputs): improve caching-logic (Reference #1303)
+- refactor(cache): enhance performance (Reference #1304)
