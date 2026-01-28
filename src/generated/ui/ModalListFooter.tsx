@@ -5,11 +5,6 @@ interface ModalListFooterProps {
   id?: string;
   className?: string;
   children?: React.ReactNode;
-  prop_285?: string;
-  prop_703?: string;
-  prop_273?: string;
-  prop_969?: string;
-  prop_264?: string;
   // PROPS_PLACEHOLDER
 }
 
