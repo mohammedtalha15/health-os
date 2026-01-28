@@ -7,6 +7,7 @@ interface ButtonLinkSidebarProps {
   children?: React.ReactNode;
   prop_200?: string;
   prop_405?: string;
+  prop_243?: string;
   // PROPS_PLACEHOLDER
 }
 
