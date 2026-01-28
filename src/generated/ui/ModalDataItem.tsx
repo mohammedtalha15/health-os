@@ -5,6 +5,7 @@ interface ModalDataItemProps {
   id?: string;
   className?: string;
   children?: React.ReactNode;
+  prop_930?: string;
   // PROPS_PLACEHOLDER
 }
 
