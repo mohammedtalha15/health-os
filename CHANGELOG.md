@@ -66,3 +66,4 @@
 - ci(security): improve keyboard-nav (Reference #66)
 - fix(buttons): optimize data-fetching (Reference #67)
 - refactor(auth): update event-handlers (Reference #68)
+- fix(profile): fix event-handlers (Reference #69)
