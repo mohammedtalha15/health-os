@@ -32,3 +32,4 @@
 - style(profile): configure event-handlers (Reference #32)
 - refactor(inputs): fix event-handlers (Reference #33)
 - docs(security): integrate code-quality (Reference #34)
+- docs(notifications): fix responsiveness (Reference #35)
