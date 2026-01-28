@@ -1101,3 +1101,4 @@
 - style(ui): add accessibility (Reference #1101)
 - build(notifications): fix accessibility (Reference #1102)
 - build(api): update validation (Reference #1103)
+- chore(buttons): update event-handlers (Reference #1104)
