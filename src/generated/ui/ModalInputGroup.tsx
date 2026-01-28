@@ -14,6 +14,7 @@ interface ModalInputGroupProps {
   prop_883?: string;
   prop_841?: string;
   prop_124?: string;
+  prop_714?: string;
   // PROPS_PLACEHOLDER
 }
 
