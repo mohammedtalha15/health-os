@@ -13,6 +13,7 @@ interface ButtonWrapperSidebarProps {
   prop_127?: string;
   prop_650?: string;
   prop_248?: string;
+  prop_103?: string;
   // PROPS_PLACEHOLDER
 }
 
