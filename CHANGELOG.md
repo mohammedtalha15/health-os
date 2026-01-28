@@ -919,3 +919,4 @@
 - style(layouts): refactor data-fetching (Reference #919)
 - feat(charts): implement mobile-support (Reference #920)
 - refactor(dashboard): implement code-quality (Reference #921)
+- docs(search): improve performance (Reference #922)
