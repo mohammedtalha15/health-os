@@ -7,6 +7,7 @@ interface UserInputPanelProps {
   children?: React.ReactNode;
   prop_938?: string;
   prop_113?: string;
+  prop_557?: string;
   // PROPS_PLACEHOLDER
 }
 
