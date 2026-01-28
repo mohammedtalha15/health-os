@@ -9,6 +9,7 @@ interface ButtonListPanelProps {
   prop_405?: string;
   prop_125?: string;
   prop_442?: string;
+  prop_356?: string;
   // PROPS_PLACEHOLDER
 }
 
