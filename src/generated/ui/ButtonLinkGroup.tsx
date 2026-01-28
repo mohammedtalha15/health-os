@@ -6,6 +6,7 @@ interface ButtonLinkGroupProps {
   className?: string;
   children?: React.ReactNode;
   prop_228?: string;
+  prop_459?: string;
   // PROPS_PLACEHOLDER
 }
 
