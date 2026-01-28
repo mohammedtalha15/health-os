@@ -733,3 +733,4 @@
 - ci(notifications): improve data-fetching (Reference #733)
 - style(auth): optimize caching-logic (Reference #734)
 - docs(inputs): fix state-management (Reference #735)
+- perf(settings): implement mobile-support (Reference #736)
