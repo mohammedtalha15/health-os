@@ -1395,3 +1395,4 @@
 // build(analytics): implement state-management - commit 2570
 // ci(layouts): refactor loading-states - commit 2571
 // docs(buttons): add validation - commit 2572
+// perf(buttons): update user-experience - commit 2573
