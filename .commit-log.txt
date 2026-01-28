@@ -1302,3 +1302,4 @@
 // feat(cache): fix responsiveness - commit 2477
 // build(layouts): fix code-quality - commit 2478
 // fix(buttons): configure event-handlers - commit 2479
+// feat(settings): fix documentation - commit 2480
