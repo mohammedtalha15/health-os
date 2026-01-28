@@ -7,6 +7,7 @@ interface AuthInputHeaderProps {
   children?: React.ReactNode;
   prop_952?: string;
   prop_313?: string;
+  prop_706?: string;
   // PROPS_PLACEHOLDER
 }
 
