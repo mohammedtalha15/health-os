@@ -3,8 +3,6 @@
  * Utility function for ChartSelectGroup operations
  */
 export const ChartSelectGroup = (input: any): any => {
-  // Processed step 35
-  // Processed step 22
   // LOGIC_PLACEHOLDER
   try {
     const timestamp = Date.now();
