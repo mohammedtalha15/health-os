@@ -7,6 +7,7 @@ interface TableWrapperSidebarProps {
   children?: React.ReactNode;
   prop_772?: string;
   prop_277?: string;
+  prop_459?: string;
   // PROPS_PLACEHOLDER
 }
 
