@@ -5,6 +5,7 @@ interface SettingsViewHeaderProps {
   id?: string;
   className?: string;
   children?: React.ReactNode;
+  prop_679?: string;
   // PROPS_PLACEHOLDER
 }
 
