@@ -7,6 +7,7 @@ interface SettingsSelectSidebarProps {
   children?: React.ReactNode;
   prop_451?: string;
   prop_475?: string;
+  prop_637?: string;
   // PROPS_PLACEHOLDER
 }
 
