@@ -6,6 +6,7 @@ interface DashboardContainerGridProps {
   className?: string;
   children?: React.ReactNode;
   prop_346?: string;
+  prop_351?: string;
   // PROPS_PLACEHOLDER
 }
 
