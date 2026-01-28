@@ -3,7 +3,6 @@
  * Utility function for AuthLinkGroup operations
  */
 export const AuthLinkGroup = (input: any): any => {
-  // Processed step 58
   // LOGIC_PLACEHOLDER
   try {
     const timestamp = Date.now();
