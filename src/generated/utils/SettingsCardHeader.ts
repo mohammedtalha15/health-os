@@ -3,9 +3,6 @@
  * Utility function for SettingsCardHeader operations
  */
 export const SettingsCardHeader = (input: any): any => {
-  // Processed step 12
-  // Processed step 62
-  // Processed step 72
   // LOGIC_PLACEHOLDER
   try {
     const timestamp = Date.now();
