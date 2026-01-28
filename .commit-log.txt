@@ -3208,3 +3208,4 @@
 // docs(api): refactor mobile-support - commit 736
 // docs(dashboard): optimize responsiveness - commit 737
 // ci(security): refactor loading-states - commit 738
+// feat(settings): add dark-mode - commit 739
