@@ -118,3 +118,4 @@
 - style(profile): improve error-handling (Reference #118)
 - test(tables): enhance code-quality (Reference #119)
 - test(auth): optimize state-management (Reference #120)
+- ci(security): add loading-states (Reference #121)
