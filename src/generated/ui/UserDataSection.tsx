@@ -16,6 +16,7 @@ interface UserDataSectionProps {
   prop_573?: string;
   prop_411?: string;
   prop_544?: string;
+  prop_472?: string;
   // PROPS_PLACEHOLDER
 }
 
