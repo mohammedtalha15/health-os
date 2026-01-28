@@ -1382,3 +1382,4 @@
 - fix(analytics): refactor event-handlers (Reference #1382)
 - style(tables): improve unit-tests (Reference #1383)
 - chore(cache): update transitions (Reference #1384)
+- style(auth): configure animations (Reference #1385)
