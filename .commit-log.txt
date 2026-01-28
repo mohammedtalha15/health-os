@@ -1121,3 +1121,4 @@
 // style(api): optimize type-definitions - commit 2296
 // perf(tables): integrate accessibility - commit 2297
 // perf(auth): implement code-quality - commit 2298
+// perf(modals): add performance - commit 2299
