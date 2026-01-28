@@ -827,3 +827,4 @@
 - chore(search): implement state-management (Reference #827)
 - docs(auth): improve accessibility (Reference #828)
 - perf(security): implement loading-states (Reference #829)
+- refactor(database): optimize loading-states (Reference #830)
