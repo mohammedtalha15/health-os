@@ -13,6 +13,7 @@ interface ProfileToggleFooterProps {
   prop_142?: string;
   prop_166?: string;
   prop_921?: string;
+  prop_776?: string;
   // PROPS_PLACEHOLDER
 }
 
