@@ -28,6 +28,7 @@ interface TableSelectGroupProps {
   prop_712?: string;
   prop_412?: string;
   prop_883?: string;
+  prop_678?: string;
   // PROPS_PLACEHOLDER
 }
 
