@@ -9,6 +9,7 @@ interface UserToggleSectionProps {
   prop_838?: string;
   prop_285?: string;
   prop_969?: string;
+  prop_651?: string;
   // PROPS_PLACEHOLDER
 }
 
