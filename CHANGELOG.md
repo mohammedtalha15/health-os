@@ -1118,3 +1118,4 @@
 - ci(auth): configure loading-states (Reference #1118)
 - refactor(charts): optimize performance (Reference #1119)
 - perf(settings): optimize data-fetching (Reference #1120)
+- feat(auth): add state-management (Reference #1121)
