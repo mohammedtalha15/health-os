@@ -10,6 +10,7 @@ interface AuthInputSidebarProps {
   prop_871?: string;
   prop_620?: string;
   prop_508?: string;
+  prop_608?: string;
   // PROPS_PLACEHOLDER
 }
 
