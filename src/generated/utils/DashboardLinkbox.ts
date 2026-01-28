@@ -3,8 +3,6 @@
  * Utility function for DashboardLinkbox operations
  */
 export const DashboardLinkbox = (input: any): any => {
-  // Processed step 55
-  // Processed step 19
   // LOGIC_PLACEHOLDER
   try {
     const timestamp = Date.now();
