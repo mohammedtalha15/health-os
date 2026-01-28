@@ -7,6 +7,7 @@ interface ProfileWrapperGridProps {
   children?: React.ReactNode;
   prop_718?: string;
   prop_318?: string;
+  prop_798?: string;
   // PROPS_PLACEHOLDER
 }
 
