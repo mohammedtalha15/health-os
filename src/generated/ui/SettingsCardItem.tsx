@@ -18,6 +18,7 @@ interface SettingsCardItemProps {
   prop_533?: string;
   prop_350?: string;
   prop_511?: string;
+  prop_215?: string;
   // PROPS_PLACEHOLDER
 }
 
