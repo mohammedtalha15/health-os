@@ -1113,3 +1113,4 @@
 - docs(buttons): enhance transitions (Reference #1113)
 - refactor(modals): implement mobile-support (Reference #1114)
 - build(dashboard): enhance animations (Reference #1115)
+- feat(navigation): update code-quality (Reference #1116)
