@@ -80,3 +80,4 @@
 - perf(profile): add transitions (Reference #80)
 - build(cache): optimize documentation (Reference #81)
 - feat(security): enhance caching-logic (Reference #82)
+- test(database): implement keyboard-nav (Reference #83)
