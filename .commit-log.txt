@@ -1328,3 +1328,4 @@
 // chore(tables): configure documentation - commit 2503
 // build(forms): optimize responsiveness - commit 2504
 // build(notifications): add documentation - commit 2505
+// fix(charts): improve type-definitions - commit 2506
