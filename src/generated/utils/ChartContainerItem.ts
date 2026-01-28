@@ -3,8 +3,6 @@
  * Utility function for ChartContainerItem operations
  */
 export const ChartContainerItem = (input: any): any => {
-  // Processed step 36
-  // Processed step 58
   // LOGIC_PLACEHOLDER
   try {
     const timestamp = Date.now();
