@@ -141,3 +141,4 @@
 - refactor(analytics): optimize performance (Reference #141)
 - test(notifications): optimize validation (Reference #142)
 - refactor(inputs): enhance documentation (Reference #143)
+- feat(analytics): integrate loading-states (Reference #144)
