@@ -2287,3 +2287,4 @@
 // feat(analytics):  validation - commit 323
 // docs(search):  caching logic - commit 324
 // style(forms): enhance dark mode - commit 325
+// build(tables): fix error handling - commit 326
