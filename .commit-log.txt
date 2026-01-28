@@ -24,3 +24,4 @@
 // style(notifications): implement event-handlers - commit 972
 // feat(search): implement unit-tests - commit 973
 // fix(cache): fix responsiveness - commit 974
+// feat(dashboard): refactor caching-logic - commit 975
