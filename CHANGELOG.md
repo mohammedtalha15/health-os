@@ -59,3 +59,4 @@
 - chore(ui): optimize code-quality (Reference #59)
 - chore(forms): add animations (Reference #60)
 - ci(profile): integrate animations (Reference #61)
+- refactor(forms): refactor accessibility (Reference #62)
