@@ -21,6 +21,7 @@ interface SettingsDataGroupProps {
   prop_154?: string;
   prop_166?: string;
   prop_574?: string;
+  prop_914?: string;
   // PROPS_PLACEHOLDER
 }
 
