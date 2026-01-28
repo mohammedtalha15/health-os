@@ -8,6 +8,7 @@ interface ProfileWrapperFooterProps {
   prop_827?: string;
   prop_635?: string;
   prop_421?: string;
+  prop_514?: string;
   // PROPS_PLACEHOLDER
 }
 
