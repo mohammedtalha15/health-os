@@ -10,6 +10,7 @@ interface AdminDataSectionProps {
   prop_494?: string;
   prop_762?: string;
   prop_227?: string;
+  prop_986?: string;
   // PROPS_PLACEHOLDER
 }
 
