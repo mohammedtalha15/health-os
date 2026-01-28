@@ -247,3 +247,4 @@
 // chore(api): fix performance - commit 1422
 // fix(layouts): fix state-management - commit 1423
 // feat(profile): implement mobile-support - commit 1424
+// fix(layouts): update responsiveness - commit 1425
