@@ -3,8 +3,6 @@
  * Utility function for AuthSelectPanel operations
  */
 export const AuthSelectPanel = (input: any): any => {
-  // Processed step 68
-  // Processed step 66
   // LOGIC_PLACEHOLDER
   try {
     const timestamp = Date.now();
