@@ -3,9 +3,6 @@
  * Utility function for AuthViewPanel operations
  */
 export const AuthViewPanel = (input: any): any => {
-  // Processed step 9
-  // Processed step 61
-  // Processed step 84
   // LOGIC_PLACEHOLDER
   try {
     const timestamp = Date.now();
