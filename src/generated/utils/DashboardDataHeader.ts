@@ -3,12 +3,6 @@
  * Utility function for DashboardDataHeader operations
  */
 export const DashboardDataHeader = (input: any): any => {
-  // Processed step 45
-  // Processed step 23
-  // Processed step 74
-  // Processed step 14
-  // Processed step 10
-  // Processed step 13
   // LOGIC_PLACEHOLDER
   try {
     const timestamp = Date.now();
