@@ -9,6 +9,7 @@ interface AdminLinkFooterProps {
   prop_149?: string;
   prop_881?: string;
   prop_151?: string;
+  prop_232?: string;
   // PROPS_PLACEHOLDER
 }
 
