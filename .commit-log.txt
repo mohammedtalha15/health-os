@@ -2290,3 +2290,4 @@
 // ci(search): optimize event-handlers - commit 3465
 // ci(search): integrate documentation - commit 3466
 // perf(search): add transitions - commit 3467
+// ci(tables): integrate accessibility - commit 3468
