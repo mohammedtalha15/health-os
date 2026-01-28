@@ -6,6 +6,7 @@ interface DashboardLinkGroupProps {
   className?: string;
   children?: React.ReactNode;
   prop_773?: string;
+  prop_285?: string;
   // PROPS_PLACEHOLDER
 }
 
