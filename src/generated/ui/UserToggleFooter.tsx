@@ -9,6 +9,7 @@ interface UserToggleFooterProps {
   prop_356?: string;
   prop_671?: string;
   prop_919?: string;
+  prop_377?: string;
   // PROPS_PLACEHOLDER
 }
 
