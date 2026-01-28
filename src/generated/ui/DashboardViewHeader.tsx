@@ -6,6 +6,7 @@ interface DashboardViewHeaderProps {
   className?: string;
   children?: React.ReactNode;
   prop_838?: string;
+  prop_640?: string;
   // PROPS_PLACEHOLDER
 }
 
