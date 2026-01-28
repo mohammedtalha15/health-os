@@ -3,8 +3,6 @@
  * Utility function for AuthViewSection operations
  */
 export const AuthViewSection = (input: any): any => {
-  // Processed step 65
-  // Processed step 46
   // LOGIC_PLACEHOLDER
   try {
     const timestamp = Date.now();
