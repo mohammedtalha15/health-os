@@ -1185,3 +1185,4 @@
 - style(database): configure validation (Reference #1185)
 - style(api): enhance mobile-support (Reference #1186)
 - build(ui): improve type-definitions (Reference #1187)
+- style(forms): integrate state-management (Reference #1188)
