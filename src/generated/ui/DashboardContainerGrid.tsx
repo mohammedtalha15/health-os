@@ -10,6 +10,7 @@ interface DashboardContainerGridProps {
   prop_156?: string;
   prop_504?: string;
   prop_752?: string;
+  prop_313?: string;
   // PROPS_PLACEHOLDER
 }
 
