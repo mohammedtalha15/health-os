@@ -575,3 +575,4 @@
 // docs(profile): configure responsiveness - commit 1750
 // test(cache): configure documentation - commit 1751
 // docs(analytics): integrate event-handlers - commit 1752
+// build(tables): optimize accessibility - commit 1753
