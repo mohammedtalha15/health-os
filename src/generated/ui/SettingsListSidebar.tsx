@@ -12,6 +12,7 @@ interface SettingsListSidebarProps {
   prop_952?: string;
   prop_155?: string;
   prop_284?: string;
+  prop_451?: string;
   // PROPS_PLACEHOLDER
 }
 
