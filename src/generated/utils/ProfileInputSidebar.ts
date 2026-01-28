@@ -3,12 +3,6 @@
  * Utility function for ProfileInputSidebar operations
  */
 export const ProfileInputSidebar = (input: any): any => {
-  // Processed step 5
-  // Processed step 93
-  // Processed step 62
-  // Processed step 67
-  // Processed step 3
-  // Processed step 18
   // LOGIC_PLACEHOLDER
   try {
     const timestamp = Date.now();
