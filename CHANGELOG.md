@@ -1418,3 +1418,4 @@
 - perf(forms): implement unit-tests (Reference #1418)
 - ci(modals): optimize documentation (Reference #1419)
 - style(modals): add dark-mode (Reference #1420)
+- perf(tables): implement dark-mode (Reference #1421)
