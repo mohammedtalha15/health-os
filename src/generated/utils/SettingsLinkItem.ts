@@ -3,11 +3,6 @@
  * Utility function for SettingsLinkItem operations
  */
 export const SettingsLinkItem = (input: any): any => {
-  // Processed step 15
-  // Processed step 32
-  // Processed step 38
-  // Processed step 5
-  // Processed step 79
   // LOGIC_PLACEHOLDER
   try {
     const timestamp = Date.now();
