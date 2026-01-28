@@ -9,6 +9,7 @@ interface ButtonInputRowProps {
   prop_699?: string;
   prop_114?: string;
   prop_567?: string;
+  prop_325?: string;
   // PROPS_PLACEHOLDER
 }
 
