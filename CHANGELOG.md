@@ -373,3 +373,4 @@
 - ci(navigation): implement validation (Reference #373)
 - perf(security): integrate responsiveness (Reference #374)
 - build(forms): fix dark-mode (Reference #375)
+- style(api): improve data-fetching (Reference #376)
