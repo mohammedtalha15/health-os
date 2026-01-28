@@ -676,3 +676,4 @@
 // test(search): add responsiveness - commit 1851
 // refactor(ui): update animations - commit 1852
 // fix(buttons): refactor code-quality - commit 1853
+// style(tables): fix animations - commit 1854
