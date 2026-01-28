@@ -7,6 +7,7 @@ interface DashboardSelectSectionProps {
   children?: React.ReactNode;
   prop_755?: string;
   prop_510?: string;
+  prop_640?: string;
   // PROPS_PLACEHOLDER
 }
 
