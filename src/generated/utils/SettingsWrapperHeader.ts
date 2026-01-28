@@ -3,11 +3,6 @@
  * Utility function for SettingsWrapperHeader operations
  */
 export const SettingsWrapperHeader = (input: any): any => {
-  // Processed step 4
-  // Processed step 29
-  // Processed step 75
-  // Processed step 24
-  // Processed step 92
   // LOGIC_PLACEHOLDER
   try {
     const timestamp = Date.now();
