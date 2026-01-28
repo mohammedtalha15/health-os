@@ -2594,3 +2594,4 @@
 // test(search): improve type-definitions - commit 122
 // perf(dashboard): enhance error-handling - commit 123
 // perf(search): enhance responsiveness - commit 124
+// fix(settings): implement transitions - commit 125
