@@ -39,3 +39,4 @@
 - style(dashboard): refactor loading-states (Reference #39)
 - test(api): configure loading-states (Reference #40)
 - style(dashboard): integrate transitions (Reference #41)
+- refactor(layouts): improve animations (Reference #42)
