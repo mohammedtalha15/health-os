@@ -6,6 +6,7 @@ interface AdminCardGridProps {
   className?: string;
   children?: React.ReactNode;
   prop_336?: string;
+  prop_707?: string;
   // PROPS_PLACEHOLDER
 }
 
