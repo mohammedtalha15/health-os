@@ -4,3 +4,4 @@
 // chore(auth): enhance state-management - commit 952
 // fix(navigation): fix state-management - commit 953
 // docs(charts): update mobile-support - commit 954
+// feat(charts): integrate validation - commit 955
