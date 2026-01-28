@@ -2772,3 +2772,4 @@
 // chore(security): enhance unit-tests - commit 300
 // feat(search): configure unit-tests - commit 301
 // fix(tables): add error-handling - commit 302
+// perf(settings): refactor documentation - commit 303
