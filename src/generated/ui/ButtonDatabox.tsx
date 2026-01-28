@@ -8,6 +8,7 @@ interface ButtonDataboxProps {
   prop_566?: string;
   prop_442?: string;
   prop_125?: string;
+  prop_215?: string;
   // PROPS_PLACEHOLDER
 }
 
