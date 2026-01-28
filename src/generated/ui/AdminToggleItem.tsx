@@ -9,6 +9,7 @@ interface AdminToggleItemProps {
   prop_344?: string;
   prop_834?: string;
   prop_344?: string;
+  prop_587?: string;
   // PROPS_PLACEHOLDER
 }
 
