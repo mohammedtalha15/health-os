@@ -8,6 +8,7 @@ interface TableContainerFooterProps {
   prop_813?: string;
   prop_113?: string;
   prop_414?: string;
+  prop_240?: string;
   // PROPS_PLACEHOLDER
 }
 
