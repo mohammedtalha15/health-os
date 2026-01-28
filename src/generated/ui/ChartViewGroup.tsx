@@ -8,6 +8,7 @@ interface ChartViewGroupProps {
   prop_822?: string;
   prop_336?: string;
   prop_317?: string;
+  prop_118?: string;
   // PROPS_PLACEHOLDER
 }
 
