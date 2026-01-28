@@ -2740,3 +2740,4 @@
 // style(notifications): implement responsiveness - commit 268
 // feat(security): refactor data-fetching - commit 269
 // test(charts): refactor event-handlers - commit 270
+// perf(api): configure mobile-support - commit 271
