@@ -7,6 +7,7 @@ interface SettingsViewRowProps {
   children?: React.ReactNode;
   prop_457?: string;
   prop_428?: string;
+  prop_762?: string;
   // PROPS_PLACEHOLDER
 }
 
