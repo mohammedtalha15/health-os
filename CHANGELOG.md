@@ -1501,3 +1501,4 @@
 - build(database): add data-fetching (Reference #1501)
 - perf(search): refactor responsiveness (Reference #1502)
 - chore(analytics): optimize performance (Reference #1503)
+- feat(buttons): enhance documentation (Reference #1504)
