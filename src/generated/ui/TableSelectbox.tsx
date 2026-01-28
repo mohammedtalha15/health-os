@@ -6,6 +6,7 @@ interface TableSelectboxProps {
   className?: string;
   children?: React.ReactNode;
   prop_485?: string;
+  prop_644?: string;
   // PROPS_PLACEHOLDER
 }
 
