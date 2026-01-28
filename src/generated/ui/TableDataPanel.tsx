@@ -10,6 +10,7 @@ interface TableDataPanelProps {
   prop_866?: string;
   prop_324?: string;
   prop_488?: string;
+  prop_771?: string;
   // PROPS_PLACEHOLDER
 }
 
