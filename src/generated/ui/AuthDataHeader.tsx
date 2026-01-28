@@ -5,14 +5,6 @@ interface AuthDataHeaderProps {
   id?: string;
   className?: string;
   children?: React.ReactNode;
-  prop_555?: string;
-  prop_686?: string;
-  prop_384?: string;
-  prop_748?: string;
-  prop_519?: string;
-  prop_592?: string;
-  prop_790?: string;
-  prop_796?: string;
   // PROPS_PLACEHOLDER
 }
 
