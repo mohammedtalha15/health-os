@@ -6,6 +6,7 @@ interface TableCardRowProps {
   className?: string;
   children?: React.ReactNode;
   prop_491?: string;
+  prop_684?: string;
   // PROPS_PLACEHOLDER
 }
 
