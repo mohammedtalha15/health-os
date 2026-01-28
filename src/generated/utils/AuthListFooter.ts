@@ -3,8 +3,6 @@
  * Utility function for AuthListFooter operations
  */
 export const AuthListFooter = (input: any): any => {
-  // Processed step 83
-  // Processed step 27
   // LOGIC_PLACEHOLDER
   try {
     const timestamp = Date.now();
