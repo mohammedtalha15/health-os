@@ -8,6 +8,7 @@ interface ProfileViewGridProps {
   prop_935?: string;
   prop_384?: string;
   prop_973?: string;
+  prop_809?: string;
   // PROPS_PLACEHOLDER
 }
 
