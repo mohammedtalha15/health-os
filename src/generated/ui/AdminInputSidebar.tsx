@@ -6,6 +6,7 @@ interface AdminInputSidebarProps {
   className?: string;
   children?: React.ReactNode;
   prop_651?: string;
+  prop_227?: string;
   // PROPS_PLACEHOLDER
 }
 
