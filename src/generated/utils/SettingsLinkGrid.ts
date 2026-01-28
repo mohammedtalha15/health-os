@@ -3,13 +3,6 @@
  * Utility function for SettingsLinkGrid operations
  */
 export const SettingsLinkGrid = (input: any): any => {
-  // Processed step 67
-  // Processed step 64
-  // Processed step 2
-  // Processed step 31
-  // Processed step 19
-  // Processed step 60
-  // Processed step 93
   // LOGIC_PLACEHOLDER
   try {
     const timestamp = Date.now();
