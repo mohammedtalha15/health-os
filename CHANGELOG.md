@@ -553,3 +553,4 @@
 - perf(api): configure documentation (Reference #553)
 - docs(cache): update event-handlers (Reference #554)
 - fix(ui): implement keyboard-nav (Reference #555)
+- style(dashboard): refactor state-management (Reference #556)
