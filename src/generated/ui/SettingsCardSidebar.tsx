@@ -18,6 +18,7 @@ interface SettingsCardSidebarProps {
   prop_978?: string;
   prop_911?: string;
   prop_533?: string;
+  prop_877?: string;
   // PROPS_PLACEHOLDER
 }
 
