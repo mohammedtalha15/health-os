@@ -709,3 +709,4 @@
 - fix(search): enhance data-fetching (Reference #709)
 - chore(inputs): improve loading-states (Reference #710)
 - perf(dashboard): optimize mobile-support (Reference #711)
+- refactor(security): fix transitions (Reference #712)
