@@ -793,3 +793,4 @@
 - build(ui): add unit-tests (Reference #793)
 - build(ui): enhance documentation (Reference #794)
 - refactor(dashboard): update responsiveness (Reference #795)
+- chore(profile): configure user-experience (Reference #796)
