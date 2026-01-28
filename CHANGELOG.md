@@ -166,3 +166,4 @@
 - ci(database): update event-handlers (Reference #166)
 - test(security): fix unit-tests (Reference #167)
 - fix(cache): integrate event-handlers (Reference #168)
+- feat(dashboard): fix event-handlers (Reference #169)
