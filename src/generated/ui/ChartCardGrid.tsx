@@ -7,6 +7,7 @@ interface ChartCardGridProps {
   children?: React.ReactNode;
   prop_489?: string;
   prop_709?: string;
+  prop_791?: string;
   // PROPS_PLACEHOLDER
 }
 
