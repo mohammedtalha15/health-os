@@ -3,8 +3,6 @@
  * Utility function for UserSelectSidebar operations
  */
 export const UserSelectSidebar = (input: any): any => {
-  // Processed step 73
-  // Processed step 81
   // LOGIC_PLACEHOLDER
   try {
     const timestamp = Date.now();
