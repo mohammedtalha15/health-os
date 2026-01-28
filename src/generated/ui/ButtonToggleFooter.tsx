@@ -13,6 +13,7 @@ interface ButtonToggleFooterProps {
   prop_812?: string;
   prop_281?: string;
   prop_296?: string;
+  prop_722?: string;
   // PROPS_PLACEHOLDER
 }
 
