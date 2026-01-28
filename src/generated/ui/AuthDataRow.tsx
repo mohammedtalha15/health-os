@@ -5,8 +5,6 @@ interface AuthDataRowProps {
   id?: string;
   className?: string;
   children?: React.ReactNode;
-  prop_184?: string;
-  prop_452?: string;
   // PROPS_PLACEHOLDER
 }
 
