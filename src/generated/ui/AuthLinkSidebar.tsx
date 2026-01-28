@@ -5,6 +5,7 @@ interface AuthLinkSidebarProps {
   id?: string;
   className?: string;
   children?: React.ReactNode;
+  prop_345?: string;
   // PROPS_PLACEHOLDER
 }
 
