@@ -3,8 +3,6 @@
  * Utility function for UserListItem operations
  */
 export const UserListItem = (input: any): any => {
-  // Processed step 93
-  // Processed step 29
   // LOGIC_PLACEHOLDER
   try {
     const timestamp = Date.now();
