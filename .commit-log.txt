@@ -2243,3 +2243,4 @@
 // style(inputs): enhance responsiveness - commit 3418
 // style(cache): enhance responsiveness - commit 3419
 // chore(charts): refactor caching-logic - commit 3420
+// fix(inputs): configure transitions - commit 3421
