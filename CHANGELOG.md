@@ -1036,3 +1036,4 @@
 - docs(ui): improve event-handlers (Reference #1036)
 - ci(navigation): optimize performance (Reference #1037)
 - docs(profile): implement code-quality (Reference #1038)
+- fix(ui): update caching-logic (Reference #1039)
