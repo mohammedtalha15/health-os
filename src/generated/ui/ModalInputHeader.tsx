@@ -10,6 +10,7 @@ interface ModalInputHeaderProps {
   prop_496?: string;
   prop_630?: string;
   prop_815?: string;
+  prop_474?: string;
   // PROPS_PLACEHOLDER
 }
 
