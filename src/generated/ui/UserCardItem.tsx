@@ -16,6 +16,7 @@ interface UserCardItemProps {
   prop_326?: string;
   prop_910?: string;
   prop_506?: string;
+  prop_544?: string;
   // PROPS_PLACEHOLDER
 }
 
