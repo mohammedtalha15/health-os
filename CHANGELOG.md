@@ -813,3 +813,4 @@
 - test(security): refactor loading-states (Reference #813)
 - refactor(dashboard): implement caching-logic (Reference #814)
 - test(notifications): optimize code-quality (Reference #815)
+- refactor(settings): enhance transitions (Reference #816)
