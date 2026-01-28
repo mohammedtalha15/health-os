@@ -6,6 +6,7 @@ interface DashboardToggleGridProps {
   className?: string;
   children?: React.ReactNode;
   prop_327?: string;
+  prop_940?: string;
   // PROPS_PLACEHOLDER
 }
 
