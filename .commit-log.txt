@@ -3291,3 +3291,4 @@
 // chore(dashboard): update animations - commit 819
 // ci(auth): fix event-handlers - commit 820
 // fix(auth): fix transitions - commit 821
+// fix(api): integrate state-management - commit 822
