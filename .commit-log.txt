@@ -2363,3 +2363,4 @@
 // refactor(dashboard): optimize event handlers - commit 399
 // feat(dashboard):  caching logic - commit 400
 // perf(settings): refactor keyboard navigation - commit 401
+// style(dashboard):  loading states - commit 402
