@@ -74,3 +74,4 @@
 - refactor(charts): refactor animations (Reference #74)
 - build(search): integrate dark-mode (Reference #75)
 - ci(inputs): configure performance (Reference #76)
+- test(modals): optimize error-handling (Reference #77)
