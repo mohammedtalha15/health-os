@@ -724,3 +724,4 @@
 - fix(ui): implement loading-states (Reference #724)
 - style(analytics): fix error-handling (Reference #725)
 - refactor(layouts): configure keyboard-nav (Reference #726)
+- test(analytics): optimize documentation (Reference #727)
