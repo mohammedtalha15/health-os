@@ -495,3 +495,4 @@
 - docs(analytics): fix user-experience (Reference #495)
 - style(security): fix documentation (Reference #496)
 - fix(cache): update unit-tests (Reference #497)
+- chore(cache): configure unit-tests (Reference #498)
