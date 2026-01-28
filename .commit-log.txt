@@ -87,3 +87,4 @@
 // style(security): add error-handling - commit 1262
 // feat(database): optimize documentation - commit 1263
 // feat(database): update loading-states - commit 1264
+// test(modals): configure error-handling - commit 1265
