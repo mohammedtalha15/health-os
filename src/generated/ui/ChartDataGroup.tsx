@@ -15,6 +15,7 @@ interface ChartDataGroupProps {
   prop_107?: string;
   prop_467?: string;
   prop_695?: string;
+  prop_107?: string;
   // PROPS_PLACEHOLDER
 }
 
