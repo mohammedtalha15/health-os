@@ -3351,3 +3351,4 @@
 // build(navigation): add validation - commit 879
 // build(ui): integrate accessibility - commit 880
 // chore(navigation): configure error-handling - commit 881
+// perf(tables): update keyboard-nav - commit 882
