@@ -21,6 +21,7 @@ interface UserLinkRowProps {
   prop_882?: string;
   prop_905?: string;
   prop_276?: string;
+  prop_903?: string;
   // PROPS_PLACEHOLDER
 }
 
