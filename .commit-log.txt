@@ -2555,3 +2555,4 @@
 // feat(notifications): add loading-states - commit 83
 // ci(ui): improve type-definitions - commit 84
 // refactor(charts): update performance - commit 85
+// chore(analytics): refactor code-quality - commit 86
