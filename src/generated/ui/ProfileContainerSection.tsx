@@ -8,6 +8,7 @@ interface ProfileContainerSectionProps {
   prop_933?: string;
   prop_758?: string;
   prop_233?: string;
+  prop_465?: string;
   // PROPS_PLACEHOLDER
 }
 
