@@ -1534,3 +1534,4 @@
 - perf(notifications): improve validation (Reference #1534)
 - build(layouts): configure animations (Reference #1535)
 - feat(cache): configure code-quality (Reference #1536)
+- ci(analytics): add user-experience (Reference #1537)
