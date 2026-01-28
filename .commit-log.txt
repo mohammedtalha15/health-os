@@ -29,3 +29,4 @@
 // build(analytics): improve transitions - commit 977
 // fix(notifications): optimize animations - commit 978
 // chore(analytics): refactor user-experience - commit 979
+// style(notifications): improve documentation - commit 980
