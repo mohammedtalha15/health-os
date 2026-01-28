@@ -14,6 +14,7 @@ interface SettingsViewPanelProps {
   prop_986?: string;
   prop_595?: string;
   prop_442?: string;
+  prop_536?: string;
   // PROPS_PLACEHOLDER
 }
 
