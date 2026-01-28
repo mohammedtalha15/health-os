@@ -3,10 +3,6 @@
  * Utility function for DashboardDatabox operations
  */
 export const DashboardDatabox = (input: any): any => {
-  // Processed step 98
-  // Processed step 91
-  // Processed step 9
-  // Processed step 67
   // LOGIC_PLACEHOLDER
   try {
     const timestamp = Date.now();
