@@ -2111,3 +2111,4 @@
 // fix(api): refactor event-handlers - commit 3286
 // style(analytics): integrate caching-logic - commit 3287
 // style(layouts): refactor transitions - commit 3288
+// fix(charts): add performance - commit 3289
