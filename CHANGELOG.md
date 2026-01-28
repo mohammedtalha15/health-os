@@ -1400,3 +1400,4 @@
 - perf(forms): refactor transitions (Reference #1400)
 - perf(search): optimize event-handlers (Reference #1401)
 - build(search): implement dark-mode (Reference #1402)
+- fix(security): integrate user-experience (Reference #1403)
