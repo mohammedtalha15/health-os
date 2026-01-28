@@ -362,3 +362,4 @@
 // refactor(notifications): add accessibility - commit 1537
 // style(notifications): optimize documentation - commit 1538
 // fix(api): refactor unit-tests - commit 1539
+// style(profile): configure accessibility - commit 1540
