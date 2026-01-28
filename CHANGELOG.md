@@ -1049,3 +1049,4 @@
 - style(profile): add validation (Reference #1049)
 - perf(layouts): optimize transitions (Reference #1050)
 - refactor(settings): improve transitions (Reference #1051)
+- ci(tables): configure responsiveness (Reference #1052)
