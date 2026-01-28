@@ -11,6 +11,7 @@ interface ButtonCardGroupProps {
   prop_475?: string;
   prop_309?: string;
   prop_583?: string;
+  prop_495?: string;
   // PROPS_PLACEHOLDER
 }
 
