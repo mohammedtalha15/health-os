@@ -3259,3 +3259,4 @@
 // fix(dashboard): add responsiveness - commit 787
 // test(search): improve type-definitions - commit 788
 // feat(database): update dark-mode - commit 789
+// fix(tables): fix user-experience - commit 790
