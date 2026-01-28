@@ -874,3 +874,4 @@
 // ci(database): integrate transitions - commit 2049
 // perf(tables): integrate type-definitions - commit 2050
 // perf(dashboard): refactor documentation - commit 2051
+// chore(navigation): fix keyboard-nav - commit 2052
