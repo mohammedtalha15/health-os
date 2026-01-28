@@ -670,3 +670,4 @@
 - refactor(database): optimize mobile-support (Reference #670)
 - refactor(tables): update dark-mode (Reference #671)
 - build(settings): enhance loading-states (Reference #672)
+- refactor(tables): integrate data-fetching (Reference #673)
