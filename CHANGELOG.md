@@ -979,3 +979,4 @@
 - fix(search): add keyboard-nav (Reference #979)
 - ci(charts): configure user-experience (Reference #980)
 - ci(search): update type-definitions (Reference #981)
+- feat(search): improve mobile-support (Reference #982)
