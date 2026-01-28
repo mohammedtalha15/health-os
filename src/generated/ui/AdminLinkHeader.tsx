@@ -7,6 +7,7 @@ interface AdminLinkHeaderProps {
   children?: React.ReactNode;
   prop_654?: string;
   prop_738?: string;
+  prop_327?: string;
   // PROPS_PLACEHOLDER
 }
 
