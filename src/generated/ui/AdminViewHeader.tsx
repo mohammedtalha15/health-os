@@ -28,6 +28,7 @@ interface AdminViewHeaderProps {
   prop_162?: string;
   prop_234?: string;
   prop_470?: string;
+  prop_647?: string;
   // PROPS_PLACEHOLDER
 }
 
