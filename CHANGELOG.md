@@ -432,3 +432,4 @@
 - feat(ui): refactor accessibility (Reference #432)
 - ci(cache): update accessibility (Reference #433)
 - build(inputs): configure responsiveness (Reference #434)
+- perf(modals): improve unit-tests (Reference #435)
