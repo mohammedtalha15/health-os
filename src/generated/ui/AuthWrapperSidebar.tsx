@@ -5,10 +5,6 @@ interface AuthWrapperSidebarProps {
   id?: string;
   className?: string;
   children?: React.ReactNode;
-  prop_814?: string;
-  prop_607?: string;
-  prop_989?: string;
-  prop_692?: string;
   // PROPS_PLACEHOLDER
 }
 
