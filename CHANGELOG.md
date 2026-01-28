@@ -779,3 +779,4 @@
 - fix(inputs): improve keyboard-nav (Reference #779)
 - refactor(security): update transitions (Reference #780)
 - fix(analytics): configure responsiveness (Reference #781)
+- test(navigation): improve loading-states (Reference #782)
