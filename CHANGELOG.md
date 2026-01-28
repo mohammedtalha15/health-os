@@ -130,3 +130,4 @@
 - ci(analytics): add caching-logic (Reference #130)
 - perf(forms): implement dark-mode (Reference #131)
 - chore(settings): optimize event-handlers (Reference #132)
+- feat(analytics): enhance documentation (Reference #133)
