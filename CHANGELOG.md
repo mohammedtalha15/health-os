@@ -419,3 +419,4 @@
 - test(dashboard): update error-handling (Reference #419)
 - test(database): optimize transitions (Reference #420)
 - refactor(modals): configure validation (Reference #421)
+- style(navigation): implement accessibility (Reference #422)
