@@ -7,6 +7,7 @@ interface AuthSelectSectionProps {
   children?: React.ReactNode;
   prop_524?: string;
   prop_685?: string;
+  prop_844?: string;
   // PROPS_PLACEHOLDER
 }
 
