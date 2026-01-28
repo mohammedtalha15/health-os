@@ -10,6 +10,7 @@ interface UserInputSectionProps {
   prop_157?: string;
   prop_515?: string;
   prop_297?: string;
+  prop_214?: string;
   // PROPS_PLACEHOLDER
 }
 
