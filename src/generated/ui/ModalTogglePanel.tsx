@@ -6,6 +6,7 @@ interface ModalTogglePanelProps {
   className?: string;
   children?: React.ReactNode;
   prop_334?: string;
+  prop_821?: string;
   // PROPS_PLACEHOLDER
 }
 
