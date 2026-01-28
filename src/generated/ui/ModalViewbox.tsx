@@ -22,6 +22,7 @@ interface ModalViewboxProps {
   prop_441?: string;
   prop_852?: string;
   prop_733?: string;
+  prop_109?: string;
   // PROPS_PLACEHOLDER
 }
 
