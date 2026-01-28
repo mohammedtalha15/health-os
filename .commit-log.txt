@@ -257,3 +257,4 @@
 // style(api): optimize accessibility - commit 1432
 // ci(ui): enhance animations - commit 1433
 // test(api): fix event-handlers - commit 1434
+// docs(api): optimize event-handlers - commit 1435
