@@ -1429,3 +1429,4 @@
 - build(charts): add animations (Reference #1429)
 - test(forms): improve type-definitions (Reference #1430)
 - perf(buttons): update validation (Reference #1431)
+- fix(api): enhance keyboard-nav (Reference #1432)
