@@ -1007,3 +1007,4 @@
 // build(forms): configure event-handlers - commit 2182
 // ci(buttons): fix transitions - commit 2183
 // build(ui): optimize unit-tests - commit 2184
+// test(search): refactor unit-tests - commit 2185
