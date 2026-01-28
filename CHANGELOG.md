@@ -294,3 +294,4 @@
 - test(auth): integrate loading-states (Reference #294)
 - docs(profile): integrate type-definitions (Reference #295)
 - build(auth): update event-handlers (Reference #296)
+- docs(auth): implement event-handlers (Reference #297)
