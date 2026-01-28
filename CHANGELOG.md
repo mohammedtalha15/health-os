@@ -569,3 +569,4 @@
 - test(ui): optimize transitions (Reference #569)
 - docs(cache): add animations (Reference #570)
 - docs(tables): add performance (Reference #571)
+- docs(ui): optimize accessibility (Reference #572)
