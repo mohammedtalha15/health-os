@@ -472,3 +472,4 @@
 - style(cache): integrate user-experience (Reference #472)
 - style(charts): implement event-handlers (Reference #473)
 - build(api): fix loading-states (Reference #474)
+- ci(settings): implement event-handlers (Reference #475)
