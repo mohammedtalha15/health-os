@@ -760,3 +760,4 @@
 // ci(modals): improve unit-tests - commit 1935
 // refactor(api): enhance transitions - commit 1936
 // perf(search): improve dark-mode - commit 1937
+// test(search): refactor mobile-support - commit 1938
