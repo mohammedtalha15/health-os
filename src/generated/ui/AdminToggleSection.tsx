@@ -8,6 +8,7 @@ interface AdminToggleSectionProps {
   prop_252?: string;
   prop_182?: string;
   prop_103?: string;
+  prop_516?: string;
   // PROPS_PLACEHOLDER
 }
 
