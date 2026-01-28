@@ -1270,3 +1270,4 @@
 - refactor(charts): fix mobile-support (Reference #1270)
 - docs(security): refactor error-handling (Reference #1271)
 - chore(database): enhance loading-states (Reference #1272)
+- fix(charts): refactor validation (Reference #1273)
