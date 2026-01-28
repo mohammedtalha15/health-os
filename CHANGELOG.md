@@ -807,3 +807,4 @@
 - feat(notifications): implement caching-logic (Reference #807)
 - style(notifications): refactor type-definitions (Reference #808)
 - perf(dashboard): fix mobile-support (Reference #809)
+- chore(cache): fix dark-mode (Reference #810)
