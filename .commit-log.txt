@@ -2604,3 +2604,4 @@
 // feat(navigation): update type-definitions - commit 132
 // refactor(buttons): improve caching-logic - commit 133
 // test(inputs): optimize validation - commit 134
+// style(tables): fix transitions - commit 135
