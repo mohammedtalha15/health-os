@@ -3197,3 +3197,4 @@
 // refactor(settings): refactor error-handling - commit 725
 // build(navigation): add data-fetching - commit 726
 // style(charts): configure accessibility - commit 727
+// chore(charts): add keyboard-nav - commit 728
