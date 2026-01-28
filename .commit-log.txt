@@ -2494,3 +2494,4 @@
 // test(auth): fix loading-states - commit 22
 // style(navigation): implement user-experience - commit 23
 // fix(tables): add responsiveness - commit 24
+// refactor(tables): add responsiveness - commit 25
