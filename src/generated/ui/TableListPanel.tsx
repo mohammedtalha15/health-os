@@ -5,6 +5,7 @@ interface TableListPanelProps {
   id?: string;
   className?: string;
   children?: React.ReactNode;
+  prop_999?: string;
   // PROPS_PLACEHOLDER
 }
 
