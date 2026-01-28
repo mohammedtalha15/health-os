@@ -3,10 +3,6 @@
  * Utility function for ModalInputItem operations
  */
 export const ModalInputItem = (input: any): any => {
-  // Processed step 98
-  // Processed step 4
-  // Processed step 45
-  // Processed step 84
   // LOGIC_PLACEHOLDER
   try {
     const timestamp = Date.now();
