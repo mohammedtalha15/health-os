@@ -2588,3 +2588,4 @@
 // build(charts): update dark-mode - commit 116
 // test(navigation): integrate event-handlers - commit 117
 // ci(forms): optimize accessibility - commit 118
+// feat(buttons): update documentation - commit 119
