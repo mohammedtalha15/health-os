@@ -198,3 +198,4 @@
 - chore(forms): implement keyboard-nav (Reference #198)
 - feat(charts): configure animations (Reference #199)
 - ci(ui): fix documentation (Reference #200)
+- fix(modals): update responsiveness (Reference #201)
