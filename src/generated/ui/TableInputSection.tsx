@@ -5,16 +5,6 @@ interface TableInputSectionProps {
   id?: string;
   className?: string;
   children?: React.ReactNode;
-  prop_408?: string;
-  prop_642?: string;
-  prop_479?: string;
-  prop_125?: string;
-  prop_998?: string;
-  prop_457?: string;
-  prop_717?: string;
-  prop_194?: string;
-  prop_699?: string;
-  prop_402?: string;
   // PROPS_PLACEHOLDER
 }
 
