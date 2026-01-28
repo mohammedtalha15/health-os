@@ -12,6 +12,7 @@ interface UserListSidebarProps {
   prop_465?: string;
   prop_117?: string;
   prop_685?: string;
+  prop_758?: string;
   // PROPS_PLACEHOLDER
 }
 
