@@ -1621,3 +1621,4 @@
 // style(search): enhance state-management - commit 2796
 // build(charts): improve loading-states - commit 2797
 // chore(layouts): improve error-handling - commit 2798
+// chore(profile): update transitions - commit 2799
