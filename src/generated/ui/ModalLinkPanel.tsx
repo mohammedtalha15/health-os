@@ -11,6 +11,7 @@ interface ModalLinkPanelProps {
   prop_621?: string;
   prop_799?: string;
   prop_283?: string;
+  prop_890?: string;
   // PROPS_PLACEHOLDER
 }
 
