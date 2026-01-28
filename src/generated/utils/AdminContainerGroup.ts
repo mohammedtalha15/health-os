@@ -3,7 +3,6 @@
  * Utility function for AdminContainerGroup operations
  */
 export const AdminContainerGroup = (input: any): any => {
-  // Processed step 53
   // LOGIC_PLACEHOLDER
   try {
     const timestamp = Date.now();
