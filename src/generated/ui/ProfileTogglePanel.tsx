@@ -13,6 +13,7 @@ interface ProfileTogglePanelProps {
   prop_355?: string;
   prop_309?: string;
   prop_250?: string;
+  prop_471?: string;
   // PROPS_PLACEHOLDER
 }
 
