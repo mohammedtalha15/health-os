@@ -1142,3 +1142,4 @@
 - style(analytics): optimize unit-tests (Reference #1142)
 - perf(auth): fix code-quality (Reference #1143)
 - docs(search): update transitions (Reference #1144)
+- feat(auth): fix user-experience (Reference #1145)
