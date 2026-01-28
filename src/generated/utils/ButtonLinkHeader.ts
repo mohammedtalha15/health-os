@@ -3,9 +3,6 @@
  * Utility function for ButtonLinkHeader operations
  */
 export const ButtonLinkHeader = (input: any): any => {
-  // Processed step 54
-  // Processed step 70
-  // Processed step 84
   // LOGIC_PLACEHOLDER
   try {
     const timestamp = Date.now();
