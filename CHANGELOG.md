@@ -626,3 +626,4 @@
 - fix(settings): optimize unit-tests (Reference #626)
 - chore(api): refactor user-experience (Reference #627)
 - feat(navigation): add dark-mode (Reference #628)
+- style(database): add state-management (Reference #629)
