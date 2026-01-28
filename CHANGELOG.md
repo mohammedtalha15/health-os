@@ -1190,3 +1190,4 @@
 - chore(forms): optimize error-handling (Reference #1190)
 - test(profile): add state-management (Reference #1191)
 - style(dashboard): refactor validation (Reference #1192)
+- style(layouts): optimize performance (Reference #1193)
