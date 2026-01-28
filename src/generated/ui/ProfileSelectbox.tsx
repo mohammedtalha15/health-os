@@ -24,6 +24,7 @@ interface ProfileSelectboxProps {
   prop_830?: string;
   prop_350?: string;
   prop_869?: string;
+  prop_508?: string;
   // PROPS_PLACEHOLDER
 }
 
