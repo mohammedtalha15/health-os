@@ -154,3 +154,4 @@
 // chore(auth): add mobile-support - commit 1102
 // docs(api): configure transitions - commit 1103
 // docs(security): implement responsiveness - commit 1104
+// feat(tables): integrate dark-mode - commit 1105
