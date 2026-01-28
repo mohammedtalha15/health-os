@@ -97,3 +97,4 @@
 - ci(security): implement keyboard-nav (Reference #97)
 - test(cache): integrate loading-states (Reference #98)
 - refactor(settings): refactor user-experience (Reference #99)
+- build(layouts): implement state-management (Reference #100)
