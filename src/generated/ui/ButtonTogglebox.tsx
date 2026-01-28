@@ -22,6 +22,7 @@ interface ButtonToggleboxProps {
   prop_450?: string;
   prop_598?: string;
   prop_761?: string;
+  prop_163?: string;
   // PROPS_PLACEHOLDER
 }
 
