@@ -611,3 +611,4 @@
 - style(settings): implement accessibility (Reference #611)
 - ci(cache): implement performance (Reference #612)
 - ci(navigation): improve transitions (Reference #613)
+- perf(security): enhance unit-tests (Reference #614)
