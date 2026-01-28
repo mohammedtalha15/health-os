@@ -7,6 +7,7 @@ interface SettingsSelectHeaderProps {
   children?: React.ReactNode;
   prop_538?: string;
   prop_248?: string;
+  prop_879?: string;
   // PROPS_PLACEHOLDER
 }
 
