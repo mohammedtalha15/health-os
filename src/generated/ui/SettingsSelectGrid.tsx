@@ -6,6 +6,7 @@ interface SettingsSelectGridProps {
   className?: string;
   children?: React.ReactNode;
   prop_699?: string;
+  prop_751?: string;
   // PROPS_PLACEHOLDER
 }
 
