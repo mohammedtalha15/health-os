@@ -108,3 +108,4 @@
 // docs(tables): update unit-tests - commit 1056
 // fix(ui): add documentation - commit 1057
 // docs(cache): add event-handlers - commit 1058
+// fix(buttons): update event-handlers - commit 1059
