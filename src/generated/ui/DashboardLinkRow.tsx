@@ -21,6 +21,7 @@ interface DashboardLinkRowProps {
   prop_459?: string;
   prop_905?: string;
   prop_463?: string;
+  prop_502?: string;
   // PROPS_PLACEHOLDER
 }
 
