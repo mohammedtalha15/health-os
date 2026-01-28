@@ -1509,3 +1509,4 @@
 - style(settings): refactor keyboard-nav (Reference #1509)
 - feat(tables): refactor event-handlers (Reference #1510)
 - test(tables): refactor transitions (Reference #1511)
+- test(modals): refactor user-experience (Reference #1512)
