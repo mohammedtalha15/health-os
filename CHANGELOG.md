@@ -1541,3 +1541,4 @@
 - test(layouts): enhance animations (Reference #1541)
 - feat(layouts): implement validation (Reference #1542)
 - refactor(profile): refactor caching-logic (Reference #1543)
+- docs(ui): enhance loading-states (Reference #1544)
