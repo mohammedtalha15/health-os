@@ -1254,3 +1254,4 @@
 // ci(settings): update loading-states - commit 2429
 // refactor(search): update responsiveness - commit 2430
 // refactor(api): improve caching-logic - commit 2431
+// build(dashboard): fix unit-tests - commit 2432
