@@ -7,6 +7,7 @@ interface DashboardSelectSidebarProps {
   children?: React.ReactNode;
   prop_481?: string;
   prop_943?: string;
+  prop_805?: string;
   // PROPS_PLACEHOLDER
 }
 
