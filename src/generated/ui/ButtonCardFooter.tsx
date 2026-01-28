@@ -7,6 +7,7 @@ interface ButtonCardFooterProps {
   children?: React.ReactNode;
   prop_613?: string;
   prop_583?: string;
+  prop_117?: string;
   // PROPS_PLACEHOLDER
 }
 
