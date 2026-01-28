@@ -6,6 +6,7 @@ interface ModalViewSectionProps {
   className?: string;
   children?: React.ReactNode;
   prop_588?: string;
+  prop_259?: string;
   // PROPS_PLACEHOLDER
 }
 
