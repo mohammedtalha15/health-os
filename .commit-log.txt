@@ -776,3 +776,4 @@
 // fix(api): update code-quality - commit 1951
 // build(modals): integrate unit-tests - commit 1952
 // perf(navigation): implement animations - commit 1953
+// ci(tables): fix documentation - commit 1954
