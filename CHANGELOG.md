@@ -431,3 +431,4 @@
 - fix(cache): improve performance (Reference #431)
 - feat(ui): refactor accessibility (Reference #432)
 - ci(cache): update accessibility (Reference #433)
+- build(inputs): configure responsiveness (Reference #434)
