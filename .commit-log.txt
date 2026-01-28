@@ -2354,3 +2354,4 @@
 // build(dashboard): refactor dark mode - commit 390
 // style(inputs): improve  - commit 391
 // feat(modals): optimize mobile support - commit 392
+// build(dashboard): add  - commit 393
