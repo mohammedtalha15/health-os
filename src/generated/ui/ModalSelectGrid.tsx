@@ -8,6 +8,7 @@ interface ModalSelectGridProps {
   prop_895?: string;
   prop_498?: string;
   prop_324?: string;
+  prop_334?: string;
   // PROPS_PLACEHOLDER
 }
 
