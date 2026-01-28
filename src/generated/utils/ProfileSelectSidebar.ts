@@ -3,9 +3,6 @@
  * Utility function for ProfileSelectSidebar operations
  */
 export const ProfileSelectSidebar = (input: any): any => {
-  // Processed step 1
-  // Processed step 48
-  // Processed step 77
   // LOGIC_PLACEHOLDER
   try {
     const timestamp = Date.now();
