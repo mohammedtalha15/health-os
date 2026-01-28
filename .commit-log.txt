@@ -1,3 +1,4 @@
 // perf(settings): improve animations - commit 949
 // fix(modals): add keyboard-nav - commit 950
 // feat(inputs): implement validation - commit 951
+// chore(auth): enhance state-management - commit 952
