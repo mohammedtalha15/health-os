@@ -7,6 +7,7 @@ interface ButtonInputPanelProps {
   children?: React.ReactNode;
   prop_829?: string;
   prop_250?: string;
+  prop_815?: string;
   // PROPS_PLACEHOLDER
 }
 
