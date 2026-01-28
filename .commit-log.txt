@@ -3400,3 +3400,4 @@
 // feat(auth): integrate keyboard-nav - commit 928
 // chore(cache): enhance data-fetching - commit 929
 // feat(layouts): fix caching-logic - commit 930
+// build(auth): improve responsiveness - commit 931
