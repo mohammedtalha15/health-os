@@ -5,10 +5,6 @@ interface UserInputboxProps {
   id?: string;
   className?: string;
   children?: React.ReactNode;
-  prop_561?: string;
-  prop_906?: string;
-  prop_439?: string;
-  prop_648?: string;
   // PROPS_PLACEHOLDER
 }
 
