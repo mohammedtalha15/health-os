@@ -3,8 +3,6 @@
  * Utility function for AuthSelectItem operations
  */
 export const AuthSelectItem = (input: any): any => {
-  // Processed step 49
-  // Processed step 52
   // LOGIC_PLACEHOLDER
   try {
     const timestamp = Date.now();
