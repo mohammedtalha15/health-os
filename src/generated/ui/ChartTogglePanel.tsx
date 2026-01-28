@@ -5,9 +5,6 @@ interface ChartTogglePanelProps {
   id?: string;
   className?: string;
   children?: React.ReactNode;
-  prop_474?: string;
-  prop_876?: string;
-  prop_387?: string;
   // PROPS_PLACEHOLDER
 }
 
