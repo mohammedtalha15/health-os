@@ -1737,3 +1737,4 @@
 // build(security): optimize user-experience - commit 2912
 // ci(database): configure accessibility - commit 2913
 // build(cache): improve data-fetching - commit 2914
+// build(modals): fix responsiveness - commit 2915
