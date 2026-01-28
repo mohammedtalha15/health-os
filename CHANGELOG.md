@@ -108,3 +108,4 @@
 - feat(search): integrate error-handling (Reference #108)
 - perf(profile): fix dark-mode (Reference #109)
 - docs(charts): add validation (Reference #110)
+- feat(settings): update accessibility (Reference #111)
