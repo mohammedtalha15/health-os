@@ -8,6 +8,7 @@ interface DashboardSelectGroupProps {
   prop_627?: string;
   prop_493?: string;
   prop_883?: string;
+  prop_587?: string;
   // PROPS_PLACEHOLDER
 }
 
