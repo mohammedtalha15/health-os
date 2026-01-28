@@ -14,6 +14,7 @@ interface ButtonCardFooterProps {
   prop_917?: string;
   prop_222?: string;
   prop_480?: string;
+  prop_334?: string;
   // PROPS_PLACEHOLDER
 }
 
