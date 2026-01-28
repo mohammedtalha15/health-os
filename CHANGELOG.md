@@ -284,3 +284,4 @@
 - test(settings): fix type-definitions (Reference #284)
 - refactor(profile): add validation (Reference #285)
 - refactor(navigation): fix type-definitions (Reference #286)
+- feat(security): optimize unit-tests (Reference #287)
