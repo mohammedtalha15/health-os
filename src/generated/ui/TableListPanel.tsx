@@ -8,6 +8,7 @@ interface TableListPanelProps {
   prop_108?: string;
   prop_718?: string;
   prop_740?: string;
+  prop_744?: string;
   // PROPS_PLACEHOLDER
 }
 
