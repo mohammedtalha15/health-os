@@ -739,3 +739,4 @@
 - fix(modals): implement responsiveness (Reference #739)
 - test(charts): enhance caching-logic (Reference #740)
 - feat(api): update documentation (Reference #741)
+- test(search): fix dark-mode (Reference #742)
