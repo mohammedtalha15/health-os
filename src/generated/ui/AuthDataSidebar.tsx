@@ -5,24 +5,6 @@ interface AuthDataSidebarProps {
   id?: string;
   className?: string;
   children?: React.ReactNode;
-  prop_285?: string;
-  prop_292?: string;
-  prop_719?: string;
-  prop_253?: string;
-  prop_508?: string;
-  prop_166?: string;
-  prop_102?: string;
-  prop_700?: string;
-  prop_492?: string;
-  prop_535?: string;
-  prop_315?: string;
-  prop_241?: string;
-  prop_489?: string;
-  prop_275?: string;
-  prop_767?: string;
-  prop_206?: string;
-  prop_624?: string;
-  prop_621?: string;
   // PROPS_PLACEHOLDER
 }
 
