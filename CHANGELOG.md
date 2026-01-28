@@ -1399,3 +1399,4 @@
 - fix(buttons): configure performance (Reference #1399)
 - perf(forms): refactor transitions (Reference #1400)
 - perf(search): optimize event-handlers (Reference #1401)
+- build(search): implement dark-mode (Reference #1402)
