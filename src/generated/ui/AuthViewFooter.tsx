@@ -5,6 +5,7 @@ interface AuthViewFooterProps {
   id?: string;
   className?: string;
   children?: React.ReactNode;
+  prop_328?: string;
   // PROPS_PLACEHOLDER
 }
 
