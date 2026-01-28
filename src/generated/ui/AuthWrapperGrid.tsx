@@ -5,10 +5,6 @@ interface AuthWrapperGridProps {
   id?: string;
   className?: string;
   children?: React.ReactNode;
-  prop_580?: string;
-  prop_857?: string;
-  prop_785?: string;
-  prop_335?: string;
   // PROPS_PLACEHOLDER
 }
 
