@@ -385,3 +385,4 @@
 - docs(forms): fix unit-tests (Reference #385)
 - docs(buttons): enhance error-handling (Reference #386)
 - refactor(layouts): fix error-handling (Reference #387)
+- build(auth): optimize error-handling (Reference #388)
