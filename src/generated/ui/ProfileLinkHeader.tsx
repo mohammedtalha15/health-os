@@ -17,6 +17,7 @@ interface ProfileLinkHeaderProps {
   prop_630?: string;
   prop_179?: string;
   prop_940?: string;
+  prop_529?: string;
   // PROPS_PLACEHOLDER
 }
 
