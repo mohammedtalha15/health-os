@@ -76,3 +76,4 @@
 // build(notifications): implement performance - commit 1251
 // style(modals): improve unit-tests - commit 1252
 // build(settings): add performance - commit 1253
+// docs(navigation): implement data-fetching - commit 1254
