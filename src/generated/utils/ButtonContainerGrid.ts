@@ -3,8 +3,6 @@
  * Utility function for ButtonContainerGrid operations
  */
 export const ButtonContainerGrid = (input: any): any => {
-  // Processed step 55
-  // Processed step 51
   // LOGIC_PLACEHOLDER
   try {
     const timestamp = Date.now();
