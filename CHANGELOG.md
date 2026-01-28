@@ -1406,3 +1406,4 @@
 - fix(layouts): integrate type-definitions (Reference #1406)
 - feat(cache): add responsiveness (Reference #1407)
 - chore(settings): update accessibility (Reference #1408)
+- ci(tables): improve keyboard-nav (Reference #1409)
