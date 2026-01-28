@@ -6,6 +6,7 @@ interface AuthSelectHeaderProps {
   className?: string;
   children?: React.ReactNode;
   prop_273?: string;
+  prop_987?: string;
   // PROPS_PLACEHOLDER
 }
 
