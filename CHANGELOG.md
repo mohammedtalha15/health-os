@@ -1467,3 +1467,4 @@
 - chore(database): fix data-fetching (Reference #1467)
 - refactor(auth): add performance (Reference #1468)
 - docs(database): fix documentation (Reference #1469)
+- test(dashboard): fix dark-mode (Reference #1470)
