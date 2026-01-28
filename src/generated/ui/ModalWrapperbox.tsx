@@ -5,11 +5,6 @@ interface ModalWrapperboxProps {
   id?: string;
   className?: string;
   children?: React.ReactNode;
-  prop_620?: string;
-  prop_869?: string;
-  prop_789?: string;
-  prop_951?: string;
-  prop_225?: string;
   // PROPS_PLACEHOLDER
 }
 
