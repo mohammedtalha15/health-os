@@ -5,15 +5,6 @@ interface AdminWrapperRowProps {
   id?: string;
   className?: string;
   children?: React.ReactNode;
-  prop_919?: string;
-  prop_893?: string;
-  prop_168?: string;
-  prop_493?: string;
-  prop_553?: string;
-  prop_525?: string;
-  prop_306?: string;
-  prop_948?: string;
-  prop_902?: string;
   // PROPS_PLACEHOLDER
 }
 
