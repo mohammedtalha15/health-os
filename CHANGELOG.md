@@ -567,3 +567,4 @@
 - fix(profile): add documentation (Reference #567)
 - perf(tables): enhance dark-mode (Reference #568)
 - test(ui): optimize transitions (Reference #569)
+- docs(cache): add animations (Reference #570)
