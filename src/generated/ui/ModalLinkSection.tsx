@@ -11,6 +11,7 @@ interface ModalLinkSectionProps {
   prop_595?: string;
   prop_688?: string;
   prop_363?: string;
+  prop_821?: string;
   // PROPS_PLACEHOLDER
 }
 
