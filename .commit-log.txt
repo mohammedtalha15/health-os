@@ -277,3 +277,4 @@
 // chore(database): implement loading-states - commit 1452
 // chore(cache): update data-fetching - commit 1453
 // docs(cache): update responsiveness - commit 1454
+// fix(notifications): integrate user-experience - commit 1455
