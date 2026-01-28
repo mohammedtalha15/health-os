@@ -156,3 +156,4 @@
 - test(api): add error-handling (Reference #156)
 - docs(ui): improve mobile-support (Reference #157)
 - build(layouts): refactor responsiveness (Reference #158)
+- chore(buttons): improve unit-tests (Reference #159)
