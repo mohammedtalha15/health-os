@@ -5,20 +5,6 @@ interface ButtonViewGridProps {
   id?: string;
   className?: string;
   children?: React.ReactNode;
-  prop_234?: string;
-  prop_812?: string;
-  prop_380?: string;
-  prop_845?: string;
-  prop_429?: string;
-  prop_416?: string;
-  prop_574?: string;
-  prop_243?: string;
-  prop_103?: string;
-  prop_152?: string;
-  prop_401?: string;
-  prop_891?: string;
-  prop_781?: string;
-  prop_278?: string;
   // PROPS_PLACEHOLDER
 }
 
