@@ -9,6 +9,7 @@ interface ChartCardRowProps {
   prop_741?: string;
   prop_696?: string;
   prop_842?: string;
+  prop_459?: string;
   // PROPS_PLACEHOLDER
 }
 
