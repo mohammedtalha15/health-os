@@ -24,6 +24,7 @@ interface SettingsWrapperSidebarProps {
   prop_535?: string;
   prop_461?: string;
   prop_673?: string;
+  prop_632?: string;
   // PROPS_PLACEHOLDER
 }
 
