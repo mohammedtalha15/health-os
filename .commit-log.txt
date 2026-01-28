@@ -114,3 +114,4 @@
 // chore(layouts): fix mobile-support - commit 1062
 // build(inputs): implement documentation - commit 1063
 // ci(layouts): configure keyboard-nav - commit 1064
+// chore(search): integrate error-handling - commit 1065
