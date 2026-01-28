@@ -6,6 +6,7 @@ interface SettingsInputboxProps {
   className?: string;
   children?: React.ReactNode;
   prop_267?: string;
+  prop_329?: string;
   // PROPS_PLACEHOLDER
 }
 
