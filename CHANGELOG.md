@@ -737,3 +737,4 @@
 - perf(layouts): add keyboard-nav (Reference #737)
 - build(charts): enhance type-definitions (Reference #738)
 - fix(modals): implement responsiveness (Reference #739)
+- test(charts): enhance caching-logic (Reference #740)
