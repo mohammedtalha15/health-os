@@ -5,17 +5,6 @@ interface ChartSelectSectionProps {
   id?: string;
   className?: string;
   children?: React.ReactNode;
-  prop_184?: string;
-  prop_805?: string;
-  prop_687?: string;
-  prop_612?: string;
-  prop_884?: string;
-  prop_762?: string;
-  prop_430?: string;
-  prop_910?: string;
-  prop_906?: string;
-  prop_954?: string;
-  prop_837?: string;
   // PROPS_PLACEHOLDER
 }
 
