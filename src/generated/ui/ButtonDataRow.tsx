@@ -6,6 +6,7 @@ interface ButtonDataRowProps {
   className?: string;
   children?: React.ReactNode;
   prop_756?: string;
+  prop_892?: string;
   // PROPS_PLACEHOLDER
 }
 
