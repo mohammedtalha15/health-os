@@ -17,6 +17,7 @@ interface SettingsViewFooterProps {
   prop_890?: string;
   prop_105?: string;
   prop_322?: string;
+  prop_177?: string;
   // PROPS_PLACEHOLDER
 }
 
