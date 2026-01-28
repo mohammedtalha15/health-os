@@ -3,10 +3,6 @@
  * Utility function for ModalSelectbox operations
  */
 export const ModalSelectbox = (input: any): any => {
-  // Processed step 69
-  // Processed step 45
-  // Processed step 11
-  // Processed step 89
   // LOGIC_PLACEHOLDER
   try {
     const timestamp = Date.now();
