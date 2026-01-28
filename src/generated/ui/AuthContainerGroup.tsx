@@ -12,6 +12,7 @@ interface AuthContainerGroupProps {
   prop_619?: string;
   prop_899?: string;
   prop_391?: string;
+  prop_762?: string;
   // PROPS_PLACEHOLDER
 }
 
