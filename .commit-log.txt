@@ -2269,3 +2269,4 @@
 // docs(search): implement screen reader support - commit 305
 // build(charts): update  - commit 306
 // build(tables): optimize mobile support - commit 307
+// (notifications): improve validation - commit 308
