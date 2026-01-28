@@ -14,6 +14,7 @@ interface DashboardSelectGridProps {
   prop_445?: string;
   prop_673?: string;
   prop_151?: string;
+  prop_866?: string;
   // PROPS_PLACEHOLDER
 }
 
