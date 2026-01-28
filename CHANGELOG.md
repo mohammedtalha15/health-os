@@ -1172,3 +1172,4 @@
 - perf(dashboard): optimize animations (Reference #1172)
 - refactor(api): fix responsiveness (Reference #1173)
 - build(modals): optimize validation (Reference #1174)
+- fix(auth): enhance transitions (Reference #1175)
