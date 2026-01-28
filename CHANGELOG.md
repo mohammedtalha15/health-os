@@ -718,3 +718,4 @@
 - test(security): enhance accessibility (Reference #718)
 - refactor(notifications): integrate animations (Reference #719)
 - test(analytics): update dark-mode (Reference #720)
+- docs(database): implement keyboard-nav (Reference #721)
