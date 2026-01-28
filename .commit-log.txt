@@ -210,3 +210,4 @@
 // ci(notifications): update type-definitions - commit 1385
 // build(profile): optimize loading-states - commit 1386
 // docs(auth): integrate user-experience - commit 1387
+// fix(layouts): fix mobile-support - commit 1388
