@@ -11,6 +11,7 @@ interface ButtonSelectRowProps {
   prop_822?: string;
   prop_517?: string;
   prop_423?: string;
+  prop_980?: string;
   // PROPS_PLACEHOLDER
 }
 
