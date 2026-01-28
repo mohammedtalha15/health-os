@@ -5,8 +5,6 @@ interface UserLinkItemProps {
   id?: string;
   className?: string;
   children?: React.ReactNode;
-  prop_839?: string;
-  prop_956?: string;
   // PROPS_PLACEHOLDER
 }
 
