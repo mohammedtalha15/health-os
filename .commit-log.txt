@@ -5,3 +5,4 @@
 // build(notifications): improve keyboard-nav - commit 1180
 // perf(database): add type-definitions - commit 1181
 // feat(navigation): integrate error-handling - commit 1182
+// chore(navigation): refactor documentation - commit 1183
