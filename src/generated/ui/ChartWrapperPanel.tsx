@@ -5,14 +5,6 @@ interface ChartWrapperPanelProps {
   id?: string;
   className?: string;
   children?: React.ReactNode;
-  prop_867?: string;
-  prop_246?: string;
-  prop_358?: string;
-  prop_516?: string;
-  prop_887?: string;
-  prop_935?: string;
-  prop_613?: string;
-  prop_337?: string;
   // PROPS_PLACEHOLDER
 }
 
