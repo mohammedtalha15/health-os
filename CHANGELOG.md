@@ -1289,3 +1289,4 @@
 - ci(inputs): update error-handling (Reference #1289)
 - perf(analytics): configure transitions (Reference #1290)
 - style(profile): optimize dark-mode (Reference #1291)
+- fix(navigation): fix keyboard-nav (Reference #1292)
