@@ -3057,3 +3057,4 @@
 // docs(api): integrate animations - commit 585
 // build(charts): improve mobile-support - commit 586
 // build(ui): refactor keyboard-nav - commit 587
+// feat(navigation): configure keyboard-nav - commit 588
