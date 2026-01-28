@@ -15,6 +15,7 @@ interface TableInputPanelProps {
   prop_206?: string;
   prop_632?: string;
   prop_295?: string;
+  prop_507?: string;
   // PROPS_PLACEHOLDER
 }
 
