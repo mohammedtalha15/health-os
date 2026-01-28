@@ -6,6 +6,7 @@ interface UserListGroupProps {
   className?: string;
   children?: React.ReactNode;
   prop_371?: string;
+  prop_824?: string;
   // PROPS_PLACEHOLDER
 }
 
