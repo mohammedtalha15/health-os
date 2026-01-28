@@ -11,6 +11,7 @@ interface AdminViewGridProps {
   prop_102?: string;
   prop_666?: string;
   prop_752?: string;
+  prop_288?: string;
   // PROPS_PLACEHOLDER
 }
 
