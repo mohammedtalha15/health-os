@@ -1273,3 +1273,4 @@
 - fix(charts): refactor validation (Reference #1273)
 - build(database): enhance documentation (Reference #1274)
 - refactor(dashboard): improve loading-states (Reference #1275)
+- ci(inputs): enhance transitions (Reference #1276)
