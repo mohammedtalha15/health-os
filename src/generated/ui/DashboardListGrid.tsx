@@ -10,6 +10,7 @@ interface DashboardListGridProps {
   prop_518?: string;
   prop_700?: string;
   prop_940?: string;
+  prop_943?: string;
   // PROPS_PLACEHOLDER
 }
 
