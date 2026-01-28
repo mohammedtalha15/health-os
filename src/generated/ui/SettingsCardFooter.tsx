@@ -9,6 +9,7 @@ interface SettingsCardFooterProps {
   prop_835?: string;
   prop_623?: string;
   prop_682?: string;
+  prop_301?: string;
   // PROPS_PLACEHOLDER
 }
 
