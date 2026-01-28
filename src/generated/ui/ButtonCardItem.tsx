@@ -5,9 +5,6 @@ interface ButtonCardItemProps {
   id?: string;
   className?: string;
   children?: React.ReactNode;
-  prop_828?: string;
-  prop_390?: string;
-  prop_758?: string;
   // PROPS_PLACEHOLDER
 }
 
