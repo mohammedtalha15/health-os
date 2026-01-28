@@ -100,3 +100,4 @@
 - build(layouts): implement state-management (Reference #100)
 - perf(forms): improve keyboard-nav (Reference #101)
 - chore(inputs): update event-handlers (Reference #102)
+- feat(charts): update caching-logic (Reference #103)
