@@ -1244,3 +1244,4 @@
 - test(layouts): enhance code-quality (Reference #1244)
 - refactor(search): add responsiveness (Reference #1245)
 - fix(settings): implement data-fetching (Reference #1246)
+- style(navigation): improve unit-tests (Reference #1247)
