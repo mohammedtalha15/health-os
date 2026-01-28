@@ -8,6 +8,7 @@ interface UserTogglePanelProps {
   prop_183?: string;
   prop_837?: string;
   prop_339?: string;
+  prop_319?: string;
   // PROPS_PLACEHOLDER
 }
 
