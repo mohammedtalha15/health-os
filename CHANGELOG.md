@@ -791,3 +791,4 @@
 - build(database): add validation (Reference #791)
 - perf(cache): update type-definitions (Reference #792)
 - build(ui): add unit-tests (Reference #793)
+- build(ui): enhance documentation (Reference #794)
