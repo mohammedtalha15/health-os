@@ -6,6 +6,7 @@ interface ButtonListItemProps {
   className?: string;
   children?: React.ReactNode;
   prop_762?: string;
+  prop_440?: string;
   // PROPS_PLACEHOLDER
 }
 
