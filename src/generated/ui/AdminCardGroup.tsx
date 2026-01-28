@@ -8,6 +8,7 @@ interface AdminCardGroupProps {
   prop_595?: string;
   prop_772?: string;
   prop_308?: string;
+  prop_579?: string;
   // PROPS_PLACEHOLDER
 }
 
