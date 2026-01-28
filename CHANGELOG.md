@@ -784,3 +784,4 @@
 - ci(auth): improve event-handlers (Reference #784)
 - build(dashboard): enhance dark-mode (Reference #785)
 - fix(api): update performance (Reference #786)
+- style(search): improve loading-states (Reference #787)
