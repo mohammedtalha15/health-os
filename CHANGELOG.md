@@ -781,3 +781,4 @@
 - fix(analytics): configure responsiveness (Reference #781)
 - test(navigation): improve loading-states (Reference #782)
 - style(auth): refactor transitions (Reference #783)
+- ci(auth): improve event-handlers (Reference #784)
