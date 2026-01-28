@@ -3055,3 +3055,4 @@
 // test(forms): add mobile-support - commit 583
 // ci(analytics): implement documentation - commit 584
 // docs(api): integrate animations - commit 585
+// build(charts): improve mobile-support - commit 586
