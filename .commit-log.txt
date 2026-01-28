@@ -39,3 +39,4 @@
 // fix(tables): configure validation - commit 1214
 // style(cache): integrate animations - commit 1215
 // feat(inputs): refactor dark-mode - commit 1216
+// refactor(forms): refactor validation - commit 1217
