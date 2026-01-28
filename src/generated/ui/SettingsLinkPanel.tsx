@@ -14,6 +14,7 @@ interface SettingsLinkPanelProps {
   prop_158?: string;
   prop_954?: string;
   prop_697?: string;
+  prop_200?: string;
   // PROPS_PLACEHOLDER
 }
 
