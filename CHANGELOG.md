@@ -1133,3 +1133,4 @@
 - feat(modals): improve responsiveness (Reference #1133)
 - feat(tables): update loading-states (Reference #1134)
 - style(cache): configure documentation (Reference #1135)
+- refactor(auth): enhance loading-states (Reference #1136)
