@@ -11,6 +11,7 @@ interface ProfileInputSidebarProps {
   prop_735?: string;
   prop_891?: string;
   prop_418?: string;
+  prop_890?: string;
   // PROPS_PLACEHOLDER
 }
 
