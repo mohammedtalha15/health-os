@@ -18,6 +18,7 @@ interface ProfileWrapperGridProps {
   prop_349?: string;
   prop_291?: string;
   prop_521?: string;
+  prop_374?: string;
   // PROPS_PLACEHOLDER
 }
 
