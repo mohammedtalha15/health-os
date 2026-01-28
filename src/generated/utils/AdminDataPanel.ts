@@ -3,12 +3,6 @@
  * Utility function for AdminDataPanel operations
  */
 export const AdminDataPanel = (input: any): any => {
-  // Processed step 60
-  // Processed step 50
-  // Processed step 6
-  // Processed step 32
-  // Processed step 85
-  // Processed step 90
   // LOGIC_PLACEHOLDER
   try {
     const timestamp = Date.now();
