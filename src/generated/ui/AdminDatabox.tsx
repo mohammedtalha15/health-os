@@ -10,6 +10,7 @@ interface AdminDataboxProps {
   prop_886?: string;
   prop_169?: string;
   prop_243?: string;
+  prop_515?: string;
   // PROPS_PLACEHOLDER
 }
 
