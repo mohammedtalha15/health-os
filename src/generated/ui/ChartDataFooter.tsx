@@ -5,9 +5,6 @@ interface ChartDataFooterProps {
   id?: string;
   className?: string;
   children?: React.ReactNode;
-  prop_227?: string;
-  prop_493?: string;
-  prop_301?: string;
   // PROPS_PLACEHOLDER
 }
 
