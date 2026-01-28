@@ -3,7 +3,6 @@
  * Utility function for TableListbox operations
  */
 export const TableListbox = (input: any): any => {
-  // Processed step 30
   // LOGIC_PLACEHOLDER
   try {
     const timestamp = Date.now();
