@@ -11,6 +11,7 @@ interface ProfileContainerGroupProps {
   prop_388?: string;
   prop_948?: string;
   prop_605?: string;
+  prop_656?: string;
   // PROPS_PLACEHOLDER
 }
 
