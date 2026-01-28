@@ -19,6 +19,7 @@ interface SettingsLinkGroupProps {
   prop_356?: string;
   prop_831?: string;
   prop_202?: string;
+  prop_984?: string;
   // PROPS_PLACEHOLDER
 }
 
