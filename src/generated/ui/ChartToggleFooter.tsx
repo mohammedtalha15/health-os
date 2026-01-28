@@ -10,6 +10,7 @@ interface ChartToggleFooterProps {
   prop_652?: string;
   prop_323?: string;
   prop_869?: string;
+  prop_624?: string;
   // PROPS_PLACEHOLDER
 }
 
