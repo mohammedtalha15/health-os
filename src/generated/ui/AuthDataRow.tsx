@@ -10,6 +10,7 @@ interface AuthDataRowProps {
   prop_961?: string;
   prop_352?: string;
   prop_137?: string;
+  prop_670?: string;
   // PROPS_PLACEHOLDER
 }
 
