@@ -2334,3 +2334,4 @@
 // (charts): update user experience - commit 370
 // style(forms): implement  - commit 371
 // refactor(auth): configure animations - commit 372
+// style(inputs): update accessibility - commit 373
