@@ -3258,3 +3258,4 @@
 // chore(auth): refactor documentation - commit 786
 // fix(dashboard): add responsiveness - commit 787
 // test(search): improve type-definitions - commit 788
+// feat(database): update dark-mode - commit 789
