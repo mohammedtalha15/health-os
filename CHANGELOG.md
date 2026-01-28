@@ -158,3 +158,4 @@
 - build(layouts): refactor responsiveness (Reference #158)
 - chore(buttons): improve unit-tests (Reference #159)
 - ci(profile): integrate error-handling (Reference #160)
+- refactor(api): configure keyboard-nav (Reference #161)
