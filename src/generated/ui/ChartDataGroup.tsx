@@ -5,24 +5,6 @@ interface ChartDataGroupProps {
   id?: string;
   className?: string;
   children?: React.ReactNode;
-  prop_104?: string;
-  prop_804?: string;
-  prop_942?: string;
-  prop_587?: string;
-  prop_231?: string;
-  prop_971?: string;
-  prop_651?: string;
-  prop_107?: string;
-  prop_467?: string;
-  prop_695?: string;
-  prop_107?: string;
-  prop_941?: string;
-  prop_772?: string;
-  prop_945?: string;
-  prop_515?: string;
-  prop_556?: string;
-  prop_587?: string;
-  prop_140?: string;
   // PROPS_PLACEHOLDER
 }
 
