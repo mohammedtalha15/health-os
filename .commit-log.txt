@@ -1314,3 +1314,4 @@
 // ci(cache): integrate keyboard-nav - commit 2489
 // fix(search): update data-fetching - commit 2490
 // build(charts): optimize responsiveness - commit 2491
+// build(cache): integrate loading-states - commit 2492
