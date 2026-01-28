@@ -5,16 +5,6 @@ interface AdminWrapperGridProps {
   id?: string;
   className?: string;
   children?: React.ReactNode;
-  prop_600?: string;
-  prop_831?: string;
-  prop_517?: string;
-  prop_800?: string;
-  prop_980?: string;
-  prop_560?: string;
-  prop_953?: string;
-  prop_931?: string;
-  prop_508?: string;
-  prop_840?: string;
   // PROPS_PLACEHOLDER
 }
 
