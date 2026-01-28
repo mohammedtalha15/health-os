@@ -347,3 +347,4 @@
 - refactor(forms): improve dark-mode (Reference #347)
 - feat(profile): refactor type-definitions (Reference #348)
 - chore(tables): add unit-tests (Reference #349)
+- perf(cache): implement data-fetching (Reference #350)
