@@ -5,18 +5,6 @@ interface UserLinkSidebarProps {
   id?: string;
   className?: string;
   children?: React.ReactNode;
-  prop_287?: string;
-  prop_586?: string;
-  prop_367?: string;
-  prop_191?: string;
-  prop_725?: string;
-  prop_650?: string;
-  prop_649?: string;
-  prop_365?: string;
-  prop_831?: string;
-  prop_227?: string;
-  prop_598?: string;
-  prop_938?: string;
   // PROPS_PLACEHOLDER
 }
 
