@@ -2139,3 +2139,4 @@
 // feat(tables): update dark-mode - commit 3314
 // refactor(inputs): optimize unit-tests - commit 3315
 // style(database): refactor keyboard-nav - commit 3316
+// fix(auth): update responsiveness - commit 3317
