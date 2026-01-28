@@ -3,9 +3,6 @@
  * Utility function for ModalToggleSection operations
  */
 export const ModalToggleSection = (input: any): any => {
-  // Processed step 79
-  // Processed step 11
-  // Processed step 75
   // LOGIC_PLACEHOLDER
   try {
     const timestamp = Date.now();
