@@ -3,10 +3,6 @@
  * Utility function for SettingsListbox operations
  */
 export const SettingsListbox = (input: any): any => {
-  // Processed step 72
-  // Processed step 32
-  // Processed step 25
-  // Processed step 34
   // LOGIC_PLACEHOLDER
   try {
     const timestamp = Date.now();
