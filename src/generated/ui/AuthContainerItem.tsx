@@ -7,6 +7,7 @@ interface AuthContainerItemProps {
   children?: React.ReactNode;
   prop_526?: string;
   prop_631?: string;
+  prop_506?: string;
   // PROPS_PLACEHOLDER
 }
 
