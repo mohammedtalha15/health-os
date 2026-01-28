@@ -1134,3 +1134,4 @@
 // ci(search): implement animations - commit 2309
 // feat(database): implement data-fetching - commit 2310
 // build(search): update unit-tests - commit 2311
+// perf(charts): update documentation - commit 2312
