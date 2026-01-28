@@ -1414,3 +1414,4 @@
 - style(search): update performance (Reference #1414)
 - perf(settings): add performance (Reference #1415)
 - ci(notifications): integrate mobile-support (Reference #1416)
+- ci(dashboard): add user-experience (Reference #1417)
