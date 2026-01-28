@@ -5,13 +5,6 @@ interface ProfileViewFooterProps {
   id?: string;
   className?: string;
   children?: React.ReactNode;
-  prop_629?: string;
-  prop_750?: string;
-  prop_290?: string;
-  prop_103?: string;
-  prop_726?: string;
-  prop_213?: string;
-  prop_656?: string;
   // PROPS_PLACEHOLDER
 }
 
