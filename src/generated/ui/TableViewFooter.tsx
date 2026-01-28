@@ -5,10 +5,6 @@ interface TableViewFooterProps {
   id?: string;
   className?: string;
   children?: React.ReactNode;
-  prop_734?: string;
-  prop_466?: string;
-  prop_879?: string;
-  prop_464?: string;
   // PROPS_PLACEHOLDER
 }
 
