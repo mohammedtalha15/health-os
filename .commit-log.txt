@@ -3296,3 +3296,4 @@
 // feat(analytics): improve loading-states - commit 824
 // docs(forms): optimize unit-tests - commit 825
 // chore(tables): improve keyboard-nav - commit 826
+// fix(database): optimize user-experience - commit 827
