@@ -1310,3 +1310,4 @@
 - test(profile): configure unit-tests (Reference #1310)
 - chore(tables): refactor state-management (Reference #1311)
 - build(settings): add error-handling (Reference #1312)
+- feat(notifications): configure data-fetching (Reference #1313)
