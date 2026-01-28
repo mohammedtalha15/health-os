@@ -325,3 +325,4 @@
 - fix(api): update error-handling (Reference #325)
 - docs(api): improve keyboard-nav (Reference #326)
 - style(ui): update mobile-support (Reference #327)
+- feat(cache): fix animations (Reference #328)
