@@ -5,8 +5,6 @@ interface UserToggleSectionProps {
   id?: string;
   className?: string;
   children?: React.ReactNode;
-  prop_232?: string;
-  prop_284?: string;
   // PROPS_PLACEHOLDER
 }
 
