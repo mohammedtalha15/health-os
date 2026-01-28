@@ -2039,3 +2039,4 @@
 // perf(charts): configure unit tests - commit 75
 // chore(notifications): enhance  - commit 76
 // chore(dashboard): optimize animations - commit 77
+// docs(buttons): improve unit tests - commit 78
