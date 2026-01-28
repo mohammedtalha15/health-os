@@ -228,3 +228,4 @@
 - style(navigation): update caching-logic (Reference #228)
 - test(analytics): add performance (Reference #229)
 - refactor(profile): enhance animations (Reference #230)
+- perf(charts): refactor responsiveness (Reference #231)
