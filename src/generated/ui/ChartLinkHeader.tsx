@@ -7,6 +7,7 @@ interface ChartLinkHeaderProps {
   children?: React.ReactNode;
   prop_653?: string;
   prop_803?: string;
+  prop_617?: string;
   // PROPS_PLACEHOLDER
 }
 
