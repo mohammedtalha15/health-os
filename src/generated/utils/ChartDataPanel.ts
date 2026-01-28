@@ -3,12 +3,6 @@
  * Utility function for ChartDataPanel operations
  */
 export const ChartDataPanel = (input: any): any => {
-  // Processed step 73
-  // Processed step 39
-  // Processed step 91
-  // Processed step 61
-  // Processed step 61
-  // Processed step 64
   // LOGIC_PLACEHOLDER
   try {
     const timestamp = Date.now();
