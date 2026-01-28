@@ -7,6 +7,7 @@ interface SettingsDataItemProps {
   children?: React.ReactNode;
   prop_782?: string;
   prop_441?: string;
+  prop_889?: string;
   // PROPS_PLACEHOLDER
 }
 
