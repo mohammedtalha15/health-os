@@ -6,6 +6,7 @@ interface DashboardTogglePanelProps {
   className?: string;
   children?: React.ReactNode;
   prop_772?: string;
+  prop_284?: string;
   // PROPS_PLACEHOLDER
 }
 
