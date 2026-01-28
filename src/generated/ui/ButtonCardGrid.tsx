@@ -12,6 +12,7 @@ interface ButtonCardGridProps {
   prop_136?: string;
   prop_126?: string;
   prop_327?: string;
+  prop_146?: string;
   // PROPS_PLACEHOLDER
 }
 
