@@ -425,3 +425,4 @@
 - fix(search): implement animations (Reference #425)
 - perf(navigation): update loading-states (Reference #426)
 - build(dashboard): update code-quality (Reference #427)
+- chore(auth): fix responsiveness (Reference #428)
