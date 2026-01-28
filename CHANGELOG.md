@@ -309,3 +309,4 @@
 - style(charts): improve validation (Reference #309)
 - style(dashboard): refactor user-experience (Reference #310)
 - build(cache): add dark-mode (Reference #311)
+- fix(settings): update dark-mode (Reference #312)
