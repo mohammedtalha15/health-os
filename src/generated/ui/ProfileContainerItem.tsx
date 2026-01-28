@@ -10,6 +10,7 @@ interface ProfileContainerItemProps {
   prop_560?: string;
   prop_441?: string;
   prop_781?: string;
+  prop_913?: string;
   // PROPS_PLACEHOLDER
 }
 
