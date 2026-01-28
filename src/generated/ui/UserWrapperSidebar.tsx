@@ -5,16 +5,6 @@ interface UserWrapperSidebarProps {
   id?: string;
   className?: string;
   children?: React.ReactNode;
-  prop_714?: string;
-  prop_793?: string;
-  prop_334?: string;
-  prop_351?: string;
-  prop_659?: string;
-  prop_504?: string;
-  prop_524?: string;
-  prop_741?: string;
-  prop_355?: string;
-  prop_807?: string;
   // PROPS_PLACEHOLDER
 }
 
