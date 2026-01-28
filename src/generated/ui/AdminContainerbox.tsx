@@ -12,6 +12,7 @@ interface AdminContainerboxProps {
   prop_911?: string;
   prop_926?: string;
   prop_792?: string;
+  prop_450?: string;
   // PROPS_PLACEHOLDER
 }
 
