@@ -3,13 +3,6 @@
  * Utility function for DashboardListSidebar operations
  */
 export const DashboardListSidebar = (input: any): any => {
-  // Processed step 78
-  // Processed step 36
-  // Processed step 6
-  // Processed step 45
-  // Processed step 20
-  // Processed step 69
-  // Processed step 48
   // LOGIC_PLACEHOLDER
   try {
     const timestamp = Date.now();
