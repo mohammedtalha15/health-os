@@ -77,3 +77,4 @@
 - test(modals): optimize error-handling (Reference #77)
 - feat(api): integrate unit-tests (Reference #78)
 - perf(security): refactor state-management (Reference #79)
+- perf(profile): add transitions (Reference #80)
