@@ -10,6 +10,7 @@ interface SettingsWrapperHeaderProps {
   prop_897?: string;
   prop_107?: string;
   prop_408?: string;
+  prop_367?: string;
   // PROPS_PLACEHOLDER
 }
 
