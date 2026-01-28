@@ -14,6 +14,7 @@ interface UserViewGroupProps {
   prop_669?: string;
   prop_606?: string;
   prop_525?: string;
+  prop_621?: string;
   // PROPS_PLACEHOLDER
 }
 
