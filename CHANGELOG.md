@@ -580,3 +580,4 @@
 - feat(profile): implement animations (Reference #580)
 - refactor(settings): configure user-experience (Reference #581)
 - test(security): optimize data-fetching (Reference #582)
+- refactor(navigation): enhance event-handlers (Reference #583)
