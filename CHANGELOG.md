@@ -1431,3 +1431,4 @@
 - perf(buttons): update validation (Reference #1431)
 - fix(api): enhance keyboard-nav (Reference #1432)
 - perf(charts): configure mobile-support (Reference #1433)
+- docs(profile): refactor performance (Reference #1434)
