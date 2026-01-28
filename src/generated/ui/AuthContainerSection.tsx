@@ -9,6 +9,7 @@ interface AuthContainerSectionProps {
   prop_690?: string;
   prop_952?: string;
   prop_530?: string;
+  prop_168?: string;
   // PROPS_PLACEHOLDER
 }
 
