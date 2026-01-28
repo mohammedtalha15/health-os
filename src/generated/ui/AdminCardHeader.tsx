@@ -10,6 +10,7 @@ interface AdminCardHeaderProps {
   prop_928?: string;
   prop_602?: string;
   prop_360?: string;
+  prop_194?: string;
   // PROPS_PLACEHOLDER
 }
 
