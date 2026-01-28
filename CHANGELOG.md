@@ -1195,3 +1195,4 @@
 - chore(forms): improve dark-mode (Reference #1195)
 - perf(search): optimize documentation (Reference #1196)
 - test(dashboard): improve dark-mode (Reference #1197)
+- docs(inputs): integrate animations (Reference #1198)
