@@ -120,3 +120,4 @@
 - test(auth): optimize state-management (Reference #120)
 - ci(security): add loading-states (Reference #121)
 - perf(search): optimize documentation (Reference #122)
+- ci(forms): implement error-handling (Reference #123)
