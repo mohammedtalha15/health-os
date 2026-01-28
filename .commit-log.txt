@@ -3192,3 +3192,4 @@
 // docs(api): enhance user-experience - commit 720
 // fix(modals): fix state-management - commit 721
 // refactor(auth): add data-fetching - commit 722
+// refactor(settings): improve caching-logic - commit 723
