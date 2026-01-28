@@ -6,6 +6,7 @@ interface ButtonLinkFooterProps {
   className?: string;
   children?: React.ReactNode;
   prop_368?: string;
+  prop_405?: string;
   // PROPS_PLACEHOLDER
 }
 
