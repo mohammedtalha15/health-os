@@ -5,8 +5,6 @@ interface SettingsCardGridProps {
   id?: string;
   className?: string;
   children?: React.ReactNode;
-  prop_445?: string;
-  prop_307?: string;
   // PROPS_PLACEHOLDER
 }
 
