@@ -64,3 +64,4 @@
 - perf(modals): refactor loading-states (Reference #64)
 - refactor(security): refactor performance (Reference #65)
 - ci(security): improve keyboard-nav (Reference #66)
+- fix(buttons): optimize data-fetching (Reference #67)
