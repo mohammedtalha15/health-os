@@ -13,6 +13,7 @@ interface SettingsToggleHeaderProps {
   prop_290?: string;
   prop_255?: string;
   prop_904?: string;
+  prop_998?: string;
   // PROPS_PLACEHOLDER
 }
 
