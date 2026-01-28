@@ -16,6 +16,7 @@ interface TableListHeaderProps {
   prop_792?: string;
   prop_633?: string;
   prop_197?: string;
+  prop_892?: string;
   // PROPS_PLACEHOLDER
 }
 
