@@ -2832,3 +2832,4 @@
 // feat(layouts): update data-fetching - commit 360
 // fix(inputs): optimize code-quality - commit 361
 // fix(layouts): update code-quality - commit 362
+// refactor(ui): enhance mobile-support - commit 363
