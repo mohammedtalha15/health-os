@@ -142,3 +142,4 @@
 - test(notifications): optimize validation (Reference #142)
 - refactor(inputs): enhance documentation (Reference #143)
 - feat(analytics): integrate loading-states (Reference #144)
+- ci(inputs): fix keyboard-nav (Reference #145)
