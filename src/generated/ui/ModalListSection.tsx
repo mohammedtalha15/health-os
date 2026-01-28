@@ -19,6 +19,7 @@ interface ModalListSectionProps {
   prop_800?: string;
   prop_309?: string;
   prop_969?: string;
+  prop_929?: string;
   // PROPS_PLACEHOLDER
 }
 
