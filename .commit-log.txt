@@ -187,3 +187,4 @@
 // chore(layouts): implement code-quality - commit 1362
 // feat(tables): configure unit-tests - commit 1363
 // ci(dashboard): add keyboard-nav - commit 1364
+// feat(layouts): add accessibility - commit 1365
