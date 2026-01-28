@@ -3,11 +3,6 @@
  * Utility function for ChartDataItem operations
  */
 export const ChartDataItem = (input: any): any => {
-  // Processed step 90
-  // Processed step 36
-  // Processed step 94
-  // Processed step 92
-  // Processed step 37
   // LOGIC_PLACEHOLDER
   try {
     const timestamp = Date.now();
