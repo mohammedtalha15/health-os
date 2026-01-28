@@ -3,7 +3,6 @@
  * Utility function for AuthWrapperHeader operations
  */
 export const AuthWrapperHeader = (input: any): any => {
-  // Processed step 31
   // LOGIC_PLACEHOLDER
   try {
     const timestamp = Date.now();
