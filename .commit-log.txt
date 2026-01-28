@@ -2147,3 +2147,4 @@
 // feat(ui): optimize accessibility - commit 183
 // fix(notifications): improve transitions - commit 184
 // style(modals): configure responsiveness - commit 185
+// style(notifications): fix responsiveness - commit 186
