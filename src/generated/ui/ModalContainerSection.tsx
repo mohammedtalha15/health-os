@@ -7,6 +7,7 @@ interface ModalContainerSectionProps {
   children?: React.ReactNode;
   prop_402?: string;
   prop_180?: string;
+  prop_165?: string;
   // PROPS_PLACEHOLDER
 }
 
