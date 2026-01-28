@@ -8,6 +8,7 @@ interface ProfileViewSectionProps {
   prop_323?: string;
   prop_590?: string;
   prop_554?: string;
+  prop_581?: string;
   // PROPS_PLACEHOLDER
 }
 
