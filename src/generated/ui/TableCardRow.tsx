@@ -21,6 +21,7 @@ interface TableCardRowProps {
   prop_600?: string;
   prop_147?: string;
   prop_128?: string;
+  prop_539?: string;
   // PROPS_PLACEHOLDER
 }
 
