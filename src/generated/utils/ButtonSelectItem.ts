@@ -3,11 +3,6 @@
  * Utility function for ButtonSelectItem operations
  */
 export const ButtonSelectItem = (input: any): any => {
-  // Processed step 19
-  // Processed step 2
-  // Processed step 30
-  // Processed step 20
-  // Processed step 10
   // LOGIC_PLACEHOLDER
   try {
     const timestamp = Date.now();
