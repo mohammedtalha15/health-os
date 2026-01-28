@@ -7,6 +7,7 @@ interface ButtonToggleItemProps {
   children?: React.ReactNode;
   prop_987?: string;
   prop_860?: string;
+  prop_344?: string;
   // PROPS_PLACEHOLDER
 }
 
