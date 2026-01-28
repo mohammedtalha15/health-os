@@ -752,3 +752,4 @@
 // chore(settings): integrate loading-states - commit 1927
 // chore(settings): fix code-quality - commit 1928
 // feat(tables): improve user-experience - commit 1929
+// fix(settings): configure transitions - commit 1930
