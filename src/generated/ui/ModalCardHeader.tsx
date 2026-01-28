@@ -8,6 +8,7 @@ interface ModalCardHeaderProps {
   prop_868?: string;
   prop_146?: string;
   prop_972?: string;
+  prop_592?: string;
   // PROPS_PLACEHOLDER
 }
 
