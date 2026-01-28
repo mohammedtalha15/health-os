@@ -712,3 +712,4 @@
 - refactor(security): fix transitions (Reference #712)
 - build(dashboard): add accessibility (Reference #713)
 - ci(profile): enhance unit-tests (Reference #714)
+- docs(settings): integrate event-handlers (Reference #715)
