@@ -1315,3 +1315,4 @@
 - build(security): add mobile-support (Reference #1315)
 - fix(security): update error-handling (Reference #1316)
 - perf(modals): update type-definitions (Reference #1317)
+- docs(settings): fix event-handlers (Reference #1318)
