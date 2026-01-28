@@ -397,3 +397,4 @@
 - refactor(database): update keyboard-nav (Reference #397)
 - test(api): refactor data-fetching (Reference #398)
 - feat(dashboard): refactor accessibility (Reference #399)
+- feat(profile): implement unit-tests (Reference #400)
