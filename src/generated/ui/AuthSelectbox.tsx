@@ -5,15 +5,6 @@ interface AuthSelectboxProps {
   id?: string;
   className?: string;
   children?: React.ReactNode;
-  prop_652?: string;
-  prop_364?: string;
-  prop_293?: string;
-  prop_148?: string;
-  prop_467?: string;
-  prop_573?: string;
-  prop_167?: string;
-  prop_846?: string;
-  prop_404?: string;
   // PROPS_PLACEHOLDER
 }
 
