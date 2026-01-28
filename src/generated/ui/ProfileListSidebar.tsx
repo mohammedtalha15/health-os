@@ -11,6 +11,7 @@ interface ProfileListSidebarProps {
   prop_666?: string;
   prop_793?: string;
   prop_891?: string;
+  prop_976?: string;
   // PROPS_PLACEHOLDER
 }
 
