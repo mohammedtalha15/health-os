@@ -11,6 +11,7 @@ interface TableContainerGroupProps {
   prop_148?: string;
   prop_117?: string;
   prop_632?: string;
+  prop_321?: string;
   // PROPS_PLACEHOLDER
 }
 
