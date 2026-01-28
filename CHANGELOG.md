@@ -870,3 +870,4 @@
 - perf(analytics): improve dark-mode (Reference #870)
 - perf(forms): improve accessibility (Reference #871)
 - docs(dashboard): implement responsiveness (Reference #872)
+- perf(analytics): add error-handling (Reference #873)
