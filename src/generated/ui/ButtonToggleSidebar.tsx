@@ -7,6 +7,7 @@ interface ButtonToggleSidebarProps {
   children?: React.ReactNode;
   prop_126?: string;
   prop_124?: string;
+  prop_297?: string;
   // PROPS_PLACEHOLDER
 }
 
