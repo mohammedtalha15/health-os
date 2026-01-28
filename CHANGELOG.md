@@ -710,3 +710,4 @@
 - chore(inputs): improve loading-states (Reference #710)
 - perf(dashboard): optimize mobile-support (Reference #711)
 - refactor(security): fix transitions (Reference #712)
+- build(dashboard): add accessibility (Reference #713)
