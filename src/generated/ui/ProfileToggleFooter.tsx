@@ -6,6 +6,7 @@ interface ProfileToggleFooterProps {
   className?: string;
   children?: React.ReactNode;
   prop_982?: string;
+  prop_701?: string;
   // PROPS_PLACEHOLDER
 }
 
