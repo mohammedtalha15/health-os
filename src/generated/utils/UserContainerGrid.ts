@@ -3,8 +3,6 @@
  * Utility function for UserContainerGrid operations
  */
 export const UserContainerGrid = (input: any): any => {
-  // Processed step 64
-  // Processed step 40
   // LOGIC_PLACEHOLDER
   try {
     const timestamp = Date.now();
