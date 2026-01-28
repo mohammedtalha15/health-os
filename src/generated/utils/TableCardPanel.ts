@@ -3,8 +3,6 @@
  * Utility function for TableCardPanel operations
  */
 export const TableCardPanel = (input: any): any => {
-  // Processed step 86
-  // Processed step 18
   // LOGIC_PLACEHOLDER
   try {
     const timestamp = Date.now();
