@@ -5,6 +5,7 @@ interface AuthLinkPanelProps {
   id?: string;
   className?: string;
   children?: React.ReactNode;
+  prop_805?: string;
   // PROPS_PLACEHOLDER
 }
 
