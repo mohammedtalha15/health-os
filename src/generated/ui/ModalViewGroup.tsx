@@ -10,6 +10,7 @@ interface ModalViewGroupProps {
   prop_772?: string;
   prop_971?: string;
   prop_723?: string;
+  prop_697?: string;
   // PROPS_PLACEHOLDER
 }
 
