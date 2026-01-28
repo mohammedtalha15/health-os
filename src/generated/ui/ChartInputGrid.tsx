@@ -10,6 +10,7 @@ interface ChartInputGridProps {
   prop_481?: string;
   prop_962?: string;
   prop_183?: string;
+  prop_921?: string;
   // PROPS_PLACEHOLDER
 }
 
