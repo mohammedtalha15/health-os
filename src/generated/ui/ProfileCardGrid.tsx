@@ -9,6 +9,7 @@ interface ProfileCardGridProps {
   prop_370?: string;
   prop_295?: string;
   prop_676?: string;
+  prop_719?: string;
   // PROPS_PLACEHOLDER
 }
 
