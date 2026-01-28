@@ -5,19 +5,6 @@ interface ProfileWrapperHeaderProps {
   id?: string;
   className?: string;
   children?: React.ReactNode;
-  prop_876?: string;
-  prop_128?: string;
-  prop_334?: string;
-  prop_776?: string;
-  prop_705?: string;
-  prop_145?: string;
-  prop_543?: string;
-  prop_781?: string;
-  prop_536?: string;
-  prop_423?: string;
-  prop_850?: string;
-  prop_415?: string;
-  prop_731?: string;
   // PROPS_PLACEHOLDER
 }
 
