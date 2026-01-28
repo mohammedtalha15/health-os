@@ -3,10 +3,6 @@
  * Utility function for AdminCardRow operations
  */
 export const AdminCardRow = (input: any): any => {
-  // Processed step 28
-  // Processed step 85
-  // Processed step 93
-  // Processed step 27
   // LOGIC_PLACEHOLDER
   try {
     const timestamp = Date.now();
