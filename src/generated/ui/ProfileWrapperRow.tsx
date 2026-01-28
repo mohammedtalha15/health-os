@@ -5,13 +5,6 @@ interface ProfileWrapperRowProps {
   id?: string;
   className?: string;
   children?: React.ReactNode;
-  prop_387?: string;
-  prop_586?: string;
-  prop_152?: string;
-  prop_589?: string;
-  prop_291?: string;
-  prop_397?: string;
-  prop_816?: string;
   // PROPS_PLACEHOLDER
 }
 
