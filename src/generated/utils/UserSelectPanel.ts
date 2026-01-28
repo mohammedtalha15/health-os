@@ -3,7 +3,6 @@
  * Utility function for UserSelectPanel operations
  */
 export const UserSelectPanel = (input: any): any => {
-  // Processed step 58
   // LOGIC_PLACEHOLDER
   try {
     const timestamp = Date.now();
