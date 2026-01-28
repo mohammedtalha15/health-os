@@ -7,6 +7,7 @@ interface UserInputRowProps {
   children?: React.ReactNode;
   prop_777?: string;
   prop_836?: string;
+  prop_384?: string;
   // PROPS_PLACEHOLDER
 }
 
