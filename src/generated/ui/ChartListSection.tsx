@@ -14,6 +14,7 @@ interface ChartListSectionProps {
   prop_821?: string;
   prop_654?: string;
   prop_528?: string;
+  prop_882?: string;
   // PROPS_PLACEHOLDER
 }
 
