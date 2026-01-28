@@ -3,11 +3,6 @@
  * Utility function for TableWrapperGrid operations
  */
 export const TableWrapperGrid = (input: any): any => {
-  // Processed step 30
-  // Processed step 3
-  // Processed step 83
-  // Processed step 36
-  // Processed step 89
   // LOGIC_PLACEHOLDER
   try {
     const timestamp = Date.now();
