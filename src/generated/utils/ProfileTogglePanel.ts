@@ -3,9 +3,6 @@
  * Utility function for ProfileTogglePanel operations
  */
 export const ProfileTogglePanel = (input: any): any => {
-  // Processed step 1
-  // Processed step 2
-  // Processed step 15
   // LOGIC_PLACEHOLDER
   try {
     const timestamp = Date.now();
