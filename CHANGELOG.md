@@ -311,3 +311,4 @@
 - build(cache): add dark-mode (Reference #311)
 - fix(settings): update dark-mode (Reference #312)
 - ci(notifications): configure transitions (Reference #313)
+- chore(charts): integrate dark-mode (Reference #314)
