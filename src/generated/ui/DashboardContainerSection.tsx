@@ -9,6 +9,7 @@ interface DashboardContainerSectionProps {
   prop_586?: string;
   prop_699?: string;
   prop_226?: string;
+  prop_860?: string;
   // PROPS_PLACEHOLDER
 }
 
