@@ -565,3 +565,4 @@
 - perf(security): fix dark-mode (Reference #565)
 - perf(profile): configure animations (Reference #566)
 - fix(profile): add documentation (Reference #567)
+- perf(tables): enhance dark-mode (Reference #568)
