@@ -1207,3 +1207,4 @@
 - refactor(search): update event-handlers (Reference #1207)
 - refactor(notifications): fix state-management (Reference #1208)
 - docs(settings): configure user-experience (Reference #1209)
+- ci(modals): integrate data-fetching (Reference #1210)
