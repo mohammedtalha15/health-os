@@ -5,6 +5,7 @@ interface ButtonWrapperItemProps {
   id?: string;
   className?: string;
   children?: React.ReactNode;
+  prop_607?: string;
   // PROPS_PLACEHOLDER
 }
 
