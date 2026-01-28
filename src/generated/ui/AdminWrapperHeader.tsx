@@ -5,18 +5,6 @@ interface AdminWrapperHeaderProps {
   id?: string;
   className?: string;
   children?: React.ReactNode;
-  prop_350?: string;
-  prop_833?: string;
-  prop_502?: string;
-  prop_170?: string;
-  prop_811?: string;
-  prop_526?: string;
-  prop_875?: string;
-  prop_724?: string;
-  prop_897?: string;
-  prop_341?: string;
-  prop_360?: string;
-  prop_853?: string;
   // PROPS_PLACEHOLDER
 }
 
