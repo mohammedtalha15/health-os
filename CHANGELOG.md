@@ -662,3 +662,4 @@
 - build(notifications): integrate accessibility (Reference #662)
 - perf(profile): enhance error-handling (Reference #663)
 - fix(auth): add state-management (Reference #664)
+- perf(inputs): update transitions (Reference #665)
