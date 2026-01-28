@@ -928,3 +928,4 @@
 - fix(dashboard): implement caching-logic (Reference #928)
 - feat(modals): integrate error-handling (Reference #929)
 - build(database): improve mobile-support (Reference #930)
+- build(forms): refactor accessibility (Reference #931)
