@@ -1533,3 +1533,4 @@
 - chore(notifications): implement transitions (Reference #1533)
 - perf(notifications): improve validation (Reference #1534)
 - build(layouts): configure animations (Reference #1535)
+- feat(cache): configure code-quality (Reference #1536)
