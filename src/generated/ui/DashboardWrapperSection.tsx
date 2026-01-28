@@ -5,19 +5,6 @@ interface DashboardWrapperSectionProps {
   id?: string;
   className?: string;
   children?: React.ReactNode;
-  prop_158?: string;
-  prop_368?: string;
-  prop_759?: string;
-  prop_128?: string;
-  prop_571?: string;
-  prop_733?: string;
-  prop_626?: string;
-  prop_929?: string;
-  prop_578?: string;
-  prop_637?: string;
-  prop_670?: string;
-  prop_167?: string;
-  prop_372?: string;
   // PROPS_PLACEHOLDER
 }
 
