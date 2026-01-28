@@ -3,8 +3,6 @@
  * Utility function for DashboardLinkGroup operations
  */
 export const DashboardLinkGroup = (input: any): any => {
-  // Processed step 41
-  // Processed step 7
   // LOGIC_PLACEHOLDER
   try {
     const timestamp = Date.now();
