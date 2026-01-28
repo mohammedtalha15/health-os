@@ -757,3 +757,4 @@
 // feat(modals): integrate type-definitions - commit 1932
 // perf(profile): optimize unit-tests - commit 1933
 // feat(ui): refactor unit-tests - commit 1934
+// ci(modals): improve unit-tests - commit 1935
