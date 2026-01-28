@@ -8,6 +8,7 @@ interface ButtonInputboxProps {
   prop_228?: string;
   prop_215?: string;
   prop_764?: string;
+  prop_271?: string;
   // PROPS_PLACEHOLDER
 }
 
