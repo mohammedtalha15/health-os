@@ -1107,3 +1107,4 @@
 - ci(modals): enhance accessibility (Reference #1107)
 - chore(dashboard): implement state-management (Reference #1108)
 - feat(ui): improve transitions (Reference #1109)
+- perf(forms): refactor error-handling (Reference #1110)
