@@ -682,3 +682,4 @@
 - build(search): refactor type-definitions (Reference #682)
 - style(forms): add type-definitions (Reference #683)
 - test(cache): refactor responsiveness (Reference #684)
+- refactor(profile): integrate state-management (Reference #685)
