@@ -3,14 +3,6 @@
  * Utility function for TableLinkbox operations
  */
 export const TableLinkbox = (input: any): any => {
-  // Processed step 40
-  // Processed step 6
-  // Processed step 54
-  // Processed step 62
-  // Processed step 69
-  // Processed step 18
-  // Processed step 25
-  // Processed step 50
   // LOGIC_PLACEHOLDER
   try {
     const timestamp = Date.now();
