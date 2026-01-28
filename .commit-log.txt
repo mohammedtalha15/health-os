@@ -2062,3 +2062,4 @@
 // ci(dashboard): improve transitions - commit 3237
 // fix(search): optimize animations - commit 3238
 // ci(navigation): integrate caching-logic - commit 3239
+// chore(api): refactor type-definitions - commit 3240
