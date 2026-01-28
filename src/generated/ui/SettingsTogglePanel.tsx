@@ -5,14 +5,6 @@ interface SettingsTogglePanelProps {
   id?: string;
   className?: string;
   children?: React.ReactNode;
-  prop_116?: string;
-  prop_749?: string;
-  prop_760?: string;
-  prop_500?: string;
-  prop_805?: string;
-  prop_758?: string;
-  prop_971?: string;
-  prop_834?: string;
   // PROPS_PLACEHOLDER
 }
 
