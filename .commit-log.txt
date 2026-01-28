@@ -2572,3 +2572,4 @@
 // perf(ui): configure data-fetching - commit 100
 // chore(charts): fix data-fetching - commit 101
 // build(profile): configure dark-mode - commit 102
+// docs(inputs): improve user-experience - commit 103
