@@ -1683,3 +1683,4 @@
 // test(notifications): configure validation - commit 2858
 // build(profile): configure type-definitions - commit 2859
 // chore(modals): implement state-management - commit 2860
+// chore(buttons): implement validation - commit 2861
