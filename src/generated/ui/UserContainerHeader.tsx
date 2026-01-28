@@ -10,6 +10,7 @@ interface UserContainerHeaderProps {
   prop_722?: string;
   prop_969?: string;
   prop_661?: string;
+  prop_539?: string;
   // PROPS_PLACEHOLDER
 }
 
