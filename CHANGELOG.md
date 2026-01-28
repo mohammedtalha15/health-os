@@ -1007,3 +1007,4 @@
 - ci(buttons): optimize transitions (Reference #1007)
 - test(charts): add code-quality (Reference #1008)
 - ci(api): improve user-experience (Reference #1009)
+- style(ui): improve validation (Reference #1010)
