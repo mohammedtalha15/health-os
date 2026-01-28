@@ -6,6 +6,7 @@ interface AdminViewboxProps {
   className?: string;
   children?: React.ReactNode;
   prop_704?: string;
+  prop_934?: string;
   // PROPS_PLACEHOLDER
 }
 
