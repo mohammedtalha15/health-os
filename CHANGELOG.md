@@ -216,3 +216,4 @@
 - feat(search): refactor responsiveness (Reference #216)
 - docs(auth): fix transitions (Reference #217)
 - ci(layouts): enhance user-experience (Reference #218)
+- docs(dashboard): optimize mobile-support (Reference #219)
