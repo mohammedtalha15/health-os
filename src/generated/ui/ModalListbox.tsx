@@ -7,6 +7,7 @@ interface ModalListboxProps {
   children?: React.ReactNode;
   prop_192?: string;
   prop_617?: string;
+  prop_830?: string;
   // PROPS_PLACEHOLDER
 }
 
