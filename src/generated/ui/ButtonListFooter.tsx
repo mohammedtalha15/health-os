@@ -5,8 +5,6 @@ interface ButtonListFooterProps {
   id?: string;
   className?: string;
   children?: React.ReactNode;
-  prop_886?: string;
-  prop_736?: string;
   // PROPS_PLACEHOLDER
 }
 
