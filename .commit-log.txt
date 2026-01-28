@@ -2716,3 +2716,4 @@
 // test(cache): refactor documentation - commit 244
 // chore(charts): add unit-tests - commit 245
 // feat(search): implement state-management - commit 246
+// style(cache): add documentation - commit 247
