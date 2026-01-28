@@ -575,3 +575,4 @@
 - ci(search): refactor unit-tests (Reference #575)
 - docs(modals): refactor event-handlers (Reference #576)
 - perf(analytics): fix error-handling (Reference #577)
+- test(buttons): add keyboard-nav (Reference #578)
