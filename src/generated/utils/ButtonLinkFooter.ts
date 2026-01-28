@@ -3,13 +3,6 @@
  * Utility function for ButtonLinkFooter operations
  */
 export const ButtonLinkFooter = (input: any): any => {
-  // Processed step 18
-  // Processed step 42
-  // Processed step 98
-  // Processed step 46
-  // Processed step 43
-  // Processed step 34
-  // Processed step 66
   // LOGIC_PLACEHOLDER
   try {
     const timestamp = Date.now();
