@@ -1888,3 +1888,4 @@
 // ci(api): implement transitions - commit 3063
 // build(settings): add type-definitions - commit 3064
 // test(analytics): enhance accessibility - commit 3065
+// test(settings): fix loading-states - commit 3066
