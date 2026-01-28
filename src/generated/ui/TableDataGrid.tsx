@@ -16,6 +16,7 @@ interface TableDataGridProps {
   prop_697?: string;
   prop_497?: string;
   prop_416?: string;
+  prop_471?: string;
   // PROPS_PLACEHOLDER
 }
 
