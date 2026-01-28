@@ -6,6 +6,7 @@ interface TableSelectHeaderProps {
   className?: string;
   children?: React.ReactNode;
   prop_917?: string;
+  prop_112?: string;
   // PROPS_PLACEHOLDER
 }
 
