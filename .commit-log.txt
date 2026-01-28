@@ -1068,3 +1068,4 @@
 // test(buttons): integrate loading-states - commit 2243
 // build(navigation): enhance loading-states - commit 2244
 // ci(charts): add data-fetching - commit 2245
+// build(ui): integrate event-handlers - commit 2246
