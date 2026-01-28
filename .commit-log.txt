@@ -45,3 +45,4 @@
 // build(auth): improve mobile-support - commit 993
 // refactor(charts): fix code-quality - commit 994
 // perf(profile): improve unit-tests - commit 995
+// refactor(inputs): configure mobile-support - commit 996
