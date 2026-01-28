@@ -2084,3 +2084,4 @@
 // docs(): implement caching logic - commit 120
 // fix(notifications): optimize animations - commit 121
 // fix(search): add responsiveness - commit 122
+// docs(auth): refactor responsiveness - commit 123
