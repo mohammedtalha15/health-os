@@ -1622,3 +1622,4 @@
 // build(charts): improve loading-states - commit 2797
 // chore(layouts): improve error-handling - commit 2798
 // chore(profile): update transitions - commit 2799
+// build(inputs): enhance event-handlers - commit 2800
