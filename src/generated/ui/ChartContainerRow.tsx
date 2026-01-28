@@ -5,11 +5,6 @@ interface ChartContainerRowProps {
   id?: string;
   className?: string;
   children?: React.ReactNode;
-  prop_121?: string;
-  prop_321?: string;
-  prop_816?: string;
-  prop_230?: string;
-  prop_530?: string;
   // PROPS_PLACEHOLDER
 }
 
