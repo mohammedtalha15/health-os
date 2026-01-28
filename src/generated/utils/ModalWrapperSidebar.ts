@@ -3,7 +3,6 @@
  * Utility function for ModalWrapperSidebar operations
  */
 export const ModalWrapperSidebar = (input: any): any => {
-  // Processed step 94
   // LOGIC_PLACEHOLDER
   try {
     const timestamp = Date.now();
