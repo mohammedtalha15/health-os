@@ -6,6 +6,7 @@ interface ProfileDataRowProps {
   className?: string;
   children?: React.ReactNode;
   prop_169?: string;
+  prop_804?: string;
   // PROPS_PLACEHOLDER
 }
 
