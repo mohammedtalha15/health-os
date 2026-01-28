@@ -5,16 +5,6 @@ interface ButtonToggleHeaderProps {
   id?: string;
   className?: string;
   children?: React.ReactNode;
-  prop_453?: string;
-  prop_334?: string;
-  prop_497?: string;
-  prop_924?: string;
-  prop_611?: string;
-  prop_426?: string;
-  prop_730?: string;
-  prop_170?: string;
-  prop_785?: string;
-  prop_569?: string;
   // PROPS_PLACEHOLDER
 }
 
