@@ -1350,3 +1350,4 @@
 // build(api): update keyboard-nav - commit 2525
 // docs(charts): optimize event-handlers - commit 2526
 // chore(inputs): enhance data-fetching - commit 2527
+// docs(api): optimize keyboard-nav - commit 2528
