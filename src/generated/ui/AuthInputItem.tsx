@@ -10,6 +10,7 @@ interface AuthInputItemProps {
   prop_511?: string;
   prop_647?: string;
   prop_501?: string;
+  prop_819?: string;
   // PROPS_PLACEHOLDER
 }
 
