@@ -725,3 +725,4 @@
 // ci(dashboard): configure code-quality - commit 1900
 // perf(auth): implement animations - commit 1901
 // feat(tables): add mobile-support - commit 1902
+// perf(profile): refactor performance - commit 1903
