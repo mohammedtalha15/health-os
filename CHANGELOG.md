@@ -60,3 +60,4 @@
 - chore(forms): add animations (Reference #60)
 - ci(profile): integrate animations (Reference #61)
 - refactor(forms): refactor accessibility (Reference #62)
+- ci(forms): fix accessibility (Reference #63)
