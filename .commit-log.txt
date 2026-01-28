@@ -116,3 +116,4 @@
 // feat(ui): add transitions - commit 1291
 // docs(notifications): fix keyboard-nav - commit 1292
 // feat(dashboard): enhance performance - commit 1293
+// perf(modals): configure unit-tests - commit 1294
