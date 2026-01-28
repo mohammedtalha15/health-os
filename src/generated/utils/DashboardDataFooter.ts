@@ -3,8 +3,6 @@
  * Utility function for DashboardDataFooter operations
  */
 export const DashboardDataFooter = (input: any): any => {
-  // Processed step 26
-  // Processed step 51
   // LOGIC_PLACEHOLDER
   try {
     const timestamp = Date.now();
