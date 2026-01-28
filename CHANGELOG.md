@@ -361,3 +361,4 @@
 - perf(settings): refactor dark-mode (Reference #361)
 - fix(search): enhance performance (Reference #362)
 - perf(security): improve caching-logic (Reference #363)
+- feat(modals): fix caching-logic (Reference #364)
