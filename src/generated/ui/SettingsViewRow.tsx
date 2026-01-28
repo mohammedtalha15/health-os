@@ -10,6 +10,7 @@ interface SettingsViewRowProps {
   prop_697?: string;
   prop_405?: string;
   prop_242?: string;
+  prop_742?: string;
   // PROPS_PLACEHOLDER
 }
 
