@@ -352,3 +352,4 @@
 // chore(ui): update loading-states - commit 1527
 // build(auth): add error-handling - commit 1528
 // perf(database): implement documentation - commit 1529
+// fix(tables): refactor transitions - commit 1530
