@@ -7,6 +7,7 @@ interface SettingsSelectPanelProps {
   children?: React.ReactNode;
   prop_442?: string;
   prop_548?: string;
+  prop_435?: string;
   // PROPS_PLACEHOLDER
 }
 
