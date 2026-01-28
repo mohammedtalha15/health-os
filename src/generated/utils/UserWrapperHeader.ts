@@ -3,8 +3,6 @@
  * Utility function for UserWrapperHeader operations
  */
 export const UserWrapperHeader = (input: any): any => {
-  // Processed step 89
-  // Processed step 17
   // LOGIC_PLACEHOLDER
   try {
     const timestamp = Date.now();
