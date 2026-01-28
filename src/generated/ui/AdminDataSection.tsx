@@ -21,6 +21,7 @@ interface AdminDataSectionProps {
   prop_563?: string;
   prop_618?: string;
   prop_490?: string;
+  prop_227?: string;
   // PROPS_PLACEHOLDER
 }
 
