@@ -1150,3 +1150,4 @@
 - style(dashboard): enhance responsiveness (Reference #1150)
 - docs(profile): add event-handlers (Reference #1151)
 - perf(settings): enhance animations (Reference #1152)
+- build(search): implement unit-tests (Reference #1153)
