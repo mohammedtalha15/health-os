@@ -9,6 +9,7 @@ interface DashboardViewSidebarProps {
   prop_987?: string;
   prop_422?: string;
   prop_896?: string;
+  prop_315?: string;
   // PROPS_PLACEHOLDER
 }
 
