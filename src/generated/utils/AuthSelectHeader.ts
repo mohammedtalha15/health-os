@@ -3,7 +3,6 @@
  * Utility function for AuthSelectHeader operations
  */
 export const AuthSelectHeader = (input: any): any => {
-  // Processed step 41
   // LOGIC_PLACEHOLDER
   try {
     const timestamp = Date.now();
