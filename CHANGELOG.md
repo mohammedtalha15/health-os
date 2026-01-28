@@ -139,3 +139,4 @@
 - feat(database): implement dark-mode (Reference #139)
 - perf(navigation): fix accessibility (Reference #140)
 - refactor(analytics): optimize performance (Reference #141)
+- test(notifications): optimize validation (Reference #142)
