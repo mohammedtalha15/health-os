@@ -6,6 +6,7 @@ interface UserToggleItemProps {
   className?: string;
   children?: React.ReactNode;
   prop_715?: string;
+  prop_971?: string;
   // PROPS_PLACEHOLDER
 }
 
