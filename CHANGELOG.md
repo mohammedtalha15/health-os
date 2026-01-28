@@ -706,3 +706,4 @@
 - build(search): refactor validation (Reference #706)
 - docs(notifications): fix state-management (Reference #707)
 - build(tables): improve validation (Reference #708)
+- fix(search): enhance data-fetching (Reference #709)
