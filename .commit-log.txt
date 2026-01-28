@@ -138,3 +138,4 @@
 // perf(charts): implement type-definitions - commit 1086
 // perf(cache): fix user-experience - commit 1087
 // test(ui): refactor code-quality - commit 1088
+// style(ui): fix accessibility - commit 1089
