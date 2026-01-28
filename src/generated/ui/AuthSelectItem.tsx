@@ -5,16 +5,6 @@ interface AuthSelectItemProps {
   id?: string;
   className?: string;
   children?: React.ReactNode;
-  prop_149?: string;
-  prop_830?: string;
-  prop_530?: string;
-  prop_698?: string;
-  prop_227?: string;
-  prop_196?: string;
-  prop_512?: string;
-  prop_695?: string;
-  prop_374?: string;
-  prop_479?: string;
   // PROPS_PLACEHOLDER
 }
 
