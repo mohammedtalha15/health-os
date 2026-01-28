@@ -9,6 +9,7 @@ interface SettingsDataItemProps {
   prop_970?: string;
   prop_933?: string;
   prop_494?: string;
+  prop_117?: string;
   // PROPS_PLACEHOLDER
 }
 
