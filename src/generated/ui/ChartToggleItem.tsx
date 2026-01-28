@@ -13,6 +13,7 @@ interface ChartToggleItemProps {
   prop_567?: string;
   prop_755?: string;
   prop_503?: string;
+  prop_889?: string;
   // PROPS_PLACEHOLDER
 }
 
