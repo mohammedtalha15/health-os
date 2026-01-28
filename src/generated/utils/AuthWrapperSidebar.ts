@@ -3,10 +3,6 @@
  * Utility function for AuthWrapperSidebar operations
  */
 export const AuthWrapperSidebar = (input: any): any => {
-  // Processed step 40
-  // Processed step 98
-  // Processed step 41
-  // Processed step 82
   // LOGIC_PLACEHOLDER
   try {
     const timestamp = Date.now();
