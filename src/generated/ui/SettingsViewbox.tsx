@@ -5,10 +5,6 @@ interface SettingsViewboxProps {
   id?: string;
   className?: string;
   children?: React.ReactNode;
-  prop_646?: string;
-  prop_620?: string;
-  prop_944?: string;
-  prop_320?: string;
   // PROPS_PLACEHOLDER
 }
 
