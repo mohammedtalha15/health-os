@@ -9,6 +9,7 @@ interface UserSelectSectionProps {
   prop_846?: string;
   prop_882?: string;
   prop_814?: string;
+  prop_384?: string;
   // PROPS_PLACEHOLDER
 }
 
