@@ -1274,3 +1274,4 @@
 // test(inputs): refactor error-handling - commit 2449
 // refactor(charts): add user-experience - commit 2450
 // ci(settings): add validation - commit 2451
+// build(modals): update accessibility - commit 2452
