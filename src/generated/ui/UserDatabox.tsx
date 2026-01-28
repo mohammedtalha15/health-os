@@ -8,6 +8,7 @@ interface UserDataboxProps {
   prop_988?: string;
   prop_482?: string;
   prop_758?: string;
+  prop_837?: string;
   // PROPS_PLACEHOLDER
 }
 
