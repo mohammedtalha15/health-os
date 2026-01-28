@@ -13,6 +13,7 @@ interface UserCardGridProps {
   prop_821?: string;
   prop_179?: string;
   prop_361?: string;
+  prop_408?: string;
   // PROPS_PLACEHOLDER
 }
 
