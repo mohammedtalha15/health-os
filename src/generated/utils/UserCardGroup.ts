@@ -3,8 +3,6 @@
  * Utility function for UserCardGroup operations
  */
 export const UserCardGroup = (input: any): any => {
-  // Processed step 9
-  // Processed step 6
   // LOGIC_PLACEHOLDER
   try {
     const timestamp = Date.now();
