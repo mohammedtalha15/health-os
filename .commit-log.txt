@@ -2122,3 +2122,4 @@
 // (navigation): configure loading states - commit 158
 // (api): add animations - commit 159
 // test(): optimize data fetching - commit 160
+// style(inputs): optimize  - commit 161
