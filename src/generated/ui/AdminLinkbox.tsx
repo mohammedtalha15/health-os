@@ -5,6 +5,7 @@ interface AdminLinkboxProps {
   id?: string;
   className?: string;
   children?: React.ReactNode;
+  prop_946?: string;
   // PROPS_PLACEHOLDER
 }
 
