@@ -328,3 +328,4 @@
 - feat(cache): fix animations (Reference #328)
 - refactor(layouts): integrate data-fetching (Reference #329)
 - fix(forms): add documentation (Reference #330)
+- fix(layouts): optimize loading-states (Reference #331)
