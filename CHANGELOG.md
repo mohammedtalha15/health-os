@@ -1355,3 +1355,4 @@
 - refactor(ui): optimize performance (Reference #1355)
 - test(profile): fix error-handling (Reference #1356)
 - fix(auth): integrate error-handling (Reference #1357)
+- build(security): optimize event-handlers (Reference #1358)
