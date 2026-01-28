@@ -11,6 +11,7 @@ interface ChartContainerHeaderProps {
   prop_775?: string;
   prop_975?: string;
   prop_333?: string;
+  prop_495?: string;
   // PROPS_PLACEHOLDER
 }
 
