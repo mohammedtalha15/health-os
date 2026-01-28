@@ -10,6 +10,7 @@ interface AuthTogglePanelProps {
   prop_754?: string;
   prop_353?: string;
   prop_650?: string;
+  prop_886?: string;
   // PROPS_PLACEHOLDER
 }
 
