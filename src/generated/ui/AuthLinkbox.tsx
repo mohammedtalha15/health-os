@@ -8,6 +8,7 @@ interface AuthLinkboxProps {
   prop_641?: string;
   prop_786?: string;
   prop_315?: string;
+  prop_839?: string;
   // PROPS_PLACEHOLDER
 }
 
