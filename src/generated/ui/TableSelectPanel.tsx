@@ -8,6 +8,7 @@ interface TableSelectPanelProps {
   prop_576?: string;
   prop_963?: string;
   prop_500?: string;
+  prop_451?: string;
   // PROPS_PLACEHOLDER
 }
 
