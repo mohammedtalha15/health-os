@@ -7,6 +7,7 @@ interface AdminContainerPanelProps {
   children?: React.ReactNode;
   prop_627?: string;
   prop_760?: string;
+  prop_920?: string;
   // PROPS_PLACEHOLDER
 }
 
