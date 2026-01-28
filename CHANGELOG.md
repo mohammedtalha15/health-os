@@ -1108,3 +1108,4 @@
 - chore(dashboard): implement state-management (Reference #1108)
 - feat(ui): improve transitions (Reference #1109)
 - perf(forms): refactor error-handling (Reference #1110)
+- ci(analytics): configure unit-tests (Reference #1111)
