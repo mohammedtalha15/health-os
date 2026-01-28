@@ -12,6 +12,7 @@ interface ProfileInputItemProps {
   prop_353?: string;
   prop_209?: string;
   prop_580?: string;
+  prop_214?: string;
   // PROPS_PLACEHOLDER
 }
 
