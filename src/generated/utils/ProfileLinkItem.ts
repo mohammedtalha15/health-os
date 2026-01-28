@@ -3,7 +3,6 @@
  * Utility function for ProfileLinkItem operations
  */
 export const ProfileLinkItem = (input: any): any => {
-  // Processed step 99
   // LOGIC_PLACEHOLDER
   try {
     const timestamp = Date.now();
