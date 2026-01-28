@@ -1018,3 +1018,4 @@
 - fix(auth): improve user-experience (Reference #1018)
 - refactor(cache): enhance performance (Reference #1019)
 - fix(buttons): implement caching-logic (Reference #1020)
+- chore(buttons): optimize event-handlers (Reference #1021)
