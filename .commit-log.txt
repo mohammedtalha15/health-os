@@ -2353,3 +2353,4 @@
 // chore(settings): optimize dark-mode - commit 3528
 // perf(navigation): implement loading-states - commit 3529
 // perf(auth): enhance transitions - commit 3530
+// style(modals): fix responsiveness - commit 3531
