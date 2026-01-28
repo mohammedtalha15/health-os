@@ -2348,3 +2348,4 @@
 // chore(notifications): optimize type-definitions - commit 3523
 // chore(tables): configure code-quality - commit 3524
 // chore(inputs): optimize unit-tests - commit 3525
+// docs(database): integrate type-definitions - commit 3526
