@@ -14,6 +14,7 @@ interface SettingsTogglePanelProps {
   prop_204?: string;
   prop_751?: string;
   prop_303?: string;
+  prop_552?: string;
   // PROPS_PLACEHOLDER
 }
 
