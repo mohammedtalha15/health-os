@@ -3,12 +3,6 @@
  * Utility function for AdminCardItem operations
  */
 export const AdminCardItem = (input: any): any => {
-  // Processed step 79
-  // Processed step 31
-  // Processed step 48
-  // Processed step 19
-  // Processed step 5
-  // Processed step 43
   // LOGIC_PLACEHOLDER
   try {
     const timestamp = Date.now();
