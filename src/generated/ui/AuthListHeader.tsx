@@ -6,6 +6,7 @@ interface AuthListHeaderProps {
   className?: string;
   children?: React.ReactNode;
   prop_565?: string;
+  prop_100?: string;
   // PROPS_PLACEHOLDER
 }
 
