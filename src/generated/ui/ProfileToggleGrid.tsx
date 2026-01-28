@@ -6,6 +6,7 @@ interface ProfileToggleGridProps {
   className?: string;
   children?: React.ReactNode;
   prop_708?: string;
+  prop_525?: string;
   // PROPS_PLACEHOLDER
 }
 
