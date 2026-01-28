@@ -6,6 +6,7 @@ interface ProfileListGridProps {
   className?: string;
   children?: React.ReactNode;
   prop_562?: string;
+  prop_257?: string;
   // PROPS_PLACEHOLDER
 }
 
