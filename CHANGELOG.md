@@ -28,3 +28,4 @@
 - chore(auth): integrate validation (Reference #28)
 - build(cache): fix keyboard-nav (Reference #29)
 - docs(inputs): fix event-handlers (Reference #30)
+- chore(tables): optimize unit-tests (Reference #31)
