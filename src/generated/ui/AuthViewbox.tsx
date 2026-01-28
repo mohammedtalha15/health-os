@@ -7,6 +7,7 @@ interface AuthViewboxProps {
   children?: React.ReactNode;
   prop_395?: string;
   prop_638?: string;
+  prop_514?: string;
   // PROPS_PLACEHOLDER
 }
 
