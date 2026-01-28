@@ -3,8 +3,6 @@
  * Utility function for ModalLinkItem operations
  */
 export const ModalLinkItem = (input: any): any => {
-  // Processed step 60
-  // Processed step 90
   // LOGIC_PLACEHOLDER
   try {
     const timestamp = Date.now();
