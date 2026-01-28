@@ -7,6 +7,7 @@ interface TableWrapperFooterProps {
   children?: React.ReactNode;
   prop_945?: string;
   prop_453?: string;
+  prop_275?: string;
   // PROPS_PLACEHOLDER
 }
 
