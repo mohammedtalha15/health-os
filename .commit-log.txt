@@ -2071,3 +2071,4 @@
 // ci(settings): configure responsiveness - commit 3246
 // chore(database): fix data-fetching - commit 3247
 // chore(dashboard): refactor transitions - commit 3248
+// test(ui): configure event-handlers - commit 3249
