@@ -21,6 +21,7 @@ interface DashboardInputPanelProps {
   prop_108?: string;
   prop_948?: string;
   prop_454?: string;
+  prop_900?: string;
   // PROPS_PLACEHOLDER
 }
 
