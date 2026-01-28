@@ -3,8 +3,6 @@
  * Utility function for TableInputHeader operations
  */
 export const TableInputHeader = (input: any): any => {
-  // Processed step 27
-  // Processed step 68
   // LOGIC_PLACEHOLDER
   try {
     const timestamp = Date.now();
