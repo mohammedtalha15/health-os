@@ -887,3 +887,4 @@
 - feat(layouts): fix dark-mode (Reference #887)
 - feat(profile): update keyboard-nav (Reference #888)
 - perf(api): implement transitions (Reference #889)
+- docs(cache): optimize validation (Reference #890)
