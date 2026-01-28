@@ -11,6 +11,7 @@ interface AuthWrapperGroupProps {
   prop_350?: string;
   prop_410?: string;
   prop_802?: string;
+  prop_441?: string;
   // PROPS_PLACEHOLDER
 }
 
