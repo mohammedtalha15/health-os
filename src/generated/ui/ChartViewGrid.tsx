@@ -18,6 +18,7 @@ interface ChartViewGridProps {
   prop_420?: string;
   prop_228?: string;
   prop_911?: string;
+  prop_383?: string;
   // PROPS_PLACEHOLDER
 }
 
