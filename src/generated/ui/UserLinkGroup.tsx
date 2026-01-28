@@ -9,6 +9,7 @@ interface UserLinkGroupProps {
   prop_360?: string;
   prop_347?: string;
   prop_806?: string;
+  prop_555?: string;
   // PROPS_PLACEHOLDER
 }
 
