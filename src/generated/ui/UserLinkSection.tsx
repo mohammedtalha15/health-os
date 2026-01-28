@@ -6,6 +6,7 @@ interface UserLinkSectionProps {
   className?: string;
   children?: React.ReactNode;
   prop_506?: string;
+  prop_150?: string;
   // PROPS_PLACEHOLDER
 }
 
