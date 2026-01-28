@@ -5,17 +5,6 @@ interface ProfileDataSectionProps {
   id?: string;
   className?: string;
   children?: React.ReactNode;
-  prop_891?: string;
-  prop_854?: string;
-  prop_181?: string;
-  prop_766?: string;
-  prop_788?: string;
-  prop_921?: string;
-  prop_596?: string;
-  prop_432?: string;
-  prop_383?: string;
-  prop_643?: string;
-  prop_389?: string;
   // PROPS_PLACEHOLDER
 }
 
