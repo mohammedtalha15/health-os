@@ -5,12 +5,6 @@ interface SettingsViewPanelProps {
   id?: string;
   className?: string;
   children?: React.ReactNode;
-  prop_214?: string;
-  prop_449?: string;
-  prop_242?: string;
-  prop_616?: string;
-  prop_326?: string;
-  prop_894?: string;
   // PROPS_PLACEHOLDER
 }
 
