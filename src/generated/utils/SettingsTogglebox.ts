@@ -3,7 +3,6 @@
  * Utility function for SettingsTogglebox operations
  */
 export const SettingsTogglebox = (input: any): any => {
-  // Processed step 7
   // LOGIC_PLACEHOLDER
   try {
     const timestamp = Date.now();
