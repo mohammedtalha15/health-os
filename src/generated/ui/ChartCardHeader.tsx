@@ -13,6 +13,7 @@ interface ChartCardHeaderProps {
   prop_391?: string;
   prop_177?: string;
   prop_552?: string;
+  prop_980?: string;
   // PROPS_PLACEHOLDER
 }
 
