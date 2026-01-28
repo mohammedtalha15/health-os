@@ -7,6 +7,7 @@ interface UserListboxProps {
   children?: React.ReactNode;
   prop_748?: string;
   prop_417?: string;
+  prop_572?: string;
   // PROPS_PLACEHOLDER
 }
 
