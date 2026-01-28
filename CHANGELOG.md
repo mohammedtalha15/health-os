@@ -1109,3 +1109,4 @@
 - feat(ui): improve transitions (Reference #1109)
 - perf(forms): refactor error-handling (Reference #1110)
 - ci(analytics): configure unit-tests (Reference #1111)
+- perf(charts): improve user-experience (Reference #1112)
