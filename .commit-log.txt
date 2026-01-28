@@ -2614,3 +2614,4 @@
 // refactor(analytics): implement error-handling - commit 142
 // perf(buttons): implement accessibility - commit 143
 // chore(settings): add user-experience - commit 144
+// refactor(notifications): fix event-handlers - commit 145
