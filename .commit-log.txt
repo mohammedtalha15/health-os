@@ -2667,3 +2667,4 @@
 // ci(api): add error-handling - commit 195
 // feat(api): implement loading-states - commit 196
 // test(settings): implement keyboard-nav - commit 197
+// refactor(security): improve animations - commit 198
