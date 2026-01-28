@@ -61,3 +61,4 @@
 - ci(profile): integrate animations (Reference #61)
 - refactor(forms): refactor accessibility (Reference #62)
 - ci(forms): fix accessibility (Reference #63)
+- perf(modals): refactor loading-states (Reference #64)
