@@ -6,6 +6,7 @@ interface TableSelectGridProps {
   className?: string;
   children?: React.ReactNode;
   prop_501?: string;
+  prop_321?: string;
   // PROPS_PLACEHOLDER
 }
 
