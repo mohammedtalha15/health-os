@@ -6,6 +6,7 @@ interface AuthViewHeaderProps {
   className?: string;
   children?: React.ReactNode;
   prop_163?: string;
+  prop_777?: string;
   // PROPS_PLACEHOLDER
 }
 
