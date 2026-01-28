@@ -392,3 +392,4 @@
 - fix(buttons): improve responsiveness (Reference #392)
 - feat(search): configure accessibility (Reference #393)
 - build(notifications): improve caching-logic (Reference #394)
+- feat(navigation): optimize data-fetching (Reference #395)
