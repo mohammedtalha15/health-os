@@ -3,9 +3,6 @@
  * Utility function for ButtonDataPanel operations
  */
 export const ButtonDataPanel = (input: any): any => {
-  // Processed step 42
-  // Processed step 8
-  // Processed step 25
   // LOGIC_PLACEHOLDER
   try {
     const timestamp = Date.now();
