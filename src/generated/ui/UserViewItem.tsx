@@ -6,6 +6,7 @@ interface UserViewItemProps {
   className?: string;
   children?: React.ReactNode;
   prop_165?: string;
+  prop_589?: string;
   // PROPS_PLACEHOLDER
 }
 
