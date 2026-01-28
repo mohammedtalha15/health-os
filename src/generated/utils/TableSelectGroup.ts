@@ -3,21 +3,6 @@
  * Utility function for TableSelectGroup operations
  */
 export const TableSelectGroup = (input: any): any => {
-  // Processed step 14
-  // Processed step 50
-  // Processed step 6
-  // Processed step 38
-  // Processed step 30
-  // Processed step 79
-  // Processed step 14
-  // Processed step 37
-  // Processed step 9
-  // Processed step 18
-  // Processed step 42
-  // Processed step 80
-  // Processed step 97
-  // Processed step 72
-  // Processed step 40
   // LOGIC_PLACEHOLDER
   try {
     const timestamp = Date.now();
