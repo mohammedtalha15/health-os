@@ -5,6 +5,7 @@ interface ModalContainerboxProps {
   id?: string;
   className?: string;
   children?: React.ReactNode;
+  prop_766?: string;
   // PROPS_PLACEHOLDER
 }
 
