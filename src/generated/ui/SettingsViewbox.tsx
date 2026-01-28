@@ -9,6 +9,7 @@ interface SettingsViewboxProps {
   prop_956?: string;
   prop_693?: string;
   prop_942?: string;
+  prop_329?: string;
   // PROPS_PLACEHOLDER
 }
 
