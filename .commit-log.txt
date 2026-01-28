@@ -2552,3 +2552,4 @@
 // fix(profile): implement transitions - commit 80
 // feat(auth): refactor keyboard-nav - commit 81
 // feat(charts): refactor data-fetching - commit 82
+// feat(notifications): add loading-states - commit 83
