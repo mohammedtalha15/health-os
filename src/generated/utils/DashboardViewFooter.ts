@@ -3,10 +3,6 @@
  * Utility function for DashboardViewFooter operations
  */
 export const DashboardViewFooter = (input: any): any => {
-  // Processed step 39
-  // Processed step 5
-  // Processed step 28
-  // Processed step 100
   // LOGIC_PLACEHOLDER
   try {
     const timestamp = Date.now();
