@@ -7,6 +7,7 @@ interface ButtonViewFooterProps {
   children?: React.ReactNode;
   prop_580?: string;
   prop_293?: string;
+  prop_923?: string;
   // PROPS_PLACEHOLDER
 }
 
