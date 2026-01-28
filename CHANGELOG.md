@@ -1317,3 +1317,4 @@
 - perf(modals): update type-definitions (Reference #1317)
 - docs(settings): fix event-handlers (Reference #1318)
 - ci(tables): integrate transitions (Reference #1319)
+- refactor(tables): enhance loading-states (Reference #1320)
