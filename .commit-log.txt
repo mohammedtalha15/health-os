@@ -754,3 +754,4 @@
 // feat(tables): improve user-experience - commit 1929
 // fix(settings): configure transitions - commit 1930
 // ci(analytics): refactor user-experience - commit 1931
+// feat(modals): integrate type-definitions - commit 1932
