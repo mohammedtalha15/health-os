@@ -1217,3 +1217,4 @@
 - style(settings): implement error-handling (Reference #1217)
 - feat(profile): optimize loading-states (Reference #1218)
 - build(modals): add responsiveness (Reference #1219)
+- chore(buttons): update state-management (Reference #1220)
