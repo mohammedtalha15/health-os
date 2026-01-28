@@ -313,3 +313,4 @@
 // perf(dashboard): update state-management - commit 1488
 // fix(search): implement performance - commit 1489
 // ci(forms): optimize validation - commit 1490
+// perf(notifications): improve user-experience - commit 1491
