@@ -13,6 +13,7 @@ interface ButtonContainerSidebarProps {
   prop_123?: string;
   prop_322?: string;
   prop_663?: string;
+  prop_677?: string;
   // PROPS_PLACEHOLDER
 }
 
