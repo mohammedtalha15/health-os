@@ -13,6 +13,7 @@ interface ButtonSelectSidebarProps {
   prop_483?: string;
   prop_119?: string;
   prop_448?: string;
+  prop_863?: string;
   // PROPS_PLACEHOLDER
 }
 
