@@ -2778,3 +2778,4 @@
 // feat(search): update documentation - commit 306
 // perf(api): add responsiveness - commit 307
 // ci(navigation): improve performance - commit 308
+// test(charts): improve dark-mode - commit 309
