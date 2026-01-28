@@ -5,8 +5,6 @@ interface ProfileViewboxProps {
   id?: string;
   className?: string;
   children?: React.ReactNode;
-  prop_371?: string;
-  prop_296?: string;
   // PROPS_PLACEHOLDER
 }
 
