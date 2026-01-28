@@ -994,3 +994,4 @@
 - ci(database): optimize unit-tests (Reference #994)
 - ci(tables): configure loading-states (Reference #995)
 - chore(forms): configure unit-tests (Reference #996)
+- fix(profile): implement event-handlers (Reference #997)
