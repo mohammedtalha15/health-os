@@ -14,6 +14,7 @@ interface ProfileToggleHeaderProps {
   prop_284?: string;
   prop_211?: string;
   prop_953?: string;
+  prop_676?: string;
   // PROPS_PLACEHOLDER
 }
 
