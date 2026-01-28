@@ -5,19 +5,6 @@ interface ProfileSelectPanelProps {
   id?: string;
   className?: string;
   children?: React.ReactNode;
-  prop_567?: string;
-  prop_160?: string;
-  prop_837?: string;
-  prop_563?: string;
-  prop_970?: string;
-  prop_242?: string;
-  prop_209?: string;
-  prop_985?: string;
-  prop_354?: string;
-  prop_573?: string;
-  prop_846?: string;
-  prop_761?: string;
-  prop_208?: string;
   // PROPS_PLACEHOLDER
 }
 
