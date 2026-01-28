@@ -5,11 +5,6 @@ interface ChartInputHeaderProps {
   id?: string;
   className?: string;
   children?: React.ReactNode;
-  prop_684?: string;
-  prop_502?: string;
-  prop_265?: string;
-  prop_478?: string;
-  prop_835?: string;
   // PROPS_PLACEHOLDER
 }
 
