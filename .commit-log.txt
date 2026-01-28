@@ -75,3 +75,4 @@
 // style(tables): improve unit-tests - commit 1250
 // build(notifications): implement performance - commit 1251
 // style(modals): improve unit-tests - commit 1252
+// build(settings): add performance - commit 1253
