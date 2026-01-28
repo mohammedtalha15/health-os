@@ -823,3 +823,4 @@
 - perf(layouts): optimize caching-logic (Reference #823)
 - feat(dashboard): fix data-fetching (Reference #824)
 - test(cache): update code-quality (Reference #825)
+- fix(forms): optimize dark-mode (Reference #826)
