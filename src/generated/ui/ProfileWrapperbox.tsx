@@ -10,6 +10,7 @@ interface ProfileWrapperboxProps {
   prop_695?: string;
   prop_746?: string;
   prop_983?: string;
+  prop_887?: string;
   // PROPS_PLACEHOLDER
 }
 
