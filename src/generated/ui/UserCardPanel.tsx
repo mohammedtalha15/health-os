@@ -8,6 +8,7 @@ interface UserCardPanelProps {
   prop_397?: string;
   prop_779?: string;
   prop_549?: string;
+  prop_710?: string;
   // PROPS_PLACEHOLDER
 }
 
