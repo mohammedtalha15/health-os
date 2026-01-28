@@ -3195,3 +3195,4 @@
 // refactor(settings): improve caching-logic - commit 723
 // build(api): update keyboard-nav - commit 724
 // refactor(settings): refactor error-handling - commit 725
+// build(navigation): add data-fetching - commit 726
