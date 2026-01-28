@@ -10,6 +10,7 @@ interface UserSelectHeaderProps {
   prop_363?: string;
   prop_293?: string;
   prop_646?: string;
+  prop_740?: string;
   // PROPS_PLACEHOLDER
 }
 
