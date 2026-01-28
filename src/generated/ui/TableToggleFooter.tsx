@@ -6,6 +6,7 @@ interface TableToggleFooterProps {
   className?: string;
   children?: React.ReactNode;
   prop_154?: string;
+  prop_311?: string;
   // PROPS_PLACEHOLDER
 }
 
