@@ -7,6 +7,7 @@ interface ModalLinkItemProps {
   children?: React.ReactNode;
   prop_245?: string;
   prop_617?: string;
+  prop_384?: string;
   // PROPS_PLACEHOLDER
 }
 
