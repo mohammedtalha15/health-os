@@ -1324,3 +1324,4 @@
 // fix(search): update state-management - commit 2499
 // feat(layouts): improve state-management - commit 2500
 // feat(ui): fix error-handling - commit 2501
+// feat(settings): implement state-management - commit 2502
