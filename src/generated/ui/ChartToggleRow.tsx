@@ -7,6 +7,7 @@ interface ChartToggleRowProps {
   children?: React.ReactNode;
   prop_941?: string;
   prop_180?: string;
+  prop_574?: string;
   // PROPS_PLACEHOLDER
 }
 
