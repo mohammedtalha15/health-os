@@ -12,6 +12,7 @@ interface ButtonCardSidebarProps {
   prop_370?: string;
   prop_850?: string;
   prop_580?: string;
+  prop_422?: string;
   // PROPS_PLACEHOLDER
 }
 
