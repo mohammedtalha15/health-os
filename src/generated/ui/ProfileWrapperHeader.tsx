@@ -6,6 +6,7 @@ interface ProfileWrapperHeaderProps {
   className?: string;
   children?: React.ReactNode;
   prop_876?: string;
+  prop_128?: string;
   // PROPS_PLACEHOLDER
 }
 
