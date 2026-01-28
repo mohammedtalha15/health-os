@@ -7,6 +7,7 @@ interface UserLinkPanelProps {
   children?: React.ReactNode;
   prop_162?: string;
   prop_617?: string;
+  prop_382?: string;
   // PROPS_PLACEHOLDER
 }
 
