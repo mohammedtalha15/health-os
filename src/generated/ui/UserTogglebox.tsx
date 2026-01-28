@@ -22,6 +22,7 @@ interface UserToggleboxProps {
   prop_195?: string;
   prop_998?: string;
   prop_795?: string;
+  prop_437?: string;
   // PROPS_PLACEHOLDER
 }
 
