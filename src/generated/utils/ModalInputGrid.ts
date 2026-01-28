@@ -3,7 +3,6 @@
  * Utility function for ModalInputGrid operations
  */
 export const ModalInputGrid = (input: any): any => {
-  // Processed step 86
   // LOGIC_PLACEHOLDER
   try {
     const timestamp = Date.now();
