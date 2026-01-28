@@ -3,8 +3,6 @@
  * Utility function for UserViewFooter operations
  */
 export const UserViewFooter = (input: any): any => {
-  // Processed step 80
-  // Processed step 44
   // LOGIC_PLACEHOLDER
   try {
     const timestamp = Date.now();
