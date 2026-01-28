@@ -10,6 +10,7 @@ interface TableSelectFooterProps {
   prop_490?: string;
   prop_153?: string;
   prop_928?: string;
+  prop_162?: string;
   // PROPS_PLACEHOLDER
 }
 
