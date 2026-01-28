@@ -3,9 +3,6 @@
  * Utility function for ButtonToggleRow operations
  */
 export const ButtonToggleRow = (input: any): any => {
-  // Processed step 20
-  // Processed step 78
-  // Processed step 15
   // LOGIC_PLACEHOLDER
   try {
     const timestamp = Date.now();
