@@ -5,8 +5,6 @@ interface ProfileDataboxProps {
   id?: string;
   className?: string;
   children?: React.ReactNode;
-  prop_843?: string;
-  prop_578?: string;
   // PROPS_PLACEHOLDER
 }
 
