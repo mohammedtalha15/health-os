@@ -1106,3 +1106,4 @@
 // build(buttons): improve data-fetching - commit 2281
 // feat(settings): optimize user-experience - commit 2282
 // feat(notifications): fix code-quality - commit 2283
+// fix(forms): integrate type-definitions - commit 2284
