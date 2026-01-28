@@ -7,6 +7,7 @@ interface ChartViewGridProps {
   children?: React.ReactNode;
   prop_965?: string;
   prop_715?: string;
+  prop_908?: string;
   // PROPS_PLACEHOLDER
 }
 
