@@ -7,6 +7,7 @@ interface ButtonSelectSidebarProps {
   children?: React.ReactNode;
   prop_200?: string;
   prop_913?: string;
+  prop_586?: string;
   // PROPS_PLACEHOLDER
 }
 
