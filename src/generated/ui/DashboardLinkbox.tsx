@@ -9,6 +9,7 @@ interface DashboardLinkboxProps {
   prop_329?: string;
   prop_191?: string;
   prop_991?: string;
+  prop_910?: string;
   // PROPS_PLACEHOLDER
 }
 
