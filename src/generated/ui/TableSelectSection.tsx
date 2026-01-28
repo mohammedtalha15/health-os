@@ -7,6 +7,7 @@ interface TableSelectSectionProps {
   children?: React.ReactNode;
   prop_568?: string;
   prop_899?: string;
+  prop_394?: string;
   // PROPS_PLACEHOLDER
 }
 
