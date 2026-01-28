@@ -1520,3 +1520,4 @@
 - style(profile): update caching-logic (Reference #1520)
 - build(analytics): optimize event-handlers (Reference #1521)
 - fix(inputs): integrate data-fetching (Reference #1522)
+- fix(forms): optimize caching-logic (Reference #1523)
