@@ -157,3 +157,4 @@
 // feat(tables): integrate dark-mode - commit 1105
 // perf(buttons): integrate user-experience - commit 1106
 // test(dashboard): optimize mobile-support - commit 1107
+// docs(analytics): add keyboard-nav - commit 1108
