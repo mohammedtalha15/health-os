@@ -748,3 +748,4 @@
 // docs(charts): refactor unit-tests - commit 1923
 // refactor(dashboard): enhance validation - commit 1924
 // style(modals): configure data-fetching - commit 1925
+// fix(api): add dark-mode - commit 1926
