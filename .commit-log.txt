@@ -191,3 +191,4 @@
 // perf(ui): fix transitions - commit 1139
 // ci(api): optimize error-handling - commit 1140
 // feat(layouts): update validation - commit 1141
+// build(search): fix caching-logic - commit 1142
