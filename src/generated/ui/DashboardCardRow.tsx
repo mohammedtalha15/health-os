@@ -6,6 +6,7 @@ interface DashboardCardRowProps {
   className?: string;
   children?: React.ReactNode;
   prop_749?: string;
+  prop_993?: string;
   // PROPS_PLACEHOLDER
 }
 
