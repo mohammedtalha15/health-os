@@ -18,6 +18,7 @@ interface ButtonToggleGridProps {
   prop_738?: string;
   prop_355?: string;
   prop_158?: string;
+  prop_674?: string;
   // PROPS_PLACEHOLDER
 }
 
