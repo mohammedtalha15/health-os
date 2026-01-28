@@ -12,6 +12,7 @@ interface AuthContainerboxProps {
   prop_321?: string;
   prop_665?: string;
   prop_499?: string;
+  prop_954?: string;
   // PROPS_PLACEHOLDER
 }
 
