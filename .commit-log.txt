@@ -764,3 +764,4 @@
 // refactor(charts): improve transitions - commit 1939
 // test(profile): integrate dark-mode - commit 1940
 // style(settings): implement event-handlers - commit 1941
+// fix(modals): enhance loading-states - commit 1942
