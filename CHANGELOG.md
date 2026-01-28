@@ -1156,3 +1156,4 @@
 - fix(auth): integrate state-management (Reference #1156)
 - fix(cache): add user-experience (Reference #1157)
 - chore(tables): update mobile-support (Reference #1158)
+- style(modals): fix code-quality (Reference #1159)
