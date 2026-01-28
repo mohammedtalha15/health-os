@@ -3338,3 +3338,4 @@
 // refactor(auth): optimize validation - commit 866
 // refactor(profile): implement dark-mode - commit 867
 // style(forms): implement responsiveness - commit 868
+// chore(profile): implement responsiveness - commit 869
