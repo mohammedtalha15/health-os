@@ -3,11 +3,6 @@
  * Utility function for ButtonSelectSidebar operations
  */
 export const ButtonSelectSidebar = (input: any): any => {
-  // Processed step 81
-  // Processed step 76
-  // Processed step 49
-  // Processed step 99
-  // Processed step 19
   // LOGIC_PLACEHOLDER
   try {
     const timestamp = Date.now();
