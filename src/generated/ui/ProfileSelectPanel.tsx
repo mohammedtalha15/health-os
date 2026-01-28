@@ -9,6 +9,7 @@ interface ProfileSelectPanelProps {
   prop_160?: string;
   prop_837?: string;
   prop_563?: string;
+  prop_970?: string;
   // PROPS_PLACEHOLDER
 }
 
