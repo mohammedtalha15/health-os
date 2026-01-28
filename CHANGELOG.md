@@ -137,3 +137,4 @@
 - chore(modals): improve responsiveness (Reference #137)
 - style(cache): optimize data-fetching (Reference #138)
 - feat(database): implement dark-mode (Reference #139)
+- perf(navigation): fix accessibility (Reference #140)
