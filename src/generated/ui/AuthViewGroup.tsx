@@ -5,22 +5,6 @@ interface AuthViewGroupProps {
   id?: string;
   className?: string;
   children?: React.ReactNode;
-  prop_104?: string;
-  prop_972?: string;
-  prop_961?: string;
-  prop_722?: string;
-  prop_672?: string;
-  prop_717?: string;
-  prop_511?: string;
-  prop_262?: string;
-  prop_111?: string;
-  prop_923?: string;
-  prop_725?: string;
-  prop_669?: string;
-  prop_401?: string;
-  prop_214?: string;
-  prop_176?: string;
-  prop_442?: string;
   // PROPS_PLACEHOLDER
 }
 
