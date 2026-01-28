@@ -1270,3 +1270,4 @@
 // perf(navigation): add loading-states - commit 2445
 // chore(modals): configure performance - commit 2446
 // build(notifications): add caching-logic - commit 2447
+// build(analytics): update event-handlers - commit 2448
