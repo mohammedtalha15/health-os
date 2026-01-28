@@ -203,3 +203,4 @@
 // fix(database): integrate transitions - commit 1378
 // refactor(notifications): integrate mobile-support - commit 1379
 // fix(ui): optimize performance - commit 1380
+// build(notifications): fix unit-tests - commit 1381
