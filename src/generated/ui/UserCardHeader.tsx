@@ -9,6 +9,7 @@ interface UserCardHeaderProps {
   prop_282?: string;
   prop_182?: string;
   prop_202?: string;
+  prop_790?: string;
   // PROPS_PLACEHOLDER
 }
 
