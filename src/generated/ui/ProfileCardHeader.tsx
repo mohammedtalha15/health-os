@@ -5,14 +5,6 @@ interface ProfileCardHeaderProps {
   id?: string;
   className?: string;
   children?: React.ReactNode;
-  prop_831?: string;
-  prop_317?: string;
-  prop_364?: string;
-  prop_232?: string;
-  prop_570?: string;
-  prop_476?: string;
-  prop_115?: string;
-  prop_274?: string;
   // PROPS_PLACEHOLDER
 }
 
