@@ -5,15 +5,6 @@ interface UserCardSectionProps {
   id?: string;
   className?: string;
   children?: React.ReactNode;
-  prop_283?: string;
-  prop_421?: string;
-  prop_773?: string;
-  prop_685?: string;
-  prop_510?: string;
-  prop_367?: string;
-  prop_499?: string;
-  prop_587?: string;
-  prop_685?: string;
   // PROPS_PLACEHOLDER
 }
 
