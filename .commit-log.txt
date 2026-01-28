@@ -2014,3 +2014,4 @@
 // test(layouts): update data-fetching - commit 3189
 // ci(forms): improve user-experience - commit 3190
 // fix(api): fix keyboard-nav - commit 3191
+// chore(api): integrate event-handlers - commit 3192
