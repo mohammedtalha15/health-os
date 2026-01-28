@@ -1387,3 +1387,4 @@
 // docs(profile): improve loading-states - commit 2562
 // build(navigation): enhance type-definitions - commit 2563
 // chore(profile): improve keyboard-nav - commit 2564
+// docs(auth): fix documentation - commit 2565
