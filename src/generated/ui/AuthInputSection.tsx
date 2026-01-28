@@ -8,6 +8,7 @@ interface AuthInputSectionProps {
   prop_924?: string;
   prop_412?: string;
   prop_368?: string;
+  prop_829?: string;
   // PROPS_PLACEHOLDER
 }
 
