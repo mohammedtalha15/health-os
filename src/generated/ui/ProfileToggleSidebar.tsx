@@ -14,6 +14,7 @@ interface ProfileToggleSidebarProps {
   prop_424?: string;
   prop_728?: string;
   prop_704?: string;
+  prop_862?: string;
   // PROPS_PLACEHOLDER
 }
 
