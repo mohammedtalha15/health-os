@@ -11,6 +11,7 @@ interface ModalDataHeaderProps {
   prop_515?: string;
   prop_785?: string;
   prop_659?: string;
+  prop_738?: string;
   // PROPS_PLACEHOLDER
 }
 
