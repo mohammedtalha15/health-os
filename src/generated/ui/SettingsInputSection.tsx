@@ -14,6 +14,7 @@ interface SettingsInputSectionProps {
   prop_870?: string;
   prop_455?: string;
   prop_884?: string;
+  prop_411?: string;
   // PROPS_PLACEHOLDER
 }
 
