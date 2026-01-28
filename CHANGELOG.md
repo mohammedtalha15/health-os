@@ -665,3 +665,4 @@
 - perf(inputs): update transitions (Reference #665)
 - style(notifications): implement code-quality (Reference #666)
 - style(dashboard): enhance performance (Reference #667)
+- fix(modals): improve type-definitions (Reference #668)
