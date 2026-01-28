@@ -8,6 +8,7 @@ interface UserSelectGridProps {
   prop_427?: string;
   prop_861?: string;
   prop_809?: string;
+  prop_728?: string;
   // PROPS_PLACEHOLDER
 }
 
