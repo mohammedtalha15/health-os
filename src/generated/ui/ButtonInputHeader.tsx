@@ -13,6 +13,7 @@ interface ButtonInputHeaderProps {
   prop_370?: string;
   prop_983?: string;
   prop_167?: string;
+  prop_826?: string;
   // PROPS_PLACEHOLDER
 }
 
