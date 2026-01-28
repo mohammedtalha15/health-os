@@ -8,6 +8,7 @@ interface AuthViewItemProps {
   prop_557?: string;
   prop_447?: string;
   prop_601?: string;
+  prop_624?: string;
   // PROPS_PLACEHOLDER
 }
 
