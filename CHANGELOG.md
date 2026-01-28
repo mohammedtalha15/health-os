@@ -715,3 +715,4 @@
 - docs(settings): integrate event-handlers (Reference #715)
 - chore(database): update animations (Reference #716)
 - docs(auth): add documentation (Reference #717)
+- test(security): enhance accessibility (Reference #718)
