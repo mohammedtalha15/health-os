@@ -8,6 +8,7 @@ interface TableToggleGridProps {
   prop_477?: string;
   prop_210?: string;
   prop_355?: string;
+  prop_945?: string;
   // PROPS_PLACEHOLDER
 }
 
