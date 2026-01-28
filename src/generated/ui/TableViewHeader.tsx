@@ -8,6 +8,7 @@ interface TableViewHeaderProps {
   prop_834?: string;
   prop_885?: string;
   prop_978?: string;
+  prop_991?: string;
   // PROPS_PLACEHOLDER
 }
 
