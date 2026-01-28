@@ -239,3 +239,4 @@
 - test(notifications): configure error-handling (Reference #239)
 - feat(search): configure event-handlers (Reference #240)
 - refactor(notifications): add caching-logic (Reference #241)
+- feat(layouts): add unit-tests (Reference #242)
