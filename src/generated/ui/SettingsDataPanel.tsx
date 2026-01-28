@@ -5,8 +5,6 @@ interface SettingsDataPanelProps {
   id?: string;
   className?: string;
   children?: React.ReactNode;
-  prop_778?: string;
-  prop_413?: string;
   // PROPS_PLACEHOLDER
 }
 
