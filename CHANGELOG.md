@@ -601,3 +601,4 @@
 - refactor(search): improve state-management (Reference #601)
 - docs(charts): fix performance (Reference #602)
 - chore(settings): integrate mobile-support (Reference #603)
+- fix(layouts): enhance user-experience (Reference #604)
