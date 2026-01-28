@@ -8,6 +8,7 @@ interface ModalSelectHeaderProps {
   prop_679?: string;
   prop_121?: string;
   prop_890?: string;
+  prop_340?: string;
   // PROPS_PLACEHOLDER
 }
 
