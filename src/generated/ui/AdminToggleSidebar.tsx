@@ -7,6 +7,7 @@ interface AdminToggleSidebarProps {
   children?: React.ReactNode;
   prop_972?: string;
   prop_951?: string;
+  prop_993?: string;
   // PROPS_PLACEHOLDER
 }
 
