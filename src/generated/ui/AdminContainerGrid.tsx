@@ -5,13 +5,6 @@ interface AdminContainerGridProps {
   id?: string;
   className?: string;
   children?: React.ReactNode;
-  prop_954?: string;
-  prop_572?: string;
-  prop_412?: string;
-  prop_810?: string;
-  prop_227?: string;
-  prop_155?: string;
-  prop_836?: string;
   // PROPS_PLACEHOLDER
 }
 
