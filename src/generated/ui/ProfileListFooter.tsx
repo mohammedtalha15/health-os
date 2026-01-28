@@ -8,6 +8,7 @@ interface ProfileListFooterProps {
   prop_842?: string;
   prop_300?: string;
   prop_157?: string;
+  prop_655?: string;
   // PROPS_PLACEHOLDER
 }
 
