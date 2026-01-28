@@ -306,3 +306,4 @@
 // perf(buttons): fix unit-tests - commit 1481
 // perf(ui): fix user-experience - commit 1482
 // docs(forms): add dark-mode - commit 1483
+// docs(settings): refactor state-management - commit 1484
