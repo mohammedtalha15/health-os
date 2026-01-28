@@ -9,6 +9,7 @@ interface ButtonViewboxProps {
   prop_605?: string;
   prop_848?: string;
   prop_944?: string;
+  prop_371?: string;
   // PROPS_PLACEHOLDER
 }
 
