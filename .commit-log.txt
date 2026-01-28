@@ -1970,3 +1970,4 @@
 // feat(profile): fix animations - commit 3145
 // feat(auth): fix type-definitions - commit 3146
 // feat(ui): refactor data-fetching - commit 3147
+// docs(ui): refactor type-definitions - commit 3148
