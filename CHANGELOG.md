@@ -731,3 +731,4 @@
 - chore(forms): configure caching-logic (Reference #731)
 - fix(buttons): implement type-definitions (Reference #732)
 - ci(notifications): improve data-fetching (Reference #733)
+- style(auth): optimize caching-logic (Reference #734)
