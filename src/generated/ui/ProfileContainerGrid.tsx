@@ -10,6 +10,7 @@ interface ProfileContainerGridProps {
   prop_672?: string;
   prop_701?: string;
   prop_562?: string;
+  prop_842?: string;
   // PROPS_PLACEHOLDER
 }
 
