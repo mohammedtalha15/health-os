@@ -1336,3 +1336,4 @@
 - style(dashboard): configure code-quality (Reference #1336)
 - feat(profile): enhance mobile-support (Reference #1337)
 - ci(tables): add loading-states (Reference #1338)
+- perf(notifications): update event-handlers (Reference #1339)
