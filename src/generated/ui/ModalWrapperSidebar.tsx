@@ -9,6 +9,7 @@ interface ModalWrapperSidebarProps {
   prop_544?: string;
   prop_632?: string;
   prop_541?: string;
+  prop_502?: string;
   // PROPS_PLACEHOLDER
 }
 
