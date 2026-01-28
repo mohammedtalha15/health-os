@@ -1981,3 +1981,4 @@
 // fix(charts): add  - commit 17
 // feat(settings): improve unit tests - commit 18
 // chore(modals): implement mobile support - commit 19
+// (analytics): implement  - commit 20
