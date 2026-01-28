@@ -8,6 +8,7 @@ interface DashboardCardFooterProps {
   prop_969?: string;
   prop_394?: string;
   prop_507?: string;
+  prop_548?: string;
   // PROPS_PLACEHOLDER
 }
 
