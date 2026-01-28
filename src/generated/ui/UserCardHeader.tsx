@@ -7,6 +7,7 @@ interface UserCardHeaderProps {
   children?: React.ReactNode;
   prop_387?: string;
   prop_221?: string;
+  prop_453?: string;
   // PROPS_PLACEHOLDER
 }
 
