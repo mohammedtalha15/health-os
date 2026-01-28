@@ -2940,3 +2940,4 @@
 // fix(auth): fix type-definitions - commit 468
 // feat(ui): improve mobile-support - commit 469
 // build(auth): update documentation - commit 470
+// style(security): update documentation - commit 471
