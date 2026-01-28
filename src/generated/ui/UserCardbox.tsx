@@ -5,24 +5,6 @@ interface UserCardboxProps {
   id?: string;
   className?: string;
   children?: React.ReactNode;
-  prop_134?: string;
-  prop_666?: string;
-  prop_936?: string;
-  prop_700?: string;
-  prop_107?: string;
-  prop_951?: string;
-  prop_184?: string;
-  prop_447?: string;
-  prop_367?: string;
-  prop_166?: string;
-  prop_923?: string;
-  prop_474?: string;
-  prop_335?: string;
-  prop_120?: string;
-  prop_827?: string;
-  prop_751?: string;
-  prop_951?: string;
-  prop_740?: string;
   // PROPS_PLACEHOLDER
 }
 
