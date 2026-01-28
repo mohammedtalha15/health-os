@@ -28,6 +28,7 @@ interface UserSelectFooterProps {
   prop_766?: string;
   prop_627?: string;
   prop_531?: string;
+  prop_216?: string;
   // PROPS_PLACEHOLDER
 }
 
