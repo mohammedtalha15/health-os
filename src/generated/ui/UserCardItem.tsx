@@ -8,6 +8,7 @@ interface UserCardItemProps {
   prop_638?: string;
   prop_993?: string;
   prop_845?: string;
+  prop_986?: string;
   // PROPS_PLACEHOLDER
 }
 
