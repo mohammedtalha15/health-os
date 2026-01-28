@@ -14,6 +14,7 @@ interface AuthToggleGroupProps {
   prop_911?: string;
   prop_361?: string;
   prop_137?: string;
+  prop_460?: string;
   // PROPS_PLACEHOLDER
 }
 
