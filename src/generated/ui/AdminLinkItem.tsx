@@ -13,6 +13,7 @@ interface AdminLinkItemProps {
   prop_448?: string;
   prop_515?: string;
   prop_536?: string;
+  prop_457?: string;
   // PROPS_PLACEHOLDER
 }
 
