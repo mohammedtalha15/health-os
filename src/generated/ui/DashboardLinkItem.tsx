@@ -16,6 +16,7 @@ interface DashboardLinkItemProps {
   prop_683?: string;
   prop_630?: string;
   prop_174?: string;
+  prop_866?: string;
   // PROPS_PLACEHOLDER
 }
 
