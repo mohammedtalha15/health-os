@@ -9,6 +9,7 @@ interface ModalContainerGroupProps {
   prop_502?: string;
   prop_971?: string;
   prop_242?: string;
+  prop_780?: string;
   // PROPS_PLACEHOLDER
 }
 
