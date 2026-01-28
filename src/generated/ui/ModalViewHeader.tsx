@@ -5,10 +5,6 @@ interface ModalViewHeaderProps {
   id?: string;
   className?: string;
   children?: React.ReactNode;
-  prop_472?: string;
-  prop_887?: string;
-  prop_190?: string;
-  prop_504?: string;
   // PROPS_PLACEHOLDER
 }
 
