@@ -5,10 +5,6 @@ interface UserLinkGridProps {
   id?: string;
   className?: string;
   children?: React.ReactNode;
-  prop_346?: string;
-  prop_639?: string;
-  prop_151?: string;
-  prop_517?: string;
   // PROPS_PLACEHOLDER
 }
 
