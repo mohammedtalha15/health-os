@@ -700,3 +700,4 @@
 - refactor(dashboard): update accessibility (Reference #700)
 - chore(notifications): configure code-quality (Reference #701)
 - docs(search): integrate performance (Reference #702)
+- test(settings): enhance unit-tests (Reference #703)
