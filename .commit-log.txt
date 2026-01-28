@@ -470,3 +470,4 @@
 // chore(dashboard): update keyboard-nav - commit 1645
 // refactor(analytics): refactor documentation - commit 1646
 // ci(ui): improve documentation - commit 1647
+// build(layouts): improve mobile-support - commit 1648
