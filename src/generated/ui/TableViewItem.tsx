@@ -5,22 +5,6 @@ interface TableViewItemProps {
   id?: string;
   className?: string;
   children?: React.ReactNode;
-  prop_592?: string;
-  prop_173?: string;
-  prop_135?: string;
-  prop_710?: string;
-  prop_169?: string;
-  prop_242?: string;
-  prop_424?: string;
-  prop_646?: string;
-  prop_584?: string;
-  prop_766?: string;
-  prop_369?: string;
-  prop_543?: string;
-  prop_296?: string;
-  prop_244?: string;
-  prop_202?: string;
-  prop_150?: string;
   // PROPS_PLACEHOLDER
 }
 
