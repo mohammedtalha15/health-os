@@ -103,3 +103,4 @@
 // fix(settings): fix loading-states - commit 1278
 // fix(profile): refactor documentation - commit 1279
 // chore(security): update loading-states - commit 1280
+// fix(security): add animations - commit 1281
