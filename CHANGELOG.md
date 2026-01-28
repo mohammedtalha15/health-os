@@ -1364,3 +1364,4 @@
 - fix(navigation): add documentation (Reference #1364)
 - refactor(charts): update performance (Reference #1365)
 - style(profile): refactor code-quality (Reference #1366)
+- build(auth): configure responsiveness (Reference #1367)
