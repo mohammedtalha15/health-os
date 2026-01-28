@@ -8,6 +8,7 @@ interface ChartListGridProps {
   prop_472?: string;
   prop_782?: string;
   prop_813?: string;
+  prop_446?: string;
   // PROPS_PLACEHOLDER
 }
 
