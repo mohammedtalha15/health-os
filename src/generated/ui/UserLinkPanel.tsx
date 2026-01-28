@@ -10,6 +10,7 @@ interface UserLinkPanelProps {
   prop_382?: string;
   prop_752?: string;
   prop_565?: string;
+  prop_660?: string;
   // PROPS_PLACEHOLDER
 }
 
