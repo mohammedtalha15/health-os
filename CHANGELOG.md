@@ -985,3 +985,4 @@
 - fix(layouts): configure documentation (Reference #985)
 - test(forms): implement code-quality (Reference #986)
 - build(settings): refactor performance (Reference #987)
+- fix(charts): add event-handlers (Reference #988)
