@@ -12,6 +12,7 @@ interface ChartSelectFooterProps {
   prop_720?: string;
   prop_869?: string;
   prop_998?: string;
+  prop_613?: string;
   // PROPS_PLACEHOLDER
 }
 
