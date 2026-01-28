@@ -3,10 +3,6 @@
  * Utility function for ModalWrapperPanel operations
  */
 export const ModalWrapperPanel = (input: any): any => {
-  // Processed step 22
-  // Processed step 78
-  // Processed step 15
-  // Processed step 31
   // LOGIC_PLACEHOLDER
   try {
     const timestamp = Date.now();
