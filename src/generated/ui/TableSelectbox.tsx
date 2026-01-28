@@ -9,6 +9,7 @@ interface TableSelectboxProps {
   prop_704?: string;
   prop_419?: string;
   prop_748?: string;
+  prop_586?: string;
   // PROPS_PLACEHOLDER
 }
 
