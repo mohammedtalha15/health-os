@@ -5,10 +5,6 @@ interface AuthCardboxProps {
   id?: string;
   className?: string;
   children?: React.ReactNode;
-  prop_183?: string;
-  prop_696?: string;
-  prop_784?: string;
-  prop_928?: string;
   // PROPS_PLACEHOLDER
 }
 
