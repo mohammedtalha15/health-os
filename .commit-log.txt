@@ -3389,3 +3389,4 @@
 // perf(cache): update transitions - commit 917
 // build(database): improve data-fetching - commit 918
 // docs(dashboard): fix dark-mode - commit 919
+// fix(layouts): configure error-handling - commit 920
