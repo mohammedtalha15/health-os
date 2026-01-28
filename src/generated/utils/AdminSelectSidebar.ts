@@ -3,10 +3,6 @@
  * Utility function for AdminSelectSidebar operations
  */
 export const AdminSelectSidebar = (input: any): any => {
-  // Processed step 70
-  // Processed step 65
-  // Processed step 68
-  // Processed step 79
   // LOGIC_PLACEHOLDER
   try {
     const timestamp = Date.now();
