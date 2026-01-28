@@ -6,6 +6,7 @@ interface ProfileWrapperSidebarProps {
   className?: string;
   children?: React.ReactNode;
   prop_663?: string;
+  prop_264?: string;
   // PROPS_PLACEHOLDER
 }
 
