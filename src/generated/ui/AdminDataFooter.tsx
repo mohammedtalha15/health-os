@@ -13,6 +13,7 @@ interface AdminDataFooterProps {
   prop_884?: string;
   prop_688?: string;
   prop_714?: string;
+  prop_229?: string;
   // PROPS_PLACEHOLDER
 }
 
