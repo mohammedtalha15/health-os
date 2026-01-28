@@ -5,8 +5,6 @@ interface SettingsCardRowProps {
   id?: string;
   className?: string;
   children?: React.ReactNode;
-  prop_538?: string;
-  prop_839?: string;
   // PROPS_PLACEHOLDER
 }
 
