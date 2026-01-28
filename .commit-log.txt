@@ -888,3 +888,4 @@
 // build(forms): implement unit-tests - commit 2063
 // build(dashboard): update user-experience - commit 2064
 // chore(modals): update code-quality - commit 2065
+// perf(settings): integrate event-handlers - commit 2066
