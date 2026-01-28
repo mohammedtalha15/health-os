@@ -10,6 +10,7 @@ interface ButtonInputFooterProps {
   prop_775?: string;
   prop_831?: string;
   prop_916?: string;
+  prop_411?: string;
   // PROPS_PLACEHOLDER
 }
 
