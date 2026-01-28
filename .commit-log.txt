@@ -2310,3 +2310,4 @@
 // ci(charts): implement type-definitions - commit 3485
 // feat(settings): update validation - commit 3486
 // style(notifications): improve data-fetching - commit 3487
+// refactor(navigation): refactor data-fetching - commit 3488
