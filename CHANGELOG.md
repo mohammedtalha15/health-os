@@ -125,3 +125,4 @@
 - refactor(cache): improve dark-mode (Reference #125)
 - perf(analytics): refactor animations (Reference #126)
 - perf(profile): enhance code-quality (Reference #127)
+- chore(charts): implement unit-tests (Reference #128)
