@@ -3,11 +3,6 @@
  * Utility function for ChartListGroup operations
  */
 export const ChartListGroup = (input: any): any => {
-  // Processed step 39
-  // Processed step 44
-  // Processed step 24
-  // Processed step 28
-  // Processed step 55
   // LOGIC_PLACEHOLDER
   try {
     const timestamp = Date.now();
