@@ -2938,3 +2938,4 @@
 // style(analytics): optimize transitions - commit 466
 // style(database): optimize error-handling - commit 467
 // fix(auth): fix type-definitions - commit 468
+// feat(ui): improve mobile-support - commit 469
