@@ -8,6 +8,7 @@ interface ButtonLinkItemProps {
   prop_669?: string;
   prop_660?: string;
   prop_528?: string;
+  prop_606?: string;
   // PROPS_PLACEHOLDER
 }
 
