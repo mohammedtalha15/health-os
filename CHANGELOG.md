@@ -1052,3 +1052,4 @@
 - ci(tables): configure responsiveness (Reference #1052)
 - style(ui): fix user-experience (Reference #1053)
 - test(tables): update event-handlers (Reference #1054)
+- refactor(database): refactor performance (Reference #1055)
