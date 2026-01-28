@@ -5,9 +5,6 @@ interface ProfileContainerSectionProps {
   id?: string;
   className?: string;
   children?: React.ReactNode;
-  prop_578?: string;
-  prop_323?: string;
-  prop_436?: string;
   // PROPS_PLACEHOLDER
 }
 
