@@ -8,6 +8,7 @@ interface TableToggleHeaderProps {
   prop_153?: string;
   prop_395?: string;
   prop_635?: string;
+  prop_269?: string;
   // PROPS_PLACEHOLDER
 }
 
