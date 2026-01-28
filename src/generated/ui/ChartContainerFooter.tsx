@@ -8,6 +8,7 @@ interface ChartContainerFooterProps {
   prop_975?: string;
   prop_717?: string;
   prop_920?: string;
+  prop_900?: string;
   // PROPS_PLACEHOLDER
 }
 
