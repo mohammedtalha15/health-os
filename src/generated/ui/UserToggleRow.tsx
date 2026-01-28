@@ -5,9 +5,6 @@ interface UserToggleRowProps {
   id?: string;
   className?: string;
   children?: React.ReactNode;
-  prop_713?: string;
-  prop_433?: string;
-  prop_754?: string;
   // PROPS_PLACEHOLDER
 }
 
