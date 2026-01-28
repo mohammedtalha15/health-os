@@ -10,6 +10,7 @@ interface TableDataSectionProps {
   prop_881?: string;
   prop_988?: string;
   prop_641?: string;
+  prop_564?: string;
   // PROPS_PLACEHOLDER
 }
 
