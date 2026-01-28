@@ -563,3 +563,4 @@
 - test(forms): fix caching-logic (Reference #563)
 - chore(security): implement validation (Reference #564)
 - perf(security): fix dark-mode (Reference #565)
+- perf(profile): configure animations (Reference #566)
