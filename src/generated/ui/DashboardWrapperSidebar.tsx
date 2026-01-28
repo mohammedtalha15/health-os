@@ -8,6 +8,7 @@ interface DashboardWrapperSidebarProps {
   prop_858?: string;
   prop_595?: string;
   prop_166?: string;
+  prop_119?: string;
   // PROPS_PLACEHOLDER
 }
 
