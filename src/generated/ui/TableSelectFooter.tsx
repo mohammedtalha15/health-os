@@ -7,6 +7,7 @@ interface TableSelectFooterProps {
   children?: React.ReactNode;
   prop_710?: string;
   prop_255?: string;
+  prop_478?: string;
   // PROPS_PLACEHOLDER
 }
 
