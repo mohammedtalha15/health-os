@@ -3,11 +3,6 @@
  * Utility function for UserLinkbox operations
  */
 export const UserLinkbox = (input: any): any => {
-  // Processed step 89
-  // Processed step 22
-  // Processed step 52
-  // Processed step 12
-  // Processed step 6
   // LOGIC_PLACEHOLDER
   try {
     const timestamp = Date.now();
