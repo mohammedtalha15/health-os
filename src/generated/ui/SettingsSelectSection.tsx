@@ -6,6 +6,7 @@ interface SettingsSelectSectionProps {
   className?: string;
   children?: React.ReactNode;
   prop_841?: string;
+  prop_617?: string;
   // PROPS_PLACEHOLDER
 }
 
