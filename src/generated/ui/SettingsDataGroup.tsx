@@ -5,18 +5,6 @@ interface SettingsDataGroupProps {
   id?: string;
   className?: string;
   children?: React.ReactNode;
-  prop_135?: string;
-  prop_330?: string;
-  prop_281?: string;
-  prop_444?: string;
-  prop_136?: string;
-  prop_780?: string;
-  prop_591?: string;
-  prop_713?: string;
-  prop_644?: string;
-  prop_910?: string;
-  prop_774?: string;
-  prop_312?: string;
   // PROPS_PLACEHOLDER
 }
 
