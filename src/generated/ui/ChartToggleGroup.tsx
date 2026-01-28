@@ -10,6 +10,7 @@ interface ChartToggleGroupProps {
   prop_369?: string;
   prop_784?: string;
   prop_630?: string;
+  prop_326?: string;
   // PROPS_PLACEHOLDER
 }
 
