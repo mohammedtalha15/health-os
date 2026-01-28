@@ -408,3 +408,4 @@
 - perf(tables): configure performance (Reference #408)
 - test(modals): optimize transitions (Reference #409)
 - test(notifications): optimize performance (Reference #410)
+- feat(cache): update error-handling (Reference #411)
