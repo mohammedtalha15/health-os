@@ -5,20 +5,6 @@ interface TableSelectboxProps {
   id?: string;
   className?: string;
   children?: React.ReactNode;
-  prop_156?: string;
-  prop_654?: string;
-  prop_651?: string;
-  prop_532?: string;
-  prop_762?: string;
-  prop_703?: string;
-  prop_833?: string;
-  prop_539?: string;
-  prop_533?: string;
-  prop_636?: string;
-  prop_529?: string;
-  prop_961?: string;
-  prop_428?: string;
-  prop_753?: string;
   // PROPS_PLACEHOLDER
 }
 
