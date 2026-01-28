@@ -5,14 +5,6 @@ interface AdminViewRowProps {
   id?: string;
   className?: string;
   children?: React.ReactNode;
-  prop_933?: string;
-  prop_584?: string;
-  prop_116?: string;
-  prop_408?: string;
-  prop_526?: string;
-  prop_994?: string;
-  prop_873?: string;
-  prop_280?: string;
   // PROPS_PLACEHOLDER
 }
 
