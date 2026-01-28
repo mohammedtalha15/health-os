@@ -7,6 +7,7 @@ interface AdminTogglePanelProps {
   children?: React.ReactNode;
   prop_712?: string;
   prop_971?: string;
+  prop_613?: string;
   // PROPS_PLACEHOLDER
 }
 
