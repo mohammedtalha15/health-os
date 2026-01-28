@@ -6,6 +6,7 @@ interface ButtonLinkHeaderProps {
   className?: string;
   children?: React.ReactNode;
   prop_469?: string;
+  prop_682?: string;
   // PROPS_PLACEHOLDER
 }
 
