@@ -8,6 +8,7 @@ interface UserDataFooterProps {
   prop_247?: string;
   prop_708?: string;
   prop_475?: string;
+  prop_951?: string;
   // PROPS_PLACEHOLDER
 }
 
