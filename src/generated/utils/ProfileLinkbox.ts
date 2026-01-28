@@ -3,8 +3,6 @@
  * Utility function for ProfileLinkbox operations
  */
 export const ProfileLinkbox = (input: any): any => {
-  // Processed step 12
-  // Processed step 22
   // LOGIC_PLACEHOLDER
   try {
     const timestamp = Date.now();
