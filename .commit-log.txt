@@ -87,3 +87,4 @@
 // fix(notifications): implement loading-states - commit 1035
 // test(navigation): integrate loading-states - commit 1036
 // build(dashboard): improve dark-mode - commit 1037
+// refactor(profile): integrate code-quality - commit 1038
