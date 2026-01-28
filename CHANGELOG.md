@@ -592,3 +592,4 @@
 - build(settings): configure accessibility (Reference #592)
 - feat(security): add dark-mode (Reference #593)
 - docs(cache): enhance user-experience (Reference #594)
+- chore(database): update dark-mode (Reference #595)
