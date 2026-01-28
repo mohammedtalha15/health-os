@@ -9,6 +9,7 @@ interface ProfileToggleGridProps {
   prop_482?: string;
   prop_119?: string;
   prop_970?: string;
+  prop_950?: string;
   // PROPS_PLACEHOLDER
 }
 
