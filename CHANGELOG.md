@@ -1543,3 +1543,4 @@
 - refactor(profile): refactor caching-logic (Reference #1543)
 - docs(ui): enhance loading-states (Reference #1544)
 - feat(notifications): enhance caching-logic (Reference #1545)
+- docs(search): implement accessibility (Reference #1546)
