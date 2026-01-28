@@ -5,15 +5,6 @@ interface AuthListGroupProps {
   id?: string;
   className?: string;
   children?: React.ReactNode;
-  prop_821?: string;
-  prop_302?: string;
-  prop_653?: string;
-  prop_838?: string;
-  prop_914?: string;
-  prop_337?: string;
-  prop_822?: string;
-  prop_928?: string;
-  prop_183?: string;
   // PROPS_PLACEHOLDER
 }
 
