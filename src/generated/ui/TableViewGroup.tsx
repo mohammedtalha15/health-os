@@ -12,6 +12,7 @@ interface TableViewGroupProps {
   prop_861?: string;
   prop_602?: string;
   prop_347?: string;
+  prop_340?: string;
   // PROPS_PLACEHOLDER
 }
 
