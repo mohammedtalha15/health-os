@@ -7,6 +7,7 @@ interface ModalSelectGroupProps {
   children?: React.ReactNode;
   prop_286?: string;
   prop_788?: string;
+  prop_529?: string;
   // PROPS_PLACEHOLDER
 }
 
