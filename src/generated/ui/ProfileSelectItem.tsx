@@ -5,12 +5,6 @@ interface ProfileSelectItemProps {
   id?: string;
   className?: string;
   children?: React.ReactNode;
-  prop_464?: string;
-  prop_111?: string;
-  prop_494?: string;
-  prop_779?: string;
-  prop_816?: string;
-  prop_686?: string;
   // PROPS_PLACEHOLDER
 }
 
