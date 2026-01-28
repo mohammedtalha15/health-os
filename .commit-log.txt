@@ -1362,3 +1362,4 @@
 // feat(cache): add transitions - commit 2537
 // ci(tables): add state-management - commit 2538
 // ci(ui): improve responsiveness - commit 2539
+// fix(charts): add type-definitions - commit 2540
