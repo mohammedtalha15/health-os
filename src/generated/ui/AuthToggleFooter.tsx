@@ -6,6 +6,7 @@ interface AuthToggleFooterProps {
   className?: string;
   children?: React.ReactNode;
   prop_263?: string;
+  prop_316?: string;
   // PROPS_PLACEHOLDER
 }
 
