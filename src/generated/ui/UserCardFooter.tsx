@@ -14,6 +14,7 @@ interface UserCardFooterProps {
   prop_781?: string;
   prop_532?: string;
   prop_837?: string;
+  prop_674?: string;
   // PROPS_PLACEHOLDER
 }
 
