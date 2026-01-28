@@ -788,3 +788,4 @@
 - docs(ui): integrate user-experience (Reference #788)
 - feat(search): fix data-fetching (Reference #789)
 - perf(security): enhance user-experience (Reference #790)
+- build(database): add validation (Reference #791)
