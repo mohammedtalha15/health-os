@@ -1330,3 +1330,4 @@
 - docs(tables): update responsiveness (Reference #1330)
 - style(analytics): enhance performance (Reference #1331)
 - refactor(search): update accessibility (Reference #1332)
+- docs(forms): optimize loading-states (Reference #1333)
