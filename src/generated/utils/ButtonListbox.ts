@@ -3,12 +3,6 @@
  * Utility function for ButtonListbox operations
  */
 export const ButtonListbox = (input: any): any => {
-  // Processed step 7
-  // Processed step 44
-  // Processed step 70
-  // Processed step 31
-  // Processed step 44
-  // Processed step 54
   // LOGIC_PLACEHOLDER
   try {
     const timestamp = Date.now();
