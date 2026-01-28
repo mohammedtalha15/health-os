@@ -262,3 +262,4 @@
 - test(dashboard): implement state-management (Reference #262)
 - fix(settings): fix data-fetching (Reference #263)
 - ci(charts): configure code-quality (Reference #264)
+- feat(modals): implement keyboard-nav (Reference #265)
