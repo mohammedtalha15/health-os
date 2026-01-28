@@ -5,16 +5,6 @@ interface SettingsDataSidebarProps {
   id?: string;
   className?: string;
   children?: React.ReactNode;
-  prop_692?: string;
-  prop_347?: string;
-  prop_485?: string;
-  prop_344?: string;
-  prop_616?: string;
-  prop_992?: string;
-  prop_335?: string;
-  prop_417?: string;
-  prop_418?: string;
-  prop_335?: string;
   // PROPS_PLACEHOLDER
 }
 
