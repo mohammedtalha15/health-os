@@ -1526,3 +1526,4 @@
 - test(charts): improve validation (Reference #1526)
 - test(layouts): integrate documentation (Reference #1527)
 - test(security): refactor event-handlers (Reference #1528)
+- test(navigation): refactor performance (Reference #1529)
