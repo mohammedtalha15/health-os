@@ -41,3 +41,4 @@
 // refactor(modals): integrate animations - commit 989
 // build(ui): integrate user-experience - commit 990
 // chore(inputs): optimize data-fetching - commit 991
+// fix(forms): implement loading-states - commit 992
