@@ -801,3 +801,4 @@
 - refactor(search): update responsiveness (Reference #801)
 - chore(inputs): integrate code-quality (Reference #802)
 - build(inputs): optimize error-handling (Reference #803)
+- test(settings): update validation (Reference #804)
