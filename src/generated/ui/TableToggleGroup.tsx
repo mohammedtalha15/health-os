@@ -6,6 +6,7 @@ interface TableToggleGroupProps {
   className?: string;
   children?: React.ReactNode;
   prop_467?: string;
+  prop_284?: string;
   // PROPS_PLACEHOLDER
 }
 
