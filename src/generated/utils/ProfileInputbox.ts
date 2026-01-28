@@ -3,10 +3,6 @@
  * Utility function for ProfileInputbox operations
  */
 export const ProfileInputbox = (input: any): any => {
-  // Processed step 90
-  // Processed step 54
-  // Processed step 52
-  // Processed step 27
   // LOGIC_PLACEHOLDER
   try {
     const timestamp = Date.now();
