@@ -9,6 +9,7 @@ interface ModalToggleGridProps {
   prop_693?: string;
   prop_319?: string;
   prop_962?: string;
+  prop_151?: string;
   // PROPS_PLACEHOLDER
 }
 
