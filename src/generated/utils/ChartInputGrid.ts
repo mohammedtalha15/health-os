@@ -3,8 +3,6 @@
  * Utility function for ChartInputGrid operations
  */
 export const ChartInputGrid = (input: any): any => {
-  // Processed step 67
-  // Processed step 6
   // LOGIC_PLACEHOLDER
   try {
     const timestamp = Date.now();
