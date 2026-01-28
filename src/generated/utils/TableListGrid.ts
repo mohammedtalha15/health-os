@@ -3,9 +3,6 @@
  * Utility function for TableListGrid operations
  */
 export const TableListGrid = (input: any): any => {
-  // Processed step 19
-  // Processed step 55
-  // Processed step 23
   // LOGIC_PLACEHOLDER
   try {
     const timestamp = Date.now();
