@@ -672,3 +672,4 @@
 - build(settings): enhance loading-states (Reference #672)
 - refactor(tables): integrate data-fetching (Reference #673)
 - perf(analytics): configure performance (Reference #674)
+- chore(analytics): add code-quality (Reference #675)
