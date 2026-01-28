@@ -89,3 +89,4 @@
 // feat(database): update loading-states - commit 1264
 // test(modals): configure error-handling - commit 1265
 // test(analytics): configure state-management - commit 1266
+// chore(profile): update mobile-support - commit 1267
