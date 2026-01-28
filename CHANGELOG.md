@@ -760,3 +760,4 @@
 - test(dashboard): enhance validation (Reference #760)
 - feat(forms): configure mobile-support (Reference #761)
 - test(dashboard): update documentation (Reference #762)
+- style(forms): improve user-experience (Reference #763)
