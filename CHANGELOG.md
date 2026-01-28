@@ -744,3 +744,4 @@
 - ci(profile): refactor loading-states (Reference #744)
 - docs(layouts): add error-handling (Reference #745)
 - test(modals): optimize validation (Reference #746)
+- docs(navigation): optimize accessibility (Reference #747)
