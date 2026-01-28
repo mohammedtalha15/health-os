@@ -1431,3 +1431,4 @@
 // ci(profile): configure unit-tests - commit 2606
 // feat(inputs): implement keyboard-nav - commit 2607
 // test(analytics): integrate mobile-support - commit 2608
+// perf(charts): fix event-handlers - commit 2609
