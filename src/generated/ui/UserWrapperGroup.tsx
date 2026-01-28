@@ -9,6 +9,7 @@ interface UserWrapperGroupProps {
   prop_409?: string;
   prop_477?: string;
   prop_803?: string;
+  prop_481?: string;
   // PROPS_PLACEHOLDER
 }
 
