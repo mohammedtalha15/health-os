@@ -371,3 +371,4 @@
 - test(navigation): improve dark-mode (Reference #371)
 - ci(buttons): enhance animations (Reference #372)
 - ci(navigation): implement validation (Reference #373)
+- perf(security): integrate responsiveness (Reference #374)
