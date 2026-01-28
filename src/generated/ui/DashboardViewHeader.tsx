@@ -14,6 +14,7 @@ interface DashboardViewHeaderProps {
   prop_793?: string;
   prop_894?: string;
   prop_554?: string;
+  prop_474?: string;
   // PROPS_PLACEHOLDER
 }
 
