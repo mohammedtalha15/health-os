@@ -318,3 +318,4 @@
 - feat(ui): implement error-handling (Reference #318)
 - perf(modals): optimize state-management (Reference #319)
 - style(modals): update validation (Reference #320)
+- perf(ui): update code-quality (Reference #321)
