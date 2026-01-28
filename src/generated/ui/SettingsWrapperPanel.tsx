@@ -8,6 +8,7 @@ interface SettingsWrapperPanelProps {
   prop_618?: string;
   prop_830?: string;
   prop_232?: string;
+  prop_658?: string;
   // PROPS_PLACEHOLDER
 }
 
