@@ -5,14 +5,6 @@ interface SettingsContainerFooterProps {
   id?: string;
   className?: string;
   children?: React.ReactNode;
-  prop_423?: string;
-  prop_381?: string;
-  prop_808?: string;
-  prop_235?: string;
-  prop_103?: string;
-  prop_271?: string;
-  prop_531?: string;
-  prop_446?: string;
   // PROPS_PLACEHOLDER
 }
 
