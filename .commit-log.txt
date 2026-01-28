@@ -659,3 +659,4 @@
 // docs(security): configure unit-tests - commit 1834
 // chore(modals): refactor performance - commit 1835
 // style(auth): refactor animations - commit 1836
+// refactor(forms): integrate type-definitions - commit 1837
