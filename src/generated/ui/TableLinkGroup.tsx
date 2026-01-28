@@ -6,6 +6,7 @@ interface TableLinkGroupProps {
   className?: string;
   children?: React.ReactNode;
   prop_626?: string;
+  prop_168?: string;
   // PROPS_PLACEHOLDER
 }
 
