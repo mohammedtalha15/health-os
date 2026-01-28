@@ -634,3 +634,4 @@
 - fix(forms): enhance event-handlers (Reference #634)
 - fix(forms): refactor accessibility (Reference #635)
 - refactor(api): add user-experience (Reference #636)
+- test(auth): update state-management (Reference #637)
