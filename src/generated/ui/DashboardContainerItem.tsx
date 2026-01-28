@@ -5,8 +5,6 @@ interface DashboardContainerItemProps {
   id?: string;
   className?: string;
   children?: React.ReactNode;
-  prop_172?: string;
-  prop_137?: string;
   // PROPS_PLACEHOLDER
 }
 
