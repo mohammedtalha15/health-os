@@ -457,3 +457,4 @@
 - style(profile): configure data-fetching (Reference #457)
 - refactor(layouts): optimize code-quality (Reference #458)
 - style(forms): fix accessibility (Reference #459)
+- build(layouts): optimize responsiveness (Reference #460)
