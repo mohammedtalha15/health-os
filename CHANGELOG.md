@@ -1531,3 +1531,4 @@
 - chore(profile): integrate keyboard-nav (Reference #1531)
 - test(tables): add animations (Reference #1532)
 - chore(notifications): implement transitions (Reference #1533)
+- perf(notifications): improve validation (Reference #1534)
