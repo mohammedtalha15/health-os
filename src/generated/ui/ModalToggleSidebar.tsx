@@ -5,8 +5,6 @@ interface ModalToggleSidebarProps {
   id?: string;
   className?: string;
   children?: React.ReactNode;
-  prop_287?: string;
-  prop_391?: string;
   // PROPS_PLACEHOLDER
 }
 
