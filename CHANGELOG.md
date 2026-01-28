@@ -1559,3 +1559,4 @@
 - feat(analytics): configure loading-states (Reference #1559)
 - test(ui): update accessibility (Reference #1560)
 - style(ui): update transitions (Reference #1561)
+- chore(dashboard): implement caching-logic (Reference #1562)
