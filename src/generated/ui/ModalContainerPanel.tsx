@@ -6,6 +6,7 @@ interface ModalContainerPanelProps {
   className?: string;
   children?: React.ReactNode;
   prop_401?: string;
+  prop_181?: string;
   // PROPS_PLACEHOLDER
 }
 
