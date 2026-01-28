@@ -1271,3 +1271,4 @@
 - docs(security): refactor error-handling (Reference #1271)
 - chore(database): enhance loading-states (Reference #1272)
 - fix(charts): refactor validation (Reference #1273)
+- build(database): enhance documentation (Reference #1274)
