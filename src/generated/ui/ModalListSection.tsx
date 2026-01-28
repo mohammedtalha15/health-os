@@ -7,6 +7,7 @@ interface ModalListSectionProps {
   children?: React.ReactNode;
   prop_380?: string;
   prop_695?: string;
+  prop_395?: string;
   // PROPS_PLACEHOLDER
 }
 
