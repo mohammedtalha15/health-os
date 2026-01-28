@@ -6,6 +6,7 @@ interface ButtonToggleSectionProps {
   className?: string;
   children?: React.ReactNode;
   prop_664?: string;
+  prop_143?: string;
   // PROPS_PLACEHOLDER
 }
 
