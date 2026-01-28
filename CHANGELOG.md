@@ -206,3 +206,4 @@
 - feat(inputs): improve error-handling (Reference #206)
 - ci(charts): update keyboard-nav (Reference #207)
 - ci(modals): implement transitions (Reference #208)
+- chore(ui): add validation (Reference #209)
