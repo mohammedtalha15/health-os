@@ -5,7 +5,6 @@ interface AuthListFooterProps {
   id?: string;
   className?: string;
   children?: React.ReactNode;
-  prop_317?: string;
   // PROPS_PLACEHOLDER
 }
 
