@@ -250,3 +250,4 @@
 // fix(layouts): update responsiveness - commit 1425
 // chore(notifications): configure type-definitions - commit 1426
 // refactor(ui): update documentation - commit 1427
+// build(navigation): enhance type-definitions - commit 1428
