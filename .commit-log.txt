@@ -2134,3 +2134,4 @@
 // docs(notifications): enhance loading-states - commit 3309
 // build(navigation): refactor caching-logic - commit 3310
 // docs(layouts): add caching-logic - commit 3311
+// refactor(charts): refactor loading-states - commit 3312
