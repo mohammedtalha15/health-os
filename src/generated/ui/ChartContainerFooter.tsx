@@ -11,6 +11,7 @@ interface ChartContainerFooterProps {
   prop_900?: string;
   prop_997?: string;
   prop_300?: string;
+  prop_449?: string;
   // PROPS_PLACEHOLDER
 }
 
