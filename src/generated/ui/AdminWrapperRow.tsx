@@ -12,6 +12,7 @@ interface AdminWrapperRowProps {
   prop_637?: string;
   prop_369?: string;
   prop_748?: string;
+  prop_491?: string;
   // PROPS_PLACEHOLDER
 }
 
