@@ -399,3 +399,4 @@
 - feat(dashboard): refactor accessibility (Reference #399)
 - feat(profile): implement unit-tests (Reference #400)
 - chore(inputs): fix performance (Reference #401)
+- docs(database): update user-experience (Reference #402)
