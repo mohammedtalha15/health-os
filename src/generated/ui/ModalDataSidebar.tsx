@@ -7,6 +7,7 @@ interface ModalDataSidebarProps {
   children?: React.ReactNode;
   prop_102?: string;
   prop_793?: string;
+  prop_987?: string;
   // PROPS_PLACEHOLDER
 }
 
