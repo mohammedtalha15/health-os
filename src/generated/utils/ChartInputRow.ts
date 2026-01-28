@@ -3,7 +3,6 @@
  * Utility function for ChartInputRow operations
  */
 export const ChartInputRow = (input: any): any => {
-  // Processed step 70
   // LOGIC_PLACEHOLDER
   try {
     const timestamp = Date.now();
