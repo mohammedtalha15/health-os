@@ -8,6 +8,7 @@ interface SettingsLinkHeaderProps {
   prop_464?: string;
   prop_462?: string;
   prop_909?: string;
+  prop_992?: string;
   // PROPS_PLACEHOLDER
 }
 
