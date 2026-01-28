@@ -7,6 +7,7 @@ interface UserContainerFooterProps {
   children?: React.ReactNode;
   prop_725?: string;
   prop_238?: string;
+  prop_847?: string;
   // PROPS_PLACEHOLDER
 }
 
