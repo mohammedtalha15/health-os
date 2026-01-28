@@ -405,3 +405,4 @@
 - chore(database): optimize performance (Reference #405)
 - build(modals): enhance code-quality (Reference #406)
 - test(settings): update loading-states (Reference #407)
+- perf(tables): configure performance (Reference #408)
