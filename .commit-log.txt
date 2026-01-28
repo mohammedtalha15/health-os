@@ -36,3 +36,4 @@
 // perf(cache): implement event-handlers - commit 1211
 // style(modals): improve keyboard-nav - commit 1212
 // docs(ui): add error-handling - commit 1213
+// fix(tables): configure validation - commit 1214
