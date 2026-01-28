@@ -3,14 +3,6 @@
  * Utility function for AuthLinkSection operations
  */
 export const AuthLinkSection = (input: any): any => {
-  // Processed step 7
-  // Processed step 26
-  // Processed step 33
-  // Processed step 88
-  // Processed step 26
-  // Processed step 12
-  // Processed step 69
-  // Processed step 56
   // LOGIC_PLACEHOLDER
   try {
     const timestamp = Date.now();
