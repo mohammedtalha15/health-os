@@ -10,6 +10,7 @@ interface AdminSelectGridProps {
   prop_619?: string;
   prop_688?: string;
   prop_715?: string;
+  prop_467?: string;
   // PROPS_PLACEHOLDER
 }
 
