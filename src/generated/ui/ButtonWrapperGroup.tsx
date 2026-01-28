@@ -7,6 +7,7 @@ interface ButtonWrapperGroupProps {
   children?: React.ReactNode;
   prop_550?: string;
   prop_141?: string;
+  prop_650?: string;
   // PROPS_PLACEHOLDER
 }
 
