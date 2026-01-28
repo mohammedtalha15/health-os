@@ -5,19 +5,6 @@ interface ModalContainerGroupProps {
   id?: string;
   className?: string;
   children?: React.ReactNode;
-  prop_109?: string;
-  prop_729?: string;
-  prop_193?: string;
-  prop_506?: string;
-  prop_251?: string;
-  prop_525?: string;
-  prop_386?: string;
-  prop_400?: string;
-  prop_571?: string;
-  prop_417?: string;
-  prop_548?: string;
-  prop_712?: string;
-  prop_929?: string;
   // PROPS_PLACEHOLDER
 }
 
