@@ -5,10 +5,6 @@ interface ProfileLinkboxProps {
   id?: string;
   className?: string;
   children?: React.ReactNode;
-  prop_128?: string;
-  prop_552?: string;
-  prop_826?: string;
-  prop_997?: string;
   // PROPS_PLACEHOLDER
 }
 
