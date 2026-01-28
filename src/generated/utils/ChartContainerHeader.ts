@@ -3,9 +3,6 @@
  * Utility function for ChartContainerHeader operations
  */
 export const ChartContainerHeader = (input: any): any => {
-  // Processed step 55
-  // Processed step 34
-  // Processed step 3
   // LOGIC_PLACEHOLDER
   try {
     const timestamp = Date.now();
