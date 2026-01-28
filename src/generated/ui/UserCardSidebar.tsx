@@ -6,6 +6,7 @@ interface UserCardSidebarProps {
   className?: string;
   children?: React.ReactNode;
   prop_997?: string;
+  prop_886?: string;
   // PROPS_PLACEHOLDER
 }
 
