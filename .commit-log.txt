@@ -2059,3 +2059,4 @@
 // test(settings): enhance loading states - commit 95
 // style(charts): improve dark mode - commit 96
 // test(charts): fix animations - commit 97
+// build(charts): configure dark mode - commit 98
