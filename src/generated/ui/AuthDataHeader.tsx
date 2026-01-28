@@ -10,6 +10,7 @@ interface AuthDataHeaderProps {
   prop_384?: string;
   prop_748?: string;
   prop_519?: string;
+  prop_592?: string;
   // PROPS_PLACEHOLDER
 }
 
