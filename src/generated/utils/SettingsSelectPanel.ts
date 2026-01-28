@@ -3,9 +3,6 @@
  * Utility function for SettingsSelectPanel operations
  */
 export const SettingsSelectPanel = (input: any): any => {
-  // Processed step 18
-  // Processed step 70
-  // Processed step 93
   // LOGIC_PLACEHOLDER
   try {
     const timestamp = Date.now();
