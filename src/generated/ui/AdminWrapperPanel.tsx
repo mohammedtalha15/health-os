@@ -7,6 +7,7 @@ interface AdminWrapperPanelProps {
   children?: React.ReactNode;
   prop_763?: string;
   prop_840?: string;
+  prop_285?: string;
   // PROPS_PLACEHOLDER
 }
 
