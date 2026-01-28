@@ -215,3 +215,4 @@
 - refactor(dashboard): optimize accessibility (Reference #215)
 - feat(search): refactor responsiveness (Reference #216)
 - docs(auth): fix transitions (Reference #217)
+- ci(layouts): enhance user-experience (Reference #218)
