@@ -19,6 +19,7 @@ interface TableContainerGridProps {
   prop_156?: string;
   prop_120?: string;
   prop_540?: string;
+  prop_707?: string;
   // PROPS_PLACEHOLDER
 }
 
