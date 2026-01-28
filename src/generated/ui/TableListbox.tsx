@@ -11,6 +11,7 @@ interface TableListboxProps {
   prop_272?: string;
   prop_299?: string;
   prop_809?: string;
+  prop_229?: string;
   // PROPS_PLACEHOLDER
 }
 
