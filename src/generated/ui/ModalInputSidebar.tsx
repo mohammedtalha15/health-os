@@ -12,6 +12,7 @@ interface ModalInputSidebarProps {
   prop_198?: string;
   prop_878?: string;
   prop_718?: string;
+  prop_269?: string;
   // PROPS_PLACEHOLDER
 }
 
