@@ -10,6 +10,7 @@ interface ButtonToggleHeaderProps {
   prop_571?: string;
   prop_493?: string;
   prop_421?: string;
+  prop_200?: string;
   // PROPS_PLACEHOLDER
 }
 
