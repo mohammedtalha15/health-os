@@ -7,6 +7,7 @@ interface ButtonToggleFooterProps {
   children?: React.ReactNode;
   prop_822?: string;
   prop_814?: string;
+  prop_181?: string;
   // PROPS_PLACEHOLDER
 }
 
