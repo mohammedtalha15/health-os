@@ -2601,3 +2601,4 @@
 // test(settings): fix state-management - commit 129
 // docs(api): add keyboard-nav - commit 130
 // fix(cache): update type-definitions - commit 131
+// feat(navigation): update type-definitions - commit 132
