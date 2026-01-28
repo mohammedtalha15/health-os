@@ -9,6 +9,7 @@ interface ProfileDataHeaderProps {
   prop_223?: string;
   prop_210?: string;
   prop_754?: string;
+  prop_708?: string;
   // PROPS_PLACEHOLDER
 }
 
