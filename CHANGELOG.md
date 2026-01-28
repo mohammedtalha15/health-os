@@ -1235,3 +1235,4 @@
 - test(settings): refactor accessibility (Reference #1235)
 - test(cache): implement performance (Reference #1236)
 - fix(api): update state-management (Reference #1237)
+- refactor(layouts): implement unit-tests (Reference #1238)
