@@ -3,11 +3,6 @@
  * Utility function for ProfileDataGroup operations
  */
 export const ProfileDataGroup = (input: any): any => {
-  // Processed step 92
-  // Processed step 60
-  // Processed step 21
-  // Processed step 75
-  // Processed step 73
   // LOGIC_PLACEHOLDER
   try {
     const timestamp = Date.now();
