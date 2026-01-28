@@ -15,6 +15,7 @@ interface UserContainerSectionProps {
   prop_407?: string;
   prop_779?: string;
   prop_266?: string;
+  prop_175?: string;
   // PROPS_PLACEHOLDER
 }
 
