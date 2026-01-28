@@ -8,6 +8,7 @@ interface TableCardPanelProps {
   prop_191?: string;
   prop_112?: string;
   prop_915?: string;
+  prop_593?: string;
   // PROPS_PLACEHOLDER
 }
 
