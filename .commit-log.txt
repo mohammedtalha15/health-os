@@ -61,3 +61,4 @@
 // ci(notifications): update state-management - commit 1009
 // ci(analytics): implement transitions - commit 1010
 // refactor(forms): optimize accessibility - commit 1011
+// test(tables): improve keyboard-nav - commit 1012
