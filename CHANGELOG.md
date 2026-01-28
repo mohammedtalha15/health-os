@@ -916,3 +916,4 @@
 - chore(inputs): integrate validation (Reference #916)
 - perf(ui): refactor accessibility (Reference #917)
 - build(database): enhance performance (Reference #918)
+- style(layouts): refactor data-fetching (Reference #919)
