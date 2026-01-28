@@ -5,12 +5,6 @@ interface ChartViewItemProps {
   id?: string;
   className?: string;
   children?: React.ReactNode;
-  prop_675?: string;
-  prop_602?: string;
-  prop_477?: string;
-  prop_610?: string;
-  prop_391?: string;
-  prop_724?: string;
   // PROPS_PLACEHOLDER
 }
 
