@@ -3269,3 +3269,4 @@
 // refactor(layouts): add responsiveness - commit 797
 // docs(charts): optimize user-experience - commit 798
 // perf(ui): optimize data-fetching - commit 799
+// refactor(notifications): implement performance - commit 800
