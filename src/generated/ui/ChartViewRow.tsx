@@ -7,6 +7,7 @@ interface ChartViewRowProps {
   children?: React.ReactNode;
   prop_829?: string;
   prop_339?: string;
+  prop_623?: string;
   // PROPS_PLACEHOLDER
 }
 
