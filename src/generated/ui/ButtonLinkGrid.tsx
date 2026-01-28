@@ -5,10 +5,6 @@ interface ButtonLinkGridProps {
   id?: string;
   className?: string;
   children?: React.ReactNode;
-  prop_680?: string;
-  prop_666?: string;
-  prop_175?: string;
-  prop_710?: string;
   // PROPS_PLACEHOLDER
 }
 
