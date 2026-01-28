@@ -7,6 +7,7 @@ interface ButtonCardboxProps {
   children?: React.ReactNode;
   prop_610?: string;
   prop_526?: string;
+  prop_446?: string;
   // PROPS_PLACEHOLDER
 }
 
