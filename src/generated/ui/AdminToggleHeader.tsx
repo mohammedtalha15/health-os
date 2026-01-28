@@ -5,13 +5,6 @@ interface AdminToggleHeaderProps {
   id?: string;
   className?: string;
   children?: React.ReactNode;
-  prop_871?: string;
-  prop_223?: string;
-  prop_475?: string;
-  prop_543?: string;
-  prop_286?: string;
-  prop_603?: string;
-  prop_505?: string;
   // PROPS_PLACEHOLDER
 }
 
