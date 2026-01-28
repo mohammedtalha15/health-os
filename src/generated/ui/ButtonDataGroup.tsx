@@ -7,6 +7,7 @@ interface ButtonDataGroupProps {
   children?: React.ReactNode;
   prop_167?: string;
   prop_983?: string;
+  prop_764?: string;
   // PROPS_PLACEHOLDER
 }
 
