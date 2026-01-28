@@ -5,14 +5,6 @@ interface SettingsViewFooterProps {
   id?: string;
   className?: string;
   children?: React.ReactNode;
-  prop_400?: string;
-  prop_169?: string;
-  prop_321?: string;
-  prop_719?: string;
-  prop_969?: string;
-  prop_993?: string;
-  prop_244?: string;
-  prop_575?: string;
   // PROPS_PLACEHOLDER
 }
 
