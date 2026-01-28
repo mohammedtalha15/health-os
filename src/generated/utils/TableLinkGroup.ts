@@ -3,31 +3,6 @@
  * Utility function for TableLinkGroup operations
  */
 export const TableLinkGroup = (input: any): any => {
-  // Processed step 22
-  // Processed step 45
-  // Processed step 13
-  // Processed step 30
-  // Processed step 88
-  // Processed step 62
-  // Processed step 6
-  // Processed step 27
-  // Processed step 66
-  // Processed step 61
-  // Processed step 78
-  // Processed step 13
-  // Processed step 34
-  // Processed step 11
-  // Processed step 7
-  // Processed step 10
-  // Processed step 24
-  // Processed step 83
-  // Processed step 28
-  // Processed step 32
-  // Processed step 3
-  // Processed step 19
-  // Processed step 99
-  // Processed step 91
-  // Processed step 17
   // LOGIC_PLACEHOLDER
   try {
     const timestamp = Date.now();
