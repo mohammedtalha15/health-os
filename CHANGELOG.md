@@ -1198,3 +1198,4 @@
 - docs(inputs): integrate animations (Reference #1198)
 - docs(search): optimize performance (Reference #1199)
 - ci(ui): improve mobile-support (Reference #1200)
+- style(tables): optimize documentation (Reference #1201)
