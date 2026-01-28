@@ -5,17 +5,6 @@ interface UserListItemProps {
   id?: string;
   className?: string;
   children?: React.ReactNode;
-  prop_600?: string;
-  prop_196?: string;
-  prop_433?: string;
-  prop_802?: string;
-  prop_484?: string;
-  prop_827?: string;
-  prop_255?: string;
-  prop_902?: string;
-  prop_284?: string;
-  prop_234?: string;
-  prop_477?: string;
   // PROPS_PLACEHOLDER
 }
 
