@@ -499,3 +499,4 @@
 - refactor(settings): fix user-experience (Reference #499)
 - build(settings): configure caching-logic (Reference #500)
 - build(database): refactor state-management (Reference #501)
+- build(buttons): update dark-mode (Reference #502)
