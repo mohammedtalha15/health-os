@@ -3,11 +3,6 @@
  * Utility function for AdminToggleHeader operations
  */
 export const AdminToggleHeader = (input: any): any => {
-  // Processed step 14
-  // Processed step 28
-  // Processed step 27
-  // Processed step 72
-  // Processed step 57
   // LOGIC_PLACEHOLDER
   try {
     const timestamp = Date.now();
