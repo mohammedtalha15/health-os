@@ -11,6 +11,7 @@ interface UserListPanelProps {
   prop_234?: string;
   prop_537?: string;
   prop_962?: string;
+  prop_728?: string;
   // PROPS_PLACEHOLDER
 }
 
