@@ -3,9 +3,6 @@
  * Utility function for ChartListRow operations
  */
 export const ChartListRow = (input: any): any => {
-  // Processed step 87
-  // Processed step 81
-  // Processed step 34
   // LOGIC_PLACEHOLDER
   try {
     const timestamp = Date.now();
