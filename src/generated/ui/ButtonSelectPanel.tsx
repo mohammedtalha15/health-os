@@ -7,6 +7,7 @@ interface ButtonSelectPanelProps {
   children?: React.ReactNode;
   prop_762?: string;
   prop_220?: string;
+  prop_905?: string;
   // PROPS_PLACEHOLDER
 }
 
