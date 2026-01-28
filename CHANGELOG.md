@@ -1096,3 +1096,4 @@
 - refactor(tables): integrate validation (Reference #1096)
 - test(layouts): configure validation (Reference #1097)
 - docs(ui): improve type-definitions (Reference #1098)
+- style(search): update dark-mode (Reference #1099)
