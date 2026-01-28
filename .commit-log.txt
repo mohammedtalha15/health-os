@@ -420,3 +420,4 @@
 // docs(modals): add documentation - commit 1595
 // refactor(charts): add responsiveness - commit 1596
 // test(tables): integrate code-quality - commit 1597
+// chore(tables): integrate animations - commit 1598
