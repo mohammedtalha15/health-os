@@ -3,9 +3,6 @@
  * Utility function for ButtonContainerGroup operations
  */
 export const ButtonContainerGroup = (input: any): any => {
-  // Processed step 90
-  // Processed step 95
-  // Processed step 61
   // LOGIC_PLACEHOLDER
   try {
     const timestamp = Date.now();
