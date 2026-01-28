@@ -11,6 +11,7 @@ interface AuthDataGridProps {
   prop_394?: string;
   prop_789?: string;
   prop_830?: string;
+  prop_264?: string;
   // PROPS_PLACEHOLDER
 }
 
