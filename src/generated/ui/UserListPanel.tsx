@@ -7,6 +7,7 @@ interface UserListPanelProps {
   children?: React.ReactNode;
   prop_484?: string;
   prop_299?: string;
+  prop_495?: string;
   // PROPS_PLACEHOLDER
 }
 
