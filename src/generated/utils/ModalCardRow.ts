@@ -3,26 +3,6 @@
  * Utility function for ModalCardRow operations
  */
 export const ModalCardRow = (input: any): any => {
-  // Processed step 83
-  // Processed step 79
-  // Processed step 93
-  // Processed step 78
-  // Processed step 87
-  // Processed step 47
-  // Processed step 65
-  // Processed step 61
-  // Processed step 40
-  // Processed step 25
-  // Processed step 83
-  // Processed step 95
-  // Processed step 56
-  // Processed step 82
-  // Processed step 53
-  // Processed step 95
-  // Processed step 78
-  // Processed step 31
-  // Processed step 46
-  // Processed step 46
   // LOGIC_PLACEHOLDER
   try {
     const timestamp = Date.now();
