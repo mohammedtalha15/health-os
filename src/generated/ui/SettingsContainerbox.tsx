@@ -6,6 +6,7 @@ interface SettingsContainerboxProps {
   className?: string;
   children?: React.ReactNode;
   prop_673?: string;
+  prop_442?: string;
   // PROPS_PLACEHOLDER
 }
 
