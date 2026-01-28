@@ -18,6 +18,7 @@ interface SettingsContainerGridProps {
   prop_830?: string;
   prop_987?: string;
   prop_744?: string;
+  prop_772?: string;
   // PROPS_PLACEHOLDER
 }
 
