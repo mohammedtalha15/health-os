@@ -1111,3 +1111,4 @@
 // build(api): fix error-handling - commit 2286
 // perf(dashboard): implement validation - commit 2287
 // refactor(charts): improve user-experience - commit 2288
+// fix(inputs): configure keyboard-nav - commit 2289
