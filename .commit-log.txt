@@ -3190,3 +3190,4 @@
 // perf(layouts): enhance unit-tests - commit 718
 // feat(profile): improve data-fetching - commit 719
 // docs(api): enhance user-experience - commit 720
+// fix(modals): fix state-management - commit 721
