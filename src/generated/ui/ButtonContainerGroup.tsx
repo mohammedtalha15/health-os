@@ -5,6 +5,7 @@ interface ButtonContainerGroupProps {
   id?: string;
   className?: string;
   children?: React.ReactNode;
+  prop_269?: string;
   // PROPS_PLACEHOLDER
 }
 
