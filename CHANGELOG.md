@@ -1524,3 +1524,4 @@
 - test(modals): implement event-handlers (Reference #1524)
 - perf(api): refactor animations (Reference #1525)
 - test(charts): improve validation (Reference #1526)
+- test(layouts): integrate documentation (Reference #1527)
