@@ -3,10 +3,6 @@
  * Utility function for ModalSelectGroup operations
  */
 export const ModalSelectGroup = (input: any): any => {
-  // Processed step 34
-  // Processed step 99
-  // Processed step 20
-  // Processed step 98
   // LOGIC_PLACEHOLDER
   try {
     const timestamp = Date.now();
