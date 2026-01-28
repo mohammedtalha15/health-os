@@ -5,13 +5,6 @@ interface SettingsWrapperGroupProps {
   id?: string;
   className?: string;
   children?: React.ReactNode;
-  prop_426?: string;
-  prop_471?: string;
-  prop_933?: string;
-  prop_398?: string;
-  prop_900?: string;
-  prop_639?: string;
-  prop_233?: string;
   // PROPS_PLACEHOLDER
 }
 
