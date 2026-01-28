@@ -9,6 +9,7 @@ interface ChartToggleboxProps {
   prop_859?: string;
   prop_208?: string;
   prop_182?: string;
+  prop_673?: string;
   // PROPS_PLACEHOLDER
 }
 
