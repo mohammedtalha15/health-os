@@ -2131,3 +2131,4 @@
 // refactor(charts): configure loading states - commit 167
 // perf(profile): update caching logic - commit 168
 // feat(forms): refactor animations - commit 169
+// chore(modals): implement animations - commit 170
