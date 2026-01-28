@@ -6,6 +6,7 @@ interface ProfileListSidebarProps {
   className?: string;
   children?: React.ReactNode;
   prop_240?: string;
+  prop_563?: string;
   // PROPS_PLACEHOLDER
 }
 
