@@ -1396,3 +1396,4 @@
 - fix(cache): enhance documentation (Reference #1396)
 - refactor(profile): optimize mobile-support (Reference #1397)
 - perf(database): fix user-experience (Reference #1398)
+- fix(buttons): configure performance (Reference #1399)
