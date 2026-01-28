@@ -1432,3 +1432,4 @@
 - fix(api): enhance keyboard-nav (Reference #1432)
 - perf(charts): configure mobile-support (Reference #1433)
 - docs(profile): refactor performance (Reference #1434)
+- perf(forms): fix caching-logic (Reference #1435)
