@@ -1499,3 +1499,4 @@
 - test(dashboard): integrate event-handlers (Reference #1499)
 - test(database): update animations (Reference #1500)
 - build(database): add data-fetching (Reference #1501)
+- perf(search): refactor responsiveness (Reference #1502)
