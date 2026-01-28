@@ -8,6 +8,7 @@ interface ProfileDataSectionProps {
   prop_891?: string;
   prop_854?: string;
   prop_181?: string;
+  prop_766?: string;
   // PROPS_PLACEHOLDER
 }
 
