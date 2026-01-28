@@ -10,6 +10,7 @@ interface TableListRowProps {
   prop_338?: string;
   prop_606?: string;
   prop_855?: string;
+  prop_376?: string;
   // PROPS_PLACEHOLDER
 }
 
