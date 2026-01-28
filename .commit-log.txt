@@ -907,3 +907,4 @@
 // feat(tables): add state-management - commit 2082
 // docs(database): optimize loading-states - commit 2083
 // perf(layouts): enhance error-handling - commit 2084
+// chore(modals): update transitions - commit 2085
