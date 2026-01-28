@@ -1475,3 +1475,4 @@
 - refactor(profile): enhance loading-states (Reference #1475)
 - fix(auth): fix mobile-support (Reference #1476)
 - fix(security): integrate responsiveness (Reference #1477)
+- fix(layouts): enhance event-handlers (Reference #1478)
