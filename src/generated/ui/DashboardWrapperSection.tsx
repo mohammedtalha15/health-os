@@ -15,6 +15,7 @@ interface DashboardWrapperSectionProps {
   prop_929?: string;
   prop_578?: string;
   prop_637?: string;
+  prop_670?: string;
   // PROPS_PLACEHOLDER
 }
 
