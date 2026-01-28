@@ -609,3 +609,4 @@
 // ci(api): configure unit-tests - commit 1784
 // chore(database): add transitions - commit 1785
 // fix(database): optimize unit-tests - commit 1786
+// fix(dashboard): configure transitions - commit 1787
