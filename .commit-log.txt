@@ -2256,3 +2256,4 @@
 // docs(): improve responsiveness - commit 292
 // docs(buttons): enhance screen reader support - commit 293
 // refactor(charts): fix data fetching - commit 294
+// build(): enhance responsiveness - commit 295
