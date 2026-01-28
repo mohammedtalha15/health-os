@@ -2187,3 +2187,4 @@
 // build(settings): update caching-logic - commit 3362
 // feat(analytics): add transitions - commit 3363
 // chore(profile): configure unit-tests - commit 3364
+// style(modals): refactor type-definitions - commit 3365
