@@ -7,6 +7,7 @@ interface ButtonInputSectionProps {
   children?: React.ReactNode;
   prop_800?: string;
   prop_703?: string;
+  prop_865?: string;
   // PROPS_PLACEHOLDER
 }
 
