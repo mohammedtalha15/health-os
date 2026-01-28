@@ -7,6 +7,7 @@ interface DashboardToggleItemProps {
   children?: React.ReactNode;
   prop_145?: string;
   prop_213?: string;
+  prop_410?: string;
   // PROPS_PLACEHOLDER
 }
 
