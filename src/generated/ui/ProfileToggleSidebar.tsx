@@ -7,6 +7,7 @@ interface ProfileToggleSidebarProps {
   children?: React.ReactNode;
   prop_504?: string;
   prop_535?: string;
+  prop_925?: string;
   // PROPS_PLACEHOLDER
 }
 
