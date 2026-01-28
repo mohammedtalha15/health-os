@@ -5,6 +5,7 @@ interface UserViewFooterProps {
   id?: string;
   className?: string;
   children?: React.ReactNode;
+  prop_417?: string;
   // PROPS_PLACEHOLDER
 }
 
