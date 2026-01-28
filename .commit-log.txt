@@ -3327,3 +3327,4 @@
 // build(layouts): fix state-management - commit 855
 // fix(search): refactor accessibility - commit 856
 // feat(inputs): optimize user-experience - commit 857
+// feat(settings): add validation - commit 858
