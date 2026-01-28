@@ -3,8 +3,6 @@
  * Utility function for ButtonDataHeader operations
  */
 export const ButtonDataHeader = (input: any): any => {
-  // Processed step 33
-  // Processed step 44
   // LOGIC_PLACEHOLDER
   try {
     const timestamp = Date.now();
