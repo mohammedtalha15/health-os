@@ -1412,3 +1412,4 @@
 - docs(tables): improve code-quality (Reference #1412)
 - fix(settings): improve error-handling (Reference #1413)
 - style(search): update performance (Reference #1414)
+- perf(settings): add performance (Reference #1415)
