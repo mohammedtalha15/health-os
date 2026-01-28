@@ -1779,3 +1779,4 @@
 // refactor(notifications): add transitions - commit 2954
 // feat(notifications): optimize event-handlers - commit 2955
 // build(cache): update data-fetching - commit 2956
+// fix(dashboard): update mobile-support - commit 2957
