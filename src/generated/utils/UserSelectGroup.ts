@@ -3,7 +3,6 @@
  * Utility function for UserSelectGroup operations
  */
 export const UserSelectGroup = (input: any): any => {
-  // Processed step 61
   // LOGIC_PLACEHOLDER
   try {
     const timestamp = Date.now();
