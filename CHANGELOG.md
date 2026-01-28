@@ -1558,3 +1558,4 @@
 - chore(tables): improve unit-tests (Reference #1558)
 - feat(analytics): configure loading-states (Reference #1559)
 - test(ui): update accessibility (Reference #1560)
+- style(ui): update transitions (Reference #1561)
