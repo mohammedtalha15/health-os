@@ -1296,3 +1296,4 @@
 // build(layouts): improve animations - commit 2471
 // build(tables): optimize keyboard-nav - commit 2472
 // ci(api): enhance data-fetching - commit 2473
+// test(modals): enhance unit-tests - commit 2474
