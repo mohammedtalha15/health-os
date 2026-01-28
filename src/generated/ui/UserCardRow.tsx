@@ -5,6 +5,7 @@ interface UserCardRowProps {
   id?: string;
   className?: string;
   children?: React.ReactNode;
+  prop_896?: string;
   // PROPS_PLACEHOLDER
 }
 
