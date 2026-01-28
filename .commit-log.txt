@@ -154,3 +154,4 @@
 // docs(cache): optimize event-handlers - commit 1329
 // test(forms): fix keyboard-nav - commit 1330
 // chore(cache): integrate loading-states - commit 1331
+// docs(modals): refactor documentation - commit 1332
