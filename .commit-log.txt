@@ -2600,3 +2600,4 @@
 // docs(api): improve unit-tests - commit 128
 // test(settings): fix state-management - commit 129
 // docs(api): add keyboard-nav - commit 130
+// fix(cache): update type-definitions - commit 131
