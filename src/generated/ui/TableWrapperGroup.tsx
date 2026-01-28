@@ -5,6 +5,7 @@ interface TableWrapperGroupProps {
   id?: string;
   className?: string;
   children?: React.ReactNode;
+  prop_581?: string;
   // PROPS_PLACEHOLDER
 }
 
