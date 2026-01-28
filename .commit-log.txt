@@ -2461,3 +2461,4 @@
 // docs(forms): refactor validation - commit 497
 // docs(tables): update user experience - commit 498
 // perf(): configure dark mode - commit 499
+// docs(search):  screen reader support - commit 500
