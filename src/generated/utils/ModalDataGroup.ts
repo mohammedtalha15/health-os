@@ -3,7 +3,6 @@
  * Utility function for ModalDataGroup operations
  */
 export const ModalDataGroup = (input: any): any => {
-  // Processed step 71
   // LOGIC_PLACEHOLDER
   try {
     const timestamp = Date.now();
