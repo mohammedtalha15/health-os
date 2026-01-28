@@ -7,6 +7,7 @@ interface ChartListPanelProps {
   children?: React.ReactNode;
   prop_910?: string;
   prop_394?: string;
+  prop_545?: string;
   // PROPS_PLACEHOLDER
 }
 
