@@ -1329,3 +1329,4 @@
 - refactor(buttons): optimize performance (Reference #1329)
 - docs(tables): update responsiveness (Reference #1330)
 - style(analytics): enhance performance (Reference #1331)
+- refactor(search): update accessibility (Reference #1332)
