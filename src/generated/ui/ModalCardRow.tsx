@@ -7,6 +7,7 @@ interface ModalCardRowProps {
   children?: React.ReactNode;
   prop_644?: string;
   prop_433?: string;
+  prop_107?: string;
   // PROPS_PLACEHOLDER
 }
 
