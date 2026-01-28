@@ -14,6 +14,7 @@ interface SettingsContainerRowProps {
   prop_299?: string;
   prop_254?: string;
   prop_875?: string;
+  prop_616?: string;
   // PROPS_PLACEHOLDER
 }
 
