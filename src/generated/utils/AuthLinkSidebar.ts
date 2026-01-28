@@ -3,8 +3,6 @@
  * Utility function for AuthLinkSidebar operations
  */
 export const AuthLinkSidebar = (input: any): any => {
-  // Processed step 23
-  // Processed step 87
   // LOGIC_PLACEHOLDER
   try {
     const timestamp = Date.now();
