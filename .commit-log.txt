@@ -178,3 +178,4 @@
 // chore(buttons): configure documentation - commit 1126
 // refactor(search): improve dark-mode - commit 1127
 // chore(charts): enhance user-experience - commit 1128
+// fix(modals): optimize performance - commit 1129
