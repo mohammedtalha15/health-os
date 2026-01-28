@@ -9,6 +9,7 @@ interface ProfileViewHeaderProps {
   prop_383?: string;
   prop_399?: string;
   prop_121?: string;
+  prop_902?: string;
   // PROPS_PLACEHOLDER
 }
 
