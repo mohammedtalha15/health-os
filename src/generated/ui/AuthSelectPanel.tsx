@@ -11,6 +11,7 @@ interface AuthSelectPanelProps {
   prop_312?: string;
   prop_709?: string;
   prop_848?: string;
+  prop_490?: string;
   // PROPS_PLACEHOLDER
 }
 
