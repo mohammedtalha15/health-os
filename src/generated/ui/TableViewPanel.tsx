@@ -8,6 +8,7 @@ interface TableViewPanelProps {
   prop_723?: string;
   prop_142?: string;
   prop_877?: string;
+  prop_957?: string;
   // PROPS_PLACEHOLDER
 }
 
