@@ -1453,3 +1453,4 @@
 - fix(profile): integrate caching-logic (Reference #1453)
 - feat(dashboard): implement validation (Reference #1454)
 - test(profile): fix error-handling (Reference #1455)
+- test(tables): improve unit-tests (Reference #1456)
