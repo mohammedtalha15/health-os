@@ -805,3 +805,4 @@
 - fix(cache): refactor event-handlers (Reference #805)
 - test(settings): optimize performance (Reference #806)
 - feat(notifications): implement caching-logic (Reference #807)
+- style(notifications): refactor type-definitions (Reference #808)
