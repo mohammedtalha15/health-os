@@ -1457,3 +1457,4 @@
 // perf(auth): enhance user-experience - commit 2632
 // fix(inputs): enhance caching-logic - commit 2633
 // style(buttons): enhance data-fetching - commit 2634
+// fix(auth): configure error-handling - commit 2635
