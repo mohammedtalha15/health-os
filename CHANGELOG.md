@@ -643,3 +643,4 @@
 - style(settings): integrate animations (Reference #643)
 - feat(inputs): update loading-states (Reference #644)
 - refactor(charts): add animations (Reference #645)
+- fix(charts): fix transitions (Reference #646)
