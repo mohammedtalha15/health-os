@@ -5,13 +5,6 @@ interface ProfileSelectGridProps {
   id?: string;
   className?: string;
   children?: React.ReactNode;
-  prop_216?: string;
-  prop_654?: string;
-  prop_554?: string;
-  prop_781?: string;
-  prop_471?: string;
-  prop_524?: string;
-  prop_740?: string;
   // PROPS_PLACEHOLDER
 }
 
