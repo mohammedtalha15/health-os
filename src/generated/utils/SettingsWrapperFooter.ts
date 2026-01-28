@@ -3,9 +3,6 @@
  * Utility function for SettingsWrapperFooter operations
  */
 export const SettingsWrapperFooter = (input: any): any => {
-  // Processed step 24
-  // Processed step 21
-  // Processed step 82
   // LOGIC_PLACEHOLDER
   try {
     const timestamp = Date.now();
