@@ -2152,3 +2152,4 @@
 // feat(notifications): optimize error handling - commit 188
 // refactor(auth):  data fetching - commit 189
 // perf(inputs): update error handling - commit 190
+// feat(auth):  dark mode - commit 191
