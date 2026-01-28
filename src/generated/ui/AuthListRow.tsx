@@ -10,6 +10,7 @@ interface AuthListRowProps {
   prop_198?: string;
   prop_552?: string;
   prop_388?: string;
+  prop_141?: string;
   // PROPS_PLACEHOLDER
 }
 
