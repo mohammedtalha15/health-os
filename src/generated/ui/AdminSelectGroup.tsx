@@ -9,6 +9,7 @@ interface AdminSelectGroupProps {
   prop_803?: string;
   prop_949?: string;
   prop_994?: string;
+  prop_464?: string;
   // PROPS_PLACEHOLDER
 }
 
