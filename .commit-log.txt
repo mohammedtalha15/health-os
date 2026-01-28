@@ -1252,3 +1252,4 @@
 // perf(modals): implement event-handlers - commit 2427
 // chore(dashboard): enhance keyboard-nav - commit 2428
 // ci(settings): update loading-states - commit 2429
+// refactor(search): update responsiveness - commit 2430
