@@ -1409,3 +1409,4 @@
 // feat(analytics): improve responsiveness - commit 2584
 // style(tables): add caching-logic - commit 2585
 // perf(settings): update user-experience - commit 2586
+// chore(search): fix error-handling - commit 2587
