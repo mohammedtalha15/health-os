@@ -3266,3 +3266,4 @@
 // style(notifications): fix animations - commit 794
 // fix(security): update animations - commit 795
 // style(profile): implement accessibility - commit 796
+// refactor(layouts): add responsiveness - commit 797
