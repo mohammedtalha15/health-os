@@ -1064,3 +1064,4 @@
 - refactor(profile): refactor validation (Reference #1064)
 - build(search): configure dark-mode (Reference #1065)
 - feat(auth): add keyboard-nav (Reference #1066)
+- test(tables): implement dark-mode (Reference #1067)
