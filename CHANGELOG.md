@@ -517,3 +517,4 @@
 - ci(notifications): update state-management (Reference #517)
 - feat(security): improve user-experience (Reference #518)
 - chore(inputs): configure error-handling (Reference #519)
+- docs(modals): configure animations (Reference #520)
