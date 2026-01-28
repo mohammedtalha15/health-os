@@ -2825,3 +2825,4 @@
 // perf(tables): optimize unit-tests - commit 353
 // test(tables): enhance documentation - commit 354
 // docs(search): configure type-definitions - commit 355
+// refactor(settings): integrate unit-tests - commit 356
