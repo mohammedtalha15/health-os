@@ -6,6 +6,7 @@ interface ChartCardGroupProps {
   className?: string;
   children?: React.ReactNode;
   prop_628?: string;
+  prop_912?: string;
   // PROPS_PLACEHOLDER
 }
 
