@@ -12,6 +12,7 @@ interface ProfileInputSectionProps {
   prop_377?: string;
   prop_433?: string;
   prop_429?: string;
+  prop_336?: string;
   // PROPS_PLACEHOLDER
 }
 
