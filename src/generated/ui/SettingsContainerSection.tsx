@@ -10,6 +10,7 @@ interface SettingsContainerSectionProps {
   prop_458?: string;
   prop_806?: string;
   prop_852?: string;
+  prop_226?: string;
   // PROPS_PLACEHOLDER
 }
 
