@@ -238,3 +238,4 @@
 - feat(forms): update caching-logic (Reference #238)
 - test(notifications): configure error-handling (Reference #239)
 - feat(search): configure event-handlers (Reference #240)
+- refactor(notifications): add caching-logic (Reference #241)
