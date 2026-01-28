@@ -944,3 +944,4 @@
 - perf(tables): add code-quality (Reference #944)
 - test(analytics): add dark-mode (Reference #945)
 - feat(cache): update event-handlers (Reference #946)
+- docs(database): configure animations (Reference #947)
