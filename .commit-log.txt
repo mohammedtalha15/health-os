@@ -523,3 +523,4 @@
 // chore(layouts): improve code-quality - commit 1698
 // build(database): update accessibility - commit 1699
 // feat(auth): update state-management - commit 1700
+// test(modals): configure responsiveness - commit 1701
