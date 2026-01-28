@@ -11,6 +11,7 @@ interface SettingsDataPanelProps {
   prop_535?: string;
   prop_704?: string;
   prop_246?: string;
+  prop_818?: string;
   // PROPS_PLACEHOLDER
 }
 
