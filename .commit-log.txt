@@ -57,3 +57,4 @@
 // refactor(notifications): implement responsiveness - commit 1232
 // build(tables): improve animations - commit 1233
 // build(cache): refactor performance - commit 1234
+// feat(modals): configure user-experience - commit 1235
