@@ -3273,3 +3273,4 @@
 // chore(tables): improve code-quality - commit 801
 // perf(buttons): integrate dark-mode - commit 802
 // build(layouts): optimize responsiveness - commit 803
+// docs(modals): refactor responsiveness - commit 804
