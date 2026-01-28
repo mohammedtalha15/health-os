@@ -10,6 +10,7 @@ interface ChartLinkHeaderProps {
   prop_560?: string;
   prop_806?: string;
   prop_162?: string;
+  prop_814?: string;
   // PROPS_PLACEHOLDER
 }
 
