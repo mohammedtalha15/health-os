@@ -139,3 +139,4 @@
 // refactor(modals): fix user-experience - commit 1314
 // feat(navigation): refactor documentation - commit 1315
 // build(dashboard): integrate state-management - commit 1316
+// refactor(forms): configure loading-states - commit 1317
