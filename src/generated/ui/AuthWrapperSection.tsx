@@ -7,6 +7,7 @@ interface AuthWrapperSectionProps {
   children?: React.ReactNode;
   prop_462?: string;
   prop_809?: string;
+  prop_237?: string;
   // PROPS_PLACEHOLDER
 }
 
