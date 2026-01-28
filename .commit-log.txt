@@ -1410,3 +1410,4 @@
 // style(tables): add caching-logic - commit 2585
 // perf(settings): update user-experience - commit 2586
 // chore(search): fix error-handling - commit 2587
+// feat(database): add mobile-support - commit 2588
