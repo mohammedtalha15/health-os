@@ -552,3 +552,4 @@
 - chore(api): enhance type-definitions (Reference #552)
 - perf(api): configure documentation (Reference #553)
 - docs(cache): update event-handlers (Reference #554)
+- fix(ui): implement keyboard-nav (Reference #555)
