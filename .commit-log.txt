@@ -305,3 +305,4 @@
 // feat(database): refactor dark-mode - commit 1480
 // perf(buttons): fix unit-tests - commit 1481
 // perf(ui): fix user-experience - commit 1482
+// docs(forms): add dark-mode - commit 1483
