@@ -11,6 +11,7 @@ interface DashboardListSidebarProps {
   prop_510?: string;
   prop_971?: string;
   prop_459?: string;
+  prop_954?: string;
   // PROPS_PLACEHOLDER
 }
 
