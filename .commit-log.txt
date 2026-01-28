@@ -1908,3 +1908,4 @@
 // docs(api): implement responsiveness - commit 3083
 // docs(analytics): update documentation - commit 3084
 // chore(analytics): refactor type-definitions - commit 3085
+// fix(navigation): fix animations - commit 3086
