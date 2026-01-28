@@ -6,6 +6,7 @@ interface AdminCardFooterProps {
   className?: string;
   children?: React.ReactNode;
   prop_294?: string;
+  prop_422?: string;
   // PROPS_PLACEHOLDER
 }
 
