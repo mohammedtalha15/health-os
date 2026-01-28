@@ -2209,3 +2209,4 @@
 // test(ui): enhance responsiveness - commit 3384
 // fix(settings): add event-handlers - commit 3385
 // docs(settings): implement state-management - commit 3386
+// chore(tables): integrate event-handlers - commit 3387
