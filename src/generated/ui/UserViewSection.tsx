@@ -15,6 +15,7 @@ interface UserViewSectionProps {
   prop_426?: string;
   prop_339?: string;
   prop_912?: string;
+  prop_476?: string;
   // PROPS_PLACEHOLDER
 }
 
