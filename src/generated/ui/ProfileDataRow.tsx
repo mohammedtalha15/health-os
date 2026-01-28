@@ -5,31 +5,6 @@ interface ProfileDataRowProps {
   id?: string;
   className?: string;
   children?: React.ReactNode;
-  prop_169?: string;
-  prop_804?: string;
-  prop_269?: string;
-  prop_658?: string;
-  prop_593?: string;
-  prop_467?: string;
-  prop_286?: string;
-  prop_210?: string;
-  prop_920?: string;
-  prop_158?: string;
-  prop_893?: string;
-  prop_259?: string;
-  prop_470?: string;
-  prop_713?: string;
-  prop_234?: string;
-  prop_270?: string;
-  prop_109?: string;
-  prop_620?: string;
-  prop_624?: string;
-  prop_776?: string;
-  prop_271?: string;
-  prop_769?: string;
-  prop_265?: string;
-  prop_948?: string;
-  prop_299?: string;
   // PROPS_PLACEHOLDER
 }
 
