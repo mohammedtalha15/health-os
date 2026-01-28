@@ -547,3 +547,4 @@
 - build(notifications): implement validation (Reference #547)
 - fix(charts): configure animations (Reference #548)
 - ci(buttons): integrate code-quality (Reference #549)
+- docs(database): update documentation (Reference #550)
