@@ -1889,3 +1889,4 @@
 // build(settings): add type-definitions - commit 3064
 // test(analytics): enhance accessibility - commit 3065
 // test(settings): fix loading-states - commit 3066
+// perf(api): implement animations - commit 3067
