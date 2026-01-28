@@ -23,6 +23,7 @@ interface ProfileSelectSectionProps {
   prop_433?: string;
   prop_457?: string;
   prop_111?: string;
+  prop_771?: string;
   // PROPS_PLACEHOLDER
 }
 
