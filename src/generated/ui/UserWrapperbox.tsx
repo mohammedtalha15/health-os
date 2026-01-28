@@ -8,6 +8,7 @@ interface UserWrapperboxProps {
   prop_740?: string;
   prop_595?: string;
   prop_961?: string;
+  prop_634?: string;
   // PROPS_PLACEHOLDER
 }
 
