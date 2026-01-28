@@ -2541,3 +2541,4 @@
 // perf(charts): implement documentation - commit 69
 // chore(charts): fix responsiveness - commit 70
 // feat(notifications): implement user-experience - commit 71
+// feat(settings): refactor mobile-support - commit 72
