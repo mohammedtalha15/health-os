@@ -119,3 +119,4 @@
 // perf(modals): configure unit-tests - commit 1294
 // chore(analytics): configure animations - commit 1295
 // docs(analytics): fix animations - commit 1296
+// feat(search): configure responsiveness - commit 1297
