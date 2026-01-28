@@ -10,6 +10,7 @@ interface ProfileDataSidebarProps {
   prop_847?: string;
   prop_105?: string;
   prop_620?: string;
+  prop_186?: string;
   // PROPS_PLACEHOLDER
 }
 
