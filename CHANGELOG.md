@@ -29,3 +29,4 @@
 - build(cache): fix keyboard-nav (Reference #29)
 - docs(inputs): fix event-handlers (Reference #30)
 - chore(tables): optimize unit-tests (Reference #31)
+- style(profile): configure event-handlers (Reference #32)
