@@ -9,6 +9,7 @@ interface TableLinkGroupProps {
   prop_400?: string;
   prop_458?: string;
   prop_593?: string;
+  prop_796?: string;
   // PROPS_PLACEHOLDER
 }
 
