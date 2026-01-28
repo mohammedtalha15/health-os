@@ -5,13 +5,6 @@ interface AdminSelectSidebarProps {
   id?: string;
   className?: string;
   children?: React.ReactNode;
-  prop_293?: string;
-  prop_102?: string;
-  prop_597?: string;
-  prop_819?: string;
-  prop_251?: string;
-  prop_868?: string;
-  prop_358?: string;
   // PROPS_PLACEHOLDER
 }
 
