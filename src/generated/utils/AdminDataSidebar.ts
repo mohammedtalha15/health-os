@@ -3,13 +3,6 @@
  * Utility function for AdminDataSidebar operations
  */
 export const AdminDataSidebar = (input: any): any => {
-  // Processed step 61
-  // Processed step 50
-  // Processed step 84
-  // Processed step 16
-  // Processed step 80
-  // Processed step 23
-  // Processed step 58
   // LOGIC_PLACEHOLDER
   try {
     const timestamp = Date.now();
