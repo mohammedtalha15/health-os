@@ -7,6 +7,7 @@ interface TableDataFooterProps {
   children?: React.ReactNode;
   prop_233?: string;
   prop_849?: string;
+  prop_427?: string;
   // PROPS_PLACEHOLDER
 }
 
