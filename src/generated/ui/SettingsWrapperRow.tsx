@@ -8,6 +8,7 @@ interface SettingsWrapperRowProps {
   prop_262?: string;
   prop_457?: string;
   prop_531?: string;
+  prop_126?: string;
   // PROPS_PLACEHOLDER
 }
 
