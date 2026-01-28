@@ -8,6 +8,7 @@ interface ChartLinkGridProps {
   prop_899?: string;
   prop_827?: string;
   prop_750?: string;
+  prop_687?: string;
   // PROPS_PLACEHOLDER
 }
 
