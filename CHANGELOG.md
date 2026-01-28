@@ -539,3 +539,4 @@
 - style(settings): fix accessibility (Reference #539)
 - build(security): enhance caching-logic (Reference #540)
 - docs(database): integrate error-handling (Reference #541)
+- feat(search): update dark-mode (Reference #542)
