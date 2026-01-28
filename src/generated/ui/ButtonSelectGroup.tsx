@@ -5,8 +5,6 @@ interface ButtonSelectGroupProps {
   id?: string;
   className?: string;
   children?: React.ReactNode;
-  prop_359?: string;
-  prop_629?: string;
   // PROPS_PLACEHOLDER
 }
 
