@@ -8,6 +8,7 @@ interface TableDataFooterProps {
   prop_108?: string;
   prop_277?: string;
   prop_794?: string;
+  prop_848?: string;
   // PROPS_PLACEHOLDER
 }
 
