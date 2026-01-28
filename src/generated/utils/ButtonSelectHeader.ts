@@ -3,8 +3,6 @@
  * Utility function for ButtonSelectHeader operations
  */
 export const ButtonSelectHeader = (input: any): any => {
-  // Processed step 100
-  // Processed step 13
   // LOGIC_PLACEHOLDER
   try {
     const timestamp = Date.now();
