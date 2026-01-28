@@ -729,3 +729,4 @@
 - docs(buttons): integrate loading-states (Reference #729)
 - fix(api): improve error-handling (Reference #730)
 - chore(forms): configure caching-logic (Reference #731)
+- fix(buttons): implement type-definitions (Reference #732)
