@@ -5,11 +5,6 @@ interface ModalViewItemProps {
   id?: string;
   className?: string;
   children?: React.ReactNode;
-  prop_670?: string;
-  prop_392?: string;
-  prop_925?: string;
-  prop_634?: string;
-  prop_135?: string;
   // PROPS_PLACEHOLDER
 }
 
