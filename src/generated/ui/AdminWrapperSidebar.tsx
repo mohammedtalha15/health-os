@@ -6,6 +6,7 @@ interface AdminWrapperSidebarProps {
   className?: string;
   children?: React.ReactNode;
   prop_281?: string;
+  prop_767?: string;
   // PROPS_PLACEHOLDER
 }
 
