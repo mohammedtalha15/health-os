@@ -10,6 +10,7 @@ interface ButtonCardHeaderProps {
   prop_295?: string;
   prop_851?: string;
   prop_231?: string;
+  prop_868?: string;
   // PROPS_PLACEHOLDER
 }
 
