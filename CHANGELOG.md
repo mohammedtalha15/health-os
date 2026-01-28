@@ -579,3 +579,4 @@
 - fix(buttons): integrate type-definitions (Reference #579)
 - feat(profile): implement animations (Reference #580)
 - refactor(settings): configure user-experience (Reference #581)
+- test(security): optimize data-fetching (Reference #582)
