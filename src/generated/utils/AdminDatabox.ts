@@ -3,9 +3,6 @@
  * Utility function for AdminDatabox operations
  */
 export const AdminDatabox = (input: any): any => {
-  // Processed step 58
-  // Processed step 40
-  // Processed step 83
   // LOGIC_PLACEHOLDER
   try {
     const timestamp = Date.now();
