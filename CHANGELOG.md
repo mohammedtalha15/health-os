@@ -1246,3 +1246,4 @@
 - fix(settings): implement data-fetching (Reference #1246)
 - style(navigation): improve unit-tests (Reference #1247)
 - feat(buttons): implement user-experience (Reference #1248)
+- build(modals): enhance performance (Reference #1249)
