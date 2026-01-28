@@ -3,8 +3,6 @@
  * Utility function for DashboardCardGroup operations
  */
 export const DashboardCardGroup = (input: any): any => {
-  // Processed step 35
-  // Processed step 69
   // LOGIC_PLACEHOLDER
   try {
     const timestamp = Date.now();
