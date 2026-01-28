@@ -1404,3 +1404,4 @@
 // feat(inputs): optimize performance - commit 2579
 // ci(charts): add mobile-support - commit 2580
 // test(search): integrate type-definitions - commit 2581
+// style(search): implement responsiveness - commit 2582
