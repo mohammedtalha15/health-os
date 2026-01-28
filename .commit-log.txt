@@ -2753,3 +2753,4 @@
 // perf(dashboard): add transitions - commit 281
 // style(charts): update transitions - commit 282
 // ci(layouts): enhance data-fetching - commit 283
+// fix(security): improve user-experience - commit 284
