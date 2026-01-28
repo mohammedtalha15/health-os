@@ -6,6 +6,7 @@ interface ChartToggleFooterProps {
   className?: string;
   children?: React.ReactNode;
   prop_881?: string;
+  prop_404?: string;
   // PROPS_PLACEHOLDER
 }
 
