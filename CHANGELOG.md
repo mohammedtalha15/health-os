@@ -229,3 +229,4 @@
 - test(analytics): add performance (Reference #229)
 - refactor(profile): enhance animations (Reference #230)
 - perf(charts): refactor responsiveness (Reference #231)
+- build(layouts): implement performance (Reference #232)
