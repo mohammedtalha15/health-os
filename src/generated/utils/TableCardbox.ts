@@ -3,9 +3,6 @@
  * Utility function for TableCardbox operations
  */
 export const TableCardbox = (input: any): any => {
-  // Processed step 26
-  // Processed step 59
-  // Processed step 89
   // LOGIC_PLACEHOLDER
   try {
     const timestamp = Date.now();
