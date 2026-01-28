@@ -3,8 +3,6 @@
  * Utility function for SettingsSelectSidebar operations
  */
 export const SettingsSelectSidebar = (input: any): any => {
-  // Processed step 56
-  // Processed step 8
   // LOGIC_PLACEHOLDER
   try {
     const timestamp = Date.now();
