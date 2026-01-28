@@ -799,3 +799,4 @@
 // build(analytics): enhance data-fetching - commit 1974
 // fix(charts): configure type-definitions - commit 1975
 // test(database): implement dark-mode - commit 1976
+// test(charts): add dark-mode - commit 1977
