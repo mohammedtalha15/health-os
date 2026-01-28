@@ -3202,3 +3202,4 @@
 // fix(security): implement unit-tests - commit 730
 // test(cache): refactor data-fetching - commit 731
 // feat(tables): fix caching-logic - commit 732
+// fix(tables): optimize caching-logic - commit 733
