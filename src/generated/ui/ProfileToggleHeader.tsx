@@ -7,6 +7,7 @@ interface ProfileToggleHeaderProps {
   children?: React.ReactNode;
   prop_618?: string;
   prop_552?: string;
+  prop_571?: string;
   // PROPS_PLACEHOLDER
 }
 
