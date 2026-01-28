@@ -1555,3 +1555,4 @@
 - fix(security): configure animations (Reference #1555)
 - chore(ui): implement documentation (Reference #1556)
 - perf(api): add animations (Reference #1557)
+- chore(tables): improve unit-tests (Reference #1558)
