@@ -6,6 +6,7 @@ interface ProfileCardboxProps {
   className?: string;
   children?: React.ReactNode;
   prop_631?: string;
+  prop_687?: string;
   // PROPS_PLACEHOLDER
 }
 
