@@ -5,6 +5,7 @@ interface DashboardWrapperboxProps {
   id?: string;
   className?: string;
   children?: React.ReactNode;
+  prop_105?: string;
   // PROPS_PLACEHOLDER
 }
 
