@@ -1521,3 +1521,4 @@
 - build(analytics): optimize event-handlers (Reference #1521)
 - fix(inputs): integrate data-fetching (Reference #1522)
 - fix(forms): optimize caching-logic (Reference #1523)
+- test(modals): implement event-handlers (Reference #1524)
