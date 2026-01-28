@@ -8,6 +8,7 @@ interface AdminListboxProps {
   prop_973?: string;
   prop_368?: string;
   prop_955?: string;
+  prop_993?: string;
   // PROPS_PLACEHOLDER
 }
 
