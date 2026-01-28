@@ -7,6 +7,7 @@ interface SettingsListGroupProps {
   children?: React.ReactNode;
   prop_231?: string;
   prop_729?: string;
+  prop_102?: string;
   // PROPS_PLACEHOLDER
 }
 
