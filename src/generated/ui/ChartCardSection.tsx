@@ -8,6 +8,7 @@ interface ChartCardSectionProps {
   prop_247?: string;
   prop_908?: string;
   prop_995?: string;
+  prop_123?: string;
   // PROPS_PLACEHOLDER
 }
 
