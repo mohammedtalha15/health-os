@@ -233,3 +233,4 @@
 - build(inputs): configure unit-tests (Reference #233)
 - docs(cache): optimize type-definitions (Reference #234)
 - ci(notifications): improve type-definitions (Reference #235)
+- feat(modals): implement loading-states (Reference #236)
