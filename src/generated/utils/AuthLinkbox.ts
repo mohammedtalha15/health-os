@@ -3,7 +3,6 @@
  * Utility function for AuthLinkbox operations
  */
 export const AuthLinkbox = (input: any): any => {
-  // Processed step 20
   // LOGIC_PLACEHOLDER
   try {
     const timestamp = Date.now();
