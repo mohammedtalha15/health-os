@@ -3,22 +3,6 @@
  * Utility function for ModalCardSidebar operations
  */
 export const ModalCardSidebar = (input: any): any => {
-  // Processed step 29
-  // Processed step 80
-  // Processed step 28
-  // Processed step 9
-  // Processed step 41
-  // Processed step 39
-  // Processed step 98
-  // Processed step 97
-  // Processed step 40
-  // Processed step 32
-  // Processed step 16
-  // Processed step 30
-  // Processed step 60
-  // Processed step 5
-  // Processed step 33
-  // Processed step 5
   // LOGIC_PLACEHOLDER
   try {
     const timestamp = Date.now();
