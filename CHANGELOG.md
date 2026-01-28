@@ -1288,3 +1288,4 @@
 - style(cache): integrate unit-tests (Reference #1288)
 - ci(inputs): update error-handling (Reference #1289)
 - perf(analytics): configure transitions (Reference #1290)
+- style(profile): optimize dark-mode (Reference #1291)
