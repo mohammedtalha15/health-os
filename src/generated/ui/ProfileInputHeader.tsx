@@ -7,6 +7,7 @@ interface ProfileInputHeaderProps {
   children?: React.ReactNode;
   prop_405?: string;
   prop_333?: string;
+  prop_812?: string;
   // PROPS_PLACEHOLDER
 }
 
