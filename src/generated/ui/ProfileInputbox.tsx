@@ -7,6 +7,7 @@ interface ProfileInputboxProps {
   children?: React.ReactNode;
   prop_861?: string;
   prop_198?: string;
+  prop_658?: string;
   // PROPS_PLACEHOLDER
 }
 
