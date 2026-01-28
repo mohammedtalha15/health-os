@@ -6,6 +6,7 @@ interface SettingsDataRowProps {
   className?: string;
   children?: React.ReactNode;
   prop_761?: string;
+  prop_982?: string;
   // PROPS_PLACEHOLDER
 }
 
