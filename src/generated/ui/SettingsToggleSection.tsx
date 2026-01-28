@@ -6,6 +6,7 @@ interface SettingsToggleSectionProps {
   className?: string;
   children?: React.ReactNode;
   prop_891?: string;
+  prop_292?: string;
   // PROPS_PLACEHOLDER
 }
 
