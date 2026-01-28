@@ -2911,3 +2911,4 @@
 // test(api): add animations - commit 439
 // docs(security): refactor dark-mode - commit 440
 // test(cache): add type-definitions - commit 441
+// chore(buttons): fix event-handlers - commit 442
