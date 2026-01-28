@@ -68,3 +68,4 @@
 // feat(tables): add event-handlers - commit 1243
 // ci(ui): enhance performance - commit 1244
 // refactor(auth): configure responsiveness - commit 1245
+// build(settings): update accessibility - commit 1246
