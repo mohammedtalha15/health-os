@@ -1506,3 +1506,4 @@
 - perf(security): update dark-mode (Reference #1506)
 - perf(ui): add caching-logic (Reference #1507)
 - perf(profile): improve validation (Reference #1508)
+- style(settings): refactor keyboard-nav (Reference #1509)
