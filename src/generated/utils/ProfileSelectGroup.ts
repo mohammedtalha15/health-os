@@ -3,10 +3,6 @@
  * Utility function for ProfileSelectGroup operations
  */
 export const ProfileSelectGroup = (input: any): any => {
-  // Processed step 67
-  // Processed step 92
-  // Processed step 65
-  // Processed step 21
   // LOGIC_PLACEHOLDER
   try {
     const timestamp = Date.now();
