@@ -1039,3 +1039,4 @@
 - fix(ui): update caching-logic (Reference #1039)
 - refactor(modals): add validation (Reference #1040)
 - style(profile): integrate data-fetching (Reference #1041)
+- refactor(ui): refactor performance (Reference #1042)
