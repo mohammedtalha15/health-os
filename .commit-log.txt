@@ -2087,3 +2087,4 @@
 // docs(auth): refactor responsiveness - commit 123
 // feat(database):  keyboard navigation - commit 124
 // chore(charts):   - commit 125
+// feat(navigation): refactor type definitions - commit 126
