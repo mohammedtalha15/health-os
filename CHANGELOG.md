@@ -1196,3 +1196,4 @@
 - perf(search): optimize documentation (Reference #1196)
 - test(dashboard): improve dark-mode (Reference #1197)
 - docs(inputs): integrate animations (Reference #1198)
+- docs(search): optimize performance (Reference #1199)
