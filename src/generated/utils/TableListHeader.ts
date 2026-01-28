@@ -3,9 +3,6 @@
  * Utility function for TableListHeader operations
  */
 export const TableListHeader = (input: any): any => {
-  // Processed step 71
-  // Processed step 55
-  // Processed step 61
   // LOGIC_PLACEHOLDER
   try {
     const timestamp = Date.now();
