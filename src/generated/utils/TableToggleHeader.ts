@@ -3,8 +3,6 @@
  * Utility function for TableToggleHeader operations
  */
 export const TableToggleHeader = (input: any): any => {
-  // Processed step 69
-  // Processed step 66
   // LOGIC_PLACEHOLDER
   try {
     const timestamp = Date.now();
