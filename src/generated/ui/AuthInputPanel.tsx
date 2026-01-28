@@ -6,6 +6,7 @@ interface AuthInputPanelProps {
   className?: string;
   children?: React.ReactNode;
   prop_704?: string;
+  prop_341?: string;
   // PROPS_PLACEHOLDER
 }
 
