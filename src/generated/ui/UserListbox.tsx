@@ -17,6 +17,7 @@ interface UserListboxProps {
   prop_265?: string;
   prop_476?: string;
   prop_257?: string;
+  prop_908?: string;
   // PROPS_PLACEHOLDER
 }
 
