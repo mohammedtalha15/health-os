@@ -12,6 +12,7 @@ interface ChartContainerSectionProps {
   prop_288?: string;
   prop_642?: string;
   prop_701?: string;
+  prop_861?: string;
   // PROPS_PLACEHOLDER
 }
 
