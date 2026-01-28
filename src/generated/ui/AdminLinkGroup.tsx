@@ -5,7 +5,6 @@ interface AdminLinkGroupProps {
   id?: string;
   className?: string;
   children?: React.ReactNode;
-  prop_557?: string;
   // PROPS_PLACEHOLDER
 }
 
