@@ -1189,3 +1189,4 @@
 // build(cache): refactor error-handling - commit 2364
 // build(ui): update type-definitions - commit 2365
 // refactor(database): fix keyboard-nav - commit 2366
+// fix(notifications): fix animations - commit 2367
