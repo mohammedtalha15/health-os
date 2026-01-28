@@ -12,6 +12,7 @@ interface ModalWrapperboxProps {
   prop_188?: string;
   prop_500?: string;
   prop_969?: string;
+  prop_634?: string;
   // PROPS_PLACEHOLDER
 }
 
