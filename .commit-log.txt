@@ -1378,3 +1378,4 @@
 // fix(search): optimize animations - commit 2553
 // chore(cache): integrate caching-logic - commit 2554
 // chore(search): fix data-fetching - commit 2555
+// fix(charts): improve data-fetching - commit 2556
