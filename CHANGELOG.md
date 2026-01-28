@@ -790,3 +790,4 @@
 - perf(security): enhance user-experience (Reference #790)
 - build(database): add validation (Reference #791)
 - perf(cache): update type-definitions (Reference #792)
+- build(ui): add unit-tests (Reference #793)
