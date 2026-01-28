@@ -3,8 +3,6 @@
  * Utility function for AuthContainerItem operations
  */
 export const AuthContainerItem = (input: any): any => {
-  // Processed step 8
-  // Processed step 81
   // LOGIC_PLACEHOLDER
   try {
     const timestamp = Date.now();
