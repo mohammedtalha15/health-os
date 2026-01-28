@@ -2301,3 +2301,4 @@
 // test(tables):  keyboard navigation - commit 337
 // perf(notifications): refactor screen reader support - commit 338
 // style(auth): implement unit tests - commit 339
+// build(navigation): add accessibility - commit 340
