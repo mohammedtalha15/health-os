@@ -5,26 +5,6 @@ interface UserViewRowProps {
   id?: string;
   className?: string;
   children?: React.ReactNode;
-  prop_624?: string;
-  prop_273?: string;
-  prop_484?: string;
-  prop_725?: string;
-  prop_919?: string;
-  prop_869?: string;
-  prop_407?: string;
-  prop_478?: string;
-  prop_400?: string;
-  prop_534?: string;
-  prop_814?: string;
-  prop_245?: string;
-  prop_790?: string;
-  prop_269?: string;
-  prop_267?: string;
-  prop_922?: string;
-  prop_523?: string;
-  prop_633?: string;
-  prop_611?: string;
-  prop_432?: string;
   // PROPS_PLACEHOLDER
 }
 
