@@ -17,6 +17,7 @@ interface SettingsDataFooterProps {
   prop_126?: string;
   prop_412?: string;
   prop_545?: string;
+  prop_959?: string;
   // PROPS_PLACEHOLDER
 }
 
