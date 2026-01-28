@@ -159,3 +159,4 @@
 // test(dashboard): optimize mobile-support - commit 1107
 // docs(analytics): add keyboard-nav - commit 1108
 // refactor(security): improve caching-logic - commit 1109
+// feat(dashboard): configure unit-tests - commit 1110
