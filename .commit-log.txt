@@ -484,3 +484,4 @@
 // fix(security): implement state-management - commit 1659
 // chore(inputs): add mobile-support - commit 1660
 // docs(notifications): fix unit-tests - commit 1661
+// test(forms): add animations - commit 1662
