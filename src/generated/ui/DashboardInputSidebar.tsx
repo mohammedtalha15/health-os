@@ -8,6 +8,7 @@ interface DashboardInputSidebarProps {
   prop_585?: string;
   prop_170?: string;
   prop_724?: string;
+  prop_709?: string;
   // PROPS_PLACEHOLDER
 }
 
