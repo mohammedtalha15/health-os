@@ -10,6 +10,7 @@ interface AdminLinkPanelProps {
   prop_650?: string;
   prop_832?: string;
   prop_597?: string;
+  prop_523?: string;
   // PROPS_PLACEHOLDER
 }
 
