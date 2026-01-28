@@ -7,6 +7,7 @@ interface SettingsWrapperRowProps {
   children?: React.ReactNode;
   prop_707?: string;
   prop_863?: string;
+  prop_692?: string;
   // PROPS_PLACEHOLDER
 }
 
