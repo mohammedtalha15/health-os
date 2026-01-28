@@ -6,6 +6,7 @@ interface ChartWrapperSectionProps {
   className?: string;
   children?: React.ReactNode;
   prop_704?: string;
+  prop_553?: string;
   // PROPS_PLACEHOLDER
 }
 
