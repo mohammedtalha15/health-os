@@ -7,6 +7,7 @@ interface AuthDataItemProps {
   children?: React.ReactNode;
   prop_331?: string;
   prop_329?: string;
+  prop_499?: string;
   // PROPS_PLACEHOLDER
 }
 
