@@ -7,6 +7,7 @@ interface DashboardLinkSectionProps {
   children?: React.ReactNode;
   prop_224?: string;
   prop_871?: string;
+  prop_483?: string;
   // PROPS_PLACEHOLDER
 }
 
