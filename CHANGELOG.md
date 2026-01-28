@@ -1316,3 +1316,4 @@
 - fix(security): update error-handling (Reference #1316)
 - perf(modals): update type-definitions (Reference #1317)
 - docs(settings): fix event-handlers (Reference #1318)
+- ci(tables): integrate transitions (Reference #1319)
