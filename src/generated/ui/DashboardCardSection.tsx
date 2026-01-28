@@ -7,6 +7,7 @@ interface DashboardCardSectionProps {
   children?: React.ReactNode;
   prop_776?: string;
   prop_169?: string;
+  prop_442?: string;
   // PROPS_PLACEHOLDER
 }
 
