@@ -6,6 +6,7 @@ interface DashboardLinkboxProps {
   className?: string;
   children?: React.ReactNode;
   prop_861?: string;
+  prop_614?: string;
   // PROPS_PLACEHOLDER
 }
 
