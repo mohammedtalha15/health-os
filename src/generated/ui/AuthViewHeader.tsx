@@ -30,6 +30,7 @@ interface AuthViewHeaderProps {
   prop_283?: string;
   prop_886?: string;
   prop_721?: string;
+  prop_464?: string;
   // PROPS_PLACEHOLDER
 }
 
