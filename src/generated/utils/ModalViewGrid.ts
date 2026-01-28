@@ -3,9 +3,6 @@
  * Utility function for ModalViewGrid operations
  */
 export const ModalViewGrid = (input: any): any => {
-  // Processed step 16
-  // Processed step 24
-  // Processed step 33
   // LOGIC_PLACEHOLDER
   try {
     const timestamp = Date.now();
