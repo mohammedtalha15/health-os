@@ -15,6 +15,7 @@ interface SettingsListHeaderProps {
   prop_728?: string;
   prop_570?: string;
   prop_261?: string;
+  prop_612?: string;
   // PROPS_PLACEHOLDER
 }
 
