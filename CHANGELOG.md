@@ -702,3 +702,4 @@
 - docs(search): integrate performance (Reference #702)
 - test(settings): enhance unit-tests (Reference #703)
 - feat(auth): configure state-management (Reference #704)
+- test(modals): add state-management (Reference #705)
