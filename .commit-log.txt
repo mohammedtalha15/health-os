@@ -2743,3 +2743,4 @@
 // perf(api): configure mobile-support - commit 271
 // perf(ui): fix caching-logic - commit 272
 // refactor(modals): update unit-tests - commit 273
+// build(ui): fix code-quality - commit 274
