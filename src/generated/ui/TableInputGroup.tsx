@@ -7,6 +7,7 @@ interface TableInputGroupProps {
   children?: React.ReactNode;
   prop_206?: string;
   prop_926?: string;
+  prop_670?: string;
   // PROPS_PLACEHOLDER
 }
 
