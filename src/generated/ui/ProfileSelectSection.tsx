@@ -5,6 +5,7 @@ interface ProfileSelectSectionProps {
   id?: string;
   className?: string;
   children?: React.ReactNode;
+  prop_940?: string;
   // PROPS_PLACEHOLDER
 }
 
