@@ -856,3 +856,4 @@
 - build(database): add keyboard-nav (Reference #856)
 - ci(inputs): configure transitions (Reference #857)
 - fix(forms): refactor transitions (Reference #858)
+- docs(settings): improve responsiveness (Reference #859)
