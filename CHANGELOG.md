@@ -115,3 +115,4 @@
 - feat(security): implement data-fetching (Reference #115)
 - perf(ui): fix mobile-support (Reference #116)
 - feat(dashboard): update user-experience (Reference #117)
+- style(profile): improve error-handling (Reference #118)
