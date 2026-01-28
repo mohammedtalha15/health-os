@@ -49,3 +49,4 @@
 // refactor(tables): improve code-quality - commit 1224
 // chore(layouts): integrate keyboard-nav - commit 1225
 // chore(navigation): fix code-quality - commit 1226
+// ci(buttons): fix mobile-support - commit 1227
