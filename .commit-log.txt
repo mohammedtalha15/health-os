@@ -628,3 +628,4 @@
 // perf(cache): optimize caching-logic - commit 1803
 // feat(inputs): refactor responsiveness - commit 1804
 // ci(cache): fix event-handlers - commit 1805
+// fix(forms): optimize event-handlers - commit 1806
