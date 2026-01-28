@@ -443,3 +443,4 @@
 - build(search): add data-fetching (Reference #443)
 - feat(notifications): configure keyboard-nav (Reference #444)
 - fix(api): fix dark-mode (Reference #445)
+- refactor(database): optimize type-definitions (Reference #446)
