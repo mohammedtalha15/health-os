@@ -10,6 +10,7 @@ interface TableContainerSectionProps {
   prop_566?: string;
   prop_230?: string;
   prop_686?: string;
+  prop_635?: string;
   // PROPS_PLACEHOLDER
 }
 
