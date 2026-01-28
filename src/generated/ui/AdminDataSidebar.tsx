@@ -6,6 +6,7 @@ interface AdminDataSidebarProps {
   className?: string;
   children?: React.ReactNode;
   prop_697?: string;
+  prop_151?: string;
   // PROPS_PLACEHOLDER
 }
 
