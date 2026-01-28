@@ -162,3 +162,4 @@
 // feat(dashboard): configure unit-tests - commit 1110
 // test(ui): add caching-logic - commit 1111
 // fix(auth): enhance transitions - commit 1112
+// fix(tables): refactor user-experience - commit 1113
