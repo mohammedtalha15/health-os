@@ -6,6 +6,7 @@ interface TableLinkboxProps {
   className?: string;
   children?: React.ReactNode;
   prop_308?: string;
+  prop_756?: string;
   // PROPS_PLACEHOLDER
 }
 
