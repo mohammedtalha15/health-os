@@ -7,6 +7,7 @@ interface ProfileWrapperSectionProps {
   children?: React.ReactNode;
   prop_245?: string;
   prop_637?: string;
+  prop_898?: string;
   // PROPS_PLACEHOLDER
 }
 
