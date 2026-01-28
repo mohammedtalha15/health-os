@@ -9,6 +9,7 @@ interface AdminDataSidebarProps {
   prop_810?: string;
   prop_702?: string;
   prop_804?: string;
+  prop_816?: string;
   // PROPS_PLACEHOLDER
 }
 
