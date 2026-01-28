@@ -3,10 +3,6 @@
  * Utility function for SettingsWrapperPanel operations
  */
 export const SettingsWrapperPanel = (input: any): any => {
-  // Processed step 54
-  // Processed step 79
-  // Processed step 39
-  // Processed step 46
   // LOGIC_PLACEHOLDER
   try {
     const timestamp = Date.now();
