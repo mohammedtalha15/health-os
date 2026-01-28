@@ -6,6 +6,7 @@ interface ModalInputboxProps {
   className?: string;
   children?: React.ReactNode;
   prop_466?: string;
+  prop_978?: string;
   // PROPS_PLACEHOLDER
 }
 
