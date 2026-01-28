@@ -134,3 +134,4 @@
 - perf(forms): implement mobile-support (Reference #134)
 - test(database): implement code-quality (Reference #135)
 - feat(tables): configure documentation (Reference #136)
+- chore(modals): improve responsiveness (Reference #137)
