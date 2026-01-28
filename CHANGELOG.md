@@ -1057,3 +1057,4 @@
 - ci(modals): update transitions (Reference #1057)
 - docs(tables): improve error-handling (Reference #1058)
 - ci(navigation): refactor responsiveness (Reference #1059)
+- docs(layouts): configure event-handlers (Reference #1060)
