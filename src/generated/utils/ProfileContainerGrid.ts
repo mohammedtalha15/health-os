@@ -3,8 +3,6 @@
  * Utility function for ProfileContainerGrid operations
  */
 export const ProfileContainerGrid = (input: any): any => {
-  // Processed step 72
-  // Processed step 35
   // LOGIC_PLACEHOLDER
   try {
     const timestamp = Date.now();
