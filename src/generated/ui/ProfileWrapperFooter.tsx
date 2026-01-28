@@ -5,11 +5,6 @@ interface ProfileWrapperFooterProps {
   id?: string;
   className?: string;
   children?: React.ReactNode;
-  prop_265?: string;
-  prop_918?: string;
-  prop_600?: string;
-  prop_156?: string;
-  prop_518?: string;
   // PROPS_PLACEHOLDER
 }
 
