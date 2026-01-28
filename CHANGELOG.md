@@ -1148,3 +1148,4 @@
 - style(database): improve error-handling (Reference #1148)
 - perf(layouts): optimize accessibility (Reference #1149)
 - style(dashboard): enhance responsiveness (Reference #1150)
+- docs(profile): add event-handlers (Reference #1151)
