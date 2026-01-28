@@ -715,3 +715,4 @@
 // feat(search): optimize loading-states - commit 1890
 // chore(profile): implement error-handling - commit 1891
 // perf(cache): optimize documentation - commit 1892
+// feat(api): refactor loading-states - commit 1893
