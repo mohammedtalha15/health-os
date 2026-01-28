@@ -6,6 +6,7 @@ interface UserInputHeaderProps {
   className?: string;
   children?: React.ReactNode;
   prop_774?: string;
+  prop_300?: string;
   // PROPS_PLACEHOLDER
 }
 
