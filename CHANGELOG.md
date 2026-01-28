@@ -250,3 +250,4 @@
 - build(security): add validation (Reference #250)
 - docs(settings): fix mobile-support (Reference #251)
 - fix(search): fix dark-mode (Reference #252)
+- test(database): configure error-handling (Reference #253)
