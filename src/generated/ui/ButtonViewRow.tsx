@@ -10,6 +10,7 @@ interface ButtonViewRowProps {
   prop_106?: string;
   prop_812?: string;
   prop_389?: string;
+  prop_126?: string;
   // PROPS_PLACEHOLDER
 }
 
