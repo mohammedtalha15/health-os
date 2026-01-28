@@ -6,6 +6,7 @@ interface ModalLinkPanelProps {
   className?: string;
   children?: React.ReactNode;
   prop_314?: string;
+  prop_117?: string;
   // PROPS_PLACEHOLDER
 }
 
