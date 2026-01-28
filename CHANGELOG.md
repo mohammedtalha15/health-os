@@ -85,3 +85,4 @@
 - ci(database): optimize keyboard-nav (Reference #85)
 - perf(navigation): update animations (Reference #86)
 - feat(api): update performance (Reference #87)
+- chore(charts): refactor validation (Reference #88)
