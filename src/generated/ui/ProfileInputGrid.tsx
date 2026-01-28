@@ -16,6 +16,7 @@ interface ProfileInputGridProps {
   prop_380?: string;
   prop_619?: string;
   prop_304?: string;
+  prop_286?: string;
   // PROPS_PLACEHOLDER
 }
 
