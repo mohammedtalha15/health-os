@@ -5,12 +5,6 @@ interface UserToggleboxProps {
   id?: string;
   className?: string;
   children?: React.ReactNode;
-  prop_162?: string;
-  prop_414?: string;
-  prop_921?: string;
-  prop_157?: string;
-  prop_733?: string;
-  prop_307?: string;
   // PROPS_PLACEHOLDER
 }
 
