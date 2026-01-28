@@ -1351,3 +1351,4 @@
 // docs(charts): optimize event-handlers - commit 2526
 // chore(inputs): enhance data-fetching - commit 2527
 // docs(api): optimize keyboard-nav - commit 2528
+// perf(ui): fix error-handling - commit 2529
