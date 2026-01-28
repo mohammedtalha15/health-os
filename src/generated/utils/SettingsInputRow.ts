@@ -3,9 +3,6 @@
  * Utility function for SettingsInputRow operations
  */
 export const SettingsInputRow = (input: any): any => {
-  // Processed step 54
-  // Processed step 49
-  // Processed step 79
   // LOGIC_PLACEHOLDER
   try {
     const timestamp = Date.now();
