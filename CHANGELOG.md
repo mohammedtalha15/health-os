@@ -1334,3 +1334,4 @@
 - perf(ui): implement performance (Reference #1334)
 - style(cache): add type-definitions (Reference #1335)
 - style(dashboard): configure code-quality (Reference #1336)
+- feat(profile): enhance mobile-support (Reference #1337)
