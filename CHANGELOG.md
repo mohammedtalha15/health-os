@@ -519,3 +519,4 @@
 - chore(inputs): configure error-handling (Reference #519)
 - docs(modals): configure animations (Reference #520)
 - fix(inputs): update documentation (Reference #521)
+- test(settings): integrate unit-tests (Reference #522)
