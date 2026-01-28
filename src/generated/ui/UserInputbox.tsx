@@ -17,6 +17,7 @@ interface UserInputboxProps {
   prop_544?: string;
   prop_804?: string;
   prop_971?: string;
+  prop_771?: string;
   // PROPS_PLACEHOLDER
 }
 
