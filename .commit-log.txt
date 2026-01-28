@@ -1313,3 +1313,4 @@
 // feat(modals): implement caching-logic - commit 2488
 // ci(cache): integrate keyboard-nav - commit 2489
 // fix(search): update data-fetching - commit 2490
+// build(charts): optimize responsiveness - commit 2491
