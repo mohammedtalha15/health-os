@@ -14,6 +14,7 @@ export const ChartSelectGroup = (input: any): any => {
   // Processed step 15
   // Processed step 31
   // Processed step 38
+  // Processed step 20
   // LOGIC_PLACEHOLDER
   try {
     const timestamp = Date.now();
