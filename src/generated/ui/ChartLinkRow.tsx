@@ -6,6 +6,7 @@ interface ChartLinkRowProps {
   className?: string;
   children?: React.ReactNode;
   prop_542?: string;
+  prop_209?: string;
   // PROPS_PLACEHOLDER
 }
 
