@@ -5,17 +5,6 @@ interface ButtonWrapperPanelProps {
   id?: string;
   className?: string;
   children?: React.ReactNode;
-  prop_594?: string;
-  prop_594?: string;
-  prop_781?: string;
-  prop_857?: string;
-  prop_282?: string;
-  prop_326?: string;
-  prop_738?: string;
-  prop_946?: string;
-  prop_421?: string;
-  prop_651?: string;
-  prop_422?: string;
   // PROPS_PLACEHOLDER
 }
 
