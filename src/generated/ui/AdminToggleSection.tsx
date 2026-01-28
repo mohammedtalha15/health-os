@@ -7,6 +7,7 @@ interface AdminToggleSectionProps {
   children?: React.ReactNode;
   prop_252?: string;
   prop_182?: string;
+  prop_103?: string;
   // PROPS_PLACEHOLDER
 }
 
