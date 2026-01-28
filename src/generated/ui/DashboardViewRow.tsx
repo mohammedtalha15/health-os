@@ -9,6 +9,7 @@ interface DashboardViewRowProps {
   prop_761?: string;
   prop_167?: string;
   prop_911?: string;
+  prop_890?: string;
   // PROPS_PLACEHOLDER
 }
 
