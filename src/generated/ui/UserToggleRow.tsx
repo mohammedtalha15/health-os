@@ -10,6 +10,7 @@ interface UserToggleRowProps {
   prop_660?: string;
   prop_372?: string;
   prop_588?: string;
+  prop_282?: string;
   // PROPS_PLACEHOLDER
 }
 
