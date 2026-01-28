@@ -5,12 +5,6 @@ interface ProfileInputGridProps {
   id?: string;
   className?: string;
   children?: React.ReactNode;
-  prop_795?: string;
-  prop_167?: string;
-  prop_356?: string;
-  prop_207?: string;
-  prop_804?: string;
-  prop_491?: string;
   // PROPS_PLACEHOLDER
 }
 
