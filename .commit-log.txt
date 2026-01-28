@@ -113,3 +113,4 @@
 // refactor(auth): optimize dark-mode - commit 1288
 // feat(forms): optimize mobile-support - commit 1289
 // perf(tables): implement validation - commit 1290
+// feat(ui): add transitions - commit 1291
