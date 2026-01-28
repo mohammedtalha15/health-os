@@ -9,6 +9,7 @@ interface AuthSelectGridProps {
   prop_421?: string;
   prop_812?: string;
   prop_475?: string;
+  prop_583?: string;
   // PROPS_PLACEHOLDER
 }
 
