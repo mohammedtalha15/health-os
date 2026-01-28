@@ -9,6 +9,7 @@ interface ProfileContainerHeaderProps {
   prop_778?: string;
   prop_416?: string;
   prop_736?: string;
+  prop_638?: string;
   // PROPS_PLACEHOLDER
 }
 
