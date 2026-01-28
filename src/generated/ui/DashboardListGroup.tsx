@@ -10,6 +10,7 @@ interface DashboardListGroupProps {
   prop_268?: string;
   prop_542?: string;
   prop_977?: string;
+  prop_401?: string;
   // PROPS_PLACEHOLDER
 }
 
