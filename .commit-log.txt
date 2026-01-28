@@ -321,3 +321,4 @@
 // style(notifications): enhance performance - commit 1496
 // build(tables): update dark-mode - commit 1497
 // docs(charts): add keyboard-nav - commit 1498
+// ci(api): refactor error-handling - commit 1499
