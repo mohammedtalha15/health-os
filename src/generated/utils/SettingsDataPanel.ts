@@ -3,8 +3,6 @@
  * Utility function for SettingsDataPanel operations
  */
 export const SettingsDataPanel = (input: any): any => {
-  // Processed step 82
-  // Processed step 21
   // LOGIC_PLACEHOLDER
   try {
     const timestamp = Date.now();
