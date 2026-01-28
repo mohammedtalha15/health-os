@@ -10,6 +10,7 @@ interface DashboardContainerItemProps {
   prop_328?: string;
   prop_569?: string;
   prop_605?: string;
+  prop_709?: string;
   // PROPS_PLACEHOLDER
 }
 
