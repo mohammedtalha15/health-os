@@ -7,6 +7,7 @@ interface AdminSelectItemProps {
   children?: React.ReactNode;
   prop_617?: string;
   prop_124?: string;
+  prop_863?: string;
   // PROPS_PLACEHOLDER
 }
 
