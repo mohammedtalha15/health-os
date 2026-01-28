@@ -9,6 +9,7 @@ interface ModalWrapperHeaderProps {
   prop_745?: string;
   prop_488?: string;
   prop_560?: string;
+  prop_836?: string;
   // PROPS_PLACEHOLDER
 }
 
