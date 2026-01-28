@@ -149,3 +149,4 @@
 - chore(database): update state-management (Reference #149)
 - build(search): improve caching-logic (Reference #150)
 - docs(navigation): enhance user-experience (Reference #151)
+- feat(dashboard): configure error-handling (Reference #152)
