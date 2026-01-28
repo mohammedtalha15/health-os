@@ -224,3 +224,4 @@
 - perf(profile): improve state-management (Reference #224)
 - style(inputs): implement user-experience (Reference #225)
 - build(navigation): fix type-definitions (Reference #226)
+- style(modals): update performance (Reference #227)
