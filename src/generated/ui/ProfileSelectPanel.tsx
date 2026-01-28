@@ -7,6 +7,7 @@ interface ProfileSelectPanelProps {
   children?: React.ReactNode;
   prop_135?: string;
   prop_377?: string;
+  prop_455?: string;
   // PROPS_PLACEHOLDER
 }
 
