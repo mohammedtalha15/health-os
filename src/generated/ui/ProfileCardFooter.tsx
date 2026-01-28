@@ -6,6 +6,7 @@ interface ProfileCardFooterProps {
   className?: string;
   children?: React.ReactNode;
   prop_891?: string;
+  prop_564?: string;
   // PROPS_PLACEHOLDER
 }
 
