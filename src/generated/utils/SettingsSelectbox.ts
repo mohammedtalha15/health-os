@@ -3,8 +3,6 @@
  * Utility function for SettingsSelectbox operations
  */
 export const SettingsSelectbox = (input: any): any => {
-  // Processed step 7
-  // Processed step 7
   // LOGIC_PLACEHOLDER
   try {
     const timestamp = Date.now();
