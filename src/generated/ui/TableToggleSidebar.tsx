@@ -5,19 +5,6 @@ interface TableToggleSidebarProps {
   id?: string;
   className?: string;
   children?: React.ReactNode;
-  prop_213?: string;
-  prop_946?: string;
-  prop_207?: string;
-  prop_919?: string;
-  prop_831?: string;
-  prop_537?: string;
-  prop_376?: string;
-  prop_438?: string;
-  prop_781?: string;
-  prop_165?: string;
-  prop_617?: string;
-  prop_213?: string;
-  prop_681?: string;
   // PROPS_PLACEHOLDER
 }
 
