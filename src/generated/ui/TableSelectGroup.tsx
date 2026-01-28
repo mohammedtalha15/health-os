@@ -5,11 +5,6 @@ interface TableSelectGroupProps {
   id?: string;
   className?: string;
   children?: React.ReactNode;
-  prop_275?: string;
-  prop_697?: string;
-  prop_311?: string;
-  prop_743?: string;
-  prop_532?: string;
   // PROPS_PLACEHOLDER
 }
 
