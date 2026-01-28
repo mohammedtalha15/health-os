@@ -8,6 +8,7 @@ interface ChartSelectRowProps {
   prop_592?: string;
   prop_376?: string;
   prop_186?: string;
+  prop_704?: string;
   // PROPS_PLACEHOLDER
 }
 
