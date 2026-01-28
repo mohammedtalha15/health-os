@@ -186,3 +186,4 @@
 - style(search): implement documentation (Reference #186)
 - perf(layouts): fix state-management (Reference #187)
 - style(database): update responsiveness (Reference #188)
+- chore(database): implement documentation (Reference #189)
