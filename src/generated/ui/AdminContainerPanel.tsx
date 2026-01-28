@@ -9,6 +9,7 @@ interface AdminContainerPanelProps {
   prop_693?: string;
   prop_388?: string;
   prop_741?: string;
+  prop_179?: string;
   // PROPS_PLACEHOLDER
 }
 
