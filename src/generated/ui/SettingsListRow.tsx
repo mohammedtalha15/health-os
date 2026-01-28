@@ -5,15 +5,6 @@ interface SettingsListRowProps {
   id?: string;
   className?: string;
   children?: React.ReactNode;
-  prop_676?: string;
-  prop_701?: string;
-  prop_752?: string;
-  prop_631?: string;
-  prop_667?: string;
-  prop_301?: string;
-  prop_348?: string;
-  prop_386?: string;
-  prop_477?: string;
   // PROPS_PLACEHOLDER
 }
 
