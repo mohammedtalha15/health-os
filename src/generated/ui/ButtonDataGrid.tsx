@@ -8,6 +8,7 @@ interface ButtonDataGridProps {
   prop_161?: string;
   prop_788?: string;
   prop_132?: string;
+  prop_902?: string;
   // PROPS_PLACEHOLDER
 }
 
