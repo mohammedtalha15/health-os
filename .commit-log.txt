@@ -2469,3 +2469,4 @@
 // test(tables): add  - commit 505
 // test(modals): configure state management - commit 506
 // test(navigation): update validation - commit 507
+// feat(tables): update keyboard navigation - commit 508
