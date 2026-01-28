@@ -7,6 +7,7 @@ interface ModalToggleSectionProps {
   children?: React.ReactNode;
   prop_342?: string;
   prop_938?: string;
+  prop_933?: string;
   // PROPS_PLACEHOLDER
 }
 
