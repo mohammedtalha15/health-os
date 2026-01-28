@@ -6,6 +6,7 @@ interface ModalToggleboxProps {
   className?: string;
   children?: React.ReactNode;
   prop_560?: string;
+  prop_974?: string;
   // PROPS_PLACEHOLDER
 }
 
