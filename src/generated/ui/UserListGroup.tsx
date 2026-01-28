@@ -23,6 +23,7 @@ interface UserListGroupProps {
   prop_936?: string;
   prop_237?: string;
   prop_389?: string;
+  prop_660?: string;
   // PROPS_PLACEHOLDER
 }
 
