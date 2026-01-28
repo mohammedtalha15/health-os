@@ -14,6 +14,7 @@ interface UserContainerGroupProps {
   prop_197?: string;
   prop_826?: string;
   prop_137?: string;
+  prop_676?: string;
   // PROPS_PLACEHOLDER
 }
 
