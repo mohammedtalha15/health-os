@@ -6,6 +6,7 @@ interface ChartSelectGroupProps {
   className?: string;
   children?: React.ReactNode;
   prop_559?: string;
+  prop_272?: string;
   // PROPS_PLACEHOLDER
 }
 
