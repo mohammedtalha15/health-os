@@ -2937,3 +2937,4 @@
 // fix(navigation): add responsiveness - commit 465
 // style(analytics): optimize transitions - commit 466
 // style(database): optimize error-handling - commit 467
+// fix(auth): fix type-definitions - commit 468
