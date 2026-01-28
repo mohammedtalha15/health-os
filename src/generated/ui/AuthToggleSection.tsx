@@ -10,6 +10,7 @@ interface AuthToggleSectionProps {
   prop_152?: string;
   prop_208?: string;
   prop_340?: string;
+  prop_473?: string;
   // PROPS_PLACEHOLDER
 }
 
