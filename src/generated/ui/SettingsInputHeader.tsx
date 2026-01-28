@@ -5,6 +5,7 @@ interface SettingsInputHeaderProps {
   id?: string;
   className?: string;
   children?: React.ReactNode;
+  prop_595?: string;
   // PROPS_PLACEHOLDER
 }
 
