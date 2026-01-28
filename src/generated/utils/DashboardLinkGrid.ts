@@ -3,10 +3,6 @@
  * Utility function for DashboardLinkGrid operations
  */
 export const DashboardLinkGrid = (input: any): any => {
-  // Processed step 66
-  // Processed step 69
-  // Processed step 39
-  // Processed step 15
   // LOGIC_PLACEHOLDER
   try {
     const timestamp = Date.now();
