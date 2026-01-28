@@ -1292,3 +1292,4 @@
 - fix(navigation): fix keyboard-nav (Reference #1292)
 - perf(profile): integrate transitions (Reference #1293)
 - build(modals): integrate user-experience (Reference #1294)
+- chore(charts): improve transitions (Reference #1295)
