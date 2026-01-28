@@ -3,11 +3,6 @@
  * Utility function for AuthListItem operations
  */
 export const AuthListItem = (input: any): any => {
-  // Processed step 22
-  // Processed step 38
-  // Processed step 13
-  // Processed step 1
-  // Processed step 54
   // LOGIC_PLACEHOLDER
   try {
     const timestamp = Date.now();
