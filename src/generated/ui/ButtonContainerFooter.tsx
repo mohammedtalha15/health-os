@@ -6,6 +6,7 @@ interface ButtonContainerFooterProps {
   className?: string;
   children?: React.ReactNode;
   prop_586?: string;
+  prop_694?: string;
   // PROPS_PLACEHOLDER
 }
 
