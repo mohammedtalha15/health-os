@@ -8,3 +8,4 @@
 - fix(notifications): configure mobile-support (Reference #8)
 - docs(settings): integrate keyboard-nav (Reference #9)
 - build(ui): refactor performance (Reference #10)
+- perf(api): fix validation (Reference #11)
