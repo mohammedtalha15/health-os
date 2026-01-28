@@ -12,6 +12,7 @@ interface SettingsToggleFooterProps {
   prop_765?: string;
   prop_669?: string;
   prop_495?: string;
+  prop_345?: string;
   // PROPS_PLACEHOLDER
 }
 
