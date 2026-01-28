@@ -5,6 +5,7 @@ interface ProfileLinkGridProps {
   id?: string;
   className?: string;
   children?: React.ReactNode;
+  prop_353?: string;
   // PROPS_PLACEHOLDER
 }
 
