@@ -1248,3 +1248,4 @@
 // docs(dashboard): integrate documentation - commit 2423
 // build(auth): refactor event-handlers - commit 2424
 // docs(ui): refactor animations - commit 2425
+// feat(modals): update responsiveness - commit 2426
