@@ -2522,3 +2522,4 @@
 // ci(search): enhance dark-mode - commit 50
 // refactor(forms): implement keyboard-nav - commit 51
 // chore(charts): refactor accessibility - commit 52
+// build(modals): update animations - commit 53
