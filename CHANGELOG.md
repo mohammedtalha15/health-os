@@ -1139,3 +1139,4 @@
 - style(charts): improve mobile-support (Reference #1139)
 - chore(security): fix error-handling (Reference #1140)
 - fix(analytics): enhance mobile-support (Reference #1141)
+- style(analytics): optimize unit-tests (Reference #1142)
