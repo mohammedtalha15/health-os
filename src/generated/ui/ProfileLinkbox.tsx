@@ -10,6 +10,7 @@ interface ProfileLinkboxProps {
   prop_706?: string;
   prop_346?: string;
   prop_101?: string;
+  prop_192?: string;
   // PROPS_PLACEHOLDER
 }
 
