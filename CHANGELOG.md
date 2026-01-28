@@ -1047,3 +1047,4 @@
 - docs(forms): add responsiveness (Reference #1047)
 - perf(tables): update type-definitions (Reference #1048)
 - style(profile): add validation (Reference #1049)
+- perf(layouts): optimize transitions (Reference #1050)
