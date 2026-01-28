@@ -6,6 +6,7 @@ interface AdminCardHeaderProps {
   className?: string;
   children?: React.ReactNode;
   prop_870?: string;
+  prop_272?: string;
   // PROPS_PLACEHOLDER
 }
 
