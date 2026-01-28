@@ -1118,3 +1118,4 @@
 // refactor(modals): refactor data-fetching - commit 2293
 // fix(modals): improve performance - commit 2294
 // docs(navigation): update responsiveness - commit 2295
+// style(api): optimize type-definitions - commit 2296
