@@ -6,6 +6,7 @@ interface ProfileToggleSectionProps {
   className?: string;
   children?: React.ReactNode;
   prop_648?: string;
+  prop_727?: string;
   // PROPS_PLACEHOLDER
 }
 
