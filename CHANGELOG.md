@@ -503,3 +503,4 @@
 - chore(tables): enhance accessibility (Reference #503)
 - feat(analytics): optimize user-experience (Reference #504)
 - perf(api): configure keyboard-nav (Reference #505)
+- perf(security): update user-experience (Reference #506)
