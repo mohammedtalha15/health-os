@@ -76,3 +76,4 @@
 - ci(inputs): configure performance (Reference #76)
 - test(modals): optimize error-handling (Reference #77)
 - feat(api): integrate unit-tests (Reference #78)
+- perf(security): refactor state-management (Reference #79)
