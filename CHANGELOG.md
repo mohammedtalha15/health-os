@@ -1408,3 +1408,4 @@
 - chore(settings): update accessibility (Reference #1408)
 - ci(tables): improve keyboard-nav (Reference #1409)
 - refactor(profile): refactor state-management (Reference #1410)
+- perf(ui): update keyboard-nav (Reference #1411)
