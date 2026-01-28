@@ -346,3 +346,4 @@
 // docs(auth): fix performance - commit 1521
 // build(inputs): update caching-logic - commit 1522
 // fix(database): update performance - commit 1523
+// perf(charts): refactor state-management - commit 1524
