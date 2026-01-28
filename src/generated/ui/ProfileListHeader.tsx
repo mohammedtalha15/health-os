@@ -15,6 +15,7 @@ interface ProfileListHeaderProps {
   prop_118?: string;
   prop_720?: string;
   prop_283?: string;
+  prop_500?: string;
   // PROPS_PLACEHOLDER
 }
 
