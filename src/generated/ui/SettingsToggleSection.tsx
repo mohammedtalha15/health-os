@@ -10,6 +10,7 @@ interface SettingsToggleSectionProps {
   prop_832?: string;
   prop_905?: string;
   prop_496?: string;
+  prop_580?: string;
   // PROPS_PLACEHOLDER
 }
 
