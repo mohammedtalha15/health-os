@@ -920,3 +920,4 @@
 - feat(charts): implement mobile-support (Reference #920)
 - refactor(dashboard): implement code-quality (Reference #921)
 - docs(search): improve performance (Reference #922)
+- feat(dashboard): add mobile-support (Reference #923)
