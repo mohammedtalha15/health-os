@@ -6,6 +6,7 @@ interface UserLinkFooterProps {
   className?: string;
   children?: React.ReactNode;
   prop_588?: string;
+  prop_479?: string;
   // PROPS_PLACEHOLDER
 }
 
