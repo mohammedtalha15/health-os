@@ -5,9 +5,6 @@ interface ButtonCardRowProps {
   id?: string;
   className?: string;
   children?: React.ReactNode;
-  prop_623?: string;
-  prop_920?: string;
-  prop_816?: string;
   // PROPS_PLACEHOLDER
 }
 
