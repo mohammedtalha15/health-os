@@ -14,6 +14,7 @@ interface AuthCardboxProps {
   prop_162?: string;
   prop_531?: string;
   prop_954?: string;
+  prop_667?: string;
   // PROPS_PLACEHOLDER
 }
 
