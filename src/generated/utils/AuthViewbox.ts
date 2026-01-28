@@ -3,8 +3,6 @@
  * Utility function for AuthViewbox operations
  */
 export const AuthViewbox = (input: any): any => {
-  // Processed step 43
-  // Processed step 66
   // LOGIC_PLACEHOLDER
   try {
     const timestamp = Date.now();
