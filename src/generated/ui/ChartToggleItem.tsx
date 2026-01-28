@@ -5,15 +5,6 @@ interface ChartToggleItemProps {
   id?: string;
   className?: string;
   children?: React.ReactNode;
-  prop_802?: string;
-  prop_847?: string;
-  prop_672?: string;
-  prop_355?: string;
-  prop_178?: string;
-  prop_567?: string;
-  prop_755?: string;
-  prop_503?: string;
-  prop_889?: string;
   // PROPS_PLACEHOLDER
 }
 
