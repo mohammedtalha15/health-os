@@ -3,9 +3,6 @@
  * Utility function for DashboardContainerSidebar operations
  */
 export const DashboardContainerSidebar = (input: any): any => {
-  // Processed step 58
-  // Processed step 19
-  // Processed step 37
   // LOGIC_PLACEHOLDER
   try {
     const timestamp = Date.now();
