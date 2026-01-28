@@ -359,3 +359,4 @@
 - docs(search): optimize documentation (Reference #359)
 - perf(security): integrate unit-tests (Reference #360)
 - perf(settings): refactor dark-mode (Reference #361)
+- fix(search): enhance performance (Reference #362)
