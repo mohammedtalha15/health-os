@@ -7,6 +7,7 @@ interface AuthContainerHeaderProps {
   children?: React.ReactNode;
   prop_874?: string;
   prop_717?: string;
+  prop_362?: string;
   // PROPS_PLACEHOLDER
 }
 
