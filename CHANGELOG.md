@@ -1425,3 +1425,4 @@
 - docs(cache): fix documentation (Reference #1425)
 - feat(dashboard): update validation (Reference #1426)
 - feat(forms): add event-handlers (Reference #1427)
+- refactor(modals): integrate unit-tests (Reference #1428)
