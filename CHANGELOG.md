@@ -1157,3 +1157,4 @@
 - fix(cache): add user-experience (Reference #1157)
 - chore(tables): update mobile-support (Reference #1158)
 - style(modals): fix code-quality (Reference #1159)
+- docs(security): integrate validation (Reference #1160)
