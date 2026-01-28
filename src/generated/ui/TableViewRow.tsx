@@ -12,6 +12,7 @@ interface TableViewRowProps {
   prop_367?: string;
   prop_287?: string;
   prop_108?: string;
+  prop_749?: string;
   // PROPS_PLACEHOLDER
 }
 
