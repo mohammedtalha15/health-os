@@ -753,3 +753,4 @@
 - build(forms): implement animations (Reference #753)
 - docs(security): integrate state-management (Reference #754)
 - feat(ui): refactor responsiveness (Reference #755)
+- perf(auth): refactor accessibility (Reference #756)
