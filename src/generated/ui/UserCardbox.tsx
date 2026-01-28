@@ -19,6 +19,7 @@ interface UserCardboxProps {
   prop_474?: string;
   prop_335?: string;
   prop_120?: string;
+  prop_827?: string;
   // PROPS_PLACEHOLDER
 }
 
