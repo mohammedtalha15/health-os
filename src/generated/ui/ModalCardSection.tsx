@@ -7,6 +7,7 @@ interface ModalCardSectionProps {
   children?: React.ReactNode;
   prop_941?: string;
   prop_856?: string;
+  prop_513?: string;
   // PROPS_PLACEHOLDER
 }
 
