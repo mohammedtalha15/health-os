@@ -1075,3 +1075,4 @@
 - build(buttons): improve loading-states (Reference #1075)
 - refactor(notifications): implement type-definitions (Reference #1076)
 - feat(settings): improve accessibility (Reference #1077)
+- perf(profile): optimize documentation (Reference #1078)
