@@ -2275,3 +2275,4 @@
 // chore(modals): implement accessibility - commit 311
 // (inputs): configure keyboard navigation - commit 312
 // refactor(api): refactor error handling - commit 313
+// test(search): fix type definitions - commit 314
