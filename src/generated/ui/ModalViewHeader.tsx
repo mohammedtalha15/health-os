@@ -7,6 +7,7 @@ interface ModalViewHeaderProps {
   children?: React.ReactNode;
   prop_328?: string;
   prop_753?: string;
+  prop_107?: string;
   // PROPS_PLACEHOLDER
 }
 
