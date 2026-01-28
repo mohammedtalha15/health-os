@@ -14,6 +14,7 @@ interface ButtonContainerSectionProps {
   prop_687?: string;
   prop_268?: string;
   prop_746?: string;
+  prop_270?: string;
   // PROPS_PLACEHOLDER
 }
 
