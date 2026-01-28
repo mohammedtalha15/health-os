@@ -9,6 +9,7 @@ interface AuthCardHeaderProps {
   prop_784?: string;
   prop_311?: string;
   prop_827?: string;
+  prop_837?: string;
   // PROPS_PLACEHOLDER
 }
 
