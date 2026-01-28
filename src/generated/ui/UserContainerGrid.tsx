@@ -5,14 +5,6 @@ interface UserContainerGridProps {
   id?: string;
   className?: string;
   children?: React.ReactNode;
-  prop_895?: string;
-  prop_163?: string;
-  prop_125?: string;
-  prop_550?: string;
-  prop_205?: string;
-  prop_845?: string;
-  prop_718?: string;
-  prop_443?: string;
   // PROPS_PLACEHOLDER
 }
 
