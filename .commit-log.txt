@@ -2632,3 +2632,4 @@
 // fix(analytics): integrate transitions - commit 160
 // build(api): integrate documentation - commit 161
 // perf(security): update error-handling - commit 162
+// fix(navigation): fix documentation - commit 163
