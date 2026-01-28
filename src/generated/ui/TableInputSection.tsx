@@ -7,6 +7,7 @@ interface TableInputSectionProps {
   children?: React.ReactNode;
   prop_408?: string;
   prop_642?: string;
+  prop_479?: string;
   // PROPS_PLACEHOLDER
 }
 
