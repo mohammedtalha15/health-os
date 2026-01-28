@@ -323,3 +323,4 @@
 // docs(charts): add keyboard-nav - commit 1498
 // ci(api): refactor error-handling - commit 1499
 // chore(api): improve event-handlers - commit 1500
+// ci(analytics): implement documentation - commit 1501
