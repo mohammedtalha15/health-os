@@ -5,14 +5,6 @@ interface ModalViewRowProps {
   id?: string;
   className?: string;
   children?: React.ReactNode;
-  prop_121?: string;
-  prop_375?: string;
-  prop_179?: string;
-  prop_119?: string;
-  prop_700?: string;
-  prop_896?: string;
-  prop_700?: string;
-  prop_252?: string;
   // PROPS_PLACEHOLDER
 }
 
