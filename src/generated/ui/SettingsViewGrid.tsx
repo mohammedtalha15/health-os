@@ -5,18 +5,6 @@ interface SettingsViewGridProps {
   id?: string;
   className?: string;
   children?: React.ReactNode;
-  prop_408?: string;
-  prop_208?: string;
-  prop_219?: string;
-  prop_701?: string;
-  prop_297?: string;
-  prop_116?: string;
-  prop_876?: string;
-  prop_139?: string;
-  prop_360?: string;
-  prop_880?: string;
-  prop_215?: string;
-  prop_516?: string;
   // PROPS_PLACEHOLDER
 }
 
