@@ -1074,3 +1074,4 @@
 // docs(database): optimize user-experience - commit 2249
 // fix(modals): optimize responsiveness - commit 2250
 // refactor(layouts): integrate animations - commit 2251
+// feat(buttons): integrate loading-states - commit 2252
