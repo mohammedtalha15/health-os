@@ -13,6 +13,7 @@ interface ModalContainerFooterProps {
   prop_387?: string;
   prop_579?: string;
   prop_239?: string;
+  prop_822?: string;
   // PROPS_PLACEHOLDER
 }
 
