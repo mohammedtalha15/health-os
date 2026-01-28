@@ -6,6 +6,7 @@ interface AuthToggleSectionProps {
   className?: string;
   children?: React.ReactNode;
   prop_223?: string;
+  prop_254?: string;
   // PROPS_PLACEHOLDER
 }
 
