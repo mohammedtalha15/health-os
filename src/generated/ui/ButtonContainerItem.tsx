@@ -13,6 +13,7 @@ interface ButtonContainerItemProps {
   prop_900?: string;
   prop_635?: string;
   prop_926?: string;
+  prop_823?: string;
   // PROPS_PLACEHOLDER
 }
 
