@@ -1261,3 +1261,4 @@
 // test(search): enhance loading-states - commit 2436
 // feat(charts): refactor documentation - commit 2437
 // build(layouts): enhance dark-mode - commit 2438
+// build(api): update documentation - commit 2439
