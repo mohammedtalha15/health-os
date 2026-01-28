@@ -1448,3 +1448,4 @@
 - ci(inputs): enhance loading-states (Reference #1448)
 - refactor(buttons): optimize user-experience (Reference #1449)
 - fix(settings): enhance keyboard-nav (Reference #1450)
+- style(dashboard): refactor documentation (Reference #1451)
