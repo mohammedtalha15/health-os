@@ -630,3 +630,4 @@
 - ci(layouts): integrate documentation (Reference #630)
 - feat(charts): add responsiveness (Reference #631)
 - fix(modals): fix mobile-support (Reference #632)
+- feat(search): integrate dark-mode (Reference #633)
