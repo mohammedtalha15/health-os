@@ -427,3 +427,4 @@
 // perf(charts): fix keyboard-nav - commit 1602
 // style(modals): refactor event-handlers - commit 1603
 // chore(api): fix user-experience - commit 1604
+// docs(security): fix loading-states - commit 1605
