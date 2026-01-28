@@ -10,6 +10,7 @@ interface AdminToggleSidebarProps {
   prop_993?: string;
   prop_360?: string;
   prop_355?: string;
+  prop_733?: string;
   // PROPS_PLACEHOLDER
 }
 
