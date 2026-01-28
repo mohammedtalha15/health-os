@@ -5,9 +5,6 @@ interface SettingsSelectItemProps {
   id?: string;
   className?: string;
   children?: React.ReactNode;
-  prop_185?: string;
-  prop_561?: string;
-  prop_949?: string;
   // PROPS_PLACEHOLDER
 }
 
