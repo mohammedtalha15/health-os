@@ -7,6 +7,7 @@ interface ChartToggleboxProps {
   children?: React.ReactNode;
   prop_686?: string;
   prop_859?: string;
+  prop_208?: string;
   // PROPS_PLACEHOLDER
 }
 
