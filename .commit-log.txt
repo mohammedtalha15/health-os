@@ -1124,3 +1124,4 @@
 // perf(modals): add performance - commit 2299
 // style(cache): update validation - commit 2300
 // docs(dashboard): fix mobile-support - commit 2301
+// test(inputs): fix keyboard-nav - commit 2302
