@@ -5,17 +5,6 @@ interface ChartCardRowProps {
   id?: string;
   className?: string;
   children?: React.ReactNode;
-  prop_569?: string;
-  prop_712?: string;
-  prop_642?: string;
-  prop_505?: string;
-  prop_192?: string;
-  prop_203?: string;
-  prop_442?: string;
-  prop_496?: string;
-  prop_574?: string;
-  prop_651?: string;
-  prop_199?: string;
   // PROPS_PLACEHOLDER
 }
 
