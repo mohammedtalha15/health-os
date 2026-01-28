@@ -728,3 +728,4 @@
 - chore(search): fix performance (Reference #728)
 - docs(buttons): integrate loading-states (Reference #729)
 - fix(api): improve error-handling (Reference #730)
+- chore(forms): configure caching-logic (Reference #731)
