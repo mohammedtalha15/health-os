@@ -131,3 +131,4 @@
 // chore(inputs): integrate validation - commit 1079
 // test(notifications): optimize type-definitions - commit 1080
 // docs(search): fix mobile-support - commit 1081
+// feat(forms): add mobile-support - commit 1082
