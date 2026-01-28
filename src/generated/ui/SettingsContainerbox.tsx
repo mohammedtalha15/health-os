@@ -12,6 +12,7 @@ interface SettingsContainerboxProps {
   prop_756?: string;
   prop_244?: string;
   prop_909?: string;
+  prop_984?: string;
   // PROPS_PLACEHOLDER
 }
 
