@@ -1286,3 +1286,4 @@
 - build(ui): implement data-fetching (Reference #1286)
 - refactor(dashboard): update mobile-support (Reference #1287)
 - style(cache): integrate unit-tests (Reference #1288)
+- ci(inputs): update error-handling (Reference #1289)
