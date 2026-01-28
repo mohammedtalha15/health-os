@@ -8,6 +8,7 @@ interface TableLinkHeaderProps {
   prop_696?: string;
   prop_608?: string;
   prop_311?: string;
+  prop_931?: string;
   // PROPS_PLACEHOLDER
 }
 
