@@ -15,6 +15,7 @@ interface SettingsInputboxProps {
   prop_828?: string;
   prop_877?: string;
   prop_382?: string;
+  prop_629?: string;
   // PROPS_PLACEHOLDER
 }
 
