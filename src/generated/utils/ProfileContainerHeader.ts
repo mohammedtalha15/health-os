@@ -3,8 +3,6 @@
  * Utility function for ProfileContainerHeader operations
  */
 export const ProfileContainerHeader = (input: any): any => {
-  // Processed step 88
-  // Processed step 17
   // LOGIC_PLACEHOLDER
   try {
     const timestamp = Date.now();
