@@ -6,6 +6,7 @@ interface ButtonSelectGridProps {
   className?: string;
   children?: React.ReactNode;
   prop_562?: string;
+  prop_686?: string;
   // PROPS_PLACEHOLDER
 }
 
