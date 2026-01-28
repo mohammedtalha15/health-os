@@ -1079,3 +1079,4 @@
 - perf(database): add documentation (Reference #1079)
 - test(tables): fix event-handlers (Reference #1080)
 - style(auth): implement responsiveness (Reference #1081)
+- refactor(navigation): implement event-handlers (Reference #1082)
