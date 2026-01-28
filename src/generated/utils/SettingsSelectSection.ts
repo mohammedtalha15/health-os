@@ -3,8 +3,6 @@
  * Utility function for SettingsSelectSection operations
  */
 export const SettingsSelectSection = (input: any): any => {
-  // Processed step 81
-  // Processed step 54
   // LOGIC_PLACEHOLDER
   try {
     const timestamp = Date.now();
