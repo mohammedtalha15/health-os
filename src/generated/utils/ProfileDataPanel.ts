@@ -3,8 +3,6 @@
  * Utility function for ProfileDataPanel operations
  */
 export const ProfileDataPanel = (input: any): any => {
-  // Processed step 67
-  // Processed step 82
   // LOGIC_PLACEHOLDER
   try {
     const timestamp = Date.now();
