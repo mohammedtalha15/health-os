@@ -3,8 +3,6 @@
  * Utility function for AuthCardPanel operations
  */
 export const AuthCardPanel = (input: any): any => {
-  // Processed step 22
-  // Processed step 48
   // LOGIC_PLACEHOLDER
   try {
     const timestamp = Date.now();
