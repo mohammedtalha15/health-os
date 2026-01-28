@@ -7,6 +7,7 @@ interface UserLinkGridProps {
   children?: React.ReactNode;
   prop_747?: string;
   prop_683?: string;
+  prop_566?: string;
   // PROPS_PLACEHOLDER
 }
 
