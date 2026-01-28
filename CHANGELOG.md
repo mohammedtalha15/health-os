@@ -907,3 +907,4 @@
 - feat(modals): add caching-logic (Reference #907)
 - refactor(security): add validation (Reference #908)
 - style(analytics): fix transitions (Reference #909)
+- docs(ui): refactor error-handling (Reference #910)
