@@ -175,3 +175,4 @@
 // ci(layouts): fix performance - commit 1123
 // test(layouts): fix loading-states - commit 1124
 // perf(forms): update user-experience - commit 1125
+// chore(buttons): configure documentation - commit 1126
