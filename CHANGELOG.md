@@ -227,3 +227,4 @@
 - style(modals): update performance (Reference #227)
 - style(navigation): update caching-logic (Reference #228)
 - test(analytics): add performance (Reference #229)
+- refactor(profile): enhance animations (Reference #230)
