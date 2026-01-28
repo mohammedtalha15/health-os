@@ -3,9 +3,6 @@
  * Utility function for DashboardViewPanel operations
  */
 export const DashboardViewPanel = (input: any): any => {
-  // Processed step 4
-  // Processed step 36
-  // Processed step 71
   // LOGIC_PLACEHOLDER
   try {
     const timestamp = Date.now();
