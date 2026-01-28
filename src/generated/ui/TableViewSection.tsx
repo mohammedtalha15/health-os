@@ -9,6 +9,7 @@ interface TableViewSectionProps {
   prop_119?: string;
   prop_313?: string;
   prop_136?: string;
+  prop_335?: string;
   // PROPS_PLACEHOLDER
 }
 
