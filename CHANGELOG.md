@@ -864,3 +864,4 @@
 - chore(dashboard): optimize user-experience (Reference #864)
 - perf(search): configure animations (Reference #865)
 - perf(cache): update animations (Reference #866)
+- docs(navigation): update performance (Reference #867)
