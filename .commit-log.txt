@@ -2272,3 +2272,4 @@
 // (notifications): improve validation - commit 308
 // feat(navigation): optimize accessibility - commit 309
 // feat(settings):  accessibility - commit 310
+// chore(modals): implement accessibility - commit 311
