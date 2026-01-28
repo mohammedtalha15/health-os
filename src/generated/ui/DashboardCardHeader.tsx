@@ -20,6 +20,7 @@ interface DashboardCardHeaderProps {
   prop_288?: string;
   prop_205?: string;
   prop_749?: string;
+  prop_607?: string;
   // PROPS_PLACEHOLDER
 }
 
