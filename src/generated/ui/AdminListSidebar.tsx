@@ -8,6 +8,7 @@ interface AdminListSidebarProps {
   prop_629?: string;
   prop_966?: string;
   prop_467?: string;
+  prop_576?: string;
   // PROPS_PLACEHOLDER
 }
 
