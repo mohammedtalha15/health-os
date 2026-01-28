@@ -934,3 +934,4 @@
 - chore(forms): improve error-handling (Reference #934)
 - chore(forms): add event-handlers (Reference #935)
 - docs(analytics): refactor unit-tests (Reference #936)
+- chore(modals): update mobile-support (Reference #937)
