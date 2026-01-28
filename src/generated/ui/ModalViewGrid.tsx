@@ -5,10 +5,6 @@ interface ModalViewGridProps {
   id?: string;
   className?: string;
   children?: React.ReactNode;
-  prop_532?: string;
-  prop_729?: string;
-  prop_690?: string;
-  prop_341?: string;
   // PROPS_PLACEHOLDER
 }
 
