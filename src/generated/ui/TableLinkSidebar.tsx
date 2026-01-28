@@ -6,6 +6,7 @@ interface TableLinkSidebarProps {
   className?: string;
   children?: React.ReactNode;
   prop_260?: string;
+  prop_950?: string;
   // PROPS_PLACEHOLDER
 }
 
