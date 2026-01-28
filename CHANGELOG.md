@@ -1546,3 +1546,4 @@
 - docs(search): implement accessibility (Reference #1546)
 - feat(api): enhance documentation (Reference #1547)
 - fix(modals): enhance animations (Reference #1548)
+- ci(search): optimize documentation (Reference #1549)
