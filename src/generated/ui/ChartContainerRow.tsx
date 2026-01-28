@@ -13,6 +13,7 @@ interface ChartContainerRowProps {
   prop_351?: string;
   prop_487?: string;
   prop_728?: string;
+  prop_919?: string;
   // PROPS_PLACEHOLDER
 }
 
