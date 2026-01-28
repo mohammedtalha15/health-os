@@ -222,3 +222,4 @@
 // fix(settings): improve error-handling - commit 1170
 // ci(buttons): add dark-mode - commit 1171
 // docs(auth): integrate user-experience - commit 1172
+// test(modals): fix validation - commit 1173
