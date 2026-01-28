@@ -204,3 +204,4 @@
 - feat(inputs): update code-quality (Reference #204)
 - build(cache): add accessibility (Reference #205)
 - feat(inputs): improve error-handling (Reference #206)
+- ci(charts): update keyboard-nav (Reference #207)
