@@ -9,3 +9,4 @@
 - docs(settings): integrate keyboard-nav (Reference #9)
 - build(ui): refactor performance (Reference #10)
 - perf(api): fix validation (Reference #11)
+- feat(notifications): add dark-mode (Reference #12)
