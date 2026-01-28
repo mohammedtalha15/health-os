@@ -1476,3 +1476,4 @@
 - fix(auth): fix mobile-support (Reference #1476)
 - fix(security): integrate responsiveness (Reference #1477)
 - fix(layouts): enhance event-handlers (Reference #1478)
+- build(navigation): add error-handling (Reference #1479)
