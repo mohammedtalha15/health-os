@@ -2570,3 +2570,4 @@
 // fix(profile): improve type-definitions - commit 98
 // perf(api): integrate type-definitions - commit 99
 // perf(ui): configure data-fetching - commit 100
+// chore(charts): fix data-fetching - commit 101
