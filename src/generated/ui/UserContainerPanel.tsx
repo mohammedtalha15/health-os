@@ -9,6 +9,7 @@ interface UserContainerPanelProps {
   prop_911?: string;
   prop_585?: string;
   prop_957?: string;
+  prop_237?: string;
   // PROPS_PLACEHOLDER
 }
 
