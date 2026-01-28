@@ -147,3 +147,4 @@
 - build(api): enhance error-handling (Reference #147)
 - style(security): fix type-definitions (Reference #148)
 - chore(database): update state-management (Reference #149)
+- build(search): improve caching-logic (Reference #150)
