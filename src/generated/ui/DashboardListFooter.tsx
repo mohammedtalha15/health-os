@@ -15,6 +15,7 @@ interface DashboardListFooterProps {
   prop_912?: string;
   prop_745?: string;
   prop_578?: string;
+  prop_964?: string;
   // PROPS_PLACEHOLDER
 }
 
