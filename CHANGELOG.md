@@ -276,3 +276,4 @@
 - style(dashboard): update state-management (Reference #276)
 - feat(navigation): add unit-tests (Reference #277)
 - perf(forms): add state-management (Reference #278)
+- ci(inputs): configure dark-mode (Reference #279)
