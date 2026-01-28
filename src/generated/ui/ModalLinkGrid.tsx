@@ -16,6 +16,7 @@ interface ModalLinkGridProps {
   prop_205?: string;
   prop_830?: string;
   prop_366?: string;
+  prop_509?: string;
   // PROPS_PLACEHOLDER
 }
 
