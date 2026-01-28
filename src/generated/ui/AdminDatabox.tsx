@@ -5,10 +5,6 @@ interface AdminDataboxProps {
   id?: string;
   className?: string;
   children?: React.ReactNode;
-  prop_691?: string;
-  prop_724?: string;
-  prop_538?: string;
-  prop_946?: string;
   // PROPS_PLACEHOLDER
 }
 
