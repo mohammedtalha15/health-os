@@ -996,3 +996,4 @@
 - chore(forms): configure unit-tests (Reference #996)
 - fix(profile): implement event-handlers (Reference #997)
 - feat(tables): add type-definitions (Reference #998)
+- test(forms): implement validation (Reference #999)
