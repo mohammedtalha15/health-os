@@ -5,7 +5,6 @@ interface ModalContainerHeaderProps {
   id?: string;
   className?: string;
   children?: React.ReactNode;
-  prop_466?: string;
   // PROPS_PLACEHOLDER
 }
 
