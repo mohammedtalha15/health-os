@@ -184,3 +184,4 @@
 - test(buttons): refactor accessibility (Reference #184)
 - fix(analytics): update event-handlers (Reference #185)
 - style(search): implement documentation (Reference #186)
+- perf(layouts): fix state-management (Reference #187)
