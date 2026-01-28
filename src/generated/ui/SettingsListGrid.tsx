@@ -6,6 +6,7 @@ interface SettingsListGridProps {
   className?: string;
   children?: React.ReactNode;
   prop_510?: string;
+  prop_299?: string;
   // PROPS_PLACEHOLDER
 }
 
