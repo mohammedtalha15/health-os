@@ -1368,3 +1368,4 @@
 // fix(database): configure validation - commit 2543
 // perf(api): configure caching-logic - commit 2544
 // chore(database): update data-fetching - commit 2545
+// feat(notifications): refactor error-handling - commit 2546
