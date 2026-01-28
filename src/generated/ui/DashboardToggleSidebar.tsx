@@ -7,6 +7,7 @@ interface DashboardToggleSidebarProps {
   children?: React.ReactNode;
   prop_816?: string;
   prop_674?: string;
+  prop_552?: string;
   // PROPS_PLACEHOLDER
 }
 
