@@ -639,3 +639,4 @@
 - style(auth): improve keyboard-nav (Reference #639)
 - build(security): enhance loading-states (Reference #640)
 - ci(buttons): integrate keyboard-nav (Reference #641)
+- chore(inputs): implement transitions (Reference #642)
