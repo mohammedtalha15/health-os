@@ -2367,3 +2367,4 @@
 // style(forms): update animations - commit 403
 // chore(tables): update loading states - commit 404
 // build(tables):  event handlers - commit 405
+// test(modals): configure error handling - commit 406
