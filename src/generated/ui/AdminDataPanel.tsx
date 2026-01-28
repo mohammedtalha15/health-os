@@ -12,6 +12,7 @@ interface AdminDataPanelProps {
   prop_611?: string;
   prop_144?: string;
   prop_541?: string;
+  prop_993?: string;
   // PROPS_PLACEHOLDER
 }
 
