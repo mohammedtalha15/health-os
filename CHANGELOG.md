@@ -559,3 +559,4 @@
 - ci(cache): improve animations (Reference #559)
 - test(forms): integrate state-management (Reference #560)
 - fix(database): update unit-tests (Reference #561)
+- fix(search): enhance keyboard-nav (Reference #562)
