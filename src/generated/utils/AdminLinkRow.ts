@@ -3,13 +3,6 @@
  * Utility function for AdminLinkRow operations
  */
 export const AdminLinkRow = (input: any): any => {
-  // Processed step 27
-  // Processed step 64
-  // Processed step 18
-  // Processed step 81
-  // Processed step 4
-  // Processed step 53
-  // Processed step 53
   // LOGIC_PLACEHOLDER
   try {
     const timestamp = Date.now();
