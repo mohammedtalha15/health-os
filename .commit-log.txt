@@ -2707,3 +2707,4 @@
 // build(search): refactor keyboard-nav - commit 235
 // fix(notifications): optimize caching-logic - commit 236
 // docs(modals): add responsiveness - commit 237
+// refactor(modals): update mobile-support - commit 238
