@@ -7,6 +7,7 @@ interface ProfileListGroupProps {
   children?: React.ReactNode;
   prop_377?: string;
   prop_455?: string;
+  prop_976?: string;
   // PROPS_PLACEHOLDER
 }
 
