@@ -8,6 +8,7 @@ interface AuthSelectFooterProps {
   prop_564?: string;
   prop_532?: string;
   prop_461?: string;
+  prop_464?: string;
   // PROPS_PLACEHOLDER
 }
 
