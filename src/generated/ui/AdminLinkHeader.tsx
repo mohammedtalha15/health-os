@@ -20,6 +20,7 @@ interface AdminLinkHeaderProps {
   prop_440?: string;
   prop_387?: string;
   prop_448?: string;
+  prop_175?: string;
   // PROPS_PLACEHOLDER
 }
 
