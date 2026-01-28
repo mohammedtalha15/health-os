@@ -3,11 +3,6 @@
  * Utility function for ButtonCardRow operations
  */
 export const ButtonCardRow = (input: any): any => {
-  // Processed step 8
-  // Processed step 26
-  // Processed step 47
-  // Processed step 76
-  // Processed step 51
   // LOGIC_PLACEHOLDER
   try {
     const timestamp = Date.now();
