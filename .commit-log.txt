@@ -3391,3 +3391,4 @@
 // docs(dashboard): fix dark-mode - commit 919
 // fix(layouts): configure error-handling - commit 920
 // ci(ui): fix data-fetching - commit 921
+// docs(search): enhance responsiveness - commit 922
