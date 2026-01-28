@@ -37,3 +37,4 @@
 - feat(api): add mobile-support (Reference #37)
 - docs(modals): update animations (Reference #38)
 - style(dashboard): refactor loading-states (Reference #39)
+- test(api): configure loading-states (Reference #40)
