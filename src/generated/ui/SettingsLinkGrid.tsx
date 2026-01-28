@@ -5,10 +5,6 @@ interface SettingsLinkGridProps {
   id?: string;
   className?: string;
   children?: React.ReactNode;
-  prop_719?: string;
-  prop_714?: string;
-  prop_994?: string;
-  prop_633?: string;
   // PROPS_PLACEHOLDER
 }
 
