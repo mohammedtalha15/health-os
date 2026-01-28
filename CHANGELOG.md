@@ -923,3 +923,4 @@
 - feat(dashboard): add mobile-support (Reference #923)
 - fix(dashboard): refactor event-handlers (Reference #924)
 - ci(notifications): optimize unit-tests (Reference #925)
+- test(api): optimize responsiveness (Reference #926)
