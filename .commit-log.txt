@@ -583,3 +583,4 @@
 // feat(navigation): refactor animations - commit 1758
 // docs(layouts): improve mobile-support - commit 1759
 // ci(security): add user-experience - commit 1760
+// refactor(charts): optimize documentation - commit 1761
