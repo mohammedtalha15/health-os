@@ -5,8 +5,6 @@ interface AuthWrapperRowProps {
   id?: string;
   className?: string;
   children?: React.ReactNode;
-  prop_961?: string;
-  prop_596?: string;
   // PROPS_PLACEHOLDER
 }
 
