@@ -246,3 +246,4 @@
 // feat(notifications): enhance state-management - commit 1421
 // chore(api): fix performance - commit 1422
 // fix(layouts): fix state-management - commit 1423
+// feat(profile): implement mobile-support - commit 1424
