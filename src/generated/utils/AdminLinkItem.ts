@@ -3,9 +3,6 @@
  * Utility function for AdminLinkItem operations
  */
 export const AdminLinkItem = (input: any): any => {
-  // Processed step 94
-  // Processed step 34
-  // Processed step 39
   // LOGIC_PLACEHOLDER
   try {
     const timestamp = Date.now();
