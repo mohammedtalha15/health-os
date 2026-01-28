@@ -1309,3 +1309,4 @@
 // refactor(profile): configure error-handling - commit 2484
 // refactor(layouts): enhance mobile-support - commit 2485
 // refactor(notifications): enhance accessibility - commit 2486
+// feat(tables): optimize transitions - commit 2487
