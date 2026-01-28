@@ -11,6 +11,7 @@ interface UserLinkGridProps {
   prop_183?: string;
   prop_396?: string;
   prop_428?: string;
+  prop_912?: string;
   // PROPS_PLACEHOLDER
 }
 
