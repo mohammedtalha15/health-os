@@ -339,3 +339,4 @@
 - refactor(security): optimize accessibility (Reference #339)
 - perf(forms): improve transitions (Reference #340)
 - fix(modals): add code-quality (Reference #341)
+- chore(modals): enhance loading-states (Reference #342)
