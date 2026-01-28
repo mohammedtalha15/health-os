@@ -3,7 +3,6 @@
  * Utility function for AuthInputHeader operations
  */
 export const AuthInputHeader = (input: any): any => {
-  // Processed step 79
   // LOGIC_PLACEHOLDER
   try {
     const timestamp = Date.now();
