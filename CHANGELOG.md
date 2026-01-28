@@ -719,3 +719,4 @@
 - refactor(notifications): integrate animations (Reference #719)
 - test(analytics): update dark-mode (Reference #720)
 - docs(database): implement keyboard-nav (Reference #721)
+- fix(forms): add performance (Reference #722)
