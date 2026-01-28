@@ -7,6 +7,7 @@ interface AdminSelectGridProps {
   children?: React.ReactNode;
   prop_153?: string;
   prop_182?: string;
+  prop_619?: string;
   // PROPS_PLACEHOLDER
 }
 
