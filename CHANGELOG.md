@@ -899,3 +899,4 @@
 - ci(layouts): optimize documentation (Reference #899)
 - perf(dashboard): optimize transitions (Reference #900)
 - docs(inputs): integrate responsiveness (Reference #901)
+- chore(inputs): improve code-quality (Reference #902)
