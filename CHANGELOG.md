@@ -587,3 +587,4 @@
 - docs(ui): update keyboard-nav (Reference #587)
 - test(search): fix state-management (Reference #588)
 - docs(notifications): refactor validation (Reference #589)
+- refactor(tables): integrate transitions (Reference #590)
