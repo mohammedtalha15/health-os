@@ -2086,3 +2086,4 @@
 // fix(search): add responsiveness - commit 122
 // docs(auth): refactor responsiveness - commit 123
 // feat(database):  keyboard navigation - commit 124
+// chore(charts):   - commit 125
