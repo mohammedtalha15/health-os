@@ -9,6 +9,7 @@ interface ChartListboxProps {
   prop_632?: string;
   prop_845?: string;
   prop_555?: string;
+  prop_902?: string;
   // PROPS_PLACEHOLDER
 }
 
