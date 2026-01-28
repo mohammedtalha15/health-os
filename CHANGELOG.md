@@ -280,3 +280,4 @@
 - docs(security): optimize accessibility (Reference #280)
 - ci(security): implement documentation (Reference #281)
 - test(cache): optimize accessibility (Reference #282)
+- test(settings): implement performance (Reference #283)
