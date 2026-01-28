@@ -2356,3 +2356,4 @@
 // feat(modals): optimize mobile support - commit 392
 // build(dashboard): add  - commit 393
 // build(notifications): add animations - commit 394
+// chore(forms): fix performance - commit 395
