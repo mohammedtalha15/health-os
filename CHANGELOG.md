@@ -1200,3 +1200,4 @@
 - ci(ui): improve mobile-support (Reference #1200)
 - style(tables): optimize documentation (Reference #1201)
 - perf(security): configure event-handlers (Reference #1202)
+- ci(profile): refactor unit-tests (Reference #1203)
