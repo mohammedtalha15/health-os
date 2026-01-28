@@ -872,3 +872,4 @@
 - docs(dashboard): implement responsiveness (Reference #872)
 - perf(analytics): add error-handling (Reference #873)
 - style(api): add mobile-support (Reference #874)
+- chore(profile): refactor data-fetching (Reference #875)
