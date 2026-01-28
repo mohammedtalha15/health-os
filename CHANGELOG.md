@@ -1264,3 +1264,4 @@
 - docs(security): configure documentation (Reference #1264)
 - style(api): improve dark-mode (Reference #1265)
 - build(buttons): add validation (Reference #1266)
+- feat(layouts): integrate dark-mode (Reference #1267)
