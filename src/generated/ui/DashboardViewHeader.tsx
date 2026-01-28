@@ -9,6 +9,7 @@ interface DashboardViewHeaderProps {
   prop_317?: string;
   prop_379?: string;
   prop_753?: string;
+  prop_240?: string;
   // PROPS_PLACEHOLDER
 }
 
