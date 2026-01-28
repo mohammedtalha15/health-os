@@ -3,8 +3,6 @@
  * Utility function for DashboardSelectRow operations
  */
 export const DashboardSelectRow = (input: any): any => {
-  // Processed step 33
-  // Processed step 10
   // LOGIC_PLACEHOLDER
   try {
     const timestamp = Date.now();
