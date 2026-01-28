@@ -1339,3 +1339,4 @@
 - perf(notifications): update event-handlers (Reference #1339)
 - ci(settings): add performance (Reference #1340)
 - refactor(dashboard): fix responsiveness (Reference #1341)
+- build(database): configure user-experience (Reference #1342)
