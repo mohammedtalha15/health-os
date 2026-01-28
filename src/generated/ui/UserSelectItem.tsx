@@ -6,6 +6,7 @@ interface UserSelectItemProps {
   className?: string;
   children?: React.ReactNode;
   prop_960?: string;
+  prop_505?: string;
   // PROPS_PLACEHOLDER
 }
 
