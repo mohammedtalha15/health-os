@@ -3205,3 +3205,4 @@
 // fix(tables): optimize caching-logic - commit 733
 // test(api): optimize state-management - commit 734
 // ci(tables): fix validation - commit 735
+// docs(api): refactor mobile-support - commit 736
