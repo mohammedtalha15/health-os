@@ -5,17 +5,6 @@ interface AdminViewSectionProps {
   id?: string;
   className?: string;
   children?: React.ReactNode;
-  prop_853?: string;
-  prop_201?: string;
-  prop_332?: string;
-  prop_674?: string;
-  prop_519?: string;
-  prop_732?: string;
-  prop_510?: string;
-  prop_627?: string;
-  prop_235?: string;
-  prop_668?: string;
-  prop_949?: string;
   // PROPS_PLACEHOLDER
 }
 
