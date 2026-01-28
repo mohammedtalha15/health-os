@@ -3,8 +3,6 @@
  * Utility function for SettingsInputGrid operations
  */
 export const SettingsInputGrid = (input: any): any => {
-  // Processed step 19
-  // Processed step 36
   // LOGIC_PLACEHOLDER
   try {
     const timestamp = Date.now();
