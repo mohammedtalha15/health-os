@@ -10,6 +10,7 @@ interface ProfileDataGridProps {
   prop_248?: string;
   prop_636?: string;
   prop_174?: string;
+  prop_518?: string;
   // PROPS_PLACEHOLDER
 }
 
