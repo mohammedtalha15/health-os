@@ -212,3 +212,4 @@
 // docs(auth): integrate user-experience - commit 1387
 // fix(layouts): fix mobile-support - commit 1388
 // test(profile): integrate code-quality - commit 1389
+// test(api): update mobile-support - commit 1390
