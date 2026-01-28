@@ -13,6 +13,7 @@ interface AuthViewSidebarProps {
   prop_342?: string;
   prop_387?: string;
   prop_636?: string;
+  prop_208?: string;
   // PROPS_PLACEHOLDER
 }
 
