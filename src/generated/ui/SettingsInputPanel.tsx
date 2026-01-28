@@ -5,13 +5,6 @@ interface SettingsInputPanelProps {
   id?: string;
   className?: string;
   children?: React.ReactNode;
-  prop_830?: string;
-  prop_890?: string;
-  prop_943?: string;
-  prop_603?: string;
-  prop_705?: string;
-  prop_246?: string;
-  prop_653?: string;
   // PROPS_PLACEHOLDER
 }
 
