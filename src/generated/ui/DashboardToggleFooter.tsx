@@ -12,6 +12,7 @@ interface DashboardToggleFooterProps {
   prop_735?: string;
   prop_321?: string;
   prop_534?: string;
+  prop_704?: string;
   // PROPS_PLACEHOLDER
 }
 
