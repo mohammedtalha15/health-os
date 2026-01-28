@@ -17,6 +17,7 @@ interface UserViewFooterProps {
   prop_638?: string;
   prop_867?: string;
   prop_651?: string;
+  prop_980?: string;
   // PROPS_PLACEHOLDER
 }
 
