@@ -19,6 +19,7 @@ interface ProfileListGridProps {
   prop_691?: string;
   prop_736?: string;
   prop_321?: string;
+  prop_280?: string;
   // PROPS_PLACEHOLDER
 }
 
