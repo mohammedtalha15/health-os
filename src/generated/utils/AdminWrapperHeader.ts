@@ -3,9 +3,6 @@
  * Utility function for AdminWrapperHeader operations
  */
 export const AdminWrapperHeader = (input: any): any => {
-  // Processed step 64
-  // Processed step 75
-  // Processed step 43
   // LOGIC_PLACEHOLDER
   try {
     const timestamp = Date.now();
