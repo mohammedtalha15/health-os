@@ -843,3 +843,4 @@
 - fix(layouts): add user-experience (Reference #843)
 - ci(notifications): improve user-experience (Reference #844)
 - style(settings): configure type-definitions (Reference #845)
+- feat(buttons): configure unit-tests (Reference #846)
