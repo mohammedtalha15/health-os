@@ -1538,3 +1538,4 @@
 - build(database): refactor animations (Reference #1538)
 - feat(api): optimize state-management (Reference #1539)
 - chore(notifications): improve loading-states (Reference #1540)
+- test(layouts): enhance animations (Reference #1541)
