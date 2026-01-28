@@ -2055,3 +2055,4 @@
 // style(inputs): improve loading states - commit 91
 // feat(api): refactor performance - commit 92
 // perf(database): optimize caching logic - commit 93
+// build(modals): add responsiveness - commit 94
