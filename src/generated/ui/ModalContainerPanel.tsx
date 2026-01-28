@@ -8,6 +8,7 @@ interface ModalContainerPanelProps {
   prop_890?: string;
   prop_613?: string;
   prop_962?: string;
+  prop_672?: string;
   // PROPS_PLACEHOLDER
 }
 
