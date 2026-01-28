@@ -8,6 +8,7 @@ interface ButtonContainerRowProps {
   prop_436?: string;
   prop_993?: string;
   prop_728?: string;
+  prop_750?: string;
   // PROPS_PLACEHOLDER
 }
 
