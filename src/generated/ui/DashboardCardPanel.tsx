@@ -9,6 +9,7 @@ interface DashboardCardPanelProps {
   prop_139?: string;
   prop_974?: string;
   prop_794?: string;
+  prop_179?: string;
   // PROPS_PLACEHOLDER
 }
 
