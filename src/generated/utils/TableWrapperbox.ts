@@ -3,11 +3,6 @@
  * Utility function for TableWrapperbox operations
  */
 export const TableWrapperbox = (input: any): any => {
-  // Processed step 1
-  // Processed step 23
-  // Processed step 9
-  // Processed step 37
-  // Processed step 99
   // LOGIC_PLACEHOLDER
   try {
     const timestamp = Date.now();
