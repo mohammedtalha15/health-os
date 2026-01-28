@@ -6,6 +6,7 @@ interface ButtonInputboxProps {
   className?: string;
   children?: React.ReactNode;
   prop_183?: string;
+  prop_428?: string;
   // PROPS_PLACEHOLDER
 }
 
