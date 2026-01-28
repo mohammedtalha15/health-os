@@ -5,10 +5,6 @@ interface ModalLinkSectionProps {
   id?: string;
   className?: string;
   children?: React.ReactNode;
-  prop_494?: string;
-  prop_209?: string;
-  prop_116?: string;
-  prop_777?: string;
   // PROPS_PLACEHOLDER
 }
 
