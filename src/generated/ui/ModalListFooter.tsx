@@ -8,6 +8,7 @@ interface ModalListFooterProps {
   prop_285?: string;
   prop_703?: string;
   prop_273?: string;
+  prop_969?: string;
   // PROPS_PLACEHOLDER
 }
 
