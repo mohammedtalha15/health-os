@@ -9,6 +9,7 @@ interface SettingsSelectGroupProps {
   prop_883?: string;
   prop_383?: string;
   prop_477?: string;
+  prop_928?: string;
   // PROPS_PLACEHOLDER
 }
 
