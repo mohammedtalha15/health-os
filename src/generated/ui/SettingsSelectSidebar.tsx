@@ -8,6 +8,7 @@ interface SettingsSelectSidebarProps {
   prop_467?: string;
   prop_396?: string;
   prop_886?: string;
+  prop_142?: string;
   // PROPS_PLACEHOLDER
 }
 
