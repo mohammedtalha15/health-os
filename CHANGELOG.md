@@ -1077,3 +1077,4 @@
 - feat(settings): improve accessibility (Reference #1077)
 - perf(profile): optimize documentation (Reference #1078)
 - perf(database): add documentation (Reference #1079)
+- test(tables): fix event-handlers (Reference #1080)
