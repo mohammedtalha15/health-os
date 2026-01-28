@@ -1817,3 +1817,4 @@
 // feat(forms): update unit-tests - commit 2992
 // docs(dashboard): optimize transitions - commit 2993
 // fix(buttons): integrate keyboard-nav - commit 2994
+// build(api): fix documentation - commit 2995
