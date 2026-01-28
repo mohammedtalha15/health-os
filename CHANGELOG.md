@@ -415,3 +415,4 @@
 - build(auth): update state-management (Reference #415)
 - refactor(security): update event-handlers (Reference #416)
 - perf(profile): fix state-management (Reference #417)
+- docs(charts): update validation (Reference #418)
