@@ -6,6 +6,7 @@ interface SettingsWrapperFooterProps {
   className?: string;
   children?: React.ReactNode;
   prop_191?: string;
+  prop_633?: string;
   // PROPS_PLACEHOLDER
 }
 
