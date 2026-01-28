@@ -11,6 +11,7 @@ interface ChartViewboxProps {
   prop_204?: string;
   prop_628?: string;
   prop_767?: string;
+  prop_838?: string;
   // PROPS_PLACEHOLDER
 }
 
