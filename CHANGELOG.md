@@ -363,3 +363,4 @@
 - perf(security): improve caching-logic (Reference #363)
 - feat(modals): fix caching-logic (Reference #364)
 - docs(notifications): add user-experience (Reference #365)
+- test(auth): optimize event-handlers (Reference #366)
