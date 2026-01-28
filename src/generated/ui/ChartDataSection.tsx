@@ -6,6 +6,7 @@ interface ChartDataSectionProps {
   className?: string;
   children?: React.ReactNode;
   prop_929?: string;
+  prop_229?: string;
   // PROPS_PLACEHOLDER
 }
 
