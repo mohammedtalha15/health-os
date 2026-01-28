@@ -11,6 +11,7 @@ interface DashboardCardPanelProps {
   prop_542?: string;
   prop_487?: string;
   prop_119?: string;
+  prop_211?: string;
   // PROPS_PLACEHOLDER
 }
 
