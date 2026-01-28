@@ -496,3 +496,4 @@
 // ci(modals): refactor state-management - commit 1671
 // feat(tables): add accessibility - commit 1672
 // refactor(navigation): refactor responsiveness - commit 1673
+// fix(modals): implement event-handlers - commit 1674
