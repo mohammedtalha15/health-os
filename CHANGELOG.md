@@ -1276,3 +1276,4 @@
 - ci(inputs): enhance transitions (Reference #1276)
 - perf(api): integrate accessibility (Reference #1277)
 - fix(inputs): add caching-logic (Reference #1278)
+- build(notifications): improve code-quality (Reference #1279)
