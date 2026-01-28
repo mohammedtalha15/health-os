@@ -5,6 +5,7 @@ interface TableCardboxProps {
   id?: string;
   className?: string;
   children?: React.ReactNode;
+  prop_650?: string;
   // PROPS_PLACEHOLDER
 }
 
