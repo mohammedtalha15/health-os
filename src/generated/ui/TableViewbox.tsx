@@ -6,6 +6,7 @@ interface TableViewboxProps {
   className?: string;
   children?: React.ReactNode;
   prop_809?: string;
+  prop_389?: string;
   // PROPS_PLACEHOLDER
 }
 
