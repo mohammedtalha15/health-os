@@ -1260,3 +1260,4 @@
 - test(layouts): fix performance (Reference #1260)
 - feat(settings): fix transitions (Reference #1261)
 - docs(profile): enhance dark-mode (Reference #1262)
+- chore(auth): fix user-experience (Reference #1263)
