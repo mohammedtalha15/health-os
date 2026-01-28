@@ -6,6 +6,7 @@ interface ChartViewboxProps {
   className?: string;
   children?: React.ReactNode;
   prop_567?: string;
+  prop_218?: string;
   // PROPS_PLACEHOLDER
 }
 
