@@ -5,11 +5,6 @@ interface AuthWrapperPanelProps {
   id?: string;
   className?: string;
   children?: React.ReactNode;
-  prop_434?: string;
-  prop_954?: string;
-  prop_718?: string;
-  prop_461?: string;
-  prop_570?: string;
   // PROPS_PLACEHOLDER
 }
 
