@@ -12,6 +12,7 @@ interface TableToggleboxProps {
   prop_293?: string;
   prop_495?: string;
   prop_389?: string;
+  prop_115?: string;
   // PROPS_PLACEHOLDER
 }
 
