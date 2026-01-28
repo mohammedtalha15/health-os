@@ -773,3 +773,4 @@
 - fix(notifications): add performance (Reference #773)
 - build(profile): configure keyboard-nav (Reference #774)
 - chore(tables): integrate accessibility (Reference #775)
+- docs(profile): fix transitions (Reference #776)
