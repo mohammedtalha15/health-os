@@ -67,3 +67,4 @@
 // perf(security): update event-handlers - commit 1015
 // chore(charts): fix performance - commit 1016
 // perf(modals): optimize documentation - commit 1017
+// docs(charts): configure documentation - commit 1018
