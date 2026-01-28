@@ -63,3 +63,4 @@
 // style(search): integrate event-handlers - commit 1238
 // ci(tables): configure transitions - commit 1239
 // test(navigation): configure event-handlers - commit 1240
+// test(charts): refactor dark-mode - commit 1241
