@@ -1457,3 +1457,4 @@
 - docs(modals): add error-handling (Reference #1457)
 - refactor(modals): configure error-handling (Reference #1458)
 - build(database): enhance error-handling (Reference #1459)
+- feat(inputs): fix documentation (Reference #1460)
