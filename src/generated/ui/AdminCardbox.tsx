@@ -8,6 +8,7 @@ interface AdminCardboxProps {
   prop_706?: string;
   prop_131?: string;
   prop_766?: string;
+  prop_310?: string;
   // PROPS_PLACEHOLDER
 }
 
