@@ -3284,3 +3284,4 @@
 // refactor(analytics): add code-quality - commit 812
 // perf(cache): add caching-logic - commit 813
 // style(charts): optimize dark-mode - commit 814
+// fix(api): fix transitions - commit 815
