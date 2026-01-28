@@ -179,3 +179,4 @@
 - feat(inputs): enhance documentation (Reference #179)
 - chore(modals): improve data-fetching (Reference #180)
 - build(ui): enhance user-experience (Reference #181)
+- feat(analytics): update code-quality (Reference #182)
