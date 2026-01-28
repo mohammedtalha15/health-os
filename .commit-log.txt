@@ -2745,3 +2745,4 @@
 // refactor(modals): update unit-tests - commit 273
 // build(ui): fix code-quality - commit 274
 // perf(security): enhance keyboard-nav - commit 275
+// feat(tables): improve data-fetching - commit 276
