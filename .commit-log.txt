@@ -2188,3 +2188,4 @@
 // feat(analytics): add transitions - commit 3363
 // chore(profile): configure unit-tests - commit 3364
 // style(modals): refactor type-definitions - commit 3365
+// perf(profile): add loading-states - commit 3366
