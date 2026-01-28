@@ -3,8 +3,6 @@
  * Utility function for ChartLinkbox operations
  */
 export const ChartLinkbox = (input: any): any => {
-  // Processed step 98
-  // Processed step 42
   // LOGIC_PLACEHOLDER
   try {
     const timestamp = Date.now();
