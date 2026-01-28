@@ -1424,3 +1424,4 @@
 - ci(inputs): update keyboard-nav (Reference #1424)
 - docs(cache): fix documentation (Reference #1425)
 - feat(dashboard): update validation (Reference #1426)
+- feat(forms): add event-handlers (Reference #1427)
