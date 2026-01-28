@@ -7,6 +7,7 @@ interface AuthToggleGroupProps {
   children?: React.ReactNode;
   prop_801?: string;
   prop_966?: string;
+  prop_937?: string;
   // PROPS_PLACEHOLDER
 }
 
