@@ -1500,3 +1500,4 @@
 - test(database): update animations (Reference #1500)
 - build(database): add data-fetching (Reference #1501)
 - perf(search): refactor responsiveness (Reference #1502)
+- chore(analytics): optimize performance (Reference #1503)
