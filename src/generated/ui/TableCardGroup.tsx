@@ -7,6 +7,7 @@ interface TableCardGroupProps {
   children?: React.ReactNode;
   prop_518?: string;
   prop_692?: string;
+  prop_108?: string;
   // PROPS_PLACEHOLDER
 }
 
