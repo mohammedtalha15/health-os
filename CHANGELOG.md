@@ -1295,3 +1295,4 @@
 - chore(charts): improve transitions (Reference #1295)
 - refactor(navigation): optimize error-handling (Reference #1296)
 - build(api): fix transitions (Reference #1297)
+- fix(navigation): optimize dark-mode (Reference #1298)
