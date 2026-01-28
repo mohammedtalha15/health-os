@@ -2308,3 +2308,4 @@
 // (settings):   - commit 344
 // (forms):  keyboard navigation - commit 345
 // chore(api): refactor type definitions - commit 346
+// refactor(modals): fix data fetching - commit 347
