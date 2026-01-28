@@ -3,3 +3,4 @@
 // fix(dashboard): add mobile-support - commit 1178
 // refactor(analytics): optimize data-fetching - commit 1179
 // build(notifications): improve keyboard-nav - commit 1180
+// perf(database): add type-definitions - commit 1181
