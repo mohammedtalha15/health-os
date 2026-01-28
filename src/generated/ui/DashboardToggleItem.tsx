@@ -9,6 +9,7 @@ interface DashboardToggleItemProps {
   prop_213?: string;
   prop_410?: string;
   prop_662?: string;
+  prop_398?: string;
   // PROPS_PLACEHOLDER
 }
 
