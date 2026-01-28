@@ -698,3 +698,4 @@
 - perf(cache): improve accessibility (Reference #698)
 - style(tables): integrate event-handlers (Reference #699)
 - refactor(dashboard): update accessibility (Reference #700)
+- chore(notifications): configure code-quality (Reference #701)
