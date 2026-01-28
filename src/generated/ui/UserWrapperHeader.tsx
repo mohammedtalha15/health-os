@@ -18,6 +18,7 @@ interface UserWrapperHeaderProps {
   prop_703?: string;
   prop_511?: string;
   prop_334?: string;
+  prop_498?: string;
   // PROPS_PLACEHOLDER
 }
 
