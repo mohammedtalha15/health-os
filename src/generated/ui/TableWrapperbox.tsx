@@ -10,6 +10,7 @@ interface TableWrapperboxProps {
   prop_179?: string;
   prop_208?: string;
   prop_357?: string;
+  prop_843?: string;
   // PROPS_PLACEHOLDER
 }
 
