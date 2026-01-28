@@ -196,3 +196,4 @@
 // ci(tables): implement transitions - commit 1144
 // perf(analytics): configure documentation - commit 1145
 // ci(forms): fix documentation - commit 1146
+// refactor(ui): integrate user-experience - commit 1147
