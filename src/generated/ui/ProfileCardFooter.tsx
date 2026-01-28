@@ -9,6 +9,7 @@ interface ProfileCardFooterProps {
   prop_564?: string;
   prop_151?: string;
   prop_844?: string;
+  prop_767?: string;
   // PROPS_PLACEHOLDER
 }
 
