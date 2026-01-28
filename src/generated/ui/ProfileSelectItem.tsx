@@ -7,6 +7,7 @@ interface ProfileSelectItemProps {
   children?: React.ReactNode;
   prop_464?: string;
   prop_111?: string;
+  prop_494?: string;
   // PROPS_PLACEHOLDER
 }
 
