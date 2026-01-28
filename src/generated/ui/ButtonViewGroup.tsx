@@ -10,6 +10,7 @@ interface ButtonViewGroupProps {
   prop_705?: string;
   prop_707?: string;
   prop_494?: string;
+  prop_166?: string;
   // PROPS_PLACEHOLDER
 }
 
