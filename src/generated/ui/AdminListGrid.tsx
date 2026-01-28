@@ -7,6 +7,7 @@ interface AdminListGridProps {
   children?: React.ReactNode;
   prop_564?: string;
   prop_493?: string;
+  prop_975?: string;
   // PROPS_PLACEHOLDER
 }
 
