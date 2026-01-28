@@ -15,6 +15,7 @@ interface TableCardSectionProps {
   prop_583?: string;
   prop_703?: string;
   prop_532?: string;
+  prop_844?: string;
   // PROPS_PLACEHOLDER
 }
 
