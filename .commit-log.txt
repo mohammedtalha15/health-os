@@ -514,3 +514,4 @@
 // feat(tables): configure type-definitions - commit 1689
 // refactor(analytics): integrate error-handling - commit 1690
 // chore(cache): improve animations - commit 1691
+// refactor(settings): update data-fetching - commit 1692
