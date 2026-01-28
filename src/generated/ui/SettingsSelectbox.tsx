@@ -5,7 +5,6 @@ interface SettingsSelectboxProps {
   id?: string;
   className?: string;
   children?: React.ReactNode;
-  prop_533?: string;
   // PROPS_PLACEHOLDER
 }
 
