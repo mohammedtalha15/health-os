@@ -2010,3 +2010,4 @@
 // build(navigation): add loading-states - commit 3185
 // docs(buttons): optimize responsiveness - commit 3186
 // feat(dashboard): optimize state-management - commit 3187
+// test(tables): add responsiveness - commit 3188
