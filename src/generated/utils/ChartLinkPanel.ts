@@ -3,10 +3,6 @@
  * Utility function for ChartLinkPanel operations
  */
 export const ChartLinkPanel = (input: any): any => {
-  // Processed step 60
-  // Processed step 66
-  // Processed step 86
-  // Processed step 95
   // LOGIC_PLACEHOLDER
   try {
     const timestamp = Date.now();
