@@ -9,6 +9,7 @@ interface UserInputHeaderProps {
   prop_217?: string;
   prop_417?: string;
   prop_905?: string;
+  prop_194?: string;
   // PROPS_PLACEHOLDER
 }
 
