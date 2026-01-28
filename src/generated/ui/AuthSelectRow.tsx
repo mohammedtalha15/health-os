@@ -5,15 +5,6 @@ interface AuthSelectRowProps {
   id?: string;
   className?: string;
   children?: React.ReactNode;
-  prop_918?: string;
-  prop_622?: string;
-  prop_438?: string;
-  prop_331?: string;
-  prop_284?: string;
-  prop_460?: string;
-  prop_142?: string;
-  prop_552?: string;
-  prop_717?: string;
   // PROPS_PLACEHOLDER
 }
 
