@@ -1083,3 +1083,4 @@
 // fix(auth): improve accessibility - commit 2258
 // perf(auth): enhance type-definitions - commit 2259
 // feat(auth): enhance dark-mode - commit 2260
+// refactor(profile): add loading-states - commit 2261
