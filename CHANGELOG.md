@@ -1008,3 +1008,4 @@
 - test(charts): add code-quality (Reference #1008)
 - ci(api): improve user-experience (Reference #1009)
 - style(ui): improve validation (Reference #1010)
+- style(forms): improve documentation (Reference #1011)
