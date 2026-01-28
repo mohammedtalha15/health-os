@@ -7,6 +7,7 @@ interface UserListGridProps {
   children?: React.ReactNode;
   prop_957?: string;
   prop_248?: string;
+  prop_328?: string;
   // PROPS_PLACEHOLDER
 }
 
