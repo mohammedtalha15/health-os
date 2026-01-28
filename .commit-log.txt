@@ -3143,3 +3143,4 @@
 // chore(notifications): improve user-experience - commit 671
 // chore(dashboard): refactor animations - commit 672
 // perf(profile): integrate type-definitions - commit 673
+// ci(ui): integrate animations - commit 674
