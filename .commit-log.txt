@@ -1553,3 +1553,4 @@
 // ci(buttons): improve validation - commit 2728
 // style(profile): add caching-logic - commit 2729
 // perf(settings): improve mobile-support - commit 2730
+// docs(auth): update user-experience - commit 2731
