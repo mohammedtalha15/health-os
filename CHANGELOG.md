@@ -533,3 +533,4 @@
 - docs(navigation): update state-management (Reference #533)
 - fix(inputs): integrate dark-mode (Reference #534)
 - perf(layouts): improve keyboard-nav (Reference #535)
+- build(modals): fix keyboard-nav (Reference #536)
