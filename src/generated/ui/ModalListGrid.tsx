@@ -5,9 +5,6 @@ interface ModalListGridProps {
   id?: string;
   className?: string;
   children?: React.ReactNode;
-  prop_396?: string;
-  prop_401?: string;
-  prop_543?: string;
   // PROPS_PLACEHOLDER
 }
 
