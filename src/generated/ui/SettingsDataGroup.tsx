@@ -6,6 +6,7 @@ interface SettingsDataGroupProps {
   className?: string;
   children?: React.ReactNode;
   prop_298?: string;
+  prop_701?: string;
   // PROPS_PLACEHOLDER
 }
 
