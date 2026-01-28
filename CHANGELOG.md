@@ -1530,3 +1530,4 @@
 - ci(search): refactor transitions (Reference #1530)
 - chore(profile): integrate keyboard-nav (Reference #1531)
 - test(tables): add animations (Reference #1532)
+- chore(notifications): implement transitions (Reference #1533)
