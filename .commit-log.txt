@@ -3239,3 +3239,4 @@
 // fix(api): improve type-definitions - commit 767
 // fix(auth): refactor loading-states - commit 768
 // test(tables): enhance data-fetching - commit 769
+// test(charts): implement error-handling - commit 770
