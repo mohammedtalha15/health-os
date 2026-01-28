@@ -174,3 +174,4 @@
 - docs(settings): configure code-quality (Reference #174)
 - ci(inputs): improve dark-mode (Reference #175)
 - ci(navigation): update responsiveness (Reference #176)
+- build(forms): optimize error-handling (Reference #177)
