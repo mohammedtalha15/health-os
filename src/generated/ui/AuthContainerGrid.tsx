@@ -9,6 +9,7 @@ interface AuthContainerGridProps {
   prop_161?: string;
   prop_571?: string;
   prop_762?: string;
+  prop_540?: string;
   // PROPS_PLACEHOLDER
 }
 
