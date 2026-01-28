@@ -6,6 +6,7 @@ interface SettingsToggleSidebarProps {
   className?: string;
   children?: React.ReactNode;
   prop_878?: string;
+  prop_708?: string;
   // PROPS_PLACEHOLDER
 }
 
