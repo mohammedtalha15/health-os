@@ -1645,3 +1645,4 @@
 // fix(charts): update documentation - commit 2820
 // ci(settings): optimize caching-logic - commit 2821
 // ci(settings): add accessibility - commit 2822
+// refactor(modals): improve caching-logic - commit 2823
