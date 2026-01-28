@@ -3,11 +3,6 @@
  * Utility function for ProfileListGrid operations
  */
 export const ProfileListGrid = (input: any): any => {
-  // Processed step 20
-  // Processed step 24
-  // Processed step 97
-  // Processed step 49
-  // Processed step 46
   // LOGIC_PLACEHOLDER
   try {
     const timestamp = Date.now();
