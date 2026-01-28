@@ -5,8 +5,6 @@ interface ChartCardHeaderProps {
   id?: string;
   className?: string;
   children?: React.ReactNode;
-  prop_994?: string;
-  prop_302?: string;
   // PROPS_PLACEHOLDER
 }
 
