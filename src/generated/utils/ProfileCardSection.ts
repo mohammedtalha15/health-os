@@ -3,9 +3,6 @@
  * Utility function for ProfileCardSection operations
  */
 export const ProfileCardSection = (input: any): any => {
-  // Processed step 63
-  // Processed step 8
-  // Processed step 1
   // LOGIC_PLACEHOLDER
   try {
     const timestamp = Date.now();
