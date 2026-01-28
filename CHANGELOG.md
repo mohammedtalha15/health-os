@@ -234,3 +234,4 @@
 - docs(cache): optimize type-definitions (Reference #234)
 - ci(notifications): improve type-definitions (Reference #235)
 - feat(modals): implement loading-states (Reference #236)
+- feat(analytics): improve data-fetching (Reference #237)
