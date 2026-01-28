@@ -5,9 +5,6 @@ interface ModalSelectHeaderProps {
   id?: string;
   className?: string;
   children?: React.ReactNode;
-  prop_705?: string;
-  prop_807?: string;
-  prop_526?: string;
   // PROPS_PLACEHOLDER
 }
 
