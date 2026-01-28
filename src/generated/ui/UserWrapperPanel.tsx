@@ -7,6 +7,7 @@ interface UserWrapperPanelProps {
   children?: React.ReactNode;
   prop_515?: string;
   prop_439?: string;
+  prop_235?: string;
   // PROPS_PLACEHOLDER
 }
 
