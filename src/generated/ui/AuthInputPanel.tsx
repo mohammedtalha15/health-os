@@ -9,6 +9,7 @@ interface AuthInputPanelProps {
   prop_863?: string;
   prop_104?: string;
   prop_276?: string;
+  prop_439?: string;
   // PROPS_PLACEHOLDER
 }
 
