@@ -1022,3 +1022,4 @@
 - perf(analytics): improve keyboard-nav (Reference #1022)
 - docs(dashboard): fix responsiveness (Reference #1023)
 - perf(api): improve mobile-support (Reference #1024)
+- build(security): integrate state-management (Reference #1025)
