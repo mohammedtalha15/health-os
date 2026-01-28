@@ -5,23 +5,6 @@ interface ChartContainerHeaderProps {
   id?: string;
   className?: string;
   children?: React.ReactNode;
-  prop_706?: string;
-  prop_335?: string;
-  prop_972?: string;
-  prop_753?: string;
-  prop_972?: string;
-  prop_529?: string;
-  prop_407?: string;
-  prop_195?: string;
-  prop_518?: string;
-  prop_681?: string;
-  prop_408?: string;
-  prop_182?: string;
-  prop_644?: string;
-  prop_877?: string;
-  prop_952?: string;
-  prop_837?: string;
-  prop_240?: string;
   // PROPS_PLACEHOLDER
 }
 
