@@ -7,6 +7,7 @@ interface AdminInputGroupProps {
   children?: React.ReactNode;
   prop_313?: string;
   prop_577?: string;
+  prop_201?: string;
   // PROPS_PLACEHOLDER
 }
 
