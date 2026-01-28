@@ -6,6 +6,7 @@ interface DashboardInputRowProps {
   className?: string;
   children?: React.ReactNode;
   prop_931?: string;
+  prop_226?: string;
   // PROPS_PLACEHOLDER
 }
 
