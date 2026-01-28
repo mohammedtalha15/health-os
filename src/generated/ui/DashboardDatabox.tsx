@@ -5,18 +5,6 @@ interface DashboardDataboxProps {
   id?: string;
   className?: string;
   children?: React.ReactNode;
-  prop_880?: string;
-  prop_778?: string;
-  prop_795?: string;
-  prop_599?: string;
-  prop_652?: string;
-  prop_770?: string;
-  prop_690?: string;
-  prop_498?: string;
-  prop_152?: string;
-  prop_220?: string;
-  prop_639?: string;
-  prop_629?: string;
   // PROPS_PLACEHOLDER
 }
 
