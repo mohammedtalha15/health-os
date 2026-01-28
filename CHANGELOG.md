@@ -260,3 +260,4 @@
 - refactor(profile): configure state-management (Reference #260)
 - chore(cache): improve error-handling (Reference #261)
 - test(dashboard): implement state-management (Reference #262)
+- fix(settings): fix data-fetching (Reference #263)
