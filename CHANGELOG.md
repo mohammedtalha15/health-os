@@ -882,3 +882,4 @@
 - refactor(layouts): improve validation (Reference #882)
 - refactor(auth): integrate responsiveness (Reference #883)
 - feat(layouts): implement code-quality (Reference #884)
+- perf(tables): integrate loading-states (Reference #885)
