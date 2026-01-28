@@ -7,6 +7,7 @@ interface DashboardContainerPanelProps {
   children?: React.ReactNode;
   prop_522?: string;
   prop_158?: string;
+  prop_270?: string;
   // PROPS_PLACEHOLDER
 }
 
