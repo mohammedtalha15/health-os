@@ -674,3 +674,4 @@
 - perf(analytics): configure performance (Reference #674)
 - chore(analytics): add code-quality (Reference #675)
 - docs(search): enhance loading-states (Reference #676)
+- refactor(tables): configure dark-mode (Reference #677)
