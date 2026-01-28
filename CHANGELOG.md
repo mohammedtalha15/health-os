@@ -721,3 +721,4 @@
 - docs(database): implement keyboard-nav (Reference #721)
 - fix(forms): add performance (Reference #722)
 - fix(dashboard): refactor error-handling (Reference #723)
+- fix(ui): implement loading-states (Reference #724)
