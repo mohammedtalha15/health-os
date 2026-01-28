@@ -717,3 +717,4 @@
 - docs(auth): add documentation (Reference #717)
 - test(security): enhance accessibility (Reference #718)
 - refactor(notifications): integrate animations (Reference #719)
+- test(analytics): update dark-mode (Reference #720)
