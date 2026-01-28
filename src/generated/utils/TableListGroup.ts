@@ -3,10 +3,6 @@
  * Utility function for TableListGroup operations
  */
 export const TableListGroup = (input: any): any => {
-  // Processed step 51
-  // Processed step 17
-  // Processed step 83
-  // Processed step 15
   // LOGIC_PLACEHOLDER
   try {
     const timestamp = Date.now();
