@@ -17,6 +17,7 @@ interface DashboardWrapperRowProps {
   prop_851?: string;
   prop_527?: string;
   prop_534?: string;
+  prop_297?: string;
   // PROPS_PLACEHOLDER
 }
 
