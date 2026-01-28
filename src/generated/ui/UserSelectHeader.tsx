@@ -5,9 +5,6 @@ interface UserSelectHeaderProps {
   id?: string;
   className?: string;
   children?: React.ReactNode;
-  prop_372?: string;
-  prop_531?: string;
-  prop_822?: string;
   // PROPS_PLACEHOLDER
 }
 
