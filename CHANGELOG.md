@@ -1257,3 +1257,4 @@
 - chore(auth): update keyboard-nav (Reference #1257)
 - docs(charts): implement performance (Reference #1258)
 - refactor(navigation): improve error-handling (Reference #1259)
+- test(layouts): fix performance (Reference #1260)
