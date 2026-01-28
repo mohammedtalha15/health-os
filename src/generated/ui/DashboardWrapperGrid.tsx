@@ -6,6 +6,7 @@ interface DashboardWrapperGridProps {
   className?: string;
   children?: React.ReactNode;
   prop_738?: string;
+  prop_283?: string;
   // PROPS_PLACEHOLDER
 }
 
