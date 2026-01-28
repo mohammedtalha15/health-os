@@ -8,6 +8,7 @@ interface UserListItemProps {
   prop_600?: string;
   prop_196?: string;
   prop_433?: string;
+  prop_802?: string;
   // PROPS_PLACEHOLDER
 }
 
