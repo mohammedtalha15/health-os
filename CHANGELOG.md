@@ -984,3 +984,4 @@
 - refactor(cache): fix unit-tests (Reference #984)
 - fix(layouts): configure documentation (Reference #985)
 - test(forms): implement code-quality (Reference #986)
+- build(settings): refactor performance (Reference #987)
