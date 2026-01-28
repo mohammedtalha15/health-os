@@ -1163,3 +1163,4 @@
 - fix(navigation): update unit-tests (Reference #1163)
 - ci(tables): refactor unit-tests (Reference #1164)
 - ci(cache): integrate event-handlers (Reference #1165)
+- test(dashboard): optimize unit-tests (Reference #1166)
