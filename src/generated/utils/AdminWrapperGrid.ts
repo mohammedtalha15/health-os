@@ -3,9 +3,6 @@
  * Utility function for AdminWrapperGrid operations
  */
 export const AdminWrapperGrid = (input: any): any => {
-  // Processed step 1
-  // Processed step 94
-  // Processed step 33
   // LOGIC_PLACEHOLDER
   try {
     const timestamp = Date.now();
