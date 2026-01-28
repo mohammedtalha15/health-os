@@ -947,3 +947,4 @@
 - docs(database): configure animations (Reference #947)
 - fix(forms): fix animations (Reference #948)
 - fix(dashboard): optimize accessibility (Reference #949)
+- docs(notifications): add transitions (Reference #950)
