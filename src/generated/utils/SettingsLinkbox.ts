@@ -3,9 +3,6 @@
  * Utility function for SettingsLinkbox operations
  */
 export const SettingsLinkbox = (input: any): any => {
-  // Processed step 85
-  // Processed step 56
-  // Processed step 5
   // LOGIC_PLACEHOLDER
   try {
     const timestamp = Date.now();
