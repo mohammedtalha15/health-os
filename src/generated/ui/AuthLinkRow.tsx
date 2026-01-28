@@ -7,6 +7,7 @@ interface AuthLinkRowProps {
   children?: React.ReactNode;
   prop_824?: string;
   prop_714?: string;
+  prop_576?: string;
   // PROPS_PLACEHOLDER
 }
 
