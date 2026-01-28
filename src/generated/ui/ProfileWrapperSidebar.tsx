@@ -8,6 +8,7 @@ interface ProfileWrapperSidebarProps {
   prop_724?: string;
   prop_608?: string;
   prop_314?: string;
+  prop_160?: string;
   // PROPS_PLACEHOLDER
 }
 
