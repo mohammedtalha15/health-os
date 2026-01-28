@@ -1348,3 +1348,4 @@
 - build(charts): add error-handling (Reference #1348)
 - test(modals): improve dark-mode (Reference #1349)
 - build(tables): update error-handling (Reference #1350)
+- build(tables): update performance (Reference #1351)
