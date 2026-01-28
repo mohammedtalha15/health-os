@@ -8,6 +8,7 @@ interface AuthToggleFooterProps {
   prop_516?: string;
   prop_582?: string;
   prop_239?: string;
+  prop_752?: string;
   // PROPS_PLACEHOLDER
 }
 
