@@ -479,3 +479,4 @@
 - refactor(search): optimize state-management (Reference #479)
 - feat(settings): enhance user-experience (Reference #480)
 - test(search): refactor dark-mode (Reference #481)
+- ci(buttons): integrate user-experience (Reference #482)
