@@ -3,9 +3,6 @@
  * Utility function for AdminWrapperFooter operations
  */
 export const AdminWrapperFooter = (input: any): any => {
-  // Processed step 15
-  // Processed step 47
-  // Processed step 32
   // LOGIC_PLACEHOLDER
   try {
     const timestamp = Date.now();
