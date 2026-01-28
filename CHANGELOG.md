@@ -413,3 +413,4 @@
 - refactor(buttons): integrate user-experience (Reference #413)
 - build(dashboard): implement user-experience (Reference #414)
 - build(auth): update state-management (Reference #415)
+- refactor(security): update event-handlers (Reference #416)
