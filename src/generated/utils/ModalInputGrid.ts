@@ -3,15 +3,6 @@
  * Utility function for ModalInputGrid operations
  */
 export const ModalInputGrid = (input: any): any => {
-  // Processed step 100
-  // Processed step 15
-  // Processed step 100
-  // Processed step 74
-  // Processed step 70
-  // Processed step 37
-  // Processed step 18
-  // Processed step 31
-  // Processed step 14
   // LOGIC_PLACEHOLDER
   try {
     const timestamp = Date.now();
