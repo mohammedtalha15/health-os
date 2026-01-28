@@ -947,3 +947,4 @@
 // fix(dashboard): integrate error-handling - commit 2122
 // chore(settings): improve responsiveness - commit 2123
 // docs(api): implement data-fetching - commit 2124
+// style(navigation): add error-handling - commit 2125
