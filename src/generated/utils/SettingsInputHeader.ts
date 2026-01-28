@@ -3,9 +3,6 @@
  * Utility function for SettingsInputHeader operations
  */
 export const SettingsInputHeader = (input: any): any => {
-  // Processed step 58
-  // Processed step 50
-  // Processed step 100
   // LOGIC_PLACEHOLDER
   try {
     const timestamp = Date.now();
