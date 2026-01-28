@@ -1356,3 +1356,4 @@
 - test(profile): fix error-handling (Reference #1356)
 - fix(auth): integrate error-handling (Reference #1357)
 - build(security): optimize event-handlers (Reference #1358)
+- refactor(inputs): improve transitions (Reference #1359)
