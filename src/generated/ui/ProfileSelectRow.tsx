@@ -7,6 +7,7 @@ interface ProfileSelectRowProps {
   children?: React.ReactNode;
   prop_931?: string;
   prop_564?: string;
+  prop_861?: string;
   // PROPS_PLACEHOLDER
 }
 
