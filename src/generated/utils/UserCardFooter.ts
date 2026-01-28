@@ -3,8 +3,6 @@
  * Utility function for UserCardFooter operations
  */
 export const UserCardFooter = (input: any): any => {
-  // Processed step 15
-  // Processed step 12
   // LOGIC_PLACEHOLDER
   try {
     const timestamp = Date.now();
