@@ -6,6 +6,7 @@ interface UserCardItemProps {
   className?: string;
   children?: React.ReactNode;
   prop_613?: string;
+  prop_471?: string;
   // PROPS_PLACEHOLDER
 }
 
