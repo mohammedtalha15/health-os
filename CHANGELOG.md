@@ -19,3 +19,4 @@
 - style(cache): implement performance (Reference #19)
 - refactor(profile): improve keyboard-nav (Reference #20)
 - refactor(navigation): fix validation (Reference #21)
+- ci(cache): configure data-fetching (Reference #22)
