@@ -10,6 +10,7 @@ interface ModalListGridProps {
   prop_995?: string;
   prop_266?: string;
   prop_367?: string;
+  prop_284?: string;
   // PROPS_PLACEHOLDER
 }
 
