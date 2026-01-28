@@ -7,6 +7,7 @@ interface SettingsWrapperSidebarProps {
   children?: React.ReactNode;
   prop_207?: string;
   prop_716?: string;
+  prop_107?: string;
   // PROPS_PLACEHOLDER
 }
 
