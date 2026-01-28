@@ -3,7 +3,6 @@
  * Utility function for AdminLinkPanel operations
  */
 export const AdminLinkPanel = (input: any): any => {
-  // Processed step 11
   // LOGIC_PLACEHOLDER
   try {
     const timestamp = Date.now();
