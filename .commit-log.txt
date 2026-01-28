@@ -284,3 +284,4 @@
 // build(inputs): refactor loading-states - commit 1459
 // feat(api): configure data-fetching - commit 1460
 // style(navigation): optimize validation - commit 1461
+// chore(api): optimize accessibility - commit 1462
