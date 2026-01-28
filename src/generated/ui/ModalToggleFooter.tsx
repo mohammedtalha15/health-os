@@ -7,6 +7,7 @@ interface ModalToggleFooterProps {
   children?: React.ReactNode;
   prop_581?: string;
   prop_595?: string;
+  prop_272?: string;
   // PROPS_PLACEHOLDER
 }
 
