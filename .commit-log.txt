@@ -637,3 +637,4 @@
 // ci(modals): improve mobile-support - commit 1812
 // ci(notifications): fix loading-states - commit 1813
 // fix(layouts): update unit-tests - commit 1814
+// feat(cache): add state-management - commit 1815
