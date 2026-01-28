@@ -1384,3 +1384,4 @@
 - chore(cache): update transitions (Reference #1384)
 - style(auth): configure animations (Reference #1385)
 - chore(notifications): integrate loading-states (Reference #1386)
+- refactor(inputs): refactor error-handling (Reference #1387)
