@@ -3,8 +3,6 @@
  * Utility function for UserCardGrid operations
  */
 export const UserCardGrid = (input: any): any => {
-  // Processed step 30
-  // Processed step 83
   // LOGIC_PLACEHOLDER
   try {
     const timestamp = Date.now();
