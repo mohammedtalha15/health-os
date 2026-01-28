@@ -3252,3 +3252,4 @@
 // fix(auth): implement state-management - commit 780
 // fix(notifications): integrate mobile-support - commit 781
 // build(forms): optimize error-handling - commit 782
+// chore(tables): refactor unit-tests - commit 783
