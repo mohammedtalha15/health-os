@@ -5,7 +5,6 @@ interface ButtonInputFooterProps {
   id?: string;
   className?: string;
   children?: React.ReactNode;
-  prop_243?: string;
   // PROPS_PLACEHOLDER
 }
 
