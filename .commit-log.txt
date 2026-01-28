@@ -1202,3 +1202,4 @@
 // fix(api): optimize code-quality - commit 2377
 // build(tables): add state-management - commit 2378
 // build(cache): optimize responsiveness - commit 2379
+// feat(tables): configure loading-states - commit 2380
