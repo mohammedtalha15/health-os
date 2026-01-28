@@ -6,6 +6,7 @@ interface TableListFooterProps {
   className?: string;
   children?: React.ReactNode;
   prop_809?: string;
+  prop_542?: string;
   // PROPS_PLACEHOLDER
 }
 
