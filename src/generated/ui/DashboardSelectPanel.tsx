@@ -6,6 +6,7 @@ interface DashboardSelectPanelProps {
   className?: string;
   children?: React.ReactNode;
   prop_948?: string;
+  prop_852?: string;
   // PROPS_PLACEHOLDER
 }
 
