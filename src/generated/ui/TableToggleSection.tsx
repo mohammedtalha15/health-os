@@ -9,6 +9,7 @@ interface TableToggleSectionProps {
   prop_645?: string;
   prop_996?: string;
   prop_500?: string;
+  prop_276?: string;
   // PROPS_PLACEHOLDER
 }
 
