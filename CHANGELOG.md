@@ -859,3 +859,4 @@
 - docs(settings): improve responsiveness (Reference #859)
 - ci(modals): configure transitions (Reference #860)
 - fix(tables): implement accessibility (Reference #861)
+- fix(security): fix error-handling (Reference #862)
