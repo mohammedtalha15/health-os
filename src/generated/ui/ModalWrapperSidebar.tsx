@@ -5,18 +5,6 @@ interface ModalWrapperSidebarProps {
   id?: string;
   className?: string;
   children?: React.ReactNode;
-  prop_584?: string;
-  prop_544?: string;
-  prop_632?: string;
-  prop_541?: string;
-  prop_502?: string;
-  prop_583?: string;
-  prop_338?: string;
-  prop_724?: string;
-  prop_257?: string;
-  prop_539?: string;
-  prop_983?: string;
-  prop_513?: string;
   // PROPS_PLACEHOLDER
 }
 
