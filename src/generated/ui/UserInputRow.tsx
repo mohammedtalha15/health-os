@@ -5,18 +5,6 @@ interface UserInputRowProps {
   id?: string;
   className?: string;
   children?: React.ReactNode;
-  prop_898?: string;
-  prop_960?: string;
-  prop_619?: string;
-  prop_392?: string;
-  prop_342?: string;
-  prop_170?: string;
-  prop_219?: string;
-  prop_352?: string;
-  prop_273?: string;
-  prop_962?: string;
-  prop_124?: string;
-  prop_560?: string;
   // PROPS_PLACEHOLDER
 }
 
