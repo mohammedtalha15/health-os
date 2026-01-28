@@ -921,3 +921,4 @@
 - refactor(dashboard): implement code-quality (Reference #921)
 - docs(search): improve performance (Reference #922)
 - feat(dashboard): add mobile-support (Reference #923)
+- fix(dashboard): refactor event-handlers (Reference #924)
