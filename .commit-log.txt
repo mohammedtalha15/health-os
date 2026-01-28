@@ -2509,3 +2509,4 @@
 // feat(modals): enhance dark-mode - commit 37
 // perf(dashboard): improve error-handling - commit 38
 // test(settings): refactor loading-states - commit 39
+// test(charts): integrate responsiveness - commit 40
