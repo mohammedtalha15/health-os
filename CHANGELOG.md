@@ -1040,3 +1040,4 @@
 - refactor(modals): add validation (Reference #1040)
 - style(profile): integrate data-fetching (Reference #1041)
 - refactor(ui): refactor performance (Reference #1042)
+- docs(profile): fix dark-mode (Reference #1043)
