@@ -11,6 +11,7 @@ interface ButtonListHeaderProps {
   prop_464?: string;
   prop_632?: string;
   prop_154?: string;
+  prop_440?: string;
   // PROPS_PLACEHOLDER
 }
 
