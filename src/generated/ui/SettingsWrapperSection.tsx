@@ -6,6 +6,7 @@ interface SettingsWrapperSectionProps {
   className?: string;
   children?: React.ReactNode;
   prop_615?: string;
+  prop_588?: string;
   // PROPS_PLACEHOLDER
 }
 
