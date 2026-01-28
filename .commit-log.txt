@@ -1641,3 +1641,4 @@
 // refactor(dashboard): configure data-fetching - commit 2816
 // fix(security): update accessibility - commit 2817
 // docs(inputs): update validation - commit 2818
+// ci(buttons): configure loading-states - commit 2819
