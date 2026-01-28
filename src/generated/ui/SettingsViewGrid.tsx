@@ -8,6 +8,7 @@ interface SettingsViewGridProps {
   prop_974?: string;
   prop_411?: string;
   prop_457?: string;
+  prop_619?: string;
   // PROPS_PLACEHOLDER
 }
 
