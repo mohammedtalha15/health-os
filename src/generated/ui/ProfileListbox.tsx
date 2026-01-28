@@ -5,9 +5,6 @@ interface ProfileListboxProps {
   id?: string;
   className?: string;
   children?: React.ReactNode;
-  prop_144?: string;
-  prop_111?: string;
-  prop_961?: string;
   // PROPS_PLACEHOLDER
 }
 
