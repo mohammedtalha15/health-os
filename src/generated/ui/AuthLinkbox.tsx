@@ -7,6 +7,7 @@ interface AuthLinkboxProps {
   children?: React.ReactNode;
   prop_641?: string;
   prop_786?: string;
+  prop_315?: string;
   // PROPS_PLACEHOLDER
 }
 
