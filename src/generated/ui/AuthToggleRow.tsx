@@ -10,6 +10,7 @@ interface AuthToggleRowProps {
   prop_752?: string;
   prop_590?: string;
   prop_780?: string;
+  prop_167?: string;
   // PROPS_PLACEHOLDER
 }
 
