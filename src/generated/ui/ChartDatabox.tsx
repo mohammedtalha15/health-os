@@ -8,6 +8,7 @@ interface ChartDataboxProps {
   prop_322?: string;
   prop_878?: string;
   prop_801?: string;
+  prop_355?: string;
   // PROPS_PLACEHOLDER
 }
 
