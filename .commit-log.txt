@@ -1049,3 +1049,4 @@
 // fix(forms): optimize accessibility - commit 2224
 // perf(ui): optimize documentation - commit 2225
 // build(inputs): refactor data-fetching - commit 2226
+// test(inputs): fix mobile-support - commit 2227
