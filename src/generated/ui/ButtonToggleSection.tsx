@@ -15,6 +15,7 @@ interface ButtonToggleSectionProps {
   prop_616?: string;
   prop_261?: string;
   prop_391?: string;
+  prop_693?: string;
   // PROPS_PLACEHOLDER
 }
 
