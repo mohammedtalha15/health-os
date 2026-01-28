@@ -1440,3 +1440,4 @@
 - refactor(buttons): add mobile-support (Reference #1440)
 - refactor(settings): optimize event-handlers (Reference #1441)
 - build(search): optimize accessibility (Reference #1442)
+- ci(dashboard): refactor animations (Reference #1443)
