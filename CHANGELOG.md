@@ -1274,3 +1274,4 @@
 - build(database): enhance documentation (Reference #1274)
 - refactor(dashboard): improve loading-states (Reference #1275)
 - ci(inputs): enhance transitions (Reference #1276)
+- perf(api): integrate accessibility (Reference #1277)
