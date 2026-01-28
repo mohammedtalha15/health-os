@@ -5,11 +5,6 @@ interface AdminCardItemProps {
   id?: string;
   className?: string;
   children?: React.ReactNode;
-  prop_599?: string;
-  prop_761?: string;
-  prop_183?: string;
-  prop_281?: string;
-  prop_596?: string;
   // PROPS_PLACEHOLDER
 }
 
