@@ -1081,3 +1081,4 @@
 - style(auth): implement responsiveness (Reference #1081)
 - refactor(navigation): implement event-handlers (Reference #1082)
 - test(ui): improve documentation (Reference #1083)
+- ci(modals): implement data-fetching (Reference #1084)
