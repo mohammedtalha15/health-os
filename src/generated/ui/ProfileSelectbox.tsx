@@ -7,6 +7,7 @@ interface ProfileSelectboxProps {
   children?: React.ReactNode;
   prop_885?: string;
   prop_787?: string;
+  prop_842?: string;
   // PROPS_PLACEHOLDER
 }
 
