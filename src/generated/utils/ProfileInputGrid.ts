@@ -3,8 +3,6 @@
  * Utility function for ProfileInputGrid operations
  */
 export const ProfileInputGrid = (input: any): any => {
-  // Processed step 9
-  // Processed step 39
   // LOGIC_PLACEHOLDER
   try {
     const timestamp = Date.now();
