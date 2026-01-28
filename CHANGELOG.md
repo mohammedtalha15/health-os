@@ -436,3 +436,4 @@
 - feat(search): fix caching-logic (Reference #436)
 - docs(inputs): enhance validation (Reference #437)
 - docs(navigation): improve accessibility (Reference #438)
+- feat(notifications): implement performance (Reference #439)
