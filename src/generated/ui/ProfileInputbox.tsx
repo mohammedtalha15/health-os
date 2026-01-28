@@ -9,6 +9,7 @@ interface ProfileInputboxProps {
   prop_895?: string;
   prop_480?: string;
   prop_122?: string;
+  prop_878?: string;
   // PROPS_PLACEHOLDER
 }
 
