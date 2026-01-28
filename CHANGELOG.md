@@ -1088,3 +1088,4 @@
 - style(database): add validation (Reference #1088)
 - style(database): fix animations (Reference #1089)
 - test(ui): update user-experience (Reference #1090)
+- test(forms): integrate loading-states (Reference #1091)
