@@ -3,8 +3,6 @@
  * Utility function for UserToggleSidebar operations
  */
 export const UserToggleSidebar = (input: any): any => {
-  // Processed step 40
-  // Processed step 59
   // LOGIC_PLACEHOLDER
   try {
     const timestamp = Date.now();
