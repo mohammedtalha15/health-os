@@ -608,3 +608,4 @@
 - feat(settings): fix unit-tests (Reference #608)
 - perf(layouts): improve accessibility (Reference #609)
 - test(modals): add data-fetching (Reference #610)
+- style(settings): implement accessibility (Reference #611)
