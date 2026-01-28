@@ -3298,3 +3298,4 @@
 // chore(tables): improve keyboard-nav - commit 826
 // fix(database): optimize user-experience - commit 827
 // build(inputs): optimize validation - commit 828
+// style(security): fix mobile-support - commit 829
