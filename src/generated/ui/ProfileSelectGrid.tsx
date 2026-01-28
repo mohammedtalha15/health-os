@@ -9,6 +9,7 @@ interface ProfileSelectGridProps {
   prop_654?: string;
   prop_554?: string;
   prop_781?: string;
+  prop_471?: string;
   // PROPS_PLACEHOLDER
 }
 
