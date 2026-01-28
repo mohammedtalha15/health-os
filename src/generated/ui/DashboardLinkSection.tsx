@@ -10,6 +10,7 @@ interface DashboardLinkSectionProps {
   prop_641?: string;
   prop_892?: string;
   prop_515?: string;
+  prop_164?: string;
   // PROPS_PLACEHOLDER
 }
 
