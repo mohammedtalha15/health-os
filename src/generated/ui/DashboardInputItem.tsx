@@ -22,6 +22,7 @@ interface DashboardInputItemProps {
   prop_447?: string;
   prop_778?: string;
   prop_479?: string;
+  prop_203?: string;
   // PROPS_PLACEHOLDER
 }
 
