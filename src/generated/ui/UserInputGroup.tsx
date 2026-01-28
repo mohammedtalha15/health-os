@@ -13,6 +13,7 @@ interface UserInputGroupProps {
   prop_223?: string;
   prop_708?: string;
   prop_759?: string;
+  prop_987?: string;
   // PROPS_PLACEHOLDER
 }
 
