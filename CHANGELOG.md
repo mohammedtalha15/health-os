@@ -1409,3 +1409,4 @@
 - ci(tables): improve keyboard-nav (Reference #1409)
 - refactor(profile): refactor state-management (Reference #1410)
 - perf(ui): update keyboard-nav (Reference #1411)
+- docs(tables): improve code-quality (Reference #1412)
