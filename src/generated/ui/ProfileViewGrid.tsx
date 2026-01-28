@@ -5,19 +5,6 @@ interface ProfileViewGridProps {
   id?: string;
   className?: string;
   children?: React.ReactNode;
-  prop_935?: string;
-  prop_384?: string;
-  prop_973?: string;
-  prop_809?: string;
-  prop_675?: string;
-  prop_410?: string;
-  prop_169?: string;
-  prop_609?: string;
-  prop_526?: string;
-  prop_163?: string;
-  prop_982?: string;
-  prop_924?: string;
-  prop_808?: string;
   // PROPS_PLACEHOLDER
 }
 
