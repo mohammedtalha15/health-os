@@ -1187,3 +1187,4 @@
 - build(ui): improve type-definitions (Reference #1187)
 - style(forms): integrate state-management (Reference #1188)
 - build(profile): enhance mobile-support (Reference #1189)
+- chore(forms): optimize error-handling (Reference #1190)
