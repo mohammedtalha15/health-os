@@ -6,6 +6,7 @@ interface UserCardGridProps {
   className?: string;
   children?: React.ReactNode;
   prop_489?: string;
+  prop_678?: string;
   // PROPS_PLACEHOLDER
 }
 
