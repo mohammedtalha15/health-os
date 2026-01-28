@@ -131,3 +131,4 @@
 - perf(forms): implement dark-mode (Reference #131)
 - chore(settings): optimize event-handlers (Reference #132)
 - feat(analytics): enhance documentation (Reference #133)
+- perf(forms): implement mobile-support (Reference #134)
