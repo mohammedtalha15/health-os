@@ -2708,3 +2708,4 @@
 // fix(notifications): optimize caching-logic - commit 236
 // docs(modals): add responsiveness - commit 237
 // refactor(modals): update mobile-support - commit 238
+// build(inputs): integrate mobile-support - commit 239
