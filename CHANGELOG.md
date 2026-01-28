@@ -1093,3 +1093,4 @@
 - feat(navigation): enhance dark-mode (Reference #1093)
 - feat(profile): enhance user-experience (Reference #1094)
 - build(inputs): refactor keyboard-nav (Reference #1095)
+- refactor(tables): integrate validation (Reference #1096)
