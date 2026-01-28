@@ -225,3 +225,4 @@
 // feat(tables): implement performance - commit 1400
 // test(database): integrate loading-states - commit 1401
 // docs(security): update event-handlers - commit 1402
+// docs(charts): configure user-experience - commit 1403
