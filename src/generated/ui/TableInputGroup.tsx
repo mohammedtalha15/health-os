@@ -11,6 +11,7 @@ interface TableInputGroupProps {
   prop_858?: string;
   prop_957?: string;
   prop_366?: string;
+  prop_376?: string;
   // PROPS_PLACEHOLDER
 }
 
