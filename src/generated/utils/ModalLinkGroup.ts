@@ -3,9 +3,6 @@
  * Utility function for ModalLinkGroup operations
  */
 export const ModalLinkGroup = (input: any): any => {
-  // Processed step 11
-  // Processed step 12
-  // Processed step 50
   // LOGIC_PLACEHOLDER
   try {
     const timestamp = Date.now();
