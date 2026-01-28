@@ -8,6 +8,7 @@ interface ProfileSelectGroupProps {
   prop_675?: string;
   prop_919?: string;
   prop_290?: string;
+  prop_968?: string;
   // PROPS_PLACEHOLDER
 }
 
