@@ -369,3 +369,4 @@
 - fix(security): enhance mobile-support (Reference #369)
 - refactor(notifications): update validation (Reference #370)
 - test(navigation): improve dark-mode (Reference #371)
+- ci(buttons): enhance animations (Reference #372)
