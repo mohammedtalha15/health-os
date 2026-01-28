@@ -1201,3 +1201,4 @@
 - style(tables): optimize documentation (Reference #1201)
 - perf(security): configure event-handlers (Reference #1202)
 - ci(profile): refactor unit-tests (Reference #1203)
+- chore(search): update validation (Reference #1204)
