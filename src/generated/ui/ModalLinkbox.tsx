@@ -6,6 +6,7 @@ interface ModalLinkboxProps {
   className?: string;
   children?: React.ReactNode;
   prop_816?: string;
+  prop_142?: string;
   // PROPS_PLACEHOLDER
 }
 
