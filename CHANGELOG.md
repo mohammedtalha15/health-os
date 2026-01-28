@@ -1058,3 +1058,4 @@
 - docs(tables): improve error-handling (Reference #1058)
 - ci(navigation): refactor responsiveness (Reference #1059)
 - docs(layouts): configure event-handlers (Reference #1060)
+- style(notifications): improve caching-logic (Reference #1061)
