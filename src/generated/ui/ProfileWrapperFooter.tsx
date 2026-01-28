@@ -14,6 +14,7 @@ interface ProfileWrapperFooterProps {
   prop_617?: string;
   prop_544?: string;
   prop_195?: string;
+  prop_118?: string;
   // PROPS_PLACEHOLDER
 }
 
