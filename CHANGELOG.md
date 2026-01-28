@@ -1438,3 +1438,4 @@
 - refactor(ui): integrate dark-mode (Reference #1438)
 - chore(database): enhance performance (Reference #1439)
 - refactor(buttons): add mobile-support (Reference #1440)
+- refactor(settings): optimize event-handlers (Reference #1441)
