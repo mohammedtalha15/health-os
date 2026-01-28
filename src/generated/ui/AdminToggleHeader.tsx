@@ -10,6 +10,7 @@ interface AdminToggleHeaderProps {
   prop_918?: string;
   prop_508?: string;
   prop_665?: string;
+  prop_682?: string;
   // PROPS_PLACEHOLDER
 }
 
