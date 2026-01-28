@@ -3,12 +3,6 @@
  * Utility function for DashboardInputbox operations
  */
 export const DashboardInputbox = (input: any): any => {
-  // Processed step 92
-  // Processed step 55
-  // Processed step 71
-  // Processed step 67
-  // Processed step 19
-  // Processed step 27
   // LOGIC_PLACEHOLDER
   try {
     const timestamp = Date.now();
