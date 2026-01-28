@@ -73,3 +73,4 @@
 - fix(dashboard): add keyboard-nav (Reference #73)
 - refactor(charts): refactor animations (Reference #74)
 - build(search): integrate dark-mode (Reference #75)
+- ci(inputs): configure performance (Reference #76)
