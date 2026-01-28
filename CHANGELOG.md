@@ -231,3 +231,4 @@
 - perf(charts): refactor responsiveness (Reference #231)
 - build(layouts): implement performance (Reference #232)
 - build(inputs): configure unit-tests (Reference #233)
+- docs(cache): optimize type-definitions (Reference #234)
