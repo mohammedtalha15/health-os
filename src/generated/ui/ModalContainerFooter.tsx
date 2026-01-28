@@ -6,6 +6,7 @@ interface ModalContainerFooterProps {
   className?: string;
   children?: React.ReactNode;
   prop_178?: string;
+  prop_270?: string;
   // PROPS_PLACEHOLDER
 }
 
