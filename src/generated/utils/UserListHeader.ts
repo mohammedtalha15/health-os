@@ -3,8 +3,6 @@
  * Utility function for UserListHeader operations
  */
 export const UserListHeader = (input: any): any => {
-  // Processed step 87
-  // Processed step 16
   // LOGIC_PLACEHOLDER
   try {
     const timestamp = Date.now();
