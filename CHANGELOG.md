@@ -344,3 +344,4 @@
 - ci(database): implement documentation (Reference #344)
 - build(forms): fix unit-tests (Reference #345)
 - chore(layouts): implement code-quality (Reference #346)
+- refactor(forms): improve dark-mode (Reference #347)
