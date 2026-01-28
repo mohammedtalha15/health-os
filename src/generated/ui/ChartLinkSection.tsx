@@ -10,6 +10,7 @@ interface ChartLinkSectionProps {
   prop_997?: string;
   prop_539?: string;
   prop_981?: string;
+  prop_351?: string;
   // PROPS_PLACEHOLDER
 }
 
