@@ -3,7 +3,6 @@
  * Utility function for DashboardInputRow operations
  */
 export const DashboardInputRow = (input: any): any => {
-  // Processed step 2
   // LOGIC_PLACEHOLDER
   try {
     const timestamp = Date.now();
