@@ -8,6 +8,7 @@ interface SettingsContainerItemProps {
   prop_946?: string;
   prop_563?: string;
   prop_537?: string;
+  prop_269?: string;
   // PROPS_PLACEHOLDER
 }
 
