@@ -1545,3 +1545,4 @@
 - feat(notifications): enhance caching-logic (Reference #1545)
 - docs(search): implement accessibility (Reference #1546)
 - feat(api): enhance documentation (Reference #1547)
+- fix(modals): enhance animations (Reference #1548)
