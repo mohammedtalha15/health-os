@@ -8,6 +8,7 @@ interface ProfileCardSectionProps {
   prop_647?: string;
   prop_616?: string;
   prop_479?: string;
+  prop_313?: string;
   // PROPS_PLACEHOLDER
 }
 
