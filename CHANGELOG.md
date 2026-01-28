@@ -1450,3 +1450,4 @@
 - fix(settings): enhance keyboard-nav (Reference #1450)
 - style(dashboard): refactor documentation (Reference #1451)
 - style(modals): update loading-states (Reference #1452)
+- fix(profile): integrate caching-logic (Reference #1453)
