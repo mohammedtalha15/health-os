@@ -3,13 +3,6 @@
  * Utility function for ProfileCardRow operations
  */
 export const ProfileCardRow = (input: any): any => {
-  // Processed step 18
-  // Processed step 74
-  // Processed step 45
-  // Processed step 80
-  // Processed step 84
-  // Processed step 35
-  // Processed step 3
   // LOGIC_PLACEHOLDER
   try {
     const timestamp = Date.now();
