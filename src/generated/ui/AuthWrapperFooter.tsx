@@ -6,6 +6,7 @@ interface AuthWrapperFooterProps {
   className?: string;
   children?: React.ReactNode;
   prop_768?: string;
+  prop_409?: string;
   // PROPS_PLACEHOLDER
 }
 
