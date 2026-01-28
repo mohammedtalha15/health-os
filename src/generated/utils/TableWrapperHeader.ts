@@ -3,10 +3,6 @@
  * Utility function for TableWrapperHeader operations
  */
 export const TableWrapperHeader = (input: any): any => {
-  // Processed step 34
-  // Processed step 29
-  // Processed step 20
-  // Processed step 26
   // LOGIC_PLACEHOLDER
   try {
     const timestamp = Date.now();
