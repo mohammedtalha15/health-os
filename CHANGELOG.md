@@ -470,3 +470,4 @@
 - feat(search): add type-definitions (Reference #470)
 - test(security): configure error-handling (Reference #471)
 - style(cache): integrate user-experience (Reference #472)
+- style(charts): implement event-handlers (Reference #473)
