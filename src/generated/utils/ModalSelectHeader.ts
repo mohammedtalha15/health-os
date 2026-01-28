@@ -3,22 +3,6 @@
  * Utility function for ModalSelectHeader operations
  */
 export const ModalSelectHeader = (input: any): any => {
-  // Processed step 3
-  // Processed step 96
-  // Processed step 69
-  // Processed step 45
-  // Processed step 66
-  // Processed step 41
-  // Processed step 66
-  // Processed step 79
-  // Processed step 54
-  // Processed step 53
-  // Processed step 65
-  // Processed step 59
-  // Processed step 17
-  // Processed step 61
-  // Processed step 52
-  // Processed step 55
   // LOGIC_PLACEHOLDER
   try {
     const timestamp = Date.now();
