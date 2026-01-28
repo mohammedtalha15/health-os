@@ -5,17 +5,6 @@ interface SettingsListFooterProps {
   id?: string;
   className?: string;
   children?: React.ReactNode;
-  prop_952?: string;
-  prop_884?: string;
-  prop_891?: string;
-  prop_901?: string;
-  prop_466?: string;
-  prop_656?: string;
-  prop_526?: string;
-  prop_228?: string;
-  prop_742?: string;
-  prop_449?: string;
-  prop_977?: string;
   // PROPS_PLACEHOLDER
 }
 
