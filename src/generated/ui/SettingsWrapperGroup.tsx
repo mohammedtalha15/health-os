@@ -9,6 +9,7 @@ interface SettingsWrapperGroupProps {
   prop_623?: string;
   prop_674?: string;
   prop_998?: string;
+  prop_796?: string;
   // PROPS_PLACEHOLDER
 }
 
