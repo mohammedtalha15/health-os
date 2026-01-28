@@ -10,6 +10,7 @@ interface DashboardWrapperGroupProps {
   prop_261?: string;
   prop_816?: string;
   prop_870?: string;
+  prop_218?: string;
   // PROPS_PLACEHOLDER
 }
 
