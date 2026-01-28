@@ -331,3 +331,4 @@
 - fix(layouts): optimize loading-states (Reference #331)
 - docs(layouts): update state-management (Reference #332)
 - feat(profile): update keyboard-nav (Reference #333)
+- feat(dashboard): integrate documentation (Reference #334)
