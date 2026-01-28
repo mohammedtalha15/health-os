@@ -3,8 +3,6 @@
  * Utility function for ProfileListHeader operations
  */
 export const ProfileListHeader = (input: any): any => {
-  // Processed step 6
-  // Processed step 97
   // LOGIC_PLACEHOLDER
   try {
     const timestamp = Date.now();
