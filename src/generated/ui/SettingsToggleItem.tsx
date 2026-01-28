@@ -7,6 +7,7 @@ interface SettingsToggleItemProps {
   children?: React.ReactNode;
   prop_505?: string;
   prop_221?: string;
+  prop_777?: string;
   // PROPS_PLACEHOLDER
 }
 
