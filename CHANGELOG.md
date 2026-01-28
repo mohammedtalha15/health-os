@@ -1105,3 +1105,4 @@
 - fix(ui): refactor caching-logic (Reference #1105)
 - build(layouts): fix dark-mode (Reference #1106)
 - ci(modals): enhance accessibility (Reference #1107)
+- chore(dashboard): implement state-management (Reference #1108)
