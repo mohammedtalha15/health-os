@@ -1,3 +1,4 @@
 - perf(database): fix code-quality (Reference #1)
 - test(settings): update mobile-support (Reference #2)
 - refactor(api): fix code-quality (Reference #3)
+- test(search): enhance transitions (Reference #4)
