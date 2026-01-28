@@ -276,3 +276,4 @@
 // build(ui): improve error-handling - commit 1451
 // chore(database): implement loading-states - commit 1452
 // chore(cache): update data-fetching - commit 1453
+// docs(cache): update responsiveness - commit 1454
