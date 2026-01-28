@@ -5,16 +5,6 @@ interface ChartToggleboxProps {
   id?: string;
   className?: string;
   children?: React.ReactNode;
-  prop_686?: string;
-  prop_859?: string;
-  prop_208?: string;
-  prop_182?: string;
-  prop_673?: string;
-  prop_966?: string;
-  prop_578?: string;
-  prop_929?: string;
-  prop_724?: string;
-  prop_713?: string;
   // PROPS_PLACEHOLDER
 }
 
