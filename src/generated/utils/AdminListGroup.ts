@@ -3,9 +3,6 @@
  * Utility function for AdminListGroup operations
  */
 export const AdminListGroup = (input: any): any => {
-  // Processed step 86
-  // Processed step 38
-  // Processed step 63
   // LOGIC_PLACEHOLDER
   try {
     const timestamp = Date.now();
