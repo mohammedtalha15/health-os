@@ -903,3 +903,4 @@
 - style(ui): add validation (Reference #903)
 - docs(notifications): configure user-experience (Reference #904)
 - perf(navigation): refactor performance (Reference #905)
+- feat(api): optimize validation (Reference #906)
