@@ -8,6 +8,7 @@ interface UserContainerSidebarProps {
   prop_874?: string;
   prop_733?: string;
   prop_427?: string;
+  prop_599?: string;
   // PROPS_PLACEHOLDER
 }
 
