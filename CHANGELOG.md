@@ -1281,3 +1281,4 @@
 - perf(ui): add loading-states (Reference #1281)
 - perf(ui): optimize event-handlers (Reference #1282)
 - ci(notifications): implement data-fetching (Reference #1283)
+- refactor(dashboard): enhance error-handling (Reference #1284)
