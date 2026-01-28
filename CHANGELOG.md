@@ -612,3 +612,4 @@
 - ci(cache): implement performance (Reference #612)
 - ci(navigation): improve transitions (Reference #613)
 - perf(security): enhance unit-tests (Reference #614)
+- build(notifications): optimize user-experience (Reference #615)
