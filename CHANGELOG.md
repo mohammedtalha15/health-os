@@ -658,3 +658,4 @@
 - perf(buttons): enhance unit-tests (Reference #658)
 - build(charts): enhance data-fetching (Reference #659)
 - refactor(analytics): fix user-experience (Reference #660)
+- style(ui): add loading-states (Reference #661)
