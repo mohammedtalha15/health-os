@@ -5,8 +5,6 @@ interface UserViewGroupProps {
   id?: string;
   className?: string;
   children?: React.ReactNode;
-  prop_618?: string;
-  prop_443?: string;
   // PROPS_PLACEHOLDER
 }
 
