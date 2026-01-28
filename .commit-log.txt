@@ -707,3 +707,4 @@
 // style(forms): refactor state-management - commit 1882
 // refactor(settings): add keyboard-nav - commit 1883
 // chore(tables): improve unit-tests - commit 1884
+// test(dashboard): configure event-handlers - commit 1885
