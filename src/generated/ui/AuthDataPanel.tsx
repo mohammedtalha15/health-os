@@ -7,6 +7,7 @@ interface AuthDataPanelProps {
   children?: React.ReactNode;
   prop_159?: string;
   prop_479?: string;
+  prop_918?: string;
   // PROPS_PLACEHOLDER
 }
 
