@@ -7,6 +7,7 @@ interface SettingsToggleRowProps {
   children?: React.ReactNode;
   prop_752?: string;
   prop_675?: string;
+  prop_612?: string;
   // PROPS_PLACEHOLDER
 }
 
