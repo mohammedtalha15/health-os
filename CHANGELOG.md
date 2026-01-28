@@ -1069,3 +1069,4 @@
 - build(notifications): improve transitions (Reference #1069)
 - docs(search): fix unit-tests (Reference #1070)
 - test(layouts): improve responsiveness (Reference #1071)
+- style(buttons): enhance code-quality (Reference #1072)
