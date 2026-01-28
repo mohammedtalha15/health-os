@@ -8,6 +8,7 @@ interface UserContainerRowProps {
   prop_762?: string;
   prop_891?: string;
   prop_558?: string;
+  prop_185?: string;
   // PROPS_PLACEHOLDER
 }
 
