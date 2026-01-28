@@ -18,3 +18,4 @@
 // chore(notifications): update transitions - commit 966
 // fix(layouts): configure code-quality - commit 967
 // test(charts): improve unit-tests - commit 968
+// test(dashboard): enhance mobile-support - commit 969
