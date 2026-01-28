@@ -10,6 +10,7 @@ interface AdminListGridProps {
   prop_119?: string;
   prop_185?: string;
   prop_389?: string;
+  prop_625?: string;
   // PROPS_PLACEHOLDER
 }
 
