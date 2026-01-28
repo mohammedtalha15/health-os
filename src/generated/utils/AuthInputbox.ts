@@ -3,8 +3,6 @@
  * Utility function for AuthInputbox operations
  */
 export const AuthInputbox = (input: any): any => {
-  // Processed step 84
-  // Processed step 62
   // LOGIC_PLACEHOLDER
   try {
     const timestamp = Date.now();
