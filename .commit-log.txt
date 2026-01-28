@@ -1165,3 +1165,4 @@
 // style(api): configure animations - commit 2340
 // fix(notifications): fix keyboard-nav - commit 2341
 // refactor(auth): fix documentation - commit 2342
+// test(auth): add loading-states - commit 2343
