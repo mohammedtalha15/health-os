@@ -71,3 +71,4 @@
 - style(charts): refactor user-experience (Reference #71)
 - ci(auth): fix documentation (Reference #72)
 - fix(dashboard): add keyboard-nav (Reference #73)
+- refactor(charts): refactor animations (Reference #74)
