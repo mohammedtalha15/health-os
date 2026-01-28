@@ -3,8 +3,6 @@
  * Utility function for AuthCardHeader operations
  */
 export const AuthCardHeader = (input: any): any => {
-  // Processed step 74
-  // Processed step 41
   // LOGIC_PLACEHOLDER
   try {
     const timestamp = Date.now();
