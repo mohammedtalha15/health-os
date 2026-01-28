@@ -9,6 +9,7 @@ interface ButtonSelectGridProps {
   prop_686?: string;
   prop_451?: string;
   prop_913?: string;
+  prop_681?: string;
   // PROPS_PLACEHOLDER
 }
 
