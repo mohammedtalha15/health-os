@@ -3,8 +3,6 @@
  * Utility function for ModalDataHeader operations
  */
 export const ModalDataHeader = (input: any): any => {
-  // Processed step 73
-  // Processed step 97
   // LOGIC_PLACEHOLDER
   try {
     const timestamp = Date.now();
