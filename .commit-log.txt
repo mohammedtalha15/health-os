@@ -2438,3 +2438,4 @@
 // docs(buttons): add animations - commit 474
 // docs(analytics):  screen reader support - commit 475
 // refactor(auth): fix accessibility - commit 476
+// refactor(charts): refactor mobile support - commit 477
