@@ -133,3 +133,4 @@
 // docs(search): fix mobile-support - commit 1081
 // feat(forms): add mobile-support - commit 1082
 // build(navigation): update mobile-support - commit 1083
+// style(api): integrate documentation - commit 1084
