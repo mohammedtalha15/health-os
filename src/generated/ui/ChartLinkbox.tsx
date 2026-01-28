@@ -5,8 +5,6 @@ interface ChartLinkboxProps {
   id?: string;
   className?: string;
   children?: React.ReactNode;
-  prop_567?: string;
-  prop_283?: string;
   // PROPS_PLACEHOLDER
 }
 
