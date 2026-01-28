@@ -1514,3 +1514,4 @@
 - ci(security): improve animations (Reference #1514)
 - fix(modals): implement performance (Reference #1515)
 - build(database): integrate validation (Reference #1516)
+- perf(tables): refactor data-fetching (Reference #1517)
