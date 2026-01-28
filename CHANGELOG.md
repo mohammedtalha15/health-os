@@ -708,3 +708,4 @@
 - build(tables): improve validation (Reference #708)
 - fix(search): enhance data-fetching (Reference #709)
 - chore(inputs): improve loading-states (Reference #710)
+- perf(dashboard): optimize mobile-support (Reference #711)
