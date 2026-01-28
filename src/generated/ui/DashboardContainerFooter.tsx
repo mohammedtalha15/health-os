@@ -7,6 +7,7 @@ interface DashboardContainerFooterProps {
   children?: React.ReactNode;
   prop_490?: string;
   prop_183?: string;
+  prop_629?: string;
   // PROPS_PLACEHOLDER
 }
 
