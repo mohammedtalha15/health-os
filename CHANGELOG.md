@@ -841,3 +841,4 @@
 - test(notifications): refactor dark-mode (Reference #841)
 - ci(notifications): integrate documentation (Reference #842)
 - fix(layouts): add user-experience (Reference #843)
+- ci(notifications): improve user-experience (Reference #844)
