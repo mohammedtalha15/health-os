@@ -1507,3 +1507,4 @@
 - perf(ui): add caching-logic (Reference #1507)
 - perf(profile): improve validation (Reference #1508)
 - style(settings): refactor keyboard-nav (Reference #1509)
+- feat(tables): refactor event-handlers (Reference #1510)
