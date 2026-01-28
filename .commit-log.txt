@@ -395,3 +395,4 @@
 // perf(ui): optimize event-handlers - commit 1570
 // fix(inputs): update unit-tests - commit 1571
 // chore(notifications): improve keyboard-nav - commit 1572
+// perf(security): enhance user-experience - commit 1573
