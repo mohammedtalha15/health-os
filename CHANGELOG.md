@@ -476,3 +476,4 @@
 - build(notifications): add user-experience (Reference #476)
 - chore(inputs): optimize type-definitions (Reference #477)
 - fix(security): add responsiveness (Reference #478)
+- refactor(search): optimize state-management (Reference #479)
