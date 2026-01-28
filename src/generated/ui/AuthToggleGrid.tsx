@@ -5,28 +5,6 @@ interface AuthToggleGridProps {
   id?: string;
   className?: string;
   children?: React.ReactNode;
-  prop_416?: string;
-  prop_250?: string;
-  prop_518?: string;
-  prop_229?: string;
-  prop_787?: string;
-  prop_477?: string;
-  prop_606?: string;
-  prop_724?: string;
-  prop_285?: string;
-  prop_526?: string;
-  prop_795?: string;
-  prop_968?: string;
-  prop_785?: string;
-  prop_886?: string;
-  prop_114?: string;
-  prop_605?: string;
-  prop_267?: string;
-  prop_907?: string;
-  prop_812?: string;
-  prop_807?: string;
-  prop_485?: string;
-  prop_379?: string;
   // PROPS_PLACEHOLDER
 }
 
