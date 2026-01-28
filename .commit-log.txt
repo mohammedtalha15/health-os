@@ -180,3 +180,4 @@
 // style(layouts): refactor error-handling - commit 1355
 // test(tables): add type-definitions - commit 1356
 // style(navigation): enhance error-handling - commit 1357
+// style(buttons): enhance documentation - commit 1358
