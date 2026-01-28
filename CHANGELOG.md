@@ -345,3 +345,4 @@
 - build(forms): fix unit-tests (Reference #345)
 - chore(layouts): implement code-quality (Reference #346)
 - refactor(forms): improve dark-mode (Reference #347)
+- feat(profile): refactor type-definitions (Reference #348)
