@@ -568,3 +568,4 @@
 // perf(charts): enhance dark-mode - commit 1743
 // refactor(cache): integrate dark-mode - commit 1744
 // style(dashboard): add state-management - commit 1745
+// feat(modals): fix user-experience - commit 1746
