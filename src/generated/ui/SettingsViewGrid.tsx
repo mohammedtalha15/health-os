@@ -7,6 +7,7 @@ interface SettingsViewGridProps {
   children?: React.ReactNode;
   prop_974?: string;
   prop_411?: string;
+  prop_457?: string;
   // PROPS_PLACEHOLDER
 }
 
