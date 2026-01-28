@@ -14,6 +14,7 @@ interface UserDataHeaderProps {
   prop_482?: string;
   prop_224?: string;
   prop_302?: string;
+  prop_397?: string;
   // PROPS_PLACEHOLDER
 }
 
