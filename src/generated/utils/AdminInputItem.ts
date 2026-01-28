@@ -3,12 +3,6 @@
  * Utility function for AdminInputItem operations
  */
 export const AdminInputItem = (input: any): any => {
-  // Processed step 62
-  // Processed step 34
-  // Processed step 19
-  // Processed step 47
-  // Processed step 57
-  // Processed step 47
   // LOGIC_PLACEHOLDER
   try {
     const timestamp = Date.now();
