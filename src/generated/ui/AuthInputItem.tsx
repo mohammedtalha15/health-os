@@ -7,6 +7,7 @@ interface AuthInputItemProps {
   children?: React.ReactNode;
   prop_406?: string;
   prop_324?: string;
+  prop_409?: string;
   // PROPS_PLACEHOLDER
 }
 
