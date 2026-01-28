@@ -8,6 +8,7 @@ interface ModalInputItemProps {
   prop_833?: string;
   prop_535?: string;
   prop_880?: string;
+  prop_273?: string;
   // PROPS_PLACEHOLDER
 }
 
