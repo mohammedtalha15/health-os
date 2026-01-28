@@ -1441,3 +1441,4 @@
 - refactor(settings): optimize event-handlers (Reference #1441)
 - build(search): optimize accessibility (Reference #1442)
 - ci(dashboard): refactor animations (Reference #1443)
+- feat(notifications): refactor event-handlers (Reference #1444)
