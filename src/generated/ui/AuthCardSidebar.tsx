@@ -14,6 +14,7 @@ interface AuthCardSidebarProps {
   prop_195?: string;
   prop_863?: string;
   prop_911?: string;
+  prop_674?: string;
   // PROPS_PLACEHOLDER
 }
 
