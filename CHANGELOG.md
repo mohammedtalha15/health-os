@@ -1465,3 +1465,4 @@
 - ci(navigation): enhance transitions (Reference #1465)
 - test(tables): optimize dark-mode (Reference #1466)
 - chore(database): fix data-fetching (Reference #1467)
+- refactor(auth): add performance (Reference #1468)
