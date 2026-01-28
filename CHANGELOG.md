@@ -1130,3 +1130,4 @@
 - test(cache): refactor caching-logic (Reference #1130)
 - fix(profile): add keyboard-nav (Reference #1131)
 - perf(search): enhance keyboard-nav (Reference #1132)
+- feat(modals): improve responsiveness (Reference #1133)
