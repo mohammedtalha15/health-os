@@ -9,6 +9,7 @@ interface DashboardViewFooterProps {
   prop_265?: string;
   prop_345?: string;
   prop_180?: string;
+  prop_527?: string;
   // PROPS_PLACEHOLDER
 }
 
