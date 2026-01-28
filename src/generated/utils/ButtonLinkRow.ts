@@ -3,14 +3,6 @@
  * Utility function for ButtonLinkRow operations
  */
 export const ButtonLinkRow = (input: any): any => {
-  // Processed step 95
-  // Processed step 80
-  // Processed step 57
-  // Processed step 1
-  // Processed step 91
-  // Processed step 96
-  // Processed step 46
-  // Processed step 70
   // LOGIC_PLACEHOLDER
   try {
     const timestamp = Date.now();
