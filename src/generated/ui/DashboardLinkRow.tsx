@@ -10,6 +10,7 @@ interface DashboardLinkRowProps {
   prop_996?: string;
   prop_778?: string;
   prop_993?: string;
+  prop_146?: string;
   // PROPS_PLACEHOLDER
 }
 
