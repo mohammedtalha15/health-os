@@ -1299,3 +1299,4 @@
 - perf(database): implement type-definitions (Reference #1299)
 - fix(notifications): configure type-definitions (Reference #1300)
 - chore(profile): implement event-handlers (Reference #1301)
+- style(search): fix documentation (Reference #1302)
