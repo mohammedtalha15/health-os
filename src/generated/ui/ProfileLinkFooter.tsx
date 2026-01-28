@@ -16,6 +16,7 @@ interface ProfileLinkFooterProps {
   prop_785?: string;
   prop_813?: string;
   prop_826?: string;
+  prop_629?: string;
   // PROPS_PLACEHOLDER
 }
 
