@@ -5,13 +5,6 @@ interface ButtonWrapperRowProps {
   id?: string;
   className?: string;
   children?: React.ReactNode;
-  prop_606?: string;
-  prop_295?: string;
-  prop_177?: string;
-  prop_447?: string;
-  prop_546?: string;
-  prop_419?: string;
-  prop_105?: string;
   // PROPS_PLACEHOLDER
 }
 
