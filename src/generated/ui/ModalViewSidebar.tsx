@@ -9,6 +9,7 @@ interface ModalViewSidebarProps {
   prop_453?: string;
   prop_275?: string;
   prop_214?: string;
+  prop_265?: string;
   // PROPS_PLACEHOLDER
 }
 
