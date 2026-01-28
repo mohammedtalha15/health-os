@@ -6,6 +6,7 @@ interface ButtonListGroupProps {
   className?: string;
   children?: React.ReactNode;
   prop_659?: string;
+  prop_103?: string;
   // PROPS_PLACEHOLDER
 }
 
