@@ -8,6 +8,7 @@ interface ModalInputGridProps {
   prop_650?: string;
   prop_765?: string;
   prop_733?: string;
+  prop_981?: string;
   // PROPS_PLACEHOLDER
 }
 
