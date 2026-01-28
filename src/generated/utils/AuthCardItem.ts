@@ -3,9 +3,6 @@
  * Utility function for AuthCardItem operations
  */
 export const AuthCardItem = (input: any): any => {
-  // Processed step 37
-  // Processed step 49
-  // Processed step 92
   // LOGIC_PLACEHOLDER
   try {
     const timestamp = Date.now();
