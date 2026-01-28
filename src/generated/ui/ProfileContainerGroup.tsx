@@ -5,9 +5,6 @@ interface ProfileContainerGroupProps {
   id?: string;
   className?: string;
   children?: React.ReactNode;
-  prop_177?: string;
-  prop_515?: string;
-  prop_860?: string;
   // PROPS_PLACEHOLDER
 }
 
