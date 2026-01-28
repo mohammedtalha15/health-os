@@ -5,13 +5,6 @@ interface TableToggleRowProps {
   id?: string;
   className?: string;
   children?: React.ReactNode;
-  prop_558?: string;
-  prop_114?: string;
-  prop_123?: string;
-  prop_994?: string;
-  prop_668?: string;
-  prop_387?: string;
-  prop_125?: string;
   // PROPS_PLACEHOLDER
 }
 
