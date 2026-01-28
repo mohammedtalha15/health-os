@@ -5,16 +5,6 @@ interface UserInputSectionProps {
   id?: string;
   className?: string;
   children?: React.ReactNode;
-  prop_247?: string;
-  prop_834?: string;
-  prop_157?: string;
-  prop_515?: string;
-  prop_297?: string;
-  prop_214?: string;
-  prop_372?: string;
-  prop_761?: string;
-  prop_475?: string;
-  prop_676?: string;
   // PROPS_PLACEHOLDER
 }
 
