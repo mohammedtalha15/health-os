@@ -11,6 +11,7 @@ interface AdminContainerFooterProps {
   prop_168?: string;
   prop_184?: string;
   prop_648?: string;
+  prop_654?: string;
   // PROPS_PLACEHOLDER
 }
 
