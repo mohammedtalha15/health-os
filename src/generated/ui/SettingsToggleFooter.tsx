@@ -7,6 +7,7 @@ interface SettingsToggleFooterProps {
   children?: React.ReactNode;
   prop_593?: string;
   prop_233?: string;
+  prop_626?: string;
   // PROPS_PLACEHOLDER
 }
 
