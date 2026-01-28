@@ -5,16 +5,6 @@ interface ButtonContainerPanelProps {
   id?: string;
   className?: string;
   children?: React.ReactNode;
-  prop_584?: string;
-  prop_487?: string;
-  prop_373?: string;
-  prop_948?: string;
-  prop_763?: string;
-  prop_556?: string;
-  prop_943?: string;
-  prop_535?: string;
-  prop_356?: string;
-  prop_810?: string;
   // PROPS_PLACEHOLDER
 }
 
