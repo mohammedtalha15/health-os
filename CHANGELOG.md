@@ -1134,3 +1134,4 @@
 - feat(tables): update loading-states (Reference #1134)
 - style(cache): configure documentation (Reference #1135)
 - refactor(auth): enhance loading-states (Reference #1136)
+- style(navigation): fix animations (Reference #1137)
