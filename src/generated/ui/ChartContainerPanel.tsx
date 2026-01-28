@@ -8,6 +8,7 @@ interface ChartContainerPanelProps {
   prop_301?: string;
   prop_955?: string;
   prop_467?: string;
+  prop_122?: string;
   // PROPS_PLACEHOLDER
 }
 
