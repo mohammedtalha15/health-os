@@ -1323,3 +1323,4 @@
 // build(auth): implement type-definitions - commit 2498
 // fix(search): update state-management - commit 2499
 // feat(layouts): improve state-management - commit 2500
+// feat(ui): fix error-handling - commit 2501
