@@ -1026,3 +1026,4 @@
 - refactor(charts): update animations (Reference #1026)
 - ci(security): optimize keyboard-nav (Reference #1027)
 - test(layouts): update data-fetching (Reference #1028)
+- perf(database): add documentation (Reference #1029)
