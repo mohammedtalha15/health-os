@@ -7,6 +7,7 @@ interface AdminToggleGridProps {
   children?: React.ReactNode;
   prop_328?: string;
   prop_305?: string;
+  prop_710?: string;
   // PROPS_PLACEHOLDER
 }
 
