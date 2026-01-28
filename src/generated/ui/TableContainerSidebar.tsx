@@ -16,6 +16,7 @@ interface TableContainerSidebarProps {
   prop_349?: string;
   prop_428?: string;
   prop_386?: string;
+  prop_284?: string;
   // PROPS_PLACEHOLDER
 }
 
