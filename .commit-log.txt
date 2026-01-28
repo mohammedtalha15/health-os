@@ -684,3 +684,4 @@
 // feat(dashboard): enhance accessibility - commit 1859
 // ci(settings): integrate responsiveness - commit 1860
 // fix(search): fix user-experience - commit 1861
+// fix(buttons): add documentation - commit 1862
