@@ -285,3 +285,4 @@
 - refactor(profile): add validation (Reference #285)
 - refactor(navigation): fix type-definitions (Reference #286)
 - feat(security): optimize unit-tests (Reference #287)
+- refactor(charts): optimize data-fetching (Reference #288)
