@@ -5,15 +5,6 @@ interface ButtonDataPanelProps {
   id?: string;
   className?: string;
   children?: React.ReactNode;
-  prop_107?: string;
-  prop_503?: string;
-  prop_491?: string;
-  prop_736?: string;
-  prop_549?: string;
-  prop_335?: string;
-  prop_319?: string;
-  prop_244?: string;
-  prop_691?: string;
   // PROPS_PLACEHOLDER
 }
 
