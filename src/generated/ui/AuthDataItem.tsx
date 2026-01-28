@@ -8,6 +8,7 @@ interface AuthDataItemProps {
   prop_558?: string;
   prop_922?: string;
   prop_499?: string;
+  prop_885?: string;
   // PROPS_PLACEHOLDER
 }
 
