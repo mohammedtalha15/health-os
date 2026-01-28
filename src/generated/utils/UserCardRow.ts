@@ -3,8 +3,6 @@
  * Utility function for UserCardRow operations
  */
 export const UserCardRow = (input: any): any => {
-  // Processed step 17
-  // Processed step 97
   // LOGIC_PLACEHOLDER
   try {
     const timestamp = Date.now();
