@@ -7,6 +7,7 @@ interface UserToggleGridProps {
   children?: React.ReactNode;
   prop_518?: string;
   prop_782?: string;
+  prop_878?: string;
   // PROPS_PLACEHOLDER
 }
 
