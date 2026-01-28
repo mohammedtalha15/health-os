@@ -7,6 +7,7 @@ interface DashboardLinkFooterProps {
   children?: React.ReactNode;
   prop_892?: string;
   prop_633?: string;
+  prop_722?: string;
   // PROPS_PLACEHOLDER
 }
 
