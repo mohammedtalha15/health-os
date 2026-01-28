@@ -1243,3 +1243,4 @@
 // build(profile): configure data-fetching - commit 2418
 // feat(dashboard): implement unit-tests - commit 2419
 // refactor(forms): implement caching-logic - commit 2420
+// ci(dashboard): fix responsiveness - commit 2421
