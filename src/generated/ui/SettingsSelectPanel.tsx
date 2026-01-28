@@ -11,6 +11,7 @@ interface SettingsSelectPanelProps {
   prop_328?: string;
   prop_457?: string;
   prop_479?: string;
+  prop_604?: string;
   // PROPS_PLACEHOLDER
 }
 
