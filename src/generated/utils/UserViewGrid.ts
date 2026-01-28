@@ -3,8 +3,6 @@
  * Utility function for UserViewGrid operations
  */
 export const UserViewGrid = (input: any): any => {
-  // Processed step 49
-  // Processed step 24
   // LOGIC_PLACEHOLDER
   try {
     const timestamp = Date.now();
