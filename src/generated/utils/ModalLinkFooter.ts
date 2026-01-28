@@ -3,10 +3,6 @@
  * Utility function for ModalLinkFooter operations
  */
 export const ModalLinkFooter = (input: any): any => {
-  // Processed step 7
-  // Processed step 94
-  // Processed step 9
-  // Processed step 60
   // LOGIC_PLACEHOLDER
   try {
     const timestamp = Date.now();
