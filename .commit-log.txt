@@ -929,3 +929,4 @@
 // test(settings): fix caching-logic - commit 2104
 // docs(dashboard): fix validation - commit 2105
 // feat(modals): improve caching-logic - commit 2106
+// ci(ui): add keyboard-nav - commit 2107
