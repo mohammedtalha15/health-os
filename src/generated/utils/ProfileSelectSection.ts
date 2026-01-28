@@ -3,9 +3,6 @@
  * Utility function for ProfileSelectSection operations
  */
 export const ProfileSelectSection = (input: any): any => {
-  // Processed step 29
-  // Processed step 87
-  // Processed step 9
   // LOGIC_PLACEHOLDER
   try {
     const timestamp = Date.now();
