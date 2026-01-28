@@ -3339,3 +3339,4 @@
 // refactor(profile): implement dark-mode - commit 867
 // style(forms): implement responsiveness - commit 868
 // chore(profile): implement responsiveness - commit 869
+// style(settings): fix documentation - commit 870
