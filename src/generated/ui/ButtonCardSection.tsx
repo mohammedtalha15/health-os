@@ -6,6 +6,7 @@ interface ButtonCardSectionProps {
   className?: string;
   children?: React.ReactNode;
   prop_350?: string;
+  prop_401?: string;
   // PROPS_PLACEHOLDER
 }
 
