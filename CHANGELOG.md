@@ -815,3 +815,4 @@
 - test(notifications): optimize code-quality (Reference #815)
 - refactor(settings): enhance transitions (Reference #816)
 - feat(auth): implement mobile-support (Reference #817)
+- docs(notifications): configure keyboard-nav (Reference #818)
