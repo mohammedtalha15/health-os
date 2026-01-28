@@ -10,6 +10,7 @@ interface SettingsListboxProps {
   prop_271?: string;
   prop_581?: string;
   prop_589?: string;
+  prop_923?: string;
   // PROPS_PLACEHOLDER
 }
 
