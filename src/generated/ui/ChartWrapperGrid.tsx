@@ -5,10 +5,6 @@ interface ChartWrapperGridProps {
   id?: string;
   className?: string;
   children?: React.ReactNode;
-  prop_795?: string;
-  prop_216?: string;
-  prop_170?: string;
-  prop_755?: string;
   // PROPS_PLACEHOLDER
 }
 
