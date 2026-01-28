@@ -90,3 +90,4 @@
 - refactor(analytics): implement performance (Reference #90)
 - docs(dashboard): update user-experience (Reference #91)
 - refactor(settings): optimize unit-tests (Reference #92)
+- perf(charts): refactor loading-states (Reference #93)
