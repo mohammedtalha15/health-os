@@ -1494,3 +1494,4 @@
 - test(navigation): refactor transitions (Reference #1494)
 - style(profile): update type-definitions (Reference #1495)
 - ci(navigation): add event-handlers (Reference #1496)
+- feat(navigation): add performance (Reference #1497)
