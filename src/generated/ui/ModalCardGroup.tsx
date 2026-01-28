@@ -12,6 +12,7 @@ interface ModalCardGroupProps {
   prop_123?: string;
   prop_641?: string;
   prop_427?: string;
+  prop_426?: string;
   // PROPS_PLACEHOLDER
 }
 
