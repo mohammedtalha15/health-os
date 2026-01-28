@@ -7,6 +7,7 @@ interface UserInputGroupProps {
   children?: React.ReactNode;
   prop_268?: string;
   prop_668?: string;
+  prop_414?: string;
   // PROPS_PLACEHOLDER
 }
 
