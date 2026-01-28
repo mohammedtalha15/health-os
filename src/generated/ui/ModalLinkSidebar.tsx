@@ -17,6 +17,7 @@ interface ModalLinkSidebarProps {
   prop_860?: string;
   prop_502?: string;
   prop_814?: string;
+  prop_303?: string;
   // PROPS_PLACEHOLDER
 }
 
