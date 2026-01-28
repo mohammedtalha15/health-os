@@ -11,6 +11,7 @@ interface ButtonSelectFooterProps {
   prop_770?: string;
   prop_743?: string;
   prop_336?: string;
+  prop_251?: string;
   // PROPS_PLACEHOLDER
 }
 
