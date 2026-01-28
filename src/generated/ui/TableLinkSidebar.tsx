@@ -13,6 +13,7 @@ interface TableLinkSidebarProps {
   prop_872?: string;
   prop_451?: string;
   prop_371?: string;
+  prop_836?: string;
   // PROPS_PLACEHOLDER
 }
 
