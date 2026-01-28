@@ -3,11 +3,6 @@
  * Utility function for TableTogglebox operations
  */
 export const TableTogglebox = (input: any): any => {
-  // Processed step 97
-  // Processed step 41
-  // Processed step 95
-  // Processed step 61
-  // Processed step 24
   // LOGIC_PLACEHOLDER
   try {
     const timestamp = Date.now();
