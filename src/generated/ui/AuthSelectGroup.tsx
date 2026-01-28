@@ -6,6 +6,7 @@ interface AuthSelectGroupProps {
   className?: string;
   children?: React.ReactNode;
   prop_332?: string;
+  prop_894?: string;
   // PROPS_PLACEHOLDER
 }
 
