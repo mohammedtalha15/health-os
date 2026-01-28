@@ -226,3 +226,4 @@
 - build(navigation): fix type-definitions (Reference #226)
 - style(modals): update performance (Reference #227)
 - style(navigation): update caching-logic (Reference #228)
+- test(analytics): add performance (Reference #229)
