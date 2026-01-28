@@ -2167,3 +2167,4 @@
 // feat(settings): improve responsiveness - commit 3342
 // docs(dashboard): fix event-handlers - commit 3343
 // style(cache): update accessibility - commit 3344
+// build(cache): refactor event-handlers - commit 3345
