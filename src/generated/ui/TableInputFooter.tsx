@@ -6,6 +6,7 @@ interface TableInputFooterProps {
   className?: string;
   children?: React.ReactNode;
   prop_466?: string;
+  prop_946?: string;
   // PROPS_PLACEHOLDER
 }
 
