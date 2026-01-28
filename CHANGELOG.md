@@ -621,3 +621,4 @@
 - test(buttons): enhance data-fetching (Reference #621)
 - docs(charts): implement error-handling (Reference #622)
 - perf(analytics): optimize data-fetching (Reference #623)
+- ci(auth): enhance unit-tests (Reference #624)
