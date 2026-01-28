@@ -8,6 +8,7 @@ interface ChartContainerGridProps {
   prop_291?: string;
   prop_747?: string;
   prop_198?: string;
+  prop_889?: string;
   // PROPS_PLACEHOLDER
 }
 
