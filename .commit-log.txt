@@ -3194,3 +3194,4 @@
 // refactor(auth): add data-fetching - commit 722
 // refactor(settings): improve caching-logic - commit 723
 // build(api): update keyboard-nav - commit 724
+// refactor(settings): refactor error-handling - commit 725
