@@ -23,6 +23,7 @@ interface AdminListRowProps {
   prop_544?: string;
   prop_451?: string;
   prop_215?: string;
+  prop_340?: string;
   // PROPS_PLACEHOLDER
 }
 
