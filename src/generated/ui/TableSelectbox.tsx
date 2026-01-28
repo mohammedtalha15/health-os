@@ -16,6 +16,7 @@ interface TableSelectboxProps {
   prop_533?: string;
   prop_636?: string;
   prop_529?: string;
+  prop_961?: string;
   // PROPS_PLACEHOLDER
 }
 
