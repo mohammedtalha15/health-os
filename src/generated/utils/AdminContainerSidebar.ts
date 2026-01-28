@@ -3,8 +3,6 @@
  * Utility function for AdminContainerSidebar operations
  */
 export const AdminContainerSidebar = (input: any): any => {
-  // Processed step 71
-  // Processed step 11
   // LOGIC_PLACEHOLDER
   try {
     const timestamp = Date.now();
