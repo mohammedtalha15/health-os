@@ -6,6 +6,7 @@ interface SettingsLinkSidebarProps {
   className?: string;
   children?: React.ReactNode;
   prop_942?: string;
+  prop_362?: string;
   // PROPS_PLACEHOLDER
 }
 
