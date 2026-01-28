@@ -9,6 +9,7 @@ interface AdminViewGroupProps {
   prop_730?: string;
   prop_217?: string;
   prop_197?: string;
+  prop_882?: string;
   // PROPS_PLACEHOLDER
 }
 
