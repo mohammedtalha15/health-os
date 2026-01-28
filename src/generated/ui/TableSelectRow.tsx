@@ -11,6 +11,7 @@ interface TableSelectRowProps {
   prop_682?: string;
   prop_327?: string;
   prop_515?: string;
+  prop_339?: string;
   // PROPS_PLACEHOLDER
 }
 
