@@ -1436,3 +1436,4 @@
 - feat(security): enhance keyboard-nav (Reference #1436)
 - fix(ui): update loading-states (Reference #1437)
 - refactor(ui): integrate dark-mode (Reference #1438)
+- chore(database): enhance performance (Reference #1439)
