@@ -5,9 +5,6 @@ interface ProfileDataGridProps {
   id?: string;
   className?: string;
   children?: React.ReactNode;
-  prop_245?: string;
-  prop_287?: string;
-  prop_858?: string;
   // PROPS_PLACEHOLDER
 }
 
