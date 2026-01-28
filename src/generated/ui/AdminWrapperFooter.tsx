@@ -9,6 +9,7 @@ interface AdminWrapperFooterProps {
   prop_831?: string;
   prop_571?: string;
   prop_676?: string;
+  prop_552?: string;
   // PROPS_PLACEHOLDER
 }
 
