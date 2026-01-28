@@ -91,3 +91,4 @@
 - docs(dashboard): update user-experience (Reference #91)
 - refactor(settings): optimize unit-tests (Reference #92)
 - perf(charts): refactor loading-states (Reference #93)
+- ci(search): configure state-management (Reference #94)
