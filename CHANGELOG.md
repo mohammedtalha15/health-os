@@ -329,3 +329,4 @@
 - refactor(layouts): integrate data-fetching (Reference #329)
 - fix(forms): add documentation (Reference #330)
 - fix(layouts): optimize loading-states (Reference #331)
+- docs(layouts): update state-management (Reference #332)
