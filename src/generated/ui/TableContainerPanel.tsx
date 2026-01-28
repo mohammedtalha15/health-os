@@ -10,6 +10,7 @@ interface TableContainerPanelProps {
   prop_514?: string;
   prop_462?: string;
   prop_611?: string;
+  prop_558?: string;
   // PROPS_PLACEHOLDER
 }
 
