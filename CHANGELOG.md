@@ -491,3 +491,4 @@
 - build(modals): update validation (Reference #491)
 - feat(buttons): integrate data-fetching (Reference #492)
 - feat(auth): implement validation (Reference #493)
+- feat(ui): fix unit-tests (Reference #494)
