@@ -356,3 +356,4 @@
 - test(inputs): add animations (Reference #356)
 - fix(dashboard): update type-definitions (Reference #357)
 - ci(security): implement loading-states (Reference #358)
+- docs(search): optimize documentation (Reference #359)
