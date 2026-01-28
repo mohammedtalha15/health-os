@@ -5,11 +5,6 @@ interface ProfileInputGroupProps {
   id?: string;
   className?: string;
   children?: React.ReactNode;
-  prop_223?: string;
-  prop_803?: string;
-  prop_205?: string;
-  prop_747?: string;
-  prop_291?: string;
   // PROPS_PLACEHOLDER
 }
 
