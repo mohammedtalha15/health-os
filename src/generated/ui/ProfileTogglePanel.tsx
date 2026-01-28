@@ -6,6 +6,7 @@ interface ProfileTogglePanelProps {
   className?: string;
   children?: React.ReactNode;
   prop_402?: string;
+  prop_556?: string;
   // PROPS_PLACEHOLDER
 }
 
