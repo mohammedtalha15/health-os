@@ -8,6 +8,7 @@ interface AdminSelectFooterProps {
   prop_582?: string;
   prop_667?: string;
   prop_611?: string;
+  prop_200?: string;
   // PROPS_PLACEHOLDER
 }
 
