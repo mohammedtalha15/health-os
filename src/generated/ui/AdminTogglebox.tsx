@@ -13,6 +13,7 @@ interface AdminToggleboxProps {
   prop_788?: string;
   prop_670?: string;
   prop_746?: string;
+  prop_904?: string;
   // PROPS_PLACEHOLDER
 }
 
