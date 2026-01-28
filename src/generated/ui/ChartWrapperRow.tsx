@@ -7,6 +7,7 @@ interface ChartWrapperRowProps {
   children?: React.ReactNode;
   prop_463?: string;
   prop_576?: string;
+  prop_349?: string;
   // PROPS_PLACEHOLDER
 }
 
