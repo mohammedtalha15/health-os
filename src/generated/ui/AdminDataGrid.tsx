@@ -5,12 +5,6 @@ interface AdminDataGridProps {
   id?: string;
   className?: string;
   children?: React.ReactNode;
-  prop_297?: string;
-  prop_177?: string;
-  prop_204?: string;
-  prop_402?: string;
-  prop_618?: string;
-  prop_806?: string;
   // PROPS_PLACEHOLDER
 }
 
