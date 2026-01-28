@@ -3,7 +3,6 @@
  * Utility function for ModalContainerHeader operations
  */
 export const ModalContainerHeader = (input: any): any => {
-  // Processed step 9
   // LOGIC_PLACEHOLDER
   try {
     const timestamp = Date.now();
