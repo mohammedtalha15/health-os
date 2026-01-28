@@ -58,3 +58,4 @@
 - refactor(analytics): implement animations (Reference #58)
 - chore(ui): optimize code-quality (Reference #59)
 - chore(forms): add animations (Reference #60)
+- ci(profile): integrate animations (Reference #61)
