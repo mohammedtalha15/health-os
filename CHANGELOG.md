@@ -1491,3 +1491,4 @@
 - perf(ui): add unit-tests (Reference #1491)
 - feat(modals): fix code-quality (Reference #1492)
 - ci(inputs): add state-management (Reference #1493)
+- test(navigation): refactor transitions (Reference #1494)
