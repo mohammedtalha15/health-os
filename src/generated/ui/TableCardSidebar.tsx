@@ -5,24 +5,6 @@ interface TableCardSidebarProps {
   id?: string;
   className?: string;
   children?: React.ReactNode;
-  prop_391?: string;
-  prop_741?: string;
-  prop_850?: string;
-  prop_732?: string;
-  prop_117?: string;
-  prop_250?: string;
-  prop_746?: string;
-  prop_336?: string;
-  prop_421?: string;
-  prop_208?: string;
-  prop_536?: string;
-  prop_215?: string;
-  prop_345?: string;
-  prop_676?: string;
-  prop_596?: string;
-  prop_165?: string;
-  prop_663?: string;
-  prop_427?: string;
   // PROPS_PLACEHOLDER
 }
 
