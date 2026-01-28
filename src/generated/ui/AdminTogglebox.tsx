@@ -5,11 +5,6 @@ interface AdminToggleboxProps {
   id?: string;
   className?: string;
   children?: React.ReactNode;
-  prop_310?: string;
-  prop_274?: string;
-  prop_965?: string;
-  prop_115?: string;
-  prop_742?: string;
   // PROPS_PLACEHOLDER
 }
 
