@@ -1251,3 +1251,4 @@
 - test(forms): update dark-mode (Reference #1251)
 - fix(notifications): implement event-handlers (Reference #1252)
 - fix(dashboard): fix code-quality (Reference #1253)
+- build(layouts): fix event-handlers (Reference #1254)
