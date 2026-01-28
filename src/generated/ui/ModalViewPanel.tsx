@@ -9,6 +9,7 @@ interface ModalViewPanelProps {
   prop_576?: string;
   prop_827?: string;
   prop_679?: string;
+  prop_285?: string;
   // PROPS_PLACEHOLDER
 }
 
