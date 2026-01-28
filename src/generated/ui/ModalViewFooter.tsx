@@ -15,6 +15,7 @@ interface ModalViewFooterProps {
   prop_589?: string;
   prop_430?: string;
   prop_351?: string;
+  prop_803?: string;
   // PROPS_PLACEHOLDER
 }
 
