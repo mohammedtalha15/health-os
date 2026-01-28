@@ -2203,3 +2203,4 @@
 // feat(security): update event-handlers - commit 3378
 // refactor(notifications): implement type-definitions - commit 3379
 // perf(forms): fix documentation - commit 3380
+// feat(security): integrate documentation - commit 3381
