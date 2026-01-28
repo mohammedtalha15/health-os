@@ -3173,3 +3173,4 @@
 // chore(cache): implement dark-mode - commit 701
 // docs(navigation): fix dark-mode - commit 702
 // chore(auth): implement dark-mode - commit 703
+// fix(auth): refactor state-management - commit 704
