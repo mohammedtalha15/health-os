@@ -5,16 +5,6 @@ interface AuthToggleboxProps {
   id?: string;
   className?: string;
   children?: React.ReactNode;
-  prop_770?: string;
-  prop_467?: string;
-  prop_581?: string;
-  prop_859?: string;
-  prop_571?: string;
-  prop_936?: string;
-  prop_945?: string;
-  prop_475?: string;
-  prop_520?: string;
-  prop_550?: string;
   // PROPS_PLACEHOLDER
 }
 
