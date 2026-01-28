@@ -552,3 +552,4 @@
 // fix(notifications): integrate performance - commit 1727
 // refactor(cache): integrate responsiveness - commit 1728
 // fix(cache): update unit-tests - commit 1729
+// chore(charts): fix keyboard-nav - commit 1730
