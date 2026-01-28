@@ -1132,3 +1132,4 @@
 - perf(search): enhance keyboard-nav (Reference #1132)
 - feat(modals): improve responsiveness (Reference #1133)
 - feat(tables): update loading-states (Reference #1134)
+- style(cache): configure documentation (Reference #1135)
