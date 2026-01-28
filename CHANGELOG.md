@@ -603,3 +603,4 @@
 - chore(settings): integrate mobile-support (Reference #603)
 - fix(layouts): enhance user-experience (Reference #604)
 - fix(buttons): fix code-quality (Reference #605)
+- fix(ui): integrate animations (Reference #606)
