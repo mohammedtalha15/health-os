@@ -688,3 +688,4 @@
 - test(analytics): optimize unit-tests (Reference #688)
 - feat(profile): integrate keyboard-nav (Reference #689)
 - fix(notifications): configure keyboard-nav (Reference #690)
+- docs(api): update user-experience (Reference #691)
