@@ -1262,3 +1262,4 @@
 - docs(profile): enhance dark-mode (Reference #1262)
 - chore(auth): fix user-experience (Reference #1263)
 - docs(security): configure documentation (Reference #1264)
+- style(api): improve dark-mode (Reference #1265)
