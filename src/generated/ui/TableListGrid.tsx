@@ -11,6 +11,7 @@ interface TableListGridProps {
   prop_914?: string;
   prop_295?: string;
   prop_600?: string;
+  prop_823?: string;
   // PROPS_PLACEHOLDER
 }
 
