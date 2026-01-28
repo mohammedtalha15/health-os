@@ -43,3 +43,4 @@
 // chore(inputs): optimize data-fetching - commit 991
 // fix(forms): implement loading-states - commit 992
 // build(auth): improve mobile-support - commit 993
+// refactor(charts): fix code-quality - commit 994
