@@ -1869,3 +1869,4 @@
 // test(cache): integrate accessibility - commit 3044
 // build(notifications): integrate documentation - commit 3045
 // fix(notifications): implement code-quality - commit 3046
+// chore(api): refactor type-definitions - commit 3047
