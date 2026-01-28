@@ -378,3 +378,4 @@
 // chore(navigation): configure type-definitions - commit 1553
 // build(inputs): enhance mobile-support - commit 1554
 // feat(database): improve loading-states - commit 1555
+// perf(dashboard): refactor transitions - commit 1556
