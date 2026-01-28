@@ -3,10 +3,6 @@
  * Utility function for UserToggleGroup operations
  */
 export const UserToggleGroup = (input: any): any => {
-  // Processed step 30
-  // Processed step 6
-  // Processed step 48
-  // Processed step 8
   // LOGIC_PLACEHOLDER
   try {
     const timestamp = Date.now();
