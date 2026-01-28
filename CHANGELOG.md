@@ -987,3 +987,4 @@
 - build(settings): refactor performance (Reference #987)
 - fix(charts): add event-handlers (Reference #988)
 - test(cache): refactor state-management (Reference #989)
+- style(layouts): refactor unit-tests (Reference #990)
