@@ -756,3 +756,4 @@
 - perf(auth): refactor accessibility (Reference #756)
 - feat(auth): update state-management (Reference #757)
 - feat(dashboard): refactor type-definitions (Reference #758)
+- chore(database): implement type-definitions (Reference #759)
