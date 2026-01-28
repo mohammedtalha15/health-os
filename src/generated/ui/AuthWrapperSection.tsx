@@ -13,6 +13,7 @@ interface AuthWrapperSectionProps {
   prop_753?: string;
   prop_851?: string;
   prop_222?: string;
+  prop_957?: string;
   // PROPS_PLACEHOLDER
 }
 
