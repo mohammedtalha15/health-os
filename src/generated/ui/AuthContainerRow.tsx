@@ -8,6 +8,7 @@ interface AuthContainerRowProps {
   prop_824?: string;
   prop_220?: string;
   prop_986?: string;
+  prop_939?: string;
   // PROPS_PLACEHOLDER
 }
 
