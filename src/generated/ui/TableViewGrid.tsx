@@ -10,6 +10,7 @@ interface TableViewGridProps {
   prop_798?: string;
   prop_490?: string;
   prop_284?: string;
+  prop_142?: string;
   // PROPS_PLACEHOLDER
 }
 
