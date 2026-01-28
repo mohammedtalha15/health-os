@@ -8,6 +8,7 @@ interface AuthListGridProps {
   prop_610?: string;
   prop_853?: string;
   prop_655?: string;
+  prop_271?: string;
   // PROPS_PLACEHOLDER
 }
 
