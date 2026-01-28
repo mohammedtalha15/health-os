@@ -1140,3 +1140,4 @@
 - chore(security): fix error-handling (Reference #1140)
 - fix(analytics): enhance mobile-support (Reference #1141)
 - style(analytics): optimize unit-tests (Reference #1142)
+- perf(auth): fix code-quality (Reference #1143)
