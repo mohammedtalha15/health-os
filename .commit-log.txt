@@ -2261,3 +2261,4 @@
 // chore(ui): add keyboard navigation - commit 297
 // (dashboard): configure animations - commit 298
 // (dashboard): implement responsiveness - commit 299
+// perf(buttons): implement performance - commit 300
