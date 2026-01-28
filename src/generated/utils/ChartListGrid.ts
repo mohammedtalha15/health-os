@@ -3,10 +3,6 @@
  * Utility function for ChartListGrid operations
  */
 export const ChartListGrid = (input: any): any => {
-  // Processed step 33
-  // Processed step 84
-  // Processed step 4
-  // Processed step 47
   // LOGIC_PLACEHOLDER
   try {
     const timestamp = Date.now();
