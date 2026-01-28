@@ -46,3 +46,4 @@
 - build(inputs): optimize error-handling (Reference #46)
 - perf(search): update responsiveness (Reference #47)
 - style(inputs): improve user-experience (Reference #48)
+- feat(layouts): configure data-fetching (Reference #49)
