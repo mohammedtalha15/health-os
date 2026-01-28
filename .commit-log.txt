@@ -1650,3 +1650,4 @@
 // build(forms): optimize mobile-support - commit 2825
 // docs(forms): improve accessibility - commit 2826
 // ci(tables): refactor responsiveness - commit 2827
+// feat(charts): optimize dark-mode - commit 2828
