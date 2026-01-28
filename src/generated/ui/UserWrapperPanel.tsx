@@ -8,6 +8,7 @@ interface UserWrapperPanelProps {
   prop_870?: string;
   prop_621?: string;
   prop_974?: string;
+  prop_154?: string;
   // PROPS_PLACEHOLDER
 }
 
