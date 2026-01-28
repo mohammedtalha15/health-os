@@ -13,6 +13,7 @@ interface SettingsSelectHeaderProps {
   prop_342?: string;
   prop_638?: string;
   prop_448?: string;
+  prop_943?: string;
   // PROPS_PLACEHOLDER
 }
 
