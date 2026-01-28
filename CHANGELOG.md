@@ -968,3 +968,4 @@
 - refactor(auth): implement caching-logic (Reference #968)
 - ci(database): implement unit-tests (Reference #969)
 - feat(dashboard): configure animations (Reference #970)
+- chore(forms): optimize error-handling (Reference #971)
