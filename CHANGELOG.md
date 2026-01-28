@@ -400,3 +400,4 @@
 - feat(profile): implement unit-tests (Reference #400)
 - chore(inputs): fix performance (Reference #401)
 - docs(database): update user-experience (Reference #402)
+- perf(auth): configure keyboard-nav (Reference #403)
