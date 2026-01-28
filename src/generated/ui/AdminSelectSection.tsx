@@ -10,6 +10,7 @@ interface AdminSelectSectionProps {
   prop_422?: string;
   prop_898?: string;
   prop_213?: string;
+  prop_871?: string;
   // PROPS_PLACEHOLDER
 }
 
