@@ -376,3 +376,4 @@
 - style(api): improve data-fetching (Reference #376)
 - perf(settings): add performance (Reference #377)
 - docs(charts): optimize transitions (Reference #378)
+- refactor(cache): configure state-management (Reference #379)
