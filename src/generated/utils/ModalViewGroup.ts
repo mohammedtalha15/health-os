@@ -3,10 +3,6 @@
  * Utility function for ModalViewGroup operations
  */
 export const ModalViewGroup = (input: any): any => {
-  // Processed step 82
-  // Processed step 60
-  // Processed step 47
-  // Processed step 18
   // LOGIC_PLACEHOLDER
   try {
     const timestamp = Date.now();
