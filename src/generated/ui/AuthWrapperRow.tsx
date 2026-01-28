@@ -11,6 +11,7 @@ interface AuthWrapperRowProps {
   prop_483?: string;
   prop_720?: string;
   prop_719?: string;
+  prop_217?: string;
   // PROPS_PLACEHOLDER
 }
 
