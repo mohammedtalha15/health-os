@@ -110,3 +110,4 @@
 - docs(charts): add validation (Reference #110)
 - feat(settings): update accessibility (Reference #111)
 - build(settings): refactor transitions (Reference #112)
+- docs(api): configure dark-mode (Reference #113)
