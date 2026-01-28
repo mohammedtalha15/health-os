@@ -1772,3 +1772,4 @@
 // feat(database): fix user-experience - commit 2947
 // refactor(buttons): add keyboard-nav - commit 2948
 // docs(auth): integrate keyboard-nav - commit 2949
+// chore(dashboard): configure unit-tests - commit 2950
