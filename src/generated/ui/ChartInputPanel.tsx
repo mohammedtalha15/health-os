@@ -7,6 +7,7 @@ interface ChartInputPanelProps {
   children?: React.ReactNode;
   prop_984?: string;
   prop_653?: string;
+  prop_885?: string;
   // PROPS_PLACEHOLDER
 }
 
