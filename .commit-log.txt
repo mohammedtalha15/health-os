@@ -2521,3 +2521,4 @@
 // fix(analytics): configure dark-mode - commit 49
 // ci(search): enhance dark-mode - commit 50
 // refactor(forms): implement keyboard-nav - commit 51
+// chore(charts): refactor accessibility - commit 52
