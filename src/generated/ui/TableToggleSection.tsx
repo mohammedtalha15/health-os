@@ -6,6 +6,7 @@ interface TableToggleSectionProps {
   className?: string;
   children?: React.ReactNode;
   prop_259?: string;
+  prop_439?: string;
   // PROPS_PLACEHOLDER
 }
 
