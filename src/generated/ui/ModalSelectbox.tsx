@@ -6,6 +6,7 @@ interface ModalSelectboxProps {
   className?: string;
   children?: React.ReactNode;
   prop_885?: string;
+  prop_394?: string;
   // PROPS_PLACEHOLDER
 }
 
