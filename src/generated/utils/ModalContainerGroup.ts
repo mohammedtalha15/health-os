@@ -3,9 +3,6 @@
  * Utility function for ModalContainerGroup operations
  */
 export const ModalContainerGroup = (input: any): any => {
-  // Processed step 83
-  // Processed step 25
-  // Processed step 58
   // LOGIC_PLACEHOLDER
   try {
     const timestamp = Date.now();
