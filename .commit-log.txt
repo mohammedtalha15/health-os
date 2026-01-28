@@ -269,3 +269,4 @@
 // build(settings): optimize documentation - commit 1444
 // feat(search): fix performance - commit 1445
 // feat(navigation): integrate performance - commit 1446
+// style(forms): enhance type-definitions - commit 1447
