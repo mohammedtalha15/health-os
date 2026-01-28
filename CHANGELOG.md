@@ -694,3 +694,4 @@
 - docs(navigation): configure state-management (Reference #694)
 - refactor(dashboard): integrate responsiveness (Reference #695)
 - style(notifications): integrate caching-logic (Reference #696)
+- chore(database): refactor data-fetching (Reference #697)
