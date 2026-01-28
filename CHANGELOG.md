@@ -7,3 +7,4 @@
 - chore(auth): optimize caching-logic (Reference #7)
 - fix(notifications): configure mobile-support (Reference #8)
 - docs(settings): integrate keyboard-nav (Reference #9)
+- build(ui): refactor performance (Reference #10)
