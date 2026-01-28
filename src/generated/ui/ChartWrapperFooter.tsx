@@ -9,6 +9,7 @@ interface ChartWrapperFooterProps {
   prop_606?: string;
   prop_563?: string;
   prop_372?: string;
+  prop_262?: string;
   // PROPS_PLACEHOLDER
 }
 
