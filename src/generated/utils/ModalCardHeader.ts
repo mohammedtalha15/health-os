@@ -3,7 +3,6 @@
  * Utility function for ModalCardHeader operations
  */
 export const ModalCardHeader = (input: any): any => {
-  // Processed step 36
   // LOGIC_PLACEHOLDER
   try {
     const timestamp = Date.now();
