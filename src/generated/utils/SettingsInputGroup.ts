@@ -3,9 +3,6 @@
  * Utility function for SettingsInputGroup operations
  */
 export const SettingsInputGroup = (input: any): any => {
-  // Processed step 97
-  // Processed step 49
-  // Processed step 62
   // LOGIC_PLACEHOLDER
   try {
     const timestamp = Date.now();
