@@ -645,3 +645,4 @@
 - refactor(charts): add animations (Reference #645)
 - fix(charts): fix transitions (Reference #646)
 - build(profile): update animations (Reference #647)
+- ci(tables): fix type-definitions (Reference #648)
