@@ -6,6 +6,7 @@ interface ChartContainerRowProps {
   className?: string;
   children?: React.ReactNode;
   prop_432?: string;
+  prop_449?: string;
   // PROPS_PLACEHOLDER
 }
 
