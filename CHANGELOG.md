@@ -1321,3 +1321,4 @@
 - perf(inputs): enhance validation (Reference #1321)
 - style(tables): integrate loading-states (Reference #1322)
 - ci(layouts): update data-fetching (Reference #1323)
+- fix(search): optimize transitions (Reference #1324)
