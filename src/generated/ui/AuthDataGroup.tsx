@@ -6,6 +6,7 @@ interface AuthDataGroupProps {
   className?: string;
   children?: React.ReactNode;
   prop_770?: string;
+  prop_193?: string;
   // PROPS_PLACEHOLDER
 }
 
