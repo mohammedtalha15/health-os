@@ -1158,3 +1158,4 @@
 - chore(tables): update mobile-support (Reference #1158)
 - style(modals): fix code-quality (Reference #1159)
 - docs(security): integrate validation (Reference #1160)
+- refactor(profile): refactor state-management (Reference #1161)
