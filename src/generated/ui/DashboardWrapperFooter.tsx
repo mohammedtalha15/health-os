@@ -6,6 +6,7 @@ interface DashboardWrapperFooterProps {
   className?: string;
   children?: React.ReactNode;
   prop_885?: string;
+  prop_899?: string;
   // PROPS_PLACEHOLDER
 }
 
