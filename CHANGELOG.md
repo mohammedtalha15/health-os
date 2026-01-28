@@ -723,3 +723,4 @@
 - fix(dashboard): refactor error-handling (Reference #723)
 - fix(ui): implement loading-states (Reference #724)
 - style(analytics): fix error-handling (Reference #725)
+- refactor(layouts): configure keyboard-nav (Reference #726)
