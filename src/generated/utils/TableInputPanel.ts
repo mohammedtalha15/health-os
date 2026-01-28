@@ -3,7 +3,6 @@
  * Utility function for TableInputPanel operations
  */
 export const TableInputPanel = (input: any): any => {
-  // Processed step 9
   // LOGIC_PLACEHOLDER
   try {
     const timestamp = Date.now();
