@@ -10,6 +10,7 @@ interface UserWrapperSidebarProps {
   prop_932?: string;
   prop_537?: string;
   prop_237?: string;
+  prop_550?: string;
   // PROPS_PLACEHOLDER
 }
 
