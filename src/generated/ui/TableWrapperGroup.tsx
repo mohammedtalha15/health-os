@@ -8,6 +8,7 @@ interface TableWrapperGroupProps {
   prop_937?: string;
   prop_877?: string;
   prop_273?: string;
+  prop_573?: string;
   // PROPS_PLACEHOLDER
 }
 
