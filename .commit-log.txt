@@ -1589,3 +1589,4 @@
 // feat(ui): refactor responsiveness - commit 2764
 // ci(layouts): integrate keyboard-nav - commit 2765
 // feat(api): optimize transitions - commit 2766
+// perf(tables): fix error-handling - commit 2767
