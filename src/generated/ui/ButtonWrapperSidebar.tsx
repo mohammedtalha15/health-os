@@ -6,6 +6,7 @@ interface ButtonWrapperSidebarProps {
   className?: string;
   children?: React.ReactNode;
   prop_546?: string;
+  prop_286?: string;
   // PROPS_PLACEHOLDER
 }
 
