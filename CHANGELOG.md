@@ -1362,3 +1362,4 @@
 - build(dashboard): implement dark-mode (Reference #1362)
 - perf(api): fix dark-mode (Reference #1363)
 - fix(navigation): add documentation (Reference #1364)
+- refactor(charts): update performance (Reference #1365)
