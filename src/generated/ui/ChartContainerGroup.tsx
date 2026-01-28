@@ -6,6 +6,7 @@ interface ChartContainerGroupProps {
   className?: string;
   children?: React.ReactNode;
   prop_600?: string;
+  prop_691?: string;
   // PROPS_PLACEHOLDER
 }
 
