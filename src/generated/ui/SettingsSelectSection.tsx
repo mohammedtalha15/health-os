@@ -11,6 +11,7 @@ interface SettingsSelectSectionProps {
   prop_949?: string;
   prop_924?: string;
   prop_239?: string;
+  prop_458?: string;
   // PROPS_PLACEHOLDER
 }
 
