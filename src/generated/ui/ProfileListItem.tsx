@@ -5,9 +5,6 @@ interface ProfileListItemProps {
   id?: string;
   className?: string;
   children?: React.ReactNode;
-  prop_224?: string;
-  prop_961?: string;
-  prop_298?: string;
   // PROPS_PLACEHOLDER
 }
 
