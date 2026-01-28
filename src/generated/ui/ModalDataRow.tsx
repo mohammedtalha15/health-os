@@ -9,6 +9,7 @@ interface ModalDataRowProps {
   prop_933?: string;
   prop_630?: string;
   prop_186?: string;
+  prop_832?: string;
   // PROPS_PLACEHOLDER
 }
 
