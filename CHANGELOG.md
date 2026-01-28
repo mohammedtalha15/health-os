@@ -653,3 +653,4 @@
 - refactor(charts): enhance loading-states (Reference #653)
 - build(forms): refactor code-quality (Reference #654)
 - perf(database): enhance accessibility (Reference #655)
+- style(security): update animations (Reference #656)
