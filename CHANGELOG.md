@@ -480,3 +480,4 @@
 - feat(settings): enhance user-experience (Reference #480)
 - test(search): refactor dark-mode (Reference #481)
 - ci(buttons): integrate user-experience (Reference #482)
+- docs(profile): improve transitions (Reference #483)
