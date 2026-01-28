@@ -53,3 +53,4 @@
 // feat(navigation): configure error-handling - commit 1228
 // build(modals): add validation - commit 1229
 // feat(inputs): update mobile-support - commit 1230
+// build(ui): integrate state-management - commit 1231
