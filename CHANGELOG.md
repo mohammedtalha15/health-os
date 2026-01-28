@@ -889,3 +889,4 @@
 - perf(api): implement transitions (Reference #889)
 - docs(cache): optimize validation (Reference #890)
 - chore(forms): update responsiveness (Reference #891)
+- fix(layouts): implement error-handling (Reference #892)
