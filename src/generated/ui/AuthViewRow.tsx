@@ -7,6 +7,7 @@ interface AuthViewRowProps {
   children?: React.ReactNode;
   prop_646?: string;
   prop_599?: string;
+  prop_686?: string;
   // PROPS_PLACEHOLDER
 }
 
