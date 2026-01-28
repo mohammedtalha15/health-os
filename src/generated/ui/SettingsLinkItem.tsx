@@ -8,6 +8,7 @@ interface SettingsLinkItemProps {
   prop_455?: string;
   prop_465?: string;
   prop_450?: string;
+  prop_980?: string;
   // PROPS_PLACEHOLDER
 }
 
