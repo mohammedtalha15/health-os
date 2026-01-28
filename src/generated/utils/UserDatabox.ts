@@ -3,9 +3,6 @@
  * Utility function for UserDatabox operations
  */
 export const UserDatabox = (input: any): any => {
-  // Processed step 65
-  // Processed step 69
-  // Processed step 83
   // LOGIC_PLACEHOLDER
   try {
     const timestamp = Date.now();
