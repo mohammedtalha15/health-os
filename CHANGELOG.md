@@ -1015,3 +1015,4 @@
 - refactor(buttons): refactor data-fetching (Reference #1015)
 - fix(api): implement state-management (Reference #1016)
 - test(ui): configure accessibility (Reference #1017)
+- fix(auth): improve user-experience (Reference #1018)
