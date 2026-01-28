@@ -1245,3 +1245,4 @@
 - refactor(search): add responsiveness (Reference #1245)
 - fix(settings): implement data-fetching (Reference #1246)
 - style(navigation): improve unit-tests (Reference #1247)
+- feat(buttons): implement user-experience (Reference #1248)
