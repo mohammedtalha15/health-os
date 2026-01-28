@@ -8,6 +8,7 @@ interface AdminDataboxProps {
   prop_572?: string;
   prop_539?: string;
   prop_886?: string;
+  prop_169?: string;
   // PROPS_PLACEHOLDER
 }
 
