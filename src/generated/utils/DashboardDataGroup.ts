@@ -3,8 +3,6 @@
  * Utility function for DashboardDataGroup operations
  */
 export const DashboardDataGroup = (input: any): any => {
-  // Processed step 89
-  // Processed step 28
   // LOGIC_PLACEHOLDER
   try {
     const timestamp = Date.now();
