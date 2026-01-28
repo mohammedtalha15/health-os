@@ -231,3 +231,4 @@
 // feat(auth): implement keyboard-nav - commit 1406
 // chore(modals): update validation - commit 1407
 // ci(forms): configure code-quality - commit 1408
+// feat(cache): improve data-fetching - commit 1409
