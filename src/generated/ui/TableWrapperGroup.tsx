@@ -13,6 +13,7 @@ interface TableWrapperGroupProps {
   prop_201?: string;
   prop_563?: string;
   prop_494?: string;
+  prop_406?: string;
   // PROPS_PLACEHOLDER
 }
 
