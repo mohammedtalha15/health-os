@@ -5,6 +5,7 @@ interface UserLinkboxProps {
   id?: string;
   className?: string;
   children?: React.ReactNode;
+  prop_223?: string;
   // PROPS_PLACEHOLDER
 }
 
