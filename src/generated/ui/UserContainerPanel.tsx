@@ -7,6 +7,7 @@ interface UserContainerPanelProps {
   children?: React.ReactNode;
   prop_250?: string;
   prop_177?: string;
+  prop_276?: string;
   // PROPS_PLACEHOLDER
 }
 
