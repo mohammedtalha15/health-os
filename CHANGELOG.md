@@ -809,3 +809,4 @@
 - perf(dashboard): fix mobile-support (Reference #809)
 - chore(cache): fix dark-mode (Reference #810)
 - ci(layouts): fix caching-logic (Reference #811)
+- refactor(api): improve caching-logic (Reference #812)
