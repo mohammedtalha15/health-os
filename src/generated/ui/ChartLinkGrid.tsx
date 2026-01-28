@@ -5,11 +5,6 @@ interface ChartLinkGridProps {
   id?: string;
   className?: string;
   children?: React.ReactNode;
-  prop_189?: string;
-  prop_769?: string;
-  prop_417?: string;
-  prop_684?: string;
-  prop_415?: string;
   // PROPS_PLACEHOLDER
 }
 
