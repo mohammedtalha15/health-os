@@ -13,3 +13,4 @@
 - feat(inputs): configure user-experience (Reference #13)
 - refactor(forms): refactor data-fetching (Reference #14)
 - test(tables): integrate type-definitions (Reference #15)
+- test(dashboard): optimize animations (Reference #16)
