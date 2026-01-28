@@ -11,6 +11,7 @@ interface ModalInputboxProps {
   prop_754?: string;
   prop_940?: string;
   prop_323?: string;
+  prop_676?: string;
   // PROPS_PLACEHOLDER
 }
 
