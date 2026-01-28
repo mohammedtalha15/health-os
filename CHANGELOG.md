@@ -1229,3 +1229,4 @@
 - fix(analytics): enhance keyboard-nav (Reference #1229)
 - docs(analytics): integrate validation (Reference #1230)
 - refactor(charts): implement event-handlers (Reference #1231)
+- ci(analytics): add mobile-support (Reference #1232)
