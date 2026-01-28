@@ -5,6 +5,7 @@ interface ProfileSelectSidebarProps {
   id?: string;
   className?: string;
   children?: React.ReactNode;
+  prop_184?: string;
   // PROPS_PLACEHOLDER
 }
 
