@@ -6,6 +6,7 @@ interface ChartDataboxProps {
   className?: string;
   children?: React.ReactNode;
   prop_414?: string;
+  prop_280?: string;
   // PROPS_PLACEHOLDER
 }
 
