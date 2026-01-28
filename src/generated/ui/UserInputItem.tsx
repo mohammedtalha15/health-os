@@ -12,6 +12,7 @@ interface UserInputItemProps {
   prop_339?: string;
   prop_307?: string;
   prop_237?: string;
+  prop_699?: string;
   // PROPS_PLACEHOLDER
 }
 
