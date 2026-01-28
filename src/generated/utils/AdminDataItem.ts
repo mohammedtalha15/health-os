@@ -3,9 +3,6 @@
  * Utility function for AdminDataItem operations
  */
 export const AdminDataItem = (input: any): any => {
-  // Processed step 58
-  // Processed step 65
-  // Processed step 90
   // LOGIC_PLACEHOLDER
   try {
     const timestamp = Date.now();
