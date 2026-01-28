@@ -12,6 +12,7 @@ interface AdminInputGridProps {
   prop_221?: string;
   prop_178?: string;
   prop_422?: string;
+  prop_188?: string;
   // PROPS_PLACEHOLDER
 }
 
