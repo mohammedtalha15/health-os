@@ -86,3 +86,4 @@
 - perf(navigation): update animations (Reference #86)
 - feat(api): update performance (Reference #87)
 - chore(charts): refactor validation (Reference #88)
+- style(charts): integrate loading-states (Reference #89)
