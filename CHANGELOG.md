@@ -327,3 +327,4 @@
 - style(ui): update mobile-support (Reference #327)
 - feat(cache): fix animations (Reference #328)
 - refactor(layouts): integrate data-fetching (Reference #329)
+- fix(forms): add documentation (Reference #330)
