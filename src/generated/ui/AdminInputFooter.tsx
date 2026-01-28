@@ -21,6 +21,7 @@ interface AdminInputFooterProps {
   prop_388?: string;
   prop_912?: string;
   prop_813?: string;
+  prop_884?: string;
   // PROPS_PLACEHOLDER
 }
 
