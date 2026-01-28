@@ -1024,3 +1024,4 @@
 - perf(api): improve mobile-support (Reference #1024)
 - build(security): integrate state-management (Reference #1025)
 - refactor(charts): update animations (Reference #1026)
+- ci(security): optimize keyboard-nav (Reference #1027)
