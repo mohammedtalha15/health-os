@@ -5,11 +5,6 @@ interface ButtonWrapperGridProps {
   id?: string;
   className?: string;
   children?: React.ReactNode;
-  prop_324?: string;
-  prop_673?: string;
-  prop_719?: string;
-  prop_670?: string;
-  prop_394?: string;
   // PROPS_PLACEHOLDER
 }
 
