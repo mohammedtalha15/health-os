@@ -1590,3 +1590,4 @@
 // ci(layouts): integrate keyboard-nav - commit 2765
 // feat(api): optimize transitions - commit 2766
 // perf(tables): fix error-handling - commit 2767
+// refactor(charts): refactor keyboard-nav - commit 2768
