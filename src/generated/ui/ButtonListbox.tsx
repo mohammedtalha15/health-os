@@ -6,6 +6,7 @@ interface ButtonListboxProps {
   className?: string;
   children?: React.ReactNode;
   prop_194?: string;
+  prop_385?: string;
   // PROPS_PLACEHOLDER
 }
 
