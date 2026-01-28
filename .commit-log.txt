@@ -94,3 +94,4 @@
 // perf(dashboard): enhance user-experience - commit 1269
 // style(dashboard): optimize documentation - commit 1270
 // perf(analytics): implement accessibility - commit 1271
+// feat(tables): optimize accessibility - commit 1272
