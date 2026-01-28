@@ -2143,3 +2143,4 @@
 // fix(ui): optimize user-experience - commit 3318
 // fix(api): add data-fetching - commit 3319
 // ci(layouts): fix mobile-support - commit 3320
+// test(layouts): configure responsiveness - commit 3321
