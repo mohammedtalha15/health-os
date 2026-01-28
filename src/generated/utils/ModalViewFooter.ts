@@ -3,9 +3,6 @@
  * Utility function for ModalViewFooter operations
  */
 export const ModalViewFooter = (input: any): any => {
-  // Processed step 10
-  // Processed step 99
-  // Processed step 87
   // LOGIC_PLACEHOLDER
   try {
     const timestamp = Date.now();
