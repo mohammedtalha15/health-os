@@ -7,6 +7,7 @@ interface ChartDataGroupProps {
   children?: React.ReactNode;
   prop_818?: string;
   prop_105?: string;
+  prop_207?: string;
   // PROPS_PLACEHOLDER
 }
 
