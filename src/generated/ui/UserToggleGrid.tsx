@@ -16,6 +16,7 @@ interface UserToggleGridProps {
   prop_277?: string;
   prop_567?: string;
   prop_824?: string;
+  prop_723?: string;
   // PROPS_PLACEHOLDER
 }
 
