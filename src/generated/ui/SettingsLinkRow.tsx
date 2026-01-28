@@ -15,6 +15,7 @@ interface SettingsLinkRowProps {
   prop_705?: string;
   prop_345?: string;
   prop_961?: string;
+  prop_510?: string;
   // PROPS_PLACEHOLDER
 }
 
