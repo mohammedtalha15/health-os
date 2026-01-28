@@ -6,6 +6,7 @@ interface DashboardSelectGridProps {
   className?: string;
   children?: React.ReactNode;
   prop_450?: string;
+  prop_740?: string;
   // PROPS_PLACEHOLDER
 }
 
