@@ -7,6 +7,7 @@ interface UserLinkItemProps {
   children?: React.ReactNode;
   prop_982?: string;
   prop_145?: string;
+  prop_607?: string;
   // PROPS_PLACEHOLDER
 }
 
