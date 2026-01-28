@@ -3,7 +3,6 @@
  * Utility function for TableLinkItem operations
  */
 export const TableLinkItem = (input: any): any => {
-  // Processed step 73
   // LOGIC_PLACEHOLDER
   try {
     const timestamp = Date.now();
