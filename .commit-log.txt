@@ -963,3 +963,4 @@
 // build(charts): fix data-fetching - commit 2138
 // perf(database): optimize caching-logic - commit 2139
 // style(auth): integrate mobile-support - commit 2140
+// chore(navigation): add event-handlers - commit 2141
