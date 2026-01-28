@@ -3,8 +3,6 @@
  * Utility function for ChartDataSection operations
  */
 export const ChartDataSection = (input: any): any => {
-  // Processed step 66
-  // Processed step 59
   // LOGIC_PLACEHOLDER
   try {
     const timestamp = Date.now();
