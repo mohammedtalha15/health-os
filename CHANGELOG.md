@@ -1205,3 +1205,4 @@
 - perf(settings): enhance loading-states (Reference #1205)
 - docs(notifications): integrate code-quality (Reference #1206)
 - refactor(search): update event-handlers (Reference #1207)
+- refactor(notifications): fix state-management (Reference #1208)
