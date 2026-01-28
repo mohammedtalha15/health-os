@@ -13,6 +13,7 @@ interface AdminContainerGroupProps {
   prop_913?: string;
   prop_498?: string;
   prop_885?: string;
+  prop_860?: string;
   // PROPS_PLACEHOLDER
 }
 
