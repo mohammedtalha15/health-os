@@ -750,3 +750,4 @@
 - docs(dashboard): configure documentation (Reference #750)
 - fix(charts): fix caching-logic (Reference #751)
 - style(charts): add user-experience (Reference #752)
+- build(forms): implement animations (Reference #753)
