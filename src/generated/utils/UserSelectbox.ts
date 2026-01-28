@@ -3,8 +3,6 @@
  * Utility function for UserSelectbox operations
  */
 export const UserSelectbox = (input: any): any => {
-  // Processed step 78
-  // Processed step 56
   // LOGIC_PLACEHOLDER
   try {
     const timestamp = Date.now();
