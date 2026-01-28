@@ -8,6 +8,7 @@ interface AdminLinkGridProps {
   prop_356?: string;
   prop_850?: string;
   prop_700?: string;
+  prop_642?: string;
   // PROPS_PLACEHOLDER
 }
 
