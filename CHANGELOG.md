@@ -1045,3 +1045,4 @@
 - test(search): configure documentation (Reference #1045)
 - ci(profile): refactor event-handlers (Reference #1046)
 - docs(forms): add responsiveness (Reference #1047)
+- perf(tables): update type-definitions (Reference #1048)
