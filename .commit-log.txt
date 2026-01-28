@@ -2133,3 +2133,4 @@
 // feat(forms): refactor animations - commit 169
 // chore(modals): implement animations - commit 170
 // docs(): refactor performance - commit 171
+// perf(settings): update performance - commit 172
