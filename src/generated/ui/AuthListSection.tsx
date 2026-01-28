@@ -8,6 +8,7 @@ interface AuthListSectionProps {
   prop_108?: string;
   prop_362?: string;
   prop_896?: string;
+  prop_365?: string;
   // PROPS_PLACEHOLDER
 }
 
