@@ -309,3 +309,4 @@
 // docs(settings): refactor state-management - commit 1484
 // ci(dashboard): integrate accessibility - commit 1485
 // feat(layouts): configure caching-logic - commit 1486
+// chore(auth): fix state-management - commit 1487
