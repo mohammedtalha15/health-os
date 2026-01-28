@@ -8,6 +8,7 @@ interface TableViewboxProps {
   prop_849?: string;
   prop_344?: string;
   prop_856?: string;
+  prop_178?: string;
   // PROPS_PLACEHOLDER
 }
 
