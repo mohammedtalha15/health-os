@@ -7,6 +7,7 @@ interface ModalInputHeaderProps {
   children?: React.ReactNode;
   prop_312?: string;
   prop_201?: string;
+  prop_835?: string;
   // PROPS_PLACEHOLDER
 }
 
