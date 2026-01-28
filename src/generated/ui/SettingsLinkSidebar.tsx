@@ -8,6 +8,7 @@ interface SettingsLinkSidebarProps {
   prop_120?: string;
   prop_196?: string;
   prop_190?: string;
+  prop_731?: string;
   // PROPS_PLACEHOLDER
 }
 
