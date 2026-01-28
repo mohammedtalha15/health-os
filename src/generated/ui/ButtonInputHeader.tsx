@@ -8,6 +8,7 @@ interface ButtonInputHeaderProps {
   prop_468?: string;
   prop_413?: string;
   prop_851?: string;
+  prop_532?: string;
   // PROPS_PLACEHOLDER
 }
 
