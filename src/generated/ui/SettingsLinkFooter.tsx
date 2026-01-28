@@ -9,6 +9,7 @@ interface SettingsLinkFooterProps {
   prop_874?: string;
   prop_795?: string;
   prop_761?: string;
+  prop_778?: string;
   // PROPS_PLACEHOLDER
 }
 
