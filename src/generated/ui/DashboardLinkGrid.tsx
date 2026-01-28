@@ -13,6 +13,7 @@ interface DashboardLinkGridProps {
   prop_828?: string;
   prop_464?: string;
   prop_505?: string;
+  prop_445?: string;
   // PROPS_PLACEHOLDER
 }
 
