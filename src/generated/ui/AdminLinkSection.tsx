@@ -7,6 +7,7 @@ interface AdminLinkSectionProps {
   children?: React.ReactNode;
   prop_752?: string;
   prop_164?: string;
+  prop_230?: string;
   // PROPS_PLACEHOLDER
 }
 
