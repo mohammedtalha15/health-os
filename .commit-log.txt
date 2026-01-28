@@ -1710,3 +1710,4 @@
 // build(charts): add performance - commit 2885
 // ci(layouts): fix loading-states - commit 2886
 // chore(settings): configure dark-mode - commit 2887
+// build(charts): integrate dark-mode - commit 2888
