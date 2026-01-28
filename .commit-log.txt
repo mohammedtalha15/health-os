@@ -2962,3 +2962,4 @@
 // feat(forms): optimize transitions - commit 490
 // style(layouts): fix state-management - commit 491
 // fix(notifications): update dark-mode - commit 492
+// feat(dashboard): fix responsiveness - commit 493
