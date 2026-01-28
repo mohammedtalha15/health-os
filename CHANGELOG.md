@@ -17,3 +17,4 @@
 - docs(modals): add unit-tests (Reference #17)
 - docs(security): refactor user-experience (Reference #18)
 - style(cache): implement performance (Reference #19)
+- refactor(profile): improve keyboard-nav (Reference #20)
