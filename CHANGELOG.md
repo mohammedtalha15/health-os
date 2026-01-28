@@ -845,3 +845,4 @@
 - style(settings): configure type-definitions (Reference #845)
 - feat(buttons): configure unit-tests (Reference #846)
 - refactor(tables): refactor validation (Reference #847)
+- test(buttons): configure error-handling (Reference #848)
