@@ -3332,3 +3332,4 @@
 // docs(cache): refactor caching-logic - commit 860
 // fix(search): integrate performance - commit 861
 // feat(charts): add keyboard-nav - commit 862
+// style(api): integrate event-handlers - commit 863
