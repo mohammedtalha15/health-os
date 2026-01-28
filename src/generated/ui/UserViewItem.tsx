@@ -9,6 +9,7 @@ interface UserViewItemProps {
   prop_304?: string;
   prop_525?: string;
   prop_700?: string;
+  prop_436?: string;
   // PROPS_PLACEHOLDER
 }
 
