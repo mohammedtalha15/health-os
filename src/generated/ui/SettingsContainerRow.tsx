@@ -5,12 +5,6 @@ interface SettingsContainerRowProps {
   id?: string;
   className?: string;
   children?: React.ReactNode;
-  prop_733?: string;
-  prop_867?: string;
-  prop_997?: string;
-  prop_906?: string;
-  prop_155?: string;
-  prop_341?: string;
   // PROPS_PLACEHOLDER
 }
 
