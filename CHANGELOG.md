@@ -456,3 +456,4 @@
 - perf(notifications): improve responsiveness (Reference #456)
 - style(profile): configure data-fetching (Reference #457)
 - refactor(layouts): optimize code-quality (Reference #458)
+- style(forms): fix accessibility (Reference #459)
