@@ -9,6 +9,7 @@ interface TableCardSidebarProps {
   prop_907?: string;
   prop_685?: string;
   prop_479?: string;
+  prop_493?: string;
   // PROPS_PLACEHOLDER
 }
 
