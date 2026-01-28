@@ -5,14 +5,6 @@ interface UserViewHeaderProps {
   id?: string;
   className?: string;
   children?: React.ReactNode;
-  prop_941?: string;
-  prop_184?: string;
-  prop_637?: string;
-  prop_523?: string;
-  prop_880?: string;
-  prop_256?: string;
-  prop_551?: string;
-  prop_774?: string;
   // PROPS_PLACEHOLDER
 }
 
