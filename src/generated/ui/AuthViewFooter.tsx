@@ -10,6 +10,7 @@ interface AuthViewFooterProps {
   prop_699?: string;
   prop_551?: string;
   prop_596?: string;
+  prop_202?: string;
   // PROPS_PLACEHOLDER
 }
 
