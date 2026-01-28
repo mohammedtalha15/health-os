@@ -86,3 +86,4 @@
 // fix(buttons): add data-fetching - commit 1034
 // fix(notifications): implement loading-states - commit 1035
 // test(navigation): integrate loading-states - commit 1036
+// build(dashboard): improve dark-mode - commit 1037
