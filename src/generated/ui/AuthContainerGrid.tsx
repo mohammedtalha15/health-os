@@ -6,6 +6,7 @@ interface AuthContainerGridProps {
   className?: string;
   children?: React.ReactNode;
   prop_739?: string;
+  prop_804?: string;
   // PROPS_PLACEHOLDER
 }
 
