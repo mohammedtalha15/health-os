@@ -11,6 +11,7 @@ interface ButtonLinkSectionProps {
   prop_739?: string;
   prop_642?: string;
   prop_850?: string;
+  prop_193?: string;
   // PROPS_PLACEHOLDER
 }
 
