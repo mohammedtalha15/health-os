@@ -7,6 +7,7 @@ interface ModalCardSidebarProps {
   children?: React.ReactNode;
   prop_642?: string;
   prop_196?: string;
+  prop_724?: string;
   // PROPS_PLACEHOLDER
 }
 
