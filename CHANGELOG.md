@@ -244,3 +244,4 @@
 - docs(inputs): integrate loading-states (Reference #244)
 - fix(settings): fix unit-tests (Reference #245)
 - refactor(notifications): improve loading-states (Reference #246)
+- perf(api): update user-experience (Reference #247)
