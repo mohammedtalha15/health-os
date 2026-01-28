@@ -202,3 +202,4 @@
 - chore(tables): add dark-mode (Reference #202)
 - fix(buttons): refactor unit-tests (Reference #203)
 - feat(inputs): update code-quality (Reference #204)
+- build(cache): add accessibility (Reference #205)
