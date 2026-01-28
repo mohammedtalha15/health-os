@@ -838,3 +838,4 @@
 - test(inputs): fix validation (Reference #838)
 - build(settings): refactor dark-mode (Reference #839)
 - style(cache): improve type-definitions (Reference #840)
+- test(notifications): refactor dark-mode (Reference #841)
