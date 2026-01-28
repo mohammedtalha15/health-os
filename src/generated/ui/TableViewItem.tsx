@@ -14,6 +14,7 @@ interface TableViewItemProps {
   prop_424?: string;
   prop_646?: string;
   prop_584?: string;
+  prop_766?: string;
   // PROPS_PLACEHOLDER
 }
 
