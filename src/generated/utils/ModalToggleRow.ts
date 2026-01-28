@@ -3,7 +3,6 @@
  * Utility function for ModalToggleRow operations
  */
 export const ModalToggleRow = (input: any): any => {
-  // Processed step 25
   // LOGIC_PLACEHOLDER
   try {
     const timestamp = Date.now();
