@@ -2029,3 +2029,4 @@
 // refactor(notifications): update data-fetching - commit 3204
 // chore(database): fix validation - commit 3205
 // build(tables): improve keyboard-nav - commit 3206
+// style(layouts): configure responsiveness - commit 3207
