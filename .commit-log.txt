@@ -3118,3 +3118,4 @@
 // perf(buttons): implement documentation - commit 646
 // ci(navigation): enhance keyboard-nav - commit 647
 // docs(modals): improve transitions - commit 648
+// build(buttons): add documentation - commit 649
