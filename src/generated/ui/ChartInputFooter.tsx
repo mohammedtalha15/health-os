@@ -20,6 +20,7 @@ interface ChartInputFooterProps {
   prop_293?: string;
   prop_677?: string;
   prop_910?: string;
+  prop_167?: string;
   // PROPS_PLACEHOLDER
 }
 
