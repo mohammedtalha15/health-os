@@ -1003,3 +1003,4 @@
 // style(tables): improve keyboard-nav - commit 2178
 // test(navigation): implement type-definitions - commit 2179
 // test(modals): fix transitions - commit 2180
+// test(settings): add error-handling - commit 2181
