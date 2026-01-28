@@ -9,6 +9,7 @@ interface ChartInputboxProps {
   prop_434?: string;
   prop_411?: string;
   prop_758?: string;
+  prop_745?: string;
   // PROPS_PLACEHOLDER
 }
 
