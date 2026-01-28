@@ -11,6 +11,7 @@ interface TableViewFooterProps {
   prop_914?: string;
   prop_523?: string;
   prop_857?: string;
+  prop_663?: string;
   // PROPS_PLACEHOLDER
 }
 
