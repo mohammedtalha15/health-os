@@ -2017,3 +2017,4 @@
 // chore(api): integrate event-handlers - commit 3192
 // style(analytics): enhance documentation - commit 3193
 // style(cache): refactor loading-states - commit 3194
+// ci(charts): improve documentation - commit 3195
