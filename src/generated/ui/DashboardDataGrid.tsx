@@ -8,6 +8,7 @@ interface DashboardDataGridProps {
   prop_876?: string;
   prop_209?: string;
   prop_485?: string;
+  prop_187?: string;
   // PROPS_PLACEHOLDER
 }
 
