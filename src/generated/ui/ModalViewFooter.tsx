@@ -6,6 +6,7 @@ interface ModalViewFooterProps {
   className?: string;
   children?: React.ReactNode;
   prop_502?: string;
+  prop_930?: string;
   // PROPS_PLACEHOLDER
 }
 
