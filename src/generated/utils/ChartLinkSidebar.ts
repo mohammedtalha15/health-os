@@ -3,8 +3,6 @@
  * Utility function for ChartLinkSidebar operations
  */
 export const ChartLinkSidebar = (input: any): any => {
-  // Processed step 19
-  // Processed step 79
   // LOGIC_PLACEHOLDER
   try {
     const timestamp = Date.now();
