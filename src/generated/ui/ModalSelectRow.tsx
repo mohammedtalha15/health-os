@@ -12,6 +12,7 @@ interface ModalSelectRowProps {
   prop_513?: string;
   prop_273?: string;
   prop_626?: string;
+  prop_598?: string;
   // PROPS_PLACEHOLDER
 }
 
