@@ -5,8 +5,6 @@ interface ButtonToggleboxProps {
   id?: string;
   className?: string;
   children?: React.ReactNode;
-  prop_934?: string;
-  prop_731?: string;
   // PROPS_PLACEHOLDER
 }
 
