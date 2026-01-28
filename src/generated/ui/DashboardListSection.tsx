@@ -6,6 +6,7 @@ interface DashboardListSectionProps {
   className?: string;
   children?: React.ReactNode;
   prop_353?: string;
+  prop_270?: string;
   // PROPS_PLACEHOLDER
 }
 
