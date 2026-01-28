@@ -10,6 +10,7 @@ interface SettingsListFooterProps {
   prop_208?: string;
   prop_788?: string;
   prop_861?: string;
+  prop_467?: string;
   // PROPS_PLACEHOLDER
 }
 
