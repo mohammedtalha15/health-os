@@ -7,6 +7,7 @@ interface DashboardListGridProps {
   children?: React.ReactNode;
   prop_600?: string;
   prop_978?: string;
+  prop_676?: string;
   // PROPS_PLACEHOLDER
 }
 
