@@ -18,6 +18,7 @@ interface ModalViewSectionProps {
   prop_698?: string;
   prop_503?: string;
   prop_750?: string;
+  prop_793?: string;
   // PROPS_PLACEHOLDER
 }
 
