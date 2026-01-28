@@ -949,3 +949,4 @@
 - fix(dashboard): optimize accessibility (Reference #949)
 - docs(notifications): add transitions (Reference #950)
 - refactor(inputs): refactor unit-tests (Reference #951)
+- style(charts): add error-handling (Reference #952)
