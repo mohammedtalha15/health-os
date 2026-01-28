@@ -5,13 +5,6 @@ interface ChartWrapperSidebarProps {
   id?: string;
   className?: string;
   children?: React.ReactNode;
-  prop_344?: string;
-  prop_708?: string;
-  prop_623?: string;
-  prop_639?: string;
-  prop_850?: string;
-  prop_747?: string;
-  prop_673?: string;
   // PROPS_PLACEHOLDER
 }
 
