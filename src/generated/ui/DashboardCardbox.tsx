@@ -9,6 +9,7 @@ interface DashboardCardboxProps {
   prop_170?: string;
   prop_580?: string;
   prop_910?: string;
+  prop_760?: string;
   // PROPS_PLACEHOLDER
 }
 
