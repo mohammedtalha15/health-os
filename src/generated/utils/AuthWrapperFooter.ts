@@ -3,10 +3,6 @@
  * Utility function for AuthWrapperFooter operations
  */
 export const AuthWrapperFooter = (input: any): any => {
-  // Processed step 17
-  // Processed step 47
-  // Processed step 61
-  // Processed step 57
   // LOGIC_PLACEHOLDER
   try {
     const timestamp = Date.now();
