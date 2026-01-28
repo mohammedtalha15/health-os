@@ -1275,3 +1275,4 @@
 // refactor(charts): add user-experience - commit 2450
 // ci(settings): add validation - commit 2451
 // build(modals): update accessibility - commit 2452
+// build(charts): fix event-handlers - commit 2453
