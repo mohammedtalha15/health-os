@@ -6,6 +6,7 @@ interface UserSelectboxProps {
   className?: string;
   children?: React.ReactNode;
   prop_470?: string;
+  prop_452?: string;
   // PROPS_PLACEHOLDER
 }
 
