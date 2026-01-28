@@ -338,3 +338,4 @@
 - ci(search): add caching-logic (Reference #338)
 - refactor(security): optimize accessibility (Reference #339)
 - perf(forms): improve transitions (Reference #340)
+- fix(modals): add code-quality (Reference #341)
