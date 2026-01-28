@@ -1979,3 +1979,4 @@
 // feat(): refactor type definitions - commit 15
 // build(settings): refactor  - commit 16
 // fix(charts): add  - commit 17
+// feat(settings): improve unit tests - commit 18
