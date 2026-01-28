@@ -66,3 +66,4 @@
 // test(charts): refactor dark-mode - commit 1241
 // docs(layouts): refactor type-definitions - commit 1242
 // feat(tables): add event-handlers - commit 1243
+// ci(ui): enhance performance - commit 1244
