@@ -3235,3 +3235,4 @@
 // style(inputs): configure validation - commit 763
 // fix(buttons): configure state-management - commit 764
 // refactor(analytics): improve loading-states - commit 765
+// test(inputs): refactor validation - commit 766
