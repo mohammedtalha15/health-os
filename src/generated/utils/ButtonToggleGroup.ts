@@ -3,10 +3,6 @@
  * Utility function for ButtonToggleGroup operations
  */
 export const ButtonToggleGroup = (input: any): any => {
-  // Processed step 13
-  // Processed step 60
-  // Processed step 33
-  // Processed step 15
   // LOGIC_PLACEHOLDER
   try {
     const timestamp = Date.now();
