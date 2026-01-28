@@ -5,7 +5,6 @@ interface DashboardLinkRowProps {
   id?: string;
   className?: string;
   children?: React.ReactNode;
-  prop_203?: string;
   // PROPS_PLACEHOLDER
 }
 
