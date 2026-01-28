@@ -9,6 +9,7 @@ interface DashboardWrapperGridProps {
   prop_788?: string;
   prop_434?: string;
   prop_719?: string;
+  prop_160?: string;
   // PROPS_PLACEHOLDER
 }
 
