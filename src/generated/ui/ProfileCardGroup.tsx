@@ -9,6 +9,7 @@ interface ProfileCardGroupProps {
   prop_511?: string;
   prop_772?: string;
   prop_610?: string;
+  prop_185?: string;
   // PROPS_PLACEHOLDER
 }
 
