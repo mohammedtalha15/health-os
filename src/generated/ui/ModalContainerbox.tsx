@@ -12,6 +12,7 @@ interface ModalContainerboxProps {
   prop_359?: string;
   prop_328?: string;
   prop_485?: string;
+  prop_786?: string;
   // PROPS_PLACEHOLDER
 }
 
