@@ -1498,3 +1498,4 @@
 // style(cache): improve transitions - commit 2673
 // docs(api): refactor validation - commit 2674
 // fix(ui): implement transitions - commit 2675
+// feat(auth): fix data-fetching - commit 2676
