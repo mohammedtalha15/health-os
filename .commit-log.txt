@@ -10,3 +10,4 @@
 // build(buttons): integrate code-quality - commit 958
 // ci(inputs): implement data-fetching - commit 959
 // test(search): enhance state-management - commit 960
+// perf(buttons): enhance event-handlers - commit 961
