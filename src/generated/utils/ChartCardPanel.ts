@@ -3,9 +3,6 @@
  * Utility function for ChartCardPanel operations
  */
 export const ChartCardPanel = (input: any): any => {
-  // Processed step 58
-  // Processed step 32
-  // Processed step 31
   // LOGIC_PLACEHOLDER
   try {
     const timestamp = Date.now();
