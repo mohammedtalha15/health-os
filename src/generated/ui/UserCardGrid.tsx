@@ -5,15 +5,6 @@ interface UserCardGridProps {
   id?: string;
   className?: string;
   children?: React.ReactNode;
-  prop_481?: string;
-  prop_391?: string;
-  prop_943?: string;
-  prop_656?: string;
-  prop_978?: string;
-  prop_821?: string;
-  prop_179?: string;
-  prop_361?: string;
-  prop_408?: string;
   // PROPS_PLACEHOLDER
 }
 
