@@ -266,3 +266,4 @@
 // chore(dashboard): fix dark-mode - commit 1441
 // test(modals): refactor type-definitions - commit 1442
 // ci(ui): update event-handlers - commit 1443
+// build(settings): optimize documentation - commit 1444
