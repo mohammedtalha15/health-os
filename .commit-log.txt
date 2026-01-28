@@ -2946,3 +2946,4 @@
 // build(tables): add loading-states - commit 474
 // fix(settings): add caching-logic - commit 475
 // perf(analytics): update keyboard-nav - commit 476
+// fix(security): update error-handling - commit 477
