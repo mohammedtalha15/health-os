@@ -6,6 +6,7 @@ interface UserWrapperGridProps {
   className?: string;
   children?: React.ReactNode;
   prop_332?: string;
+  prop_194?: string;
   // PROPS_PLACEHOLDER
 }
 
