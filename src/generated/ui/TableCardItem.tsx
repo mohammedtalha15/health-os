@@ -12,6 +12,7 @@ interface TableCardItemProps {
   prop_718?: string;
   prop_480?: string;
   prop_416?: string;
+  prop_513?: string;
   // PROPS_PLACEHOLDER
 }
 
