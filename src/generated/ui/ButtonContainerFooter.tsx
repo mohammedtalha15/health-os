@@ -15,6 +15,7 @@ interface ButtonContainerFooterProps {
   prop_424?: string;
   prop_458?: string;
   prop_119?: string;
+  prop_363?: string;
   // PROPS_PLACEHOLDER
 }
 
