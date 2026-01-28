@@ -5,24 +5,6 @@ interface DashboardWrapperItemProps {
   id?: string;
   className?: string;
   children?: React.ReactNode;
-  prop_738?: string;
-  prop_168?: string;
-  prop_770?: string;
-  prop_184?: string;
-  prop_981?: string;
-  prop_442?: string;
-  prop_624?: string;
-  prop_822?: string;
-  prop_210?: string;
-  prop_934?: string;
-  prop_494?: string;
-  prop_822?: string;
-  prop_753?: string;
-  prop_188?: string;
-  prop_854?: string;
-  prop_911?: string;
-  prop_941?: string;
-  prop_810?: string;
   // PROPS_PLACEHOLDER
 }
 
