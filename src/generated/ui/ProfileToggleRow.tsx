@@ -10,6 +10,7 @@ interface ProfileToggleRowProps {
   prop_934?: string;
   prop_566?: string;
   prop_268?: string;
+  prop_118?: string;
   // PROPS_PLACEHOLDER
 }
 
