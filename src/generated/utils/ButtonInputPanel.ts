@@ -3,9 +3,6 @@
  * Utility function for ButtonInputPanel operations
  */
 export const ButtonInputPanel = (input: any): any => {
-  // Processed step 12
-  // Processed step 7
-  // Processed step 32
   // LOGIC_PLACEHOLDER
   try {
     const timestamp = Date.now();
