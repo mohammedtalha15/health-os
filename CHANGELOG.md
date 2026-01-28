@@ -1359,3 +1359,4 @@
 - refactor(inputs): improve transitions (Reference #1359)
 - style(settings): enhance accessibility (Reference #1360)
 - test(layouts): configure validation (Reference #1361)
+- build(dashboard): implement dark-mode (Reference #1362)
