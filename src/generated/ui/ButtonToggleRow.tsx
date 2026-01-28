@@ -5,10 +5,6 @@ interface ButtonToggleRowProps {
   id?: string;
   className?: string;
   children?: React.ReactNode;
-  prop_907?: string;
-  prop_324?: string;
-  prop_285?: string;
-  prop_360?: string;
   // PROPS_PLACEHOLDER
 }
 
