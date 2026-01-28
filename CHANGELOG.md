@@ -913,3 +913,4 @@
 - ci(search): update type-definitions (Reference #913)
 - refactor(charts): optimize dark-mode (Reference #914)
 - perf(cache): fix dark-mode (Reference #915)
+- chore(inputs): integrate validation (Reference #916)
