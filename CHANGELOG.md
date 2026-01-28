@@ -1230,3 +1230,4 @@
 - docs(analytics): integrate validation (Reference #1230)
 - refactor(charts): implement event-handlers (Reference #1231)
 - ci(analytics): add mobile-support (Reference #1232)
+- test(forms): refactor documentation (Reference #1233)
