@@ -14,6 +14,7 @@ interface ModalViewGridProps {
   prop_819?: string;
   prop_824?: string;
   prop_277?: string;
+  prop_720?: string;
   // PROPS_PLACEHOLDER
 }
 
