@@ -7,6 +7,7 @@ interface AdminViewGridProps {
   children?: React.ReactNode;
   prop_968?: string;
   prop_687?: string;
+  prop_559?: string;
   // PROPS_PLACEHOLDER
 }
 
