@@ -6,6 +6,7 @@ interface ProfileViewHeaderProps {
   className?: string;
   children?: React.ReactNode;
   prop_397?: string;
+  prop_518?: string;
   // PROPS_PLACEHOLDER
 }
 
