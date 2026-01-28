@@ -3,10 +3,6 @@
  * Utility function for UserWrapperPanel operations
  */
 export const UserWrapperPanel = (input: any): any => {
-  // Processed step 97
-  // Processed step 74
-  // Processed step 12
-  // Processed step 60
   // LOGIC_PLACEHOLDER
   try {
     const timestamp = Date.now();
