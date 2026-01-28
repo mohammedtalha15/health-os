@@ -3,14 +3,6 @@
  * Utility function for AuthListPanel operations
  */
 export const AuthListPanel = (input: any): any => {
-  // Processed step 12
-  // Processed step 78
-  // Processed step 5
-  // Processed step 59
-  // Processed step 58
-  // Processed step 50
-  // Processed step 74
-  // Processed step 36
   // LOGIC_PLACEHOLDER
   try {
     const timestamp = Date.now();
