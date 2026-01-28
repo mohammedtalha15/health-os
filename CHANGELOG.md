@@ -194,3 +194,4 @@
 - feat(settings): configure state-management (Reference #194)
 - perf(modals): add caching-logic (Reference #195)
 - ci(profile): add data-fetching (Reference #196)
+- build(modals): improve performance (Reference #197)
