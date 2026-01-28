@@ -92,3 +92,4 @@
 // chore(profile): update mobile-support - commit 1267
 // perf(cache): refactor data-fetching - commit 1268
 // perf(dashboard): enhance user-experience - commit 1269
+// style(dashboard): optimize documentation - commit 1270
