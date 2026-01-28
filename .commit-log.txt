@@ -1396,3 +1396,4 @@
 // ci(layouts): refactor loading-states - commit 2571
 // docs(buttons): add validation - commit 2572
 // perf(buttons): update user-experience - commit 2573
+// refactor(search): integrate animations - commit 2574
