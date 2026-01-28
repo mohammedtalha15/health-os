@@ -12,6 +12,7 @@ interface DashboardViewGroupProps {
   prop_326?: string;
   prop_484?: string;
   prop_186?: string;
+  prop_545?: string;
   // PROPS_PLACEHOLDER
 }
 
