@@ -1294,3 +1294,4 @@
 - build(modals): integrate user-experience (Reference #1294)
 - chore(charts): improve transitions (Reference #1295)
 - refactor(navigation): optimize error-handling (Reference #1296)
+- build(api): fix transitions (Reference #1297)
