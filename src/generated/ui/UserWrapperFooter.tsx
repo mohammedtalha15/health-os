@@ -13,6 +13,7 @@ interface UserWrapperFooterProps {
   prop_650?: string;
   prop_630?: string;
   prop_871?: string;
+  prop_577?: string;
   // PROPS_PLACEHOLDER
 }
 
