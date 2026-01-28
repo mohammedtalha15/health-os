@@ -5,21 +5,6 @@ interface SettingsInputItemProps {
   id?: string;
   className?: string;
   children?: React.ReactNode;
-  prop_414?: string;
-  prop_772?: string;
-  prop_920?: string;
-  prop_468?: string;
-  prop_388?: string;
-  prop_818?: string;
-  prop_798?: string;
-  prop_748?: string;
-  prop_788?: string;
-  prop_399?: string;
-  prop_692?: string;
-  prop_521?: string;
-  prop_763?: string;
-  prop_159?: string;
-  prop_430?: string;
   // PROPS_PLACEHOLDER
 }
 
