@@ -1228,3 +1228,4 @@
 - refactor(forms): update accessibility (Reference #1228)
 - fix(analytics): enhance keyboard-nav (Reference #1229)
 - docs(analytics): integrate validation (Reference #1230)
+- refactor(charts): implement event-handlers (Reference #1231)
