@@ -578,3 +578,4 @@
 - test(buttons): add keyboard-nav (Reference #578)
 - fix(buttons): integrate type-definitions (Reference #579)
 - feat(profile): implement animations (Reference #580)
+- refactor(settings): configure user-experience (Reference #581)
