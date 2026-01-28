@@ -6,6 +6,7 @@ interface ChartToggleSectionProps {
   className?: string;
   children?: React.ReactNode;
   prop_258?: string;
+  prop_639?: string;
   // PROPS_PLACEHOLDER
 }
 
