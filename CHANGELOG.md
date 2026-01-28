@@ -1407,3 +1407,4 @@
 - feat(cache): add responsiveness (Reference #1407)
 - chore(settings): update accessibility (Reference #1408)
 - ci(tables): improve keyboard-nav (Reference #1409)
+- refactor(profile): refactor state-management (Reference #1410)
