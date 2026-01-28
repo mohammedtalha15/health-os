@@ -6,6 +6,7 @@ interface ChartDataSidebarProps {
   className?: string;
   children?: React.ReactNode;
   prop_898?: string;
+  prop_668?: string;
   // PROPS_PLACEHOLDER
 }
 
