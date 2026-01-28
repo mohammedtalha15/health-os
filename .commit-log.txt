@@ -1082,3 +1082,4 @@
 // build(buttons): enhance event-handlers - commit 2257
 // fix(auth): improve accessibility - commit 2258
 // perf(auth): enhance type-definitions - commit 2259
+// feat(auth): enhance dark-mode - commit 2260
