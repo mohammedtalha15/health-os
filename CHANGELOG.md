@@ -1405,3 +1405,4 @@
 - perf(settings): implement dark-mode (Reference #1405)
 - fix(layouts): integrate type-definitions (Reference #1406)
 - feat(cache): add responsiveness (Reference #1407)
+- chore(settings): update accessibility (Reference #1408)
