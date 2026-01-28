@@ -1470,3 +1470,4 @@
 // refactor(ui): improve unit-tests - commit 2645
 // refactor(ui): fix mobile-support - commit 2646
 // chore(api): update mobile-support - commit 2647
+// feat(inputs): optimize documentation - commit 2648
