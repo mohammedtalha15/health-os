@@ -242,3 +242,4 @@
 - feat(layouts): add unit-tests (Reference #242)
 - ci(search): implement data-fetching (Reference #243)
 - docs(inputs): integrate loading-states (Reference #244)
+- fix(settings): fix unit-tests (Reference #245)
