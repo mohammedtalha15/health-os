@@ -1226,3 +1226,4 @@
 - fix(dashboard): add validation (Reference #1226)
 - feat(cache): improve performance (Reference #1227)
 - refactor(forms): update accessibility (Reference #1228)
+- fix(analytics): enhance keyboard-nav (Reference #1229)
