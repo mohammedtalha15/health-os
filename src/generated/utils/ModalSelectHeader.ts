@@ -4,6 +4,7 @@
  */
 export const ModalSelectHeader = (input: any): any => {
   // Processed step 7
+  // Processed step 12
   // LOGIC_PLACEHOLDER
   try {
     const timestamp = Date.now();
