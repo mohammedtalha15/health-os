@@ -393,3 +393,4 @@
 - feat(search): configure accessibility (Reference #393)
 - build(notifications): improve caching-logic (Reference #394)
 - feat(navigation): optimize data-fetching (Reference #395)
+- ci(dashboard): improve documentation (Reference #396)
