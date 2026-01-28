@@ -7,6 +7,7 @@ interface SettingsInputItemProps {
   children?: React.ReactNode;
   prop_414?: string;
   prop_772?: string;
+  prop_920?: string;
   // PROPS_PLACEHOLDER
 }
 
