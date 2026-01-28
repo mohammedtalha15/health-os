@@ -38,3 +38,4 @@
 // build(auth): implement dark-mode - commit 986
 // ci(auth): refactor error-handling - commit 987
 // feat(layouts): enhance transitions - commit 988
+// refactor(modals): integrate animations - commit 989
