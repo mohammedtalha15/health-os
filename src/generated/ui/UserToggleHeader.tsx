@@ -8,6 +8,7 @@ interface UserToggleHeaderProps {
   prop_508?: string;
   prop_416?: string;
   prop_666?: string;
+  prop_104?: string;
   // PROPS_PLACEHOLDER
 }
 
