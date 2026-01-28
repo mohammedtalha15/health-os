@@ -106,3 +106,4 @@
 // fix(security): add animations - commit 1281
 // ci(ui): improve code-quality - commit 1282
 // ci(search): enhance error-handling - commit 1283
+// build(dashboard): update keyboard-nav - commit 1284
