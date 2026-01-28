@@ -15,6 +15,7 @@ interface TableToggleRowProps {
   prop_857?: string;
   prop_498?: string;
   prop_924?: string;
+  prop_638?: string;
   // PROPS_PLACEHOLDER
 }
 
