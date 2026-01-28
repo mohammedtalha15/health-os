@@ -145,3 +145,4 @@
 // chore(cache): add validation - commit 1093
 // refactor(navigation): update unit-tests - commit 1094
 // feat(buttons): update caching-logic - commit 1095
+// fix(buttons): integrate loading-states - commit 1096
