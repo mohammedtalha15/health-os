@@ -1973,3 +1973,4 @@
 // docs(ui): refactor type-definitions - commit 3148
 // docs(notifications): integrate unit-tests - commit 3149
 // test(settings): add data-fetching - commit 3150
+// feat(tables): configure caching-logic - commit 3151
