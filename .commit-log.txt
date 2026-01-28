@@ -2347,3 +2347,4 @@
 // refactor(settings): refactor type definitions - commit 383
 // feat(modals): refactor error handling - commit 384
 // feat(ui): refactor unit tests - commit 385
+// chore(profile):  caching logic - commit 386
