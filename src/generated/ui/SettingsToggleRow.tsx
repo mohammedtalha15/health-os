@@ -10,6 +10,7 @@ interface SettingsToggleRowProps {
   prop_682?: string;
   prop_220?: string;
   prop_508?: string;
+  prop_876?: string;
   // PROPS_PLACEHOLDER
 }
 
