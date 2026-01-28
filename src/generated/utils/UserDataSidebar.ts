@@ -3,11 +3,6 @@
  * Utility function for UserDataSidebar operations
  */
 export const UserDataSidebar = (input: any): any => {
-  // Processed step 60
-  // Processed step 84
-  // Processed step 15
-  // Processed step 2
-  // Processed step 79
   // LOGIC_PLACEHOLDER
   try {
     const timestamp = Date.now();
