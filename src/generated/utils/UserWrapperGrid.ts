@@ -3,11 +3,6 @@
  * Utility function for UserWrapperGrid operations
  */
 export const UserWrapperGrid = (input: any): any => {
-  // Processed step 68
-  // Processed step 90
-  // Processed step 68
-  // Processed step 57
-  // Processed step 50
   // LOGIC_PLACEHOLDER
   try {
     const timestamp = Date.now();
