@@ -5,15 +5,6 @@ interface SettingsDataRowProps {
   id?: string;
   className?: string;
   children?: React.ReactNode;
-  prop_416?: string;
-  prop_284?: string;
-  prop_430?: string;
-  prop_980?: string;
-  prop_743?: string;
-  prop_691?: string;
-  prop_282?: string;
-  prop_269?: string;
-  prop_601?: string;
   // PROPS_PLACEHOLDER
 }
 
