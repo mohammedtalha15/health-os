@@ -314,3 +314,4 @@
 - chore(charts): integrate dark-mode (Reference #314)
 - feat(search): integrate transitions (Reference #315)
 - build(charts): enhance animations (Reference #316)
+- fix(tables): update validation (Reference #317)
