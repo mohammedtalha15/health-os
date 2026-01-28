@@ -1691,3 +1691,4 @@
 // fix(tables): fix validation - commit 2866
 // style(charts): improve keyboard-nav - commit 2867
 // style(analytics): configure dark-mode - commit 2868
+// test(navigation): improve validation - commit 2869
