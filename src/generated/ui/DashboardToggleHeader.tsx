@@ -11,6 +11,7 @@ interface DashboardToggleHeaderProps {
   prop_216?: string;
   prop_166?: string;
   prop_961?: string;
+  prop_225?: string;
   // PROPS_PLACEHOLDER
 }
 
