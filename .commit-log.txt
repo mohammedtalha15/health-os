@@ -1751,3 +1751,4 @@
 // docs(charts): optimize loading-states - commit 2926
 // perf(layouts): configure error-handling - commit 2927
 // docs(notifications): refactor animations - commit 2928
+// docs(api): refactor responsiveness - commit 2929
