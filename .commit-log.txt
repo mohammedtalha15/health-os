@@ -2767,3 +2767,4 @@
 // refactor(dashboard): integrate dark-mode - commit 295
 // refactor(ui): refactor state-management - commit 296
 // perf(inputs): enhance accessibility - commit 297
+// build(analytics): add accessibility - commit 298
