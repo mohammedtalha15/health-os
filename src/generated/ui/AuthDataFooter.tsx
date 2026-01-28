@@ -5,18 +5,6 @@ interface AuthDataFooterProps {
   id?: string;
   className?: string;
   children?: React.ReactNode;
-  prop_814?: string;
-  prop_702?: string;
-  prop_615?: string;
-  prop_680?: string;
-  prop_760?: string;
-  prop_177?: string;
-  prop_503?: string;
-  prop_585?: string;
-  prop_718?: string;
-  prop_672?: string;
-  prop_656?: string;
-  prop_391?: string;
   // PROPS_PLACEHOLDER
 }
 
