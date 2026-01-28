@@ -3,8 +3,6 @@
  * Utility function for DashboardDataGrid operations
  */
 export const DashboardDataGrid = (input: any): any => {
-  // Processed step 40
-  // Processed step 79
   // LOGIC_PLACEHOLDER
   try {
     const timestamp = Date.now();
