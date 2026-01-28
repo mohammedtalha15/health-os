@@ -12,6 +12,7 @@ interface ProfileDataSidebarProps {
   prop_396?: string;
   prop_492?: string;
   prop_626?: string;
+  prop_472?: string;
   // PROPS_PLACEHOLDER
 }
 
