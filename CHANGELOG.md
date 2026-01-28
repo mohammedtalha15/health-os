@@ -1021,3 +1021,4 @@
 - chore(buttons): optimize event-handlers (Reference #1021)
 - perf(analytics): improve keyboard-nav (Reference #1022)
 - docs(dashboard): fix responsiveness (Reference #1023)
+- perf(api): improve mobile-support (Reference #1024)
