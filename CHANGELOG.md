@@ -1208,3 +1208,4 @@
 - refactor(notifications): fix state-management (Reference #1208)
 - docs(settings): configure user-experience (Reference #1209)
 - ci(modals): integrate data-fetching (Reference #1210)
+- test(analytics): implement unit-tests (Reference #1211)
