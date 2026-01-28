@@ -24,6 +24,7 @@ interface DashboardContainerFooterProps {
   prop_727?: string;
   prop_141?: string;
   prop_321?: string;
+  prop_262?: string;
   // PROPS_PLACEHOLDER
 }
 
