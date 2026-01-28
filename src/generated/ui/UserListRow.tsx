@@ -11,6 +11,7 @@ interface UserListRowProps {
   prop_570?: string;
   prop_985?: string;
   prop_140?: string;
+  prop_352?: string;
   // PROPS_PLACEHOLDER
 }
 
