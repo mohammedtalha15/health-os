@@ -3,10 +3,6 @@
  * Utility function for ModalViewSection operations
  */
 export const ModalViewSection = (input: any): any => {
-  // Processed step 43
-  // Processed step 23
-  // Processed step 67
-  // Processed step 52
   // LOGIC_PLACEHOLDER
   try {
     const timestamp = Date.now();
