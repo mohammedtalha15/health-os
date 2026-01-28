@@ -8,6 +8,7 @@ interface ButtonDataFooterProps {
   prop_285?: string;
   prop_663?: string;
   prop_918?: string;
+  prop_558?: string;
   // PROPS_PLACEHOLDER
 }
 
