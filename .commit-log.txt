@@ -42,3 +42,4 @@
 // build(ui): integrate user-experience - commit 990
 // chore(inputs): optimize data-fetching - commit 991
 // fix(forms): implement loading-states - commit 992
+// build(auth): improve mobile-support - commit 993
