@@ -10,6 +10,7 @@ interface SettingsSelectSidebarProps {
   prop_637?: string;
   prop_481?: string;
   prop_310?: string;
+  prop_825?: string;
   // PROPS_PLACEHOLDER
 }
 
