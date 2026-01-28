@@ -1265,3 +1265,4 @@
 - style(api): improve dark-mode (Reference #1265)
 - build(buttons): add validation (Reference #1266)
 - feat(layouts): integrate dark-mode (Reference #1267)
+- build(forms): configure state-management (Reference #1268)
