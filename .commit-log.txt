@@ -176,3 +176,4 @@
 // test(layouts): fix loading-states - commit 1124
 // perf(forms): update user-experience - commit 1125
 // chore(buttons): configure documentation - commit 1126
+// refactor(search): improve dark-mode - commit 1127
