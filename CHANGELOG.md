@@ -1279,3 +1279,4 @@
 - build(notifications): improve code-quality (Reference #1279)
 - ci(cache): add dark-mode (Reference #1280)
 - perf(ui): add loading-states (Reference #1281)
+- perf(ui): optimize event-handlers (Reference #1282)
