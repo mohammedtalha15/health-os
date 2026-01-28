@@ -1073,3 +1073,4 @@
 - fix(buttons): optimize animations (Reference #1073)
 - ci(charts): configure code-quality (Reference #1074)
 - build(buttons): improve loading-states (Reference #1075)
+- refactor(notifications): implement type-definitions (Reference #1076)
