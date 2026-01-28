@@ -1009,3 +1009,4 @@
 - ci(api): improve user-experience (Reference #1009)
 - style(ui): improve validation (Reference #1010)
 - style(forms): improve documentation (Reference #1011)
+- chore(profile): update code-quality (Reference #1012)
