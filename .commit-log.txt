@@ -37,3 +37,4 @@
 // test(cache): optimize transitions - commit 985
 // build(auth): implement dark-mode - commit 986
 // ci(auth): refactor error-handling - commit 987
+// feat(layouts): enhance transitions - commit 988
