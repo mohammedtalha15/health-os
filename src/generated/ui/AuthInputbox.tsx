@@ -6,6 +6,7 @@ interface AuthInputboxProps {
   className?: string;
   children?: React.ReactNode;
   prop_970?: string;
+  prop_636?: string;
   // PROPS_PLACEHOLDER
 }
 
