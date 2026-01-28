@@ -3,8 +3,6 @@
  * Utility function for ChartDataSidebar operations
  */
 export const ChartDataSidebar = (input: any): any => {
-  // Processed step 7
-  // Processed step 49
   // LOGIC_PLACEHOLDER
   try {
     const timestamp = Date.now();
