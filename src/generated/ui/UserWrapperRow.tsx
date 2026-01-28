@@ -6,6 +6,7 @@ interface UserWrapperRowProps {
   className?: string;
   children?: React.ReactNode;
   prop_301?: string;
+  prop_641?: string;
   // PROPS_PLACEHOLDER
 }
 
