@@ -8,6 +8,7 @@ interface TableInputGridProps {
   prop_945?: string;
   prop_955?: string;
   prop_529?: string;
+  prop_407?: string;
   // PROPS_PLACEHOLDER
 }
 
