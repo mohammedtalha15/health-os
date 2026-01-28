@@ -5,7 +5,6 @@ interface ProfileWrapperGroupProps {
   id?: string;
   className?: string;
   children?: React.ReactNode;
-  prop_624?: string;
   // PROPS_PLACEHOLDER
 }
 
