@@ -12,6 +12,7 @@ interface AdminDataGridProps {
   prop_754?: string;
   prop_218?: string;
   prop_621?: string;
+  prop_355?: string;
   // PROPS_PLACEHOLDER
 }
 
