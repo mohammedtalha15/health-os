@@ -7,6 +7,7 @@ interface DashboardWrapperPanelProps {
   children?: React.ReactNode;
   prop_776?: string;
   prop_508?: string;
+  prop_880?: string;
   // PROPS_PLACEHOLDER
 }
 
