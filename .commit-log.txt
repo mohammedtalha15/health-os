@@ -1487,3 +1487,4 @@
 // test(charts): enhance data-fetching - commit 2662
 // style(notifications): configure loading-states - commit 2663
 // build(database): enhance documentation - commit 2664
+// build(tables): update accessibility - commit 2665
