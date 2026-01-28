@@ -511,3 +511,4 @@
 // style(buttons): implement user-experience - commit 1686
 // test(settings): improve data-fetching - commit 1687
 // test(auth): fix responsiveness - commit 1688
+// feat(tables): configure type-definitions - commit 1689
