@@ -6,6 +6,7 @@ interface UserLinkHeaderProps {
   className?: string;
   children?: React.ReactNode;
   prop_284?: string;
+  prop_824?: string;
   // PROPS_PLACEHOLDER
 }
 
