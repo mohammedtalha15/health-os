@@ -5,11 +5,6 @@ interface AuthToggleRowProps {
   id?: string;
   className?: string;
   children?: React.ReactNode;
-  prop_452?: string;
-  prop_886?: string;
-  prop_661?: string;
-  prop_811?: string;
-  prop_282?: string;
   // PROPS_PLACEHOLDER
 }
 
