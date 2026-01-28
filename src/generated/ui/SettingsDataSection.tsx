@@ -5,17 +5,6 @@ interface SettingsDataSectionProps {
   id?: string;
   className?: string;
   children?: React.ReactNode;
-  prop_752?: string;
-  prop_995?: string;
-  prop_530?: string;
-  prop_124?: string;
-  prop_972?: string;
-  prop_973?: string;
-  prop_348?: string;
-  prop_930?: string;
-  prop_170?: string;
-  prop_496?: string;
-  prop_656?: string;
   // PROPS_PLACEHOLDER
 }
 
