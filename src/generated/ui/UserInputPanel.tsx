@@ -8,6 +8,7 @@ interface UserInputPanelProps {
   prop_719?: string;
   prop_449?: string;
   prop_823?: string;
+  prop_805?: string;
   // PROPS_PLACEHOLDER
 }
 
