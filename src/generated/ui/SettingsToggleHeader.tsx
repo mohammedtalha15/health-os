@@ -7,6 +7,7 @@ interface SettingsToggleHeaderProps {
   children?: React.ReactNode;
   prop_109?: string;
   prop_464?: string;
+  prop_876?: string;
   // PROPS_PLACEHOLDER
 }
 
