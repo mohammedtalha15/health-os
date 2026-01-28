@@ -13,6 +13,7 @@ interface ChartViewSidebarProps {
   prop_216?: string;
   prop_218?: string;
   prop_371?: string;
+  prop_454?: string;
   // PROPS_PLACEHOLDER
 }
 
