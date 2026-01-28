@@ -12,6 +12,7 @@ interface ProfileInputPanelProps {
   prop_307?: string;
   prop_394?: string;
   prop_205?: string;
+  prop_327?: string;
   // PROPS_PLACEHOLDER
 }
 
