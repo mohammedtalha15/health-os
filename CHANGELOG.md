@@ -112,3 +112,4 @@
 - build(settings): refactor transitions (Reference #112)
 - docs(api): configure dark-mode (Reference #113)
 - style(search): add dark-mode (Reference #114)
+- feat(security): implement data-fetching (Reference #115)
