@@ -824,3 +824,4 @@
 - feat(dashboard): fix data-fetching (Reference #824)
 - test(cache): update code-quality (Reference #825)
 - fix(forms): optimize dark-mode (Reference #826)
+- chore(search): implement state-management (Reference #827)
