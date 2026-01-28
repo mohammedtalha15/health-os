@@ -374,3 +374,4 @@
 - perf(security): integrate responsiveness (Reference #374)
 - build(forms): fix dark-mode (Reference #375)
 - style(api): improve data-fetching (Reference #376)
+- perf(settings): add performance (Reference #377)
