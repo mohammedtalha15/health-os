@@ -316,3 +316,4 @@
 - build(charts): enhance animations (Reference #316)
 - fix(tables): update validation (Reference #317)
 - feat(ui): implement error-handling (Reference #318)
+- perf(modals): optimize state-management (Reference #319)
