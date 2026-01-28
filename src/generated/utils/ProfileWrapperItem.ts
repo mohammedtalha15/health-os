@@ -3,8 +3,6 @@
  * Utility function for ProfileWrapperItem operations
  */
 export const ProfileWrapperItem = (input: any): any => {
-  // Processed step 31
-  // Processed step 52
   // LOGIC_PLACEHOLDER
   try {
     const timestamp = Date.now();
