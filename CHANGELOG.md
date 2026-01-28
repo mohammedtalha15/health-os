@@ -607,3 +607,4 @@
 - build(database): add unit-tests (Reference #607)
 - feat(settings): fix unit-tests (Reference #608)
 - perf(layouts): improve accessibility (Reference #609)
+- test(modals): add data-fetching (Reference #610)
