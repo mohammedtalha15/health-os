@@ -7,6 +7,7 @@ interface DashboardToggleHeaderProps {
   children?: React.ReactNode;
   prop_785?: string;
   prop_288?: string;
+  prop_327?: string;
   // PROPS_PLACEHOLDER
 }
 
