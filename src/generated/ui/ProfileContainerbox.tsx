@@ -6,6 +6,7 @@ interface ProfileContainerboxProps {
   className?: string;
   children?: React.ReactNode;
   prop_848?: string;
+  prop_227?: string;
   // PROPS_PLACEHOLDER
 }
 
