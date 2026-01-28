@@ -5,13 +5,6 @@ interface ProfileViewSidebarProps {
   id?: string;
   className?: string;
   children?: React.ReactNode;
-  prop_907?: string;
-  prop_609?: string;
-  prop_582?: string;
-  prop_926?: string;
-  prop_992?: string;
-  prop_824?: string;
-  prop_243?: string;
   // PROPS_PLACEHOLDER
 }
 
