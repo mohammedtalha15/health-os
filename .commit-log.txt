@@ -3302,3 +3302,4 @@
 // feat(buttons): update documentation - commit 830
 // style(layouts): improve animations - commit 831
 // feat(auth): refactor keyboard-nav - commit 832
+// fix(ui): optimize event-handlers - commit 833
