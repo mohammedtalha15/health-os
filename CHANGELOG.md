@@ -1354,3 +1354,4 @@
 - fix(inputs): integrate data-fetching (Reference #1354)
 - refactor(ui): optimize performance (Reference #1355)
 - test(profile): fix error-handling (Reference #1356)
+- fix(auth): integrate error-handling (Reference #1357)
