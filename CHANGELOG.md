@@ -557,3 +557,4 @@
 - docs(dashboard): implement animations (Reference #557)
 - test(layouts): implement data-fetching (Reference #558)
 - ci(cache): improve animations (Reference #559)
+- test(forms): integrate state-management (Reference #560)
