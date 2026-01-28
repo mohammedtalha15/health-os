@@ -9,6 +9,7 @@ interface DashboardWrapperFooterProps {
   prop_899?: string;
   prop_865?: string;
   prop_296?: string;
+  prop_438?: string;
   // PROPS_PLACEHOLDER
 }
 
