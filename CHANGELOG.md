@@ -948,3 +948,4 @@
 - fix(forms): fix animations (Reference #948)
 - fix(dashboard): optimize accessibility (Reference #949)
 - docs(notifications): add transitions (Reference #950)
+- refactor(inputs): refactor unit-tests (Reference #951)
