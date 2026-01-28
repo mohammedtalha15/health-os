@@ -3,9 +3,6 @@
  * Utility function for AdminToggleGrid operations
  */
 export const AdminToggleGrid = (input: any): any => {
-  // Processed step 1
-  // Processed step 38
-  // Processed step 4
   // LOGIC_PLACEHOLDER
   try {
     const timestamp = Date.now();
