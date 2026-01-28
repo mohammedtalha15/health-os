@@ -17,6 +17,7 @@ interface UserLinkSidebarProps {
   prop_969?: string;
   prop_272?: string;
   prop_225?: string;
+  prop_194?: string;
   // PROPS_PLACEHOLDER
 }
 
