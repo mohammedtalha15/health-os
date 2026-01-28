@@ -3,18 +3,6 @@
  * Utility function for ModalViewSidebar operations
  */
 export const ModalViewSidebar = (input: any): any => {
-  // Processed step 58
-  // Processed step 71
-  // Processed step 96
-  // Processed step 46
-  // Processed step 4
-  // Processed step 9
-  // Processed step 23
-  // Processed step 28
-  // Processed step 4
-  // Processed step 100
-  // Processed step 86
-  // Processed step 89
   // LOGIC_PLACEHOLDER
   try {
     const timestamp = Date.now();
