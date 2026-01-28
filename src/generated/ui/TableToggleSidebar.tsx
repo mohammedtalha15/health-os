@@ -13,6 +13,7 @@ interface TableToggleSidebarProps {
   prop_537?: string;
   prop_376?: string;
   prop_438?: string;
+  prop_781?: string;
   // PROPS_PLACEHOLDER
 }
 
