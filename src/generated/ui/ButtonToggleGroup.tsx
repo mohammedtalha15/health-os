@@ -5,14 +5,6 @@ interface ButtonToggleGroupProps {
   id?: string;
   className?: string;
   children?: React.ReactNode;
-  prop_553?: string;
-  prop_205?: string;
-  prop_193?: string;
-  prop_843?: string;
-  prop_178?: string;
-  prop_609?: string;
-  prop_189?: string;
-  prop_460?: string;
   // PROPS_PLACEHOLDER
 }
 
