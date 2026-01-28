@@ -2273,3 +2273,4 @@
 // feat(navigation): optimize accessibility - commit 309
 // feat(settings):  accessibility - commit 310
 // chore(modals): implement accessibility - commit 311
+// (inputs): configure keyboard navigation - commit 312
