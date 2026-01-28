@@ -15,6 +15,7 @@ interface ChartSelectGroupProps {
   prop_409?: string;
   prop_524?: string;
   prop_713?: string;
+  prop_780?: string;
   // PROPS_PLACEHOLDER
 }
 
