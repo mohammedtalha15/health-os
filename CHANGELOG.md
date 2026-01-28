@@ -1268,3 +1268,4 @@
 - build(forms): configure state-management (Reference #1268)
 - docs(tables): update data-fetching (Reference #1269)
 - refactor(charts): fix mobile-support (Reference #1270)
+- docs(security): refactor error-handling (Reference #1271)
