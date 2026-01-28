@@ -6,6 +6,7 @@ interface AuthDataboxProps {
   className?: string;
   children?: React.ReactNode;
   prop_430?: string;
+  prop_502?: string;
   // PROPS_PLACEHOLDER
 }
 
