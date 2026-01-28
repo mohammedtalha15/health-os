@@ -11,6 +11,7 @@ interface ChartInputHeaderProps {
   prop_144?: string;
   prop_914?: string;
   prop_650?: string;
+  prop_829?: string;
   // PROPS_PLACEHOLDER
 }
 
