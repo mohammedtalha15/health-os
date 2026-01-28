@@ -9,6 +9,7 @@ interface ModalToggleSectionProps {
   prop_246?: string;
   prop_972?: string;
   prop_219?: string;
+  prop_692?: string;
   // PROPS_PLACEHOLDER
 }
 
