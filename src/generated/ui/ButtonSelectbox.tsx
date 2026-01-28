@@ -6,6 +6,7 @@ interface ButtonSelectboxProps {
   className?: string;
   children?: React.ReactNode;
   prop_653?: string;
+  prop_115?: string;
   // PROPS_PLACEHOLDER
 }
 
