@@ -8,6 +8,7 @@ interface SettingsCardGroupProps {
   prop_385?: string;
   prop_965?: string;
   prop_976?: string;
+  prop_992?: string;
   // PROPS_PLACEHOLDER
 }
 
