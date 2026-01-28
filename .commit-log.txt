@@ -2357,3 +2357,4 @@
 // build(dashboard): add  - commit 393
 // build(notifications): add animations - commit 394
 // chore(forms): fix performance - commit 395
+// refactor(notifications): enhance responsiveness - commit 396
