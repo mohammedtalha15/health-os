@@ -198,3 +198,4 @@
 // ci(forms): fix documentation - commit 1146
 // refactor(ui): integrate user-experience - commit 1147
 // refactor(search): optimize event-handlers - commit 1148
+// style(buttons): update event-handlers - commit 1149
