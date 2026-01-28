@@ -57,3 +57,4 @@
 - docs(charts): update performance (Reference #57)
 - refactor(analytics): implement animations (Reference #58)
 - chore(ui): optimize code-quality (Reference #59)
+- chore(forms): add animations (Reference #60)
