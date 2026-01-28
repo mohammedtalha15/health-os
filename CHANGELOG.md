@@ -223,3 +223,4 @@
 - feat(modals): update state-management (Reference #223)
 - perf(profile): improve state-management (Reference #224)
 - style(inputs): implement user-experience (Reference #225)
+- build(navigation): fix type-definitions (Reference #226)
