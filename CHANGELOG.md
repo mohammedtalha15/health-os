@@ -1066,3 +1066,4 @@
 - feat(auth): add keyboard-nav (Reference #1066)
 - test(tables): implement dark-mode (Reference #1067)
 - docs(charts): update user-experience (Reference #1068)
+- build(notifications): improve transitions (Reference #1069)
