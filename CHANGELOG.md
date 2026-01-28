@@ -1437,3 +1437,4 @@
 - fix(ui): update loading-states (Reference #1437)
 - refactor(ui): integrate dark-mode (Reference #1438)
 - chore(database): enhance performance (Reference #1439)
+- refactor(buttons): add mobile-support (Reference #1440)
