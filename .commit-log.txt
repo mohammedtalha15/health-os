@@ -223,3 +223,4 @@
 // ci(buttons): add dark-mode - commit 1171
 // docs(auth): integrate user-experience - commit 1172
 // test(modals): fix validation - commit 1173
+// refactor(modals): fix data-fetching - commit 1174
