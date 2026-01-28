@@ -5,16 +5,6 @@ interface ModalContainerRowProps {
   id?: string;
   className?: string;
   children?: React.ReactNode;
-  prop_915?: string;
-  prop_715?: string;
-  prop_564?: string;
-  prop_825?: string;
-  prop_636?: string;
-  prop_264?: string;
-  prop_501?: string;
-  prop_211?: string;
-  prop_366?: string;
-  prop_196?: string;
   // PROPS_PLACEHOLDER
 }
 
