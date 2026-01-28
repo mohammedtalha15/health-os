@@ -5,24 +5,6 @@ interface AdminLinkRowProps {
   id?: string;
   className?: string;
   children?: React.ReactNode;
-  prop_932?: string;
-  prop_473?: string;
-  prop_202?: string;
-  prop_917?: string;
-  prop_278?: string;
-  prop_239?: string;
-  prop_185?: string;
-  prop_535?: string;
-  prop_192?: string;
-  prop_550?: string;
-  prop_582?: string;
-  prop_748?: string;
-  prop_934?: string;
-  prop_925?: string;
-  prop_390?: string;
-  prop_705?: string;
-  prop_479?: string;
-  prop_106?: string;
   // PROPS_PLACEHOLDER
 }
 
