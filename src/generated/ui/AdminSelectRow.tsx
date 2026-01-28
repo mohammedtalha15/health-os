@@ -17,6 +17,7 @@ interface AdminSelectRowProps {
   prop_979?: string;
   prop_541?: string;
   prop_119?: string;
+  prop_575?: string;
   // PROPS_PLACEHOLDER
 }
 
