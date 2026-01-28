@@ -746,3 +746,4 @@
 - test(modals): optimize validation (Reference #746)
 - docs(navigation): optimize accessibility (Reference #747)
 - style(dashboard): fix accessibility (Reference #748)
+- build(security): implement responsiveness (Reference #749)
