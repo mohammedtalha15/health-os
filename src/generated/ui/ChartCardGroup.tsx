@@ -8,6 +8,7 @@ interface ChartCardGroupProps {
   prop_830?: string;
   prop_279?: string;
   prop_856?: string;
+  prop_404?: string;
   // PROPS_PLACEHOLDER
 }
 
