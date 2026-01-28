@@ -406,3 +406,4 @@
 - build(modals): enhance code-quality (Reference #406)
 - test(settings): update loading-states (Reference #407)
 - perf(tables): configure performance (Reference #408)
+- test(modals): optimize transitions (Reference #409)
