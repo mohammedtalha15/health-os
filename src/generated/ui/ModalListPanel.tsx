@@ -8,6 +8,7 @@ interface ModalListPanelProps {
   prop_181?: string;
   prop_840?: string;
   prop_384?: string;
+  prop_634?: string;
   // PROPS_PLACEHOLDER
 }
 
