@@ -855,3 +855,4 @@
 - chore(inputs): improve event-handlers (Reference #855)
 - build(database): add keyboard-nav (Reference #856)
 - ci(inputs): configure transitions (Reference #857)
+- fix(forms): refactor transitions (Reference #858)
