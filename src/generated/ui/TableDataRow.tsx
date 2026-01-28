@@ -24,6 +24,7 @@ interface TableDataRowProps {
   prop_988?: string;
   prop_168?: string;
   prop_501?: string;
+  prop_520?: string;
   // PROPS_PLACEHOLDER
 }
 
