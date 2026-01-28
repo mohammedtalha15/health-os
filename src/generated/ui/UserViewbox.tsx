@@ -9,6 +9,7 @@ interface UserViewboxProps {
   prop_316?: string;
   prop_999?: string;
   prop_365?: string;
+  prop_355?: string;
   // PROPS_PLACEHOLDER
 }
 
