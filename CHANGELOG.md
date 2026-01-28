@@ -962,3 +962,4 @@
 - style(notifications): optimize data-fetching (Reference #962)
 - fix(profile): update transitions (Reference #963)
 - test(inputs): optimize code-quality (Reference #964)
+- ci(analytics): add code-quality (Reference #965)
