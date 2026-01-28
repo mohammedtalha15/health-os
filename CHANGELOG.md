@@ -1178,3 +1178,4 @@
 - perf(inputs): configure code-quality (Reference #1178)
 - chore(cache): refactor code-quality (Reference #1179)
 - build(charts): fix keyboard-nav (Reference #1180)
+- style(buttons): update caching-logic (Reference #1181)
