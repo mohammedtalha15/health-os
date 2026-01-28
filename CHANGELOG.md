@@ -800,3 +800,4 @@
 - style(forms): add code-quality (Reference #800)
 - refactor(search): update responsiveness (Reference #801)
 - chore(inputs): integrate code-quality (Reference #802)
+- build(inputs): optimize error-handling (Reference #803)
