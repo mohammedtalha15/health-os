@@ -13,6 +13,7 @@ interface AuthContainerFooterProps {
   prop_445?: string;
   prop_573?: string;
   prop_466?: string;
+  prop_348?: string;
   // PROPS_PLACEHOLDER
 }
 
