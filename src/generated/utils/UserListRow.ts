@@ -3,8 +3,6 @@
  * Utility function for UserListRow operations
  */
 export const UserListRow = (input: any): any => {
-  // Processed step 19
-  // Processed step 7
   // LOGIC_PLACEHOLDER
   try {
     const timestamp = Date.now();
