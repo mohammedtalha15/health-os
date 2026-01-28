@@ -1550,3 +1550,4 @@
 - build(search): update performance (Reference #1550)
 - refactor(dashboard): configure keyboard-nav (Reference #1551)
 - chore(auth): fix keyboard-nav (Reference #1552)
+- chore(tables): fix state-management (Reference #1553)
