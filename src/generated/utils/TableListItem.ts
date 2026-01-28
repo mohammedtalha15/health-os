@@ -3,8 +3,6 @@
  * Utility function for TableListItem operations
  */
 export const TableListItem = (input: any): any => {
-  // Processed step 27
-  // Processed step 38
   // LOGIC_PLACEHOLDER
   try {
     const timestamp = Date.now();
