@@ -8,6 +8,7 @@ interface AuthWrapperPanelProps {
   prop_296?: string;
   prop_565?: string;
   prop_110?: string;
+  prop_834?: string;
   // PROPS_PLACEHOLDER
 }
 
