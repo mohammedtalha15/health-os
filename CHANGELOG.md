@@ -659,3 +659,4 @@
 - build(charts): enhance data-fetching (Reference #659)
 - refactor(analytics): fix user-experience (Reference #660)
 - style(ui): add loading-states (Reference #661)
+- build(notifications): integrate accessibility (Reference #662)
