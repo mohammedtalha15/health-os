@@ -5,7 +5,6 @@ interface UserContainerSidebarProps {
   id?: string;
   className?: string;
   children?: React.ReactNode;
-  prop_583?: string;
   // PROPS_PLACEHOLDER
 }
 
