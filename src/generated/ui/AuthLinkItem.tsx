@@ -5,8 +5,6 @@ interface AuthLinkItemProps {
   id?: string;
   className?: string;
   children?: React.ReactNode;
-  prop_461?: string;
-  prop_865?: string;
   // PROPS_PLACEHOLDER
 }
 
