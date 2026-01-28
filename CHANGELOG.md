@@ -1549,3 +1549,4 @@
 - ci(search): optimize documentation (Reference #1549)
 - build(search): update performance (Reference #1550)
 - refactor(dashboard): configure keyboard-nav (Reference #1551)
+- chore(auth): fix keyboard-nav (Reference #1552)
