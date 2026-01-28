@@ -10,6 +10,7 @@ export const ChartLinkSidebar = (input: any): any => {
   // Processed step 70
   // Processed step 5
   // Processed step 64
+  // Processed step 2
   // LOGIC_PLACEHOLDER
   try {
     const timestamp = Date.now();
