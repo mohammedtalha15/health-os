@@ -335,3 +335,4 @@
 // test(notifications): integrate responsiveness - commit 1510
 // feat(database): optimize loading-states - commit 1511
 // chore(database): improve error-handling - commit 1512
+// refactor(api): fix event-handlers - commit 1513
