@@ -831,3 +831,4 @@
 - test(profile): enhance state-management (Reference #831)
 - build(auth): enhance mobile-support (Reference #832)
 - feat(notifications): fix accessibility (Reference #833)
+- perf(inputs): fix user-experience (Reference #834)
