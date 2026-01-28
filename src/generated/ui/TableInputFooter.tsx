@@ -8,6 +8,7 @@ interface TableInputFooterProps {
   prop_715?: string;
   prop_367?: string;
   prop_557?: string;
+  prop_787?: string;
   // PROPS_PLACEHOLDER
 }
 
