@@ -5,10 +5,6 @@ interface DashboardToggleSectionProps {
   id?: string;
   className?: string;
   children?: React.ReactNode;
-  prop_639?: string;
-  prop_874?: string;
-  prop_173?: string;
-  prop_639?: string;
   // PROPS_PLACEHOLDER
 }
 

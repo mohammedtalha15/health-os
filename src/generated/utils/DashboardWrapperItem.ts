@@ -3,9 +3,6 @@
  * Utility function for DashboardWrapperItem operations
  */
 export const DashboardWrapperItem = (input: any): any => {
-  // Processed step 35
-  // Processed step 8
-  // Processed step 45
   // LOGIC_PLACEHOLDER
   try {
     const timestamp = Date.now();
