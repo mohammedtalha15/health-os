@@ -3,8 +3,6 @@
  * Utility function for ProfileSelectHeader operations
  */
 export const ProfileSelectHeader = (input: any): any => {
-  // Processed step 11
-  // Processed step 34
   // LOGIC_PLACEHOLDER
   try {
     const timestamp = Date.now();
