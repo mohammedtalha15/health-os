@@ -2191,3 +2191,4 @@
 // perf(profile): add loading-states - commit 3366
 // perf(api): update dark-mode - commit 3367
 // test(settings): add type-definitions - commit 3368
+// perf(database): configure dark-mode - commit 3369
