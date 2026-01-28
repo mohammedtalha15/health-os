@@ -5,9 +5,6 @@ interface AuthInputGridProps {
   id?: string;
   className?: string;
   children?: React.ReactNode;
-  prop_287?: string;
-  prop_612?: string;
-  prop_579?: string;
   // PROPS_PLACEHOLDER
 }
 
