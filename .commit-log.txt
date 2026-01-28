@@ -920,3 +920,4 @@
 // chore(security): improve responsiveness - commit 2095
 // test(ui): optimize code-quality - commit 2096
 // ci(inputs): improve validation - commit 2097
+// fix(modals): improve error-handling - commit 2098
