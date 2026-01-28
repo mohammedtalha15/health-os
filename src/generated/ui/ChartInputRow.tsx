@@ -5,21 +5,6 @@ interface ChartInputRowProps {
   id?: string;
   className?: string;
   children?: React.ReactNode;
-  prop_274?: string;
-  prop_811?: string;
-  prop_486?: string;
-  prop_524?: string;
-  prop_568?: string;
-  prop_108?: string;
-  prop_894?: string;
-  prop_627?: string;
-  prop_599?: string;
-  prop_904?: string;
-  prop_607?: string;
-  prop_352?: string;
-  prop_141?: string;
-  prop_285?: string;
-  prop_514?: string;
   // PROPS_PLACEHOLDER
 }
 
