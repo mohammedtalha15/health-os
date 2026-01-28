@@ -1112,3 +1112,4 @@
 // perf(dashboard): implement validation - commit 2287
 // refactor(charts): improve user-experience - commit 2288
 // fix(inputs): configure keyboard-nav - commit 2289
+// refactor(settings): integrate unit-tests - commit 2290
