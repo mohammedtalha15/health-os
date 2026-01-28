@@ -5,6 +5,7 @@ interface ButtonContainerHeaderProps {
   id?: string;
   className?: string;
   children?: React.ReactNode;
+  prop_208?: string;
   // PROPS_PLACEHOLDER
 }
 
