@@ -3,9 +3,6 @@
  * Utility function for ButtonCardPanel operations
  */
 export const ButtonCardPanel = (input: any): any => {
-  // Processed step 21
-  // Processed step 16
-  // Processed step 28
   // LOGIC_PLACEHOLDER
   try {
     const timestamp = Date.now();
