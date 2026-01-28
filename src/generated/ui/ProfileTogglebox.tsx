@@ -8,6 +8,7 @@ interface ProfileToggleboxProps {
   prop_449?: string;
   prop_698?: string;
   prop_894?: string;
+  prop_436?: string;
   // PROPS_PLACEHOLDER
 }
 
