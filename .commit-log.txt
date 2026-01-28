@@ -2886,3 +2886,4 @@
 // style(navigation): update type-definitions - commit 414
 // fix(forms): optimize documentation - commit 415
 // style(profile): refactor caching-logic - commit 416
+// feat(charts): update state-management - commit 417
