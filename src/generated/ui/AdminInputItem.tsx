@@ -10,6 +10,7 @@ interface AdminInputItemProps {
   prop_797?: string;
   prop_487?: string;
   prop_560?: string;
+  prop_239?: string;
   // PROPS_PLACEHOLDER
 }
 
