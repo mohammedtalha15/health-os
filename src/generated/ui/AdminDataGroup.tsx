@@ -13,6 +13,7 @@ interface AdminDataGroupProps {
   prop_400?: string;
   prop_108?: string;
   prop_407?: string;
+  prop_120?: string;
   // PROPS_PLACEHOLDER
 }
 
