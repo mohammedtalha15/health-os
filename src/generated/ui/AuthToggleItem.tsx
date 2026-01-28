@@ -6,6 +6,7 @@ interface AuthToggleItemProps {
   className?: string;
   children?: React.ReactNode;
   prop_449?: string;
+  prop_600?: string;
   // PROPS_PLACEHOLDER
 }
 
