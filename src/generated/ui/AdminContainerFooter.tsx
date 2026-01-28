@@ -5,12 +5,6 @@ interface AdminContainerFooterProps {
   id?: string;
   className?: string;
   children?: React.ReactNode;
-  prop_224?: string;
-  prop_821?: string;
-  prop_934?: string;
-  prop_655?: string;
-  prop_640?: string;
-  prop_377?: string;
   // PROPS_PLACEHOLDER
 }
 
