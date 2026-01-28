@@ -6,6 +6,7 @@ interface ProfileDataGroupProps {
   className?: string;
   children?: React.ReactNode;
   prop_708?: string;
+  prop_485?: string;
   // PROPS_PLACEHOLDER
 }
 
