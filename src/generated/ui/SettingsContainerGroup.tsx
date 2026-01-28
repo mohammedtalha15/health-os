@@ -13,6 +13,7 @@ interface SettingsContainerGroupProps {
   prop_770?: string;
   prop_390?: string;
   prop_588?: string;
+  prop_499?: string;
   // PROPS_PLACEHOLDER
 }
 
