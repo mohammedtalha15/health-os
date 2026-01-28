@@ -12,6 +12,7 @@ interface AuthWrapperSidebarProps {
   prop_530?: string;
   prop_426?: string;
   prop_382?: string;
+  prop_963?: string;
   // PROPS_PLACEHOLDER
 }
 
