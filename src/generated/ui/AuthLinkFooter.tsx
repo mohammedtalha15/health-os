@@ -9,6 +9,7 @@ interface AuthLinkFooterProps {
   prop_160?: string;
   prop_241?: string;
   prop_982?: string;
+  prop_542?: string;
   // PROPS_PLACEHOLDER
 }
 
