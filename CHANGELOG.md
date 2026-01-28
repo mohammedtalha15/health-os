@@ -208,3 +208,4 @@
 - ci(modals): implement transitions (Reference #208)
 - chore(ui): add validation (Reference #209)
 - style(analytics): refactor caching-logic (Reference #210)
+- style(cache): add accessibility (Reference #211)
