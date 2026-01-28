@@ -5,17 +5,6 @@ interface TableDataPanelProps {
   id?: string;
   className?: string;
   children?: React.ReactNode;
-  prop_858?: string;
-  prop_747?: string;
-  prop_866?: string;
-  prop_324?: string;
-  prop_488?: string;
-  prop_771?: string;
-  prop_625?: string;
-  prop_590?: string;
-  prop_323?: string;
-  prop_583?: string;
-  prop_412?: string;
   // PROPS_PLACEHOLDER
 }
 
