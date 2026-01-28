@@ -5,8 +5,6 @@ interface ChartCardPanelProps {
   id?: string;
   className?: string;
   children?: React.ReactNode;
-  prop_232?: string;
-  prop_376?: string;
   // PROPS_PLACEHOLDER
 }
 
