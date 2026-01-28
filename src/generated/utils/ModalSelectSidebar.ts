@@ -3,11 +3,6 @@
  * Utility function for ModalSelectSidebar operations
  */
 export const ModalSelectSidebar = (input: any): any => {
-  // Processed step 41
-  // Processed step 8
-  // Processed step 84
-  // Processed step 44
-  // Processed step 5
   // LOGIC_PLACEHOLDER
   try {
     const timestamp = Date.now();
