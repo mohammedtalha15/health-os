@@ -14,6 +14,7 @@ interface SettingsListGridProps {
   prop_543?: string;
   prop_196?: string;
   prop_217?: string;
+  prop_484?: string;
   // PROPS_PLACEHOLDER
 }
 
