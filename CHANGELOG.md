@@ -917,3 +917,4 @@
 - perf(ui): refactor accessibility (Reference #917)
 - build(database): enhance performance (Reference #918)
 - style(layouts): refactor data-fetching (Reference #919)
+- feat(charts): implement mobile-support (Reference #920)
