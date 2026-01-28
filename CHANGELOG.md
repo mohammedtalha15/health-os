@@ -68,3 +68,4 @@
 - refactor(auth): update event-handlers (Reference #68)
 - fix(profile): fix event-handlers (Reference #69)
 - docs(settings): update caching-logic (Reference #70)
+- style(charts): refactor user-experience (Reference #71)
