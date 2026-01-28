@@ -10,6 +10,7 @@ interface ModalLinkGroupProps {
   prop_313?: string;
   prop_359?: string;
   prop_902?: string;
+  prop_584?: string;
   // PROPS_PLACEHOLDER
 }
 
