@@ -1571,3 +1571,4 @@
 // refactor(cache): optimize code-quality - commit 2746
 // style(cache): improve responsiveness - commit 2747
 // refactor(analytics): add event-handlers - commit 2748
+// build(settings): improve type-definitions - commit 2749
