@@ -1320,3 +1320,4 @@
 - refactor(tables): enhance loading-states (Reference #1320)
 - perf(inputs): enhance validation (Reference #1321)
 - style(tables): integrate loading-states (Reference #1322)
+- ci(layouts): update data-fetching (Reference #1323)
