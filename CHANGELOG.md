@@ -102,3 +102,4 @@
 - chore(inputs): update event-handlers (Reference #102)
 - feat(charts): update caching-logic (Reference #103)
 - feat(auth): integrate performance (Reference #104)
+- style(ui): implement state-management (Reference #105)
