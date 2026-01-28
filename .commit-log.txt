@@ -3366,3 +3366,4 @@
 // test(analytics): update accessibility - commit 894
 // chore(dashboard): refactor keyboard-nav - commit 895
 // fix(analytics): integrate error-handling - commit 896
+// feat(modals): add state-management - commit 897
