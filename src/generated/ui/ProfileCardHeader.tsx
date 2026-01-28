@@ -11,6 +11,7 @@ interface ProfileCardHeaderProps {
   prop_232?: string;
   prop_570?: string;
   prop_476?: string;
+  prop_115?: string;
   // PROPS_PLACEHOLDER
 }
 
