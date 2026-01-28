@@ -8,6 +8,7 @@ interface AuthToggleItemProps {
   prop_953?: string;
   prop_839?: string;
   prop_602?: string;
+  prop_503?: string;
   // PROPS_PLACEHOLDER
 }
 
