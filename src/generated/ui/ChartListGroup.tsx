@@ -10,6 +10,7 @@ interface ChartListGroupProps {
   prop_723?: string;
   prop_717?: string;
   prop_209?: string;
+  prop_452?: string;
   // PROPS_PLACEHOLDER
 }
 
