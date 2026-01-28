@@ -178,3 +178,4 @@
 - fix(cache): enhance event-handlers (Reference #178)
 - feat(inputs): enhance documentation (Reference #179)
 - chore(modals): improve data-fetching (Reference #180)
+- build(ui): enhance user-experience (Reference #181)
