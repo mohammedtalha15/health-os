@@ -1308,3 +1308,4 @@
 - build(notifications): implement keyboard-nav (Reference #1308)
 - style(auth): refactor keyboard-nav (Reference #1309)
 - test(profile): configure unit-tests (Reference #1310)
+- chore(tables): refactor state-management (Reference #1311)
