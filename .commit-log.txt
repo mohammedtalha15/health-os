@@ -1374,3 +1374,4 @@
 // chore(settings): add unit-tests - commit 2549
 // feat(ui): add event-handlers - commit 2550
 // refactor(buttons): improve performance - commit 2551
+// refactor(dashboard): fix dark-mode - commit 2552
