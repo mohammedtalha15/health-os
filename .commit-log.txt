@@ -2288,3 +2288,4 @@
 // docs(search):  caching logic - commit 324
 // style(forms): enhance dark mode - commit 325
 // build(tables): fix error handling - commit 326
+// build(navigation): refactor error handling - commit 327
