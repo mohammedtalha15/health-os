@@ -10,6 +10,7 @@ interface ProfileSelectItemProps {
   prop_494?: string;
   prop_779?: string;
   prop_816?: string;
+  prop_686?: string;
   // PROPS_PLACEHOLDER
 }
 
