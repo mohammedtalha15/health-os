@@ -766,3 +766,4 @@
 - chore(forms): implement data-fetching (Reference #766)
 - docs(security): improve event-handlers (Reference #767)
 - docs(security): configure event-handlers (Reference #768)
+- ci(security): refactor code-quality (Reference #769)
