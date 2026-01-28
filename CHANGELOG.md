@@ -1323,3 +1323,4 @@
 - ci(layouts): update data-fetching (Reference #1323)
 - fix(search): optimize transitions (Reference #1324)
 - ci(dashboard): integrate code-quality (Reference #1325)
+- refactor(profile): fix mobile-support (Reference #1326)
