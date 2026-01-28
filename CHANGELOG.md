@@ -1346,3 +1346,4 @@
 - ci(notifications): optimize caching-logic (Reference #1346)
 - chore(analytics): add dark-mode (Reference #1347)
 - build(charts): add error-handling (Reference #1348)
+- test(modals): improve dark-mode (Reference #1349)
