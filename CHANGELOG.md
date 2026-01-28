@@ -880,3 +880,4 @@
 - ci(notifications): integrate transitions (Reference #880)
 - build(search): enhance performance (Reference #881)
 - refactor(layouts): improve validation (Reference #882)
+- refactor(auth): integrate responsiveness (Reference #883)
