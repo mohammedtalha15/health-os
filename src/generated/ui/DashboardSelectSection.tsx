@@ -8,6 +8,7 @@ interface DashboardSelectSectionProps {
   prop_810?: string;
   prop_492?: string;
   prop_244?: string;
+  prop_932?: string;
   // PROPS_PLACEHOLDER
 }
 
