@@ -125,3 +125,4 @@
 // style(profile): fix dark-mode - commit 1300
 // test(search): optimize performance - commit 1301
 // test(security): configure validation - commit 1302
+// ci(buttons): configure loading-states - commit 1303
