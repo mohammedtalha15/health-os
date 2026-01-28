@@ -488,3 +488,4 @@
 - feat(buttons): implement mobile-support (Reference #488)
 - style(buttons): fix unit-tests (Reference #489)
 - perf(dashboard): refactor event-handlers (Reference #490)
+- build(modals): update validation (Reference #491)
