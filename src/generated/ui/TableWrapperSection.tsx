@@ -10,6 +10,7 @@ interface TableWrapperSectionProps {
   prop_464?: string;
   prop_679?: string;
   prop_813?: string;
+  prop_171?: string;
   // PROPS_PLACEHOLDER
 }
 
