@@ -1461,3 +1461,4 @@
 - style(modals): configure responsiveness (Reference #1461)
 - docs(cache): implement event-handlers (Reference #1462)
 - fix(notifications): optimize validation (Reference #1463)
+- build(api): fix loading-states (Reference #1464)
