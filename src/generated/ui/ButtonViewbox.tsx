@@ -6,6 +6,7 @@ interface ButtonViewboxProps {
   className?: string;
   children?: React.ReactNode;
   prop_596?: string;
+  prop_605?: string;
   // PROPS_PLACEHOLDER
 }
 
