@@ -8,6 +8,7 @@ interface SettingsCardHeaderProps {
   prop_518?: string;
   prop_733?: string;
   prop_228?: string;
+  prop_210?: string;
   // PROPS_PLACEHOLDER
 }
 
