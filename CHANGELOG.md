@@ -1062,3 +1062,4 @@
 - docs(forms): add caching-logic (Reference #1062)
 - feat(buttons): refactor loading-states (Reference #1063)
 - refactor(profile): refactor validation (Reference #1064)
+- build(search): configure dark-mode (Reference #1065)
