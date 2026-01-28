@@ -336,3 +336,4 @@
 - perf(forms): fix event-handlers (Reference #336)
 - style(forms): add keyboard-nav (Reference #337)
 - ci(search): add caching-logic (Reference #338)
+- refactor(security): optimize accessibility (Reference #339)
