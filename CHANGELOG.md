@@ -692,3 +692,4 @@
 - docs(inputs): update validation (Reference #692)
 - refactor(security): add performance (Reference #693)
 - docs(navigation): configure state-management (Reference #694)
+- refactor(dashboard): integrate responsiveness (Reference #695)
