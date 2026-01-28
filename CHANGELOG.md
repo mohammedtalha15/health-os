@@ -1006,3 +1006,4 @@
 - test(notifications): add user-experience (Reference #1006)
 - ci(buttons): optimize transitions (Reference #1007)
 - test(charts): add code-quality (Reference #1008)
+- ci(api): improve user-experience (Reference #1009)
