@@ -205,3 +205,4 @@
 - build(cache): add accessibility (Reference #205)
 - feat(inputs): improve error-handling (Reference #206)
 - ci(charts): update keyboard-nav (Reference #207)
+- ci(modals): implement transitions (Reference #208)
