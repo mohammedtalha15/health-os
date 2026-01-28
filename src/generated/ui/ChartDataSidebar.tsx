@@ -9,6 +9,7 @@ interface ChartDataSidebarProps {
   prop_942?: string;
   prop_395?: string;
   prop_852?: string;
+  prop_655?: string;
   // PROPS_PLACEHOLDER
 }
 
