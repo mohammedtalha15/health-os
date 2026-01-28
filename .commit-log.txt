@@ -2836,3 +2836,4 @@
 // perf(navigation): refactor responsiveness - commit 364
 // refactor(tables): update keyboard-nav - commit 365
 // docs(profile): implement validation - commit 366
+// test(navigation): fix mobile-support - commit 367
