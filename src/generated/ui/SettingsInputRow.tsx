@@ -11,6 +11,7 @@ interface SettingsInputRowProps {
   prop_421?: string;
   prop_955?: string;
   prop_223?: string;
+  prop_763?: string;
   // PROPS_PLACEHOLDER
 }
 
