@@ -776,3 +776,4 @@
 - docs(profile): fix transitions (Reference #776)
 - build(cache): add state-management (Reference #777)
 - chore(cache): update responsiveness (Reference #778)
+- fix(inputs): improve keyboard-nav (Reference #779)
