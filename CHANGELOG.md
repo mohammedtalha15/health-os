@@ -546,3 +546,4 @@
 - refactor(navigation): fix animations (Reference #546)
 - build(notifications): implement validation (Reference #547)
 - fix(charts): configure animations (Reference #548)
+- ci(buttons): integrate code-quality (Reference #549)
