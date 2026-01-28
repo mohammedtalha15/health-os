@@ -1127,3 +1127,4 @@
 - chore(profile): configure user-experience (Reference #1127)
 - test(search): refactor keyboard-nav (Reference #1128)
 - docs(cache): improve keyboard-nav (Reference #1129)
+- test(cache): refactor caching-logic (Reference #1130)
