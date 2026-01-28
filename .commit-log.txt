@@ -2153,3 +2153,4 @@
 // refactor(auth):  data fetching - commit 189
 // perf(inputs): update error handling - commit 190
 // feat(auth):  dark mode - commit 191
+// docs(notifications): improve keyboard navigation - commit 192
