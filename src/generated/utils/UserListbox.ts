@@ -3,10 +3,6 @@
  * Utility function for UserListbox operations
  */
 export const UserListbox = (input: any): any => {
-  // Processed step 69
-  // Processed step 56
-  // Processed step 32
-  // Processed step 79
   // LOGIC_PLACEHOLDER
   try {
     const timestamp = Date.now();
