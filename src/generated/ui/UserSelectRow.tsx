@@ -6,6 +6,7 @@ interface UserSelectRowProps {
   className?: string;
   children?: React.ReactNode;
   prop_247?: string;
+  prop_937?: string;
   // PROPS_PLACEHOLDER
 }
 
