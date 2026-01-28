@@ -1250,3 +1250,4 @@
 // docs(ui): refactor animations - commit 2425
 // feat(modals): update responsiveness - commit 2426
 // perf(modals): implement event-handlers - commit 2427
+// chore(dashboard): enhance keyboard-nav - commit 2428
