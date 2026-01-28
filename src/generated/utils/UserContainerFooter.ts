@@ -3,10 +3,6 @@
  * Utility function for UserContainerFooter operations
  */
 export const UserContainerFooter = (input: any): any => {
-  // Processed step 4
-  // Processed step 41
-  // Processed step 21
-  // Processed step 95
   // LOGIC_PLACEHOLDER
   try {
     const timestamp = Date.now();
