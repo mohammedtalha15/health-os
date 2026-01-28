@@ -453,3 +453,4 @@
 - refactor(navigation): fix mobile-support (Reference #453)
 - perf(security): add accessibility (Reference #454)
 - perf(analytics): improve error-handling (Reference #455)
+- perf(notifications): improve responsiveness (Reference #456)
