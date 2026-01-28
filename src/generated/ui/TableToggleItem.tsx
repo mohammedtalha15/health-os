@@ -7,6 +7,7 @@ interface TableToggleItemProps {
   children?: React.ReactNode;
   prop_283?: string;
   prop_364?: string;
+  prop_918?: string;
   // PROPS_PLACEHOLDER
 }
 
