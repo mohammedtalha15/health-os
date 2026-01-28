@@ -11,6 +11,7 @@ interface ButtonDataGroupProps {
   prop_603?: string;
   prop_531?: string;
   prop_636?: string;
+  prop_660?: string;
   // PROPS_PLACEHOLDER
 }
 
