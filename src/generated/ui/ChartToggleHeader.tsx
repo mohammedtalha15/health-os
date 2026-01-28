@@ -8,6 +8,7 @@ interface ChartToggleHeaderProps {
   prop_362?: string;
   prop_586?: string;
   prop_186?: string;
+  prop_774?: string;
   // PROPS_PLACEHOLDER
 }
 
