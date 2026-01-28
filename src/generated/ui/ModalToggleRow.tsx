@@ -16,6 +16,7 @@ interface ModalToggleRowProps {
   prop_273?: string;
   prop_803?: string;
   prop_872?: string;
+  prop_906?: string;
   // PROPS_PLACEHOLDER
 }
 
