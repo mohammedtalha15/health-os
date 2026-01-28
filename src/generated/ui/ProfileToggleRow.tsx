@@ -7,6 +7,7 @@ interface ProfileToggleRowProps {
   children?: React.ReactNode;
   prop_354?: string;
   prop_692?: string;
+  prop_728?: string;
   // PROPS_PLACEHOLDER
 }
 
