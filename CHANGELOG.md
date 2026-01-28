@@ -562,3 +562,4 @@
 - fix(search): enhance keyboard-nav (Reference #562)
 - test(forms): fix caching-logic (Reference #563)
 - chore(security): implement validation (Reference #564)
+- perf(security): fix dark-mode (Reference #565)
