@@ -494,3 +494,4 @@
 - feat(ui): fix unit-tests (Reference #494)
 - docs(analytics): fix user-experience (Reference #495)
 - style(security): fix documentation (Reference #496)
+- fix(cache): update unit-tests (Reference #497)
