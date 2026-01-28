@@ -5,6 +5,7 @@ interface DashboardViewboxProps {
   id?: string;
   className?: string;
   children?: React.ReactNode;
+  prop_283?: string;
   // PROPS_PLACEHOLDER
 }
 
