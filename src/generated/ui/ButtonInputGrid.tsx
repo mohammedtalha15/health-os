@@ -10,6 +10,7 @@ interface ButtonInputGridProps {
   prop_864?: string;
   prop_575?: string;
   prop_628?: string;
+  prop_693?: string;
   // PROPS_PLACEHOLDER
 }
 
