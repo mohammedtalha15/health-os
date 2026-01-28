@@ -3,8 +3,6 @@
  * Utility function for SettingsWrapperRow operations
  */
 export const SettingsWrapperRow = (input: any): any => {
-  // Processed step 56
-  // Processed step 43
   // LOGIC_PLACEHOLDER
   try {
     const timestamp = Date.now();
