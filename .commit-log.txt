@@ -2220,3 +2220,4 @@
 // perf(search): update unit tests - commit 256
 // fix(charts): configure event handlers - commit 257
 // fix(buttons): implement  - commit 258
+// refactor(api):  event handlers - commit 259
