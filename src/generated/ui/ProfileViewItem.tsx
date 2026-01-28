@@ -12,6 +12,7 @@ interface ProfileViewItemProps {
   prop_333?: string;
   prop_116?: string;
   prop_862?: string;
+  prop_560?: string;
   // PROPS_PLACEHOLDER
 }
 
