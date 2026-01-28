@@ -17,6 +17,7 @@ interface SettingsInputHeaderProps {
   prop_548?: string;
   prop_153?: string;
   prop_119?: string;
+  prop_297?: string;
   // PROPS_PLACEHOLDER
 }
 
