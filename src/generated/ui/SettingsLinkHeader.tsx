@@ -11,6 +11,7 @@ interface SettingsLinkHeaderProps {
   prop_992?: string;
   prop_390?: string;
   prop_721?: string;
+  prop_111?: string;
   // PROPS_PLACEHOLDER
 }
 
