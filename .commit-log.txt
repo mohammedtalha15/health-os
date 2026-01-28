@@ -135,3 +135,4 @@
 // style(tables): implement unit-tests - commit 1310
 // perf(security): update accessibility - commit 1311
 // feat(layouts): integrate type-definitions - commit 1312
+// style(charts): optimize performance - commit 1313
