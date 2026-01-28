@@ -3,9 +3,6 @@
  * Utility function for TableInputFooter operations
  */
 export const TableInputFooter = (input: any): any => {
-  // Processed step 15
-  // Processed step 52
-  // Processed step 45
   // LOGIC_PLACEHOLDER
   try {
     const timestamp = Date.now();
