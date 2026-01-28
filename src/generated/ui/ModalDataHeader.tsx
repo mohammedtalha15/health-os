@@ -8,6 +8,7 @@ interface ModalDataHeaderProps {
   prop_438?: string;
   prop_687?: string;
   prop_977?: string;
+  prop_827?: string;
   // PROPS_PLACEHOLDER
 }
 
