@@ -3,8 +3,6 @@
  * Utility function for TableCardGroup operations
  */
 export const TableCardGroup = (input: any): any => {
-  // Processed step 92
-  // Processed step 66
   // LOGIC_PLACEHOLDER
   try {
     const timestamp = Date.now();
