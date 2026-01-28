@@ -10,6 +10,7 @@ interface UserToggleSidebarProps {
   prop_512?: string;
   prop_873?: string;
   prop_790?: string;
+  prop_223?: string;
   // PROPS_PLACEHOLDER
 }
 
