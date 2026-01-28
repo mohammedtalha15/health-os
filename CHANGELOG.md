@@ -796,3 +796,4 @@
 - chore(profile): configure user-experience (Reference #796)
 - refactor(forms): improve mobile-support (Reference #797)
 - test(dashboard): integrate data-fetching (Reference #798)
+- refactor(database): refactor dark-mode (Reference #799)
