@@ -55,3 +55,4 @@
 // feat(inputs): update mobile-support - commit 1230
 // build(ui): integrate state-management - commit 1231
 // refactor(notifications): implement responsiveness - commit 1232
+// build(tables): improve animations - commit 1233
