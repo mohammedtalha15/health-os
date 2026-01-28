@@ -12,6 +12,7 @@ interface DashboardCardSidebarProps {
   prop_215?: string;
   prop_776?: string;
   prop_383?: string;
+  prop_744?: string;
   // PROPS_PLACEHOLDER
 }
 
