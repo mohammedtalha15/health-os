@@ -747,3 +747,4 @@
 // docs(ui): add type-definitions - commit 1922
 // docs(charts): refactor unit-tests - commit 1923
 // refactor(dashboard): enhance validation - commit 1924
+// style(modals): configure data-fetching - commit 1925
