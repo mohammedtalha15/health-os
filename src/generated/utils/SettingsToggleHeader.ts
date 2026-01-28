@@ -3,8 +3,6 @@
  * Utility function for SettingsToggleHeader operations
  */
 export const SettingsToggleHeader = (input: any): any => {
-  // Processed step 6
-  // Processed step 8
   // LOGIC_PLACEHOLDER
   try {
     const timestamp = Date.now();
