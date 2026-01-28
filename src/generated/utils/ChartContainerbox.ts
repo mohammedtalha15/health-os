@@ -3,9 +3,6 @@
  * Utility function for ChartContainerbox operations
  */
 export const ChartContainerbox = (input: any): any => {
-  // Processed step 56
-  // Processed step 43
-  // Processed step 36
   // LOGIC_PLACEHOLDER
   try {
     const timestamp = Date.now();
