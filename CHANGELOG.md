@@ -902,3 +902,4 @@
 - chore(inputs): improve code-quality (Reference #902)
 - style(ui): add validation (Reference #903)
 - docs(notifications): configure user-experience (Reference #904)
+- perf(navigation): refactor performance (Reference #905)
