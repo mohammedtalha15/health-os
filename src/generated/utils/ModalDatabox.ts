@@ -3,8 +3,6 @@
  * Utility function for ModalDatabox operations
  */
 export const ModalDatabox = (input: any): any => {
-  // Processed step 30
-  // Processed step 43
   // LOGIC_PLACEHOLDER
   try {
     const timestamp = Date.now();
