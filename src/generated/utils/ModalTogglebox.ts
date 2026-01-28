@@ -3,7 +3,6 @@
  * Utility function for ModalTogglebox operations
  */
 export const ModalTogglebox = (input: any): any => {
-  // Processed step 70
   // LOGIC_PLACEHOLDER
   try {
     const timestamp = Date.now();
