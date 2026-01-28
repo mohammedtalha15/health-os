@@ -195,3 +195,4 @@
 // build(dashboard): add animations - commit 1370
 // ci(charts): improve unit-tests - commit 1371
 // perf(dashboard): configure error-handling - commit 1372
+// fix(tables): enhance mobile-support - commit 1373
