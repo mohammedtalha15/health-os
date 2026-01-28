@@ -5,17 +5,6 @@ interface AdminContainerboxProps {
   id?: string;
   className?: string;
   children?: React.ReactNode;
-  prop_950?: string;
-  prop_872?: string;
-  prop_847?: string;
-  prop_811?: string;
-  prop_911?: string;
-  prop_926?: string;
-  prop_792?: string;
-  prop_450?: string;
-  prop_724?: string;
-  prop_558?: string;
-  prop_889?: string;
   // PROPS_PLACEHOLDER
 }
 
