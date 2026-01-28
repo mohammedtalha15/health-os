@@ -7,6 +7,7 @@ interface SettingsLinkItemProps {
   children?: React.ReactNode;
   prop_455?: string;
   prop_465?: string;
+  prop_450?: string;
   // PROPS_PLACEHOLDER
 }
 
