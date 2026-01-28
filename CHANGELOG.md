@@ -1234,3 +1234,4 @@
 - style(database): implement validation (Reference #1234)
 - test(settings): refactor accessibility (Reference #1235)
 - test(cache): implement performance (Reference #1236)
+- fix(api): update state-management (Reference #1237)
