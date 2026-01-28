@@ -7,6 +7,7 @@ interface ChartLinkSidebarProps {
   children?: React.ReactNode;
   prop_564?: string;
   prop_622?: string;
+  prop_936?: string;
   // PROPS_PLACEHOLDER
 }
 
