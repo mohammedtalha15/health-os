@@ -588,3 +588,4 @@
 - test(search): fix state-management (Reference #588)
 - docs(notifications): refactor validation (Reference #589)
 - refactor(tables): integrate transitions (Reference #590)
+- feat(database): implement state-management (Reference #591)
