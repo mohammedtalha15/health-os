@@ -7,6 +7,7 @@ interface DashboardCardItemProps {
   children?: React.ReactNode;
   prop_134?: string;
   prop_768?: string;
+  prop_432?: string;
   // PROPS_PLACEHOLDER
 }
 
