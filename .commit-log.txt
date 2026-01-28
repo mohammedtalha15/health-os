@@ -980,3 +980,4 @@
 // refactor(api): implement documentation - commit 2155
 // style(inputs): implement animations - commit 2156
 // refactor(analytics): fix animations - commit 2157
+// style(modals): fix accessibility - commit 2158
