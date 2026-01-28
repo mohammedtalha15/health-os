@@ -5,10 +5,6 @@ interface SettingsLinkPanelProps {
   id?: string;
   className?: string;
   children?: React.ReactNode;
-  prop_910?: string;
-  prop_512?: string;
-  prop_962?: string;
-  prop_540?: string;
   // PROPS_PLACEHOLDER
 }
 
