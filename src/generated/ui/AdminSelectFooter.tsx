@@ -5,9 +5,6 @@ interface AdminSelectFooterProps {
   id?: string;
   className?: string;
   children?: React.ReactNode;
-  prop_158?: string;
-  prop_951?: string;
-  prop_241?: string;
   // PROPS_PLACEHOLDER
 }
 
