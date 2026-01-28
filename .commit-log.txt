@@ -310,3 +310,4 @@
 // ci(dashboard): integrate accessibility - commit 1485
 // feat(layouts): configure caching-logic - commit 1486
 // chore(auth): fix state-management - commit 1487
+// perf(dashboard): update state-management - commit 1488
