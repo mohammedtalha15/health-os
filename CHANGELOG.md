@@ -1038,3 +1038,4 @@
 - docs(profile): implement code-quality (Reference #1038)
 - fix(ui): update caching-logic (Reference #1039)
 - refactor(modals): add validation (Reference #1040)
+- style(profile): integrate data-fetching (Reference #1041)
