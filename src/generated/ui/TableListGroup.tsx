@@ -5,31 +5,6 @@ interface TableListGroupProps {
   id?: string;
   className?: string;
   children?: React.ReactNode;
-  prop_973?: string;
-  prop_659?: string;
-  prop_805?: string;
-  prop_430?: string;
-  prop_832?: string;
-  prop_944?: string;
-  prop_610?: string;
-  prop_567?: string;
-  prop_392?: string;
-  prop_502?: string;
-  prop_567?: string;
-  prop_186?: string;
-  prop_623?: string;
-  prop_908?: string;
-  prop_634?: string;
-  prop_897?: string;
-  prop_968?: string;
-  prop_309?: string;
-  prop_639?: string;
-  prop_993?: string;
-  prop_449?: string;
-  prop_950?: string;
-  prop_441?: string;
-  prop_679?: string;
-  prop_485?: string;
   // PROPS_PLACEHOLDER
 }
 
