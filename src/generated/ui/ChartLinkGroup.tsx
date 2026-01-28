@@ -8,6 +8,7 @@ interface ChartLinkGroupProps {
   prop_149?: string;
   prop_850?: string;
   prop_742?: string;
+  prop_895?: string;
   // PROPS_PLACEHOLDER
 }
 
