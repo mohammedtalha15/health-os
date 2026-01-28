@@ -10,6 +10,7 @@ interface ModalInputRowProps {
   prop_409?: string;
   prop_288?: string;
   prop_986?: string;
+  prop_327?: string;
   // PROPS_PLACEHOLDER
 }
 
