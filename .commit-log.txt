@@ -430,3 +430,4 @@
 // docs(security): fix loading-states - commit 1605
 // fix(inputs): fix caching-logic - commit 1606
 // refactor(analytics): integrate error-handling - commit 1607
+// chore(tables): configure data-fetching - commit 1608
