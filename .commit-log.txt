@@ -1305,3 +1305,4 @@
 // feat(settings): fix documentation - commit 2480
 // chore(dashboard): add data-fetching - commit 2481
 // docs(buttons): optimize unit-tests - commit 2482
+// style(navigation): configure performance - commit 2483
