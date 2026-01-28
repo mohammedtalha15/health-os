@@ -3,24 +3,6 @@
  * Utility function for ChartSelectGrid operations
  */
 export const ChartSelectGrid = (input: any): any => {
-  // Processed step 47
-  // Processed step 75
-  // Processed step 87
-  // Processed step 73
-  // Processed step 24
-  // Processed step 30
-  // Processed step 23
-  // Processed step 88
-  // Processed step 63
-  // Processed step 29
-  // Processed step 82
-  // Processed step 24
-  // Processed step 37
-  // Processed step 35
-  // Processed step 77
-  // Processed step 64
-  // Processed step 34
-  // Processed step 99
   // LOGIC_PLACEHOLDER
   try {
     const timestamp = Date.now();
