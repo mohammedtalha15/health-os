@@ -865,3 +865,4 @@
 - perf(search): configure animations (Reference #865)
 - perf(cache): update animations (Reference #866)
 - docs(navigation): update performance (Reference #867)
+- style(tables): configure loading-states (Reference #868)
