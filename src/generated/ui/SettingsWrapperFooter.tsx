@@ -10,6 +10,7 @@ interface SettingsWrapperFooterProps {
   prop_158?: string;
   prop_247?: string;
   prop_133?: string;
+  prop_397?: string;
   // PROPS_PLACEHOLDER
 }
 
