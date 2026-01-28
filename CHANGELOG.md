@@ -1266,3 +1266,4 @@
 - build(buttons): add validation (Reference #1266)
 - feat(layouts): integrate dark-mode (Reference #1267)
 - build(forms): configure state-management (Reference #1268)
+- docs(tables): update data-fetching (Reference #1269)
