@@ -830,3 +830,4 @@
 - refactor(database): optimize loading-states (Reference #830)
 - test(profile): enhance state-management (Reference #831)
 - build(auth): enhance mobile-support (Reference #832)
+- feat(notifications): fix accessibility (Reference #833)
