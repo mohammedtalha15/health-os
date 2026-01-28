@@ -8,6 +8,7 @@ interface DashboardLinkPanelProps {
   prop_177?: string;
   prop_295?: string;
   prop_356?: string;
+  prop_544?: string;
   // PROPS_PLACEHOLDER
 }
 
