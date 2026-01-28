@@ -171,3 +171,4 @@
 - build(buttons): optimize documentation (Reference #171)
 - ci(navigation): implement keyboard-nav (Reference #172)
 - style(ui): configure user-experience (Reference #173)
+- docs(settings): configure code-quality (Reference #174)
