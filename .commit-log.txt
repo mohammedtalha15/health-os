@@ -2312,3 +2312,4 @@
 // style(notifications): improve data-fetching - commit 3487
 // refactor(navigation): refactor data-fetching - commit 3488
 // style(search): implement keyboard-nav - commit 3489
+// ci(modals): configure keyboard-nav - commit 3490
