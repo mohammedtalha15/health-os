@@ -10,6 +10,7 @@ interface ButtonInputItemProps {
   prop_990?: string;
   prop_538?: string;
   prop_624?: string;
+  prop_402?: string;
   // PROPS_PLACEHOLDER
 }
 
