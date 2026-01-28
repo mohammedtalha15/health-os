@@ -1088,3 +1088,4 @@
 // test(api): enhance performance - commit 2263
 // style(tables): refactor mobile-support - commit 2264
 // feat(layouts): integrate state-management - commit 2265
+// ci(tables): add mobile-support - commit 2266
