@@ -8,6 +8,7 @@ interface DashboardViewboxProps {
   prop_283?: string;
   prop_240?: string;
   prop_836?: string;
+  prop_482?: string;
   // PROPS_PLACEHOLDER
 }
 
