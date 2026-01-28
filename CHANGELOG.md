@@ -381,3 +381,4 @@
 - build(tables): integrate keyboard-nav (Reference #381)
 - chore(security): optimize type-definitions (Reference #382)
 - fix(cache): update event-handlers (Reference #383)
+- style(security): integrate code-quality (Reference #384)
