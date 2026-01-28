@@ -1094,3 +1094,4 @@
 - feat(profile): enhance user-experience (Reference #1094)
 - build(inputs): refactor keyboard-nav (Reference #1095)
 - refactor(tables): integrate validation (Reference #1096)
+- test(layouts): configure validation (Reference #1097)
