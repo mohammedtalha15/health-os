@@ -9,6 +9,7 @@ interface AuthDataSidebarProps {
   prop_298?: string;
   prop_588?: string;
   prop_948?: string;
+  prop_981?: string;
   // PROPS_PLACEHOLDER
 }
 
