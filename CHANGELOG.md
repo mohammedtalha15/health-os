@@ -597,3 +597,4 @@
 - build(analytics): update caching-logic (Reference #597)
 - chore(buttons): optimize state-management (Reference #598)
 - style(database): integrate state-management (Reference #599)
+- docs(charts): enhance loading-states (Reference #600)
