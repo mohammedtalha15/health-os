@@ -7,6 +7,7 @@ interface UserContainerboxProps {
   children?: React.ReactNode;
   prop_858?: string;
   prop_144?: string;
+  prop_105?: string;
   // PROPS_PLACEHOLDER
 }
 
