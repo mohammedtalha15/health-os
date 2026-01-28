@@ -5,8 +5,6 @@ interface SettingsCardHeaderProps {
   id?: string;
   className?: string;
   children?: React.ReactNode;
-  prop_601?: string;
-  prop_840?: string;
   // PROPS_PLACEHOLDER
 }
 
