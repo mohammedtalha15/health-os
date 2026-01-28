@@ -8,6 +8,7 @@ interface AuthListPanelProps {
   prop_359?: string;
   prop_794?: string;
   prop_999?: string;
+  prop_330?: string;
   // PROPS_PLACEHOLDER
 }
 
