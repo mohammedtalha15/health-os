@@ -10,6 +10,7 @@ interface ButtonContainerPanelProps {
   prop_373?: string;
   prop_948?: string;
   prop_763?: string;
+  prop_556?: string;
   // PROPS_PLACEHOLDER
 }
 
