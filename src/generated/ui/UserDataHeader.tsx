@@ -5,11 +5,6 @@ interface UserDataHeaderProps {
   id?: string;
   className?: string;
   children?: React.ReactNode;
-  prop_718?: string;
-  prop_218?: string;
-  prop_966?: string;
-  prop_585?: string;
-  prop_772?: string;
   // PROPS_PLACEHOLDER
 }
 
