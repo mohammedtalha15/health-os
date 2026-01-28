@@ -312,3 +312,4 @@
 - fix(settings): update dark-mode (Reference #312)
 - ci(notifications): configure transitions (Reference #313)
 - chore(charts): integrate dark-mode (Reference #314)
+- feat(search): integrate transitions (Reference #315)
