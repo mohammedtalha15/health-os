@@ -282,3 +282,4 @@
 // feat(security): configure dark-mode - commit 1457
 // test(tables): update validation - commit 1458
 // build(inputs): refactor loading-states - commit 1459
+// feat(api): configure data-fetching - commit 1460
