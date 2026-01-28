@@ -1821,3 +1821,4 @@
 // docs(database): configure validation - commit 2996
 // feat(settings): fix documentation - commit 2997
 // fix(dashboard): add mobile-support - commit 2998
+// fix(ui): refactor keyboard-nav - commit 2999
