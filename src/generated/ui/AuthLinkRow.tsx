@@ -8,6 +8,7 @@ interface AuthLinkRowProps {
   prop_665?: string;
   prop_362?: string;
   prop_361?: string;
+  prop_618?: string;
   // PROPS_PLACEHOLDER
 }
 
