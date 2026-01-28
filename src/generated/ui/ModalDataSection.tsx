@@ -7,6 +7,7 @@ interface ModalDataSectionProps {
   children?: React.ReactNode;
   prop_637?: string;
   prop_508?: string;
+  prop_168?: string;
   // PROPS_PLACEHOLDER
 }
 
