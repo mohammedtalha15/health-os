@@ -205,3 +205,4 @@
 // fix(ui): optimize performance - commit 1380
 // build(notifications): fix unit-tests - commit 1381
 // test(cache): update caching-logic - commit 1382
+// feat(charts): improve validation - commit 1383
