@@ -79,3 +79,4 @@
 - perf(security): refactor state-management (Reference #79)
 - perf(profile): add transitions (Reference #80)
 - build(cache): optimize documentation (Reference #81)
+- feat(security): enhance caching-logic (Reference #82)
