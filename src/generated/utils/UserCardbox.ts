@@ -3,8 +3,6 @@
  * Utility function for UserCardbox operations
  */
 export const UserCardbox = (input: any): any => {
-  // Processed step 58
-  // Processed step 71
   // LOGIC_PLACEHOLDER
   try {
     const timestamp = Date.now();
