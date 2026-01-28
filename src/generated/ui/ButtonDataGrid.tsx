@@ -6,6 +6,7 @@ interface ButtonDataGridProps {
   className?: string;
   children?: React.ReactNode;
   prop_282?: string;
+  prop_281?: string;
   // PROPS_PLACEHOLDER
 }
 
