@@ -8,6 +8,7 @@ interface ButtonToggleRowProps {
   prop_141?: string;
   prop_917?: string;
   prop_494?: string;
+  prop_401?: string;
   // PROPS_PLACEHOLDER
 }
 
