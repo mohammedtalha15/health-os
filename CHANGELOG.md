@@ -446,3 +446,4 @@
 - refactor(database): optimize type-definitions (Reference #446)
 - fix(inputs): integrate state-management (Reference #447)
 - style(database): improve loading-states (Reference #448)
+- style(ui): enhance type-definitions (Reference #449)
