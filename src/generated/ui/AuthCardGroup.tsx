@@ -6,6 +6,7 @@ interface AuthCardGroupProps {
   className?: string;
   children?: React.ReactNode;
   prop_199?: string;
+  prop_234?: string;
   // PROPS_PLACEHOLDER
 }
 
