@@ -6,6 +6,7 @@ interface ProfileInputGroupProps {
   className?: string;
   children?: React.ReactNode;
   prop_839?: string;
+  prop_581?: string;
   // PROPS_PLACEHOLDER
 }
 
