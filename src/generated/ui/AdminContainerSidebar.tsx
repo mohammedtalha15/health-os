@@ -5,9 +5,6 @@ interface AdminContainerSidebarProps {
   id?: string;
   className?: string;
   children?: React.ReactNode;
-  prop_207?: string;
-  prop_766?: string;
-  prop_591?: string;
   // PROPS_PLACEHOLDER
 }
 
