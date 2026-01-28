@@ -14,3 +14,4 @@
 - refactor(forms): refactor data-fetching (Reference #14)
 - test(tables): integrate type-definitions (Reference #15)
 - test(dashboard): optimize animations (Reference #16)
+- docs(modals): add unit-tests (Reference #17)
