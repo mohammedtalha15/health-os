@@ -582,3 +582,4 @@
 // docs(settings): add event-handlers - commit 1757
 // feat(navigation): refactor animations - commit 1758
 // docs(layouts): improve mobile-support - commit 1759
+// ci(security): add user-experience - commit 1760
