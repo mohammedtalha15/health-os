@@ -1232,3 +1232,4 @@
 - ci(analytics): add mobile-support (Reference #1232)
 - test(forms): refactor documentation (Reference #1233)
 - style(database): implement validation (Reference #1234)
+- test(settings): refactor accessibility (Reference #1235)
