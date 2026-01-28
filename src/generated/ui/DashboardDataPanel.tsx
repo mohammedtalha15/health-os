@@ -5,6 +5,7 @@ interface DashboardDataPanelProps {
   id?: string;
   className?: string;
   children?: React.ReactNode;
+  prop_314?: string;
   // PROPS_PLACEHOLDER
 }
 
