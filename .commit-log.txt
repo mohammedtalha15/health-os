@@ -3257,3 +3257,4 @@
 // style(database): add loading-states - commit 785
 // chore(auth): refactor documentation - commit 786
 // fix(dashboard): add responsiveness - commit 787
+// test(search): improve type-definitions - commit 788
