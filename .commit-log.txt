@@ -2939,3 +2939,4 @@
 // style(database): optimize error-handling - commit 467
 // fix(auth): fix type-definitions - commit 468
 // feat(ui): improve mobile-support - commit 469
+// build(auth): update documentation - commit 470
