@@ -10,6 +10,7 @@ interface AuthViewRowProps {
   prop_686?: string;
   prop_778?: string;
   prop_374?: string;
+  prop_139?: string;
   // PROPS_PLACEHOLDER
 }
 
