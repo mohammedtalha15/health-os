@@ -5,17 +5,6 @@ interface AuthViewPanelProps {
   id?: string;
   className?: string;
   children?: React.ReactNode;
-  prop_852?: string;
-  prop_549?: string;
-  prop_224?: string;
-  prop_283?: string;
-  prop_155?: string;
-  prop_902?: string;
-  prop_128?: string;
-  prop_978?: string;
-  prop_237?: string;
-  prop_385?: string;
-  prop_194?: string;
   // PROPS_PLACEHOLDER
 }
 
