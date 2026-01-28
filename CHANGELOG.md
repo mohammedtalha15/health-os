@@ -696,3 +696,4 @@
 - style(notifications): integrate caching-logic (Reference #696)
 - chore(database): refactor data-fetching (Reference #697)
 - perf(cache): improve accessibility (Reference #698)
+- style(tables): integrate event-handlers (Reference #699)
