@@ -7,6 +7,7 @@ interface UserSelectPanelProps {
   children?: React.ReactNode;
   prop_928?: string;
   prop_579?: string;
+  prop_557?: string;
   // PROPS_PLACEHOLDER
 }
 
