@@ -5,15 +5,6 @@ interface SettingsInputSidebarProps {
   id?: string;
   className?: string;
   children?: React.ReactNode;
-  prop_831?: string;
-  prop_184?: string;
-  prop_456?: string;
-  prop_396?: string;
-  prop_230?: string;
-  prop_264?: string;
-  prop_454?: string;
-  prop_374?: string;
-  prop_821?: string;
   // PROPS_PLACEHOLDER
 }
 
