@@ -173,3 +173,4 @@
 - style(ui): configure user-experience (Reference #173)
 - docs(settings): configure code-quality (Reference #174)
 - ci(inputs): improve dark-mode (Reference #175)
+- ci(navigation): update responsiveness (Reference #176)
