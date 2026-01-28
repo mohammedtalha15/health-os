@@ -337,3 +337,4 @@
 - style(forms): add keyboard-nav (Reference #337)
 - ci(search): add caching-logic (Reference #338)
 - refactor(security): optimize accessibility (Reference #339)
+- perf(forms): improve transitions (Reference #340)
