@@ -1384,3 +1384,4 @@
 // refactor(settings): fix accessibility - commit 2559
 // style(forms): fix keyboard-nav - commit 2560
 // fix(modals): configure event-handlers - commit 2561
+// docs(profile): improve loading-states - commit 2562
