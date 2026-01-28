@@ -193,3 +193,4 @@
 // fix(layouts): improve code-quality - commit 1368
 // chore(analytics): enhance error-handling - commit 1369
 // build(dashboard): add animations - commit 1370
+// ci(charts): improve unit-tests - commit 1371
