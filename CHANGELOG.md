@@ -320,3 +320,4 @@
 - style(modals): update validation (Reference #320)
 - perf(ui): update code-quality (Reference #321)
 - chore(tables): update event-handlers (Reference #322)
+- test(analytics): integrate performance (Reference #323)
