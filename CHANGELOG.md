@@ -1098,3 +1098,4 @@
 - docs(ui): improve type-definitions (Reference #1098)
 - style(search): update dark-mode (Reference #1099)
 - style(buttons): enhance transitions (Reference #1100)
+- style(ui): add accessibility (Reference #1101)
