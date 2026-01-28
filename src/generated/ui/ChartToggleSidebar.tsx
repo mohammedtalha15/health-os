@@ -5,10 +5,6 @@ interface ChartToggleSidebarProps {
   id?: string;
   className?: string;
   children?: React.ReactNode;
-  prop_296?: string;
-  prop_193?: string;
-  prop_457?: string;
-  prop_680?: string;
   // PROPS_PLACEHOLDER
 }
 
