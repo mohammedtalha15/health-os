@@ -3,8 +3,6 @@
  * Utility function for UserInputGroup operations
  */
 export const UserInputGroup = (input: any): any => {
-  // Processed step 41
-  // Processed step 94
   // LOGIC_PLACEHOLDER
   try {
     const timestamp = Date.now();
