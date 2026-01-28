@@ -3,15 +3,6 @@
  * Utility function for UserInputItem operations
  */
 export const UserInputItem = (input: any): any => {
-  // Processed step 25
-  // Processed step 66
-  // Processed step 7
-  // Processed step 35
-  // Processed step 23
-  // Processed step 51
-  // Processed step 91
-  // Processed step 70
-  // Processed step 4
   // LOGIC_PLACEHOLDER
   try {
     const timestamp = Date.now();
