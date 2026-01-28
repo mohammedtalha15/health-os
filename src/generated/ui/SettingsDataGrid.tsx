@@ -6,6 +6,7 @@ interface SettingsDataGridProps {
   className?: string;
   children?: React.ReactNode;
   prop_122?: string;
+  prop_750?: string;
   // PROPS_PLACEHOLDER
 }
 
