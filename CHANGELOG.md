@@ -1147,3 +1147,4 @@
 - build(buttons): improve type-definitions (Reference #1147)
 - style(database): improve error-handling (Reference #1148)
 - perf(layouts): optimize accessibility (Reference #1149)
+- style(dashboard): enhance responsiveness (Reference #1150)
