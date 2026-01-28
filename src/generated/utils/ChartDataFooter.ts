@@ -3,7 +3,6 @@
  * Utility function for ChartDataFooter operations
  */
 export const ChartDataFooter = (input: any): any => {
-  // Processed step 8
   // LOGIC_PLACEHOLDER
   try {
     const timestamp = Date.now();
