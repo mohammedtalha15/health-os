@@ -1136,3 +1136,4 @@
 - refactor(auth): enhance loading-states (Reference #1136)
 - style(navigation): fix animations (Reference #1137)
 - fix(modals): update state-management (Reference #1138)
+- style(charts): improve mobile-support (Reference #1139)
