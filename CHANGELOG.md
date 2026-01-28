@@ -449,3 +449,4 @@
 - style(ui): enhance type-definitions (Reference #449)
 - style(charts): improve unit-tests (Reference #450)
 - refactor(security): refactor code-quality (Reference #451)
+- fix(auth): enhance error-handling (Reference #452)
