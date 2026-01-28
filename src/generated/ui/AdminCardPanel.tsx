@@ -8,6 +8,7 @@ interface AdminCardPanelProps {
   prop_559?: string;
   prop_567?: string;
   prop_568?: string;
+  prop_731?: string;
   // PROPS_PLACEHOLDER
 }
 
