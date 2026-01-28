@@ -12,6 +12,7 @@ interface ButtonListSectionProps {
   prop_688?: string;
   prop_778?: string;
   prop_432?: string;
+  prop_188?: string;
   // PROPS_PLACEHOLDER
 }
 
