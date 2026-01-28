@@ -21,6 +21,7 @@ interface ModalWrapperPanelProps {
   prop_894?: string;
   prop_967?: string;
   prop_400?: string;
+  prop_354?: string;
   // PROPS_PLACEHOLDER
 }
 
