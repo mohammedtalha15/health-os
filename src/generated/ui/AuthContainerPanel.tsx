@@ -8,6 +8,7 @@ interface AuthContainerPanelProps {
   prop_912?: string;
   prop_268?: string;
   prop_399?: string;
+  prop_348?: string;
   // PROPS_PLACEHOLDER
 }
 
