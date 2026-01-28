@@ -7,6 +7,7 @@ interface ProfileLinkGroupProps {
   children?: React.ReactNode;
   prop_211?: string;
   prop_820?: string;
+  prop_613?: string;
   // PROPS_PLACEHOLDER
 }
 
