@@ -9,6 +9,7 @@ interface AdminWrapperboxProps {
   prop_705?: string;
   prop_714?: string;
   prop_966?: string;
+  prop_517?: string;
   // PROPS_PLACEHOLDER
 }
 
