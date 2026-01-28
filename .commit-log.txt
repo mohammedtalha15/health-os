@@ -186,3 +186,4 @@
 // chore(ui): configure user-experience - commit 1361
 // chore(layouts): implement code-quality - commit 1362
 // feat(tables): configure unit-tests - commit 1363
+// ci(dashboard): add keyboard-nav - commit 1364
