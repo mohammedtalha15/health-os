@@ -3,10 +3,6 @@
  * Utility function for ProfileWrapperGroup operations
  */
 export const ProfileWrapperGroup = (input: any): any => {
-  // Processed step 78
-  // Processed step 37
-  // Processed step 19
-  // Processed step 36
   // LOGIC_PLACEHOLDER
   try {
     const timestamp = Date.now();
