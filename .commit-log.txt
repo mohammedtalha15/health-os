@@ -2791,3 +2791,4 @@
 // style(analytics): implement state-management - commit 319
 // style(cache): improve user-experience - commit 320
 // build(auth): configure data-fetching - commit 321
+// build(charts): add responsiveness - commit 322
