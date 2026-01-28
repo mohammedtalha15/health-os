@@ -3,9 +3,6 @@
  * Utility function for TableContainerGrid operations
  */
 export const TableContainerGrid = (input: any): any => {
-  // Processed step 100
-  // Processed step 80
-  // Processed step 86
   // LOGIC_PLACEHOLDER
   try {
     const timestamp = Date.now();
