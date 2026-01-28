@@ -65,3 +65,4 @@
 // build(inputs): optimize accessibility - commit 1013
 // perf(settings): update data-fetching - commit 1014
 // perf(security): update event-handlers - commit 1015
+// chore(charts): fix performance - commit 1016
