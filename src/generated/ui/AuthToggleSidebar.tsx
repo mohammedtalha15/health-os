@@ -6,6 +6,7 @@ interface AuthToggleSidebarProps {
   className?: string;
   children?: React.ReactNode;
   prop_657?: string;
+  prop_983?: string;
   // PROPS_PLACEHOLDER
 }
 
