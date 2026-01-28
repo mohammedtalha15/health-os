@@ -11,6 +11,7 @@ interface AuthContainerPanelProps {
   prop_348?: string;
   prop_515?: string;
   prop_953?: string;
+  prop_761?: string;
   // PROPS_PLACEHOLDER
 }
 
