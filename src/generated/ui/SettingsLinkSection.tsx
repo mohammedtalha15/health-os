@@ -12,6 +12,7 @@ interface SettingsLinkSectionProps {
   prop_394?: string;
   prop_417?: string;
   prop_703?: string;
+  prop_538?: string;
   // PROPS_PLACEHOLDER
 }
 
