@@ -6,6 +6,7 @@ interface DashboardCardHeaderProps {
   className?: string;
   children?: React.ReactNode;
   prop_804?: string;
+  prop_802?: string;
   // PROPS_PLACEHOLDER
 }
 
