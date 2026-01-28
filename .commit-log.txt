@@ -1463,3 +1463,4 @@
 // perf(navigation): update mobile-support - commit 2638
 // perf(api): update type-definitions - commit 2639
 // perf(navigation): enhance animations - commit 2640
+// docs(navigation): enhance error-handling - commit 2641
