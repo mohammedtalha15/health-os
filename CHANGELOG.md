@@ -1503,3 +1503,4 @@
 - chore(analytics): optimize performance (Reference #1503)
 - feat(buttons): enhance documentation (Reference #1504)
 - fix(buttons): update keyboard-nav (Reference #1505)
+- perf(security): update dark-mode (Reference #1506)
