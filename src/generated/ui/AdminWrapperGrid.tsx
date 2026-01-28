@@ -14,6 +14,7 @@ interface AdminWrapperGridProps {
   prop_953?: string;
   prop_931?: string;
   prop_508?: string;
+  prop_840?: string;
   // PROPS_PLACEHOLDER
 }
 
