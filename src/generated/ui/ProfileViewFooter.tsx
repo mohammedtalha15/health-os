@@ -10,6 +10,7 @@ interface ProfileViewFooterProps {
   prop_672?: string;
   prop_552?: string;
   prop_301?: string;
+  prop_118?: string;
   // PROPS_PLACEHOLDER
 }
 
