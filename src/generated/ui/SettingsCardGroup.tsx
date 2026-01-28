@@ -6,6 +6,7 @@ interface SettingsCardGroupProps {
   className?: string;
   children?: React.ReactNode;
   prop_839?: string;
+  prop_690?: string;
   // PROPS_PLACEHOLDER
 }
 
