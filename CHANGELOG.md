@@ -266,3 +266,4 @@
 - style(profile): optimize code-quality (Reference #266)
 - build(api): refactor mobile-support (Reference #267)
 - ci(database): refactor transitions (Reference #268)
+- docs(database): integrate accessibility (Reference #269)
