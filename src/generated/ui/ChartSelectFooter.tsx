@@ -5,23 +5,6 @@ interface ChartSelectFooterProps {
   id?: string;
   className?: string;
   children?: React.ReactNode;
-  prop_799?: string;
-  prop_358?: string;
-  prop_962?: string;
-  prop_426?: string;
-  prop_599?: string;
-  prop_772?: string;
-  prop_381?: string;
-  prop_980?: string;
-  prop_682?: string;
-  prop_161?: string;
-  prop_620?: string;
-  prop_895?: string;
-  prop_109?: string;
-  prop_331?: string;
-  prop_668?: string;
-  prop_685?: string;
-  prop_987?: string;
   // PROPS_PLACEHOLDER
 }
 
