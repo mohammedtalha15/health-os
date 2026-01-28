@@ -3,9 +3,6 @@
  * Utility function for AuthDataSidebar operations
  */
 export const AuthDataSidebar = (input: any): any => {
-  // Processed step 27
-  // Processed step 54
-  // Processed step 10
   // LOGIC_PLACEHOLDER
   try {
     const timestamp = Date.now();
