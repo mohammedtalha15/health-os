@@ -14,6 +14,7 @@ interface AuthSelectSidebarProps {
   prop_970?: string;
   prop_771?: string;
   prop_404?: string;
+  prop_700?: string;
   // PROPS_PLACEHOLDER
 }
 
