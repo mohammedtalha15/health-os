@@ -3,10 +3,6 @@
  * Utility function for ProfileCardbox operations
  */
 export const ProfileCardbox = (input: any): any => {
-  // Processed step 75
-  // Processed step 33
-  // Processed step 85
-  // Processed step 35
   // LOGIC_PLACEHOLDER
   try {
     const timestamp = Date.now();
