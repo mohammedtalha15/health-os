@@ -10,6 +10,7 @@ interface UserContainerboxProps {
   prop_540?: string;
   prop_984?: string;
   prop_320?: string;
+  prop_449?: string;
   // PROPS_PLACEHOLDER
 }
 
