@@ -13,6 +13,7 @@ interface TableListGroupProps {
   prop_229?: string;
   prop_966?: string;
   prop_630?: string;
+  prop_385?: string;
   // PROPS_PLACEHOLDER
 }
 
