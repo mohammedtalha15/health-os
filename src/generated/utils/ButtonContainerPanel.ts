@@ -3,11 +3,6 @@
  * Utility function for ButtonContainerPanel operations
  */
 export const ButtonContainerPanel = (input: any): any => {
-  // Processed step 53
-  // Processed step 4
-  // Processed step 12
-  // Processed step 17
-  // Processed step 96
   // LOGIC_PLACEHOLDER
   try {
     const timestamp = Date.now();
