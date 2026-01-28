@@ -5,9 +5,6 @@ interface ButtonInputGroupProps {
   id?: string;
   className?: string;
   children?: React.ReactNode;
-  prop_976?: string;
-  prop_919?: string;
-  prop_983?: string;
   // PROPS_PLACEHOLDER
 }
 
