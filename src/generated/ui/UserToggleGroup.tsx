@@ -6,6 +6,7 @@ interface UserToggleGroupProps {
   className?: string;
   children?: React.ReactNode;
   prop_247?: string;
+  prop_859?: string;
   // PROPS_PLACEHOLDER
 }
 
