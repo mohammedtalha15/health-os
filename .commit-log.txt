@@ -2612,3 +2612,4 @@
 // fix(notifications): update unit-tests - commit 140
 // refactor(auth): configure mobile-support - commit 141
 // refactor(analytics): implement error-handling - commit 142
+// perf(buttons): implement accessibility - commit 143
