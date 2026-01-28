@@ -6,6 +6,7 @@ interface ChartListboxProps {
   className?: string;
   children?: React.ReactNode;
   prop_508?: string;
+  prop_632?: string;
   // PROPS_PLACEHOLDER
 }
 
