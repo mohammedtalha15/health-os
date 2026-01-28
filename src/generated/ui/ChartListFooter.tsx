@@ -18,6 +18,7 @@ interface ChartListFooterProps {
   prop_121?: string;
   prop_455?: string;
   prop_884?: string;
+  prop_570?: string;
   // PROPS_PLACEHOLDER
 }
 
