@@ -1353,3 +1353,4 @@
 - ci(cache): configure type-definitions (Reference #1353)
 - fix(inputs): integrate data-fetching (Reference #1354)
 - refactor(ui): optimize performance (Reference #1355)
+- test(profile): fix error-handling (Reference #1356)
