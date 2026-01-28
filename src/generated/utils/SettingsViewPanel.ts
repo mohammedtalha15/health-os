@@ -3,12 +3,6 @@
  * Utility function for SettingsViewPanel operations
  */
 export const SettingsViewPanel = (input: any): any => {
-  // Processed step 62
-  // Processed step 1
-  // Processed step 90
-  // Processed step 33
-  // Processed step 14
-  // Processed step 35
   // LOGIC_PLACEHOLDER
   try {
     const timestamp = Date.now();
