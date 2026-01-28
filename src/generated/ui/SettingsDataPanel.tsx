@@ -7,6 +7,7 @@ interface SettingsDataPanelProps {
   children?: React.ReactNode;
   prop_816?: string;
   prop_661?: string;
+  prop_154?: string;
   // PROPS_PLACEHOLDER
 }
 
