@@ -1120,3 +1120,4 @@
 - perf(settings): optimize data-fetching (Reference #1120)
 - feat(auth): add state-management (Reference #1121)
 - build(charts): update responsiveness (Reference #1122)
+- fix(security): configure user-experience (Reference #1123)
