@@ -7,6 +7,7 @@ interface UserWrapperGroupProps {
   children?: React.ReactNode;
   prop_533?: string;
   prop_552?: string;
+  prop_330?: string;
   // PROPS_PLACEHOLDER
 }
 
