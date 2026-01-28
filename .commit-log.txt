@@ -3094,3 +3094,4 @@
 // feat(database): configure type-definitions - commit 622
 // refactor(security): add event-handlers - commit 623
 // chore(database): integrate mobile-support - commit 624
+// build(auth): improve state-management - commit 625
