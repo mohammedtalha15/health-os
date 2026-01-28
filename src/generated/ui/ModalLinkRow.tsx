@@ -12,6 +12,7 @@ interface ModalLinkRowProps {
   prop_811?: string;
   prop_237?: string;
   prop_460?: string;
+  prop_308?: string;
   // PROPS_PLACEHOLDER
 }
 
