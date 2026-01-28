@@ -9,6 +9,7 @@ interface SettingsToggleboxProps {
   prop_867?: string;
   prop_504?: string;
   prop_805?: string;
+  prop_189?: string;
   // PROPS_PLACEHOLDER
 }
 
