@@ -5,19 +5,6 @@ interface DashboardWrapperRowProps {
   id?: string;
   className?: string;
   children?: React.ReactNode;
-  prop_512?: string;
-  prop_144?: string;
-  prop_559?: string;
-  prop_528?: string;
-  prop_233?: string;
-  prop_320?: string;
-  prop_228?: string;
-  prop_459?: string;
-  prop_569?: string;
-  prop_851?: string;
-  prop_527?: string;
-  prop_534?: string;
-  prop_297?: string;
   // PROPS_PLACEHOLDER
 }
 
