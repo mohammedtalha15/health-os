@@ -1498,3 +1498,4 @@
 - build(analytics): add keyboard-nav (Reference #1498)
 - test(dashboard): integrate event-handlers (Reference #1499)
 - test(database): update animations (Reference #1500)
+- build(database): add data-fetching (Reference #1501)
