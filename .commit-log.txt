@@ -3059,3 +3059,4 @@
 // build(ui): refactor keyboard-nav - commit 587
 // feat(navigation): configure keyboard-nav - commit 588
 // chore(notifications): implement data-fetching - commit 589
+// chore(settings): implement dark-mode - commit 590
