@@ -144,3 +144,4 @@
 - feat(analytics): integrate loading-states (Reference #144)
 - ci(inputs): fix keyboard-nav (Reference #145)
 - perf(inputs): optimize caching-logic (Reference #146)
+- build(api): enhance error-handling (Reference #147)
