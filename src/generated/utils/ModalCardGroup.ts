@@ -3,9 +3,6 @@
  * Utility function for ModalCardGroup operations
  */
 export const ModalCardGroup = (input: any): any => {
-  // Processed step 13
-  // Processed step 62
-  // Processed step 3
   // LOGIC_PLACEHOLDER
   try {
     const timestamp = Date.now();
