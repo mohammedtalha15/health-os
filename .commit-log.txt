@@ -451,3 +451,4 @@
 // style(tables): implement caching-logic - commit 1626
 // docs(settings): fix loading-states - commit 1627
 // fix(api): enhance unit-tests - commit 1628
+// build(api): fix responsiveness - commit 1629
