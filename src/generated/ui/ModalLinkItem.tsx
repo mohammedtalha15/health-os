@@ -8,6 +8,7 @@ interface ModalLinkItemProps {
   prop_618?: string;
   prop_165?: string;
   prop_606?: string;
+  prop_958?: string;
   // PROPS_PLACEHOLDER
 }
 
