@@ -1486,3 +1486,4 @@
 - refactor(forms): optimize documentation (Reference #1486)
 - build(forms): improve data-fetching (Reference #1487)
 - feat(tables): add state-management (Reference #1488)
+- fix(security): add user-experience (Reference #1489)
