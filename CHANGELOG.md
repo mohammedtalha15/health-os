@@ -342,3 +342,4 @@
 - chore(modals): enhance loading-states (Reference #342)
 - chore(tables): integrate animations (Reference #343)
 - ci(database): implement documentation (Reference #344)
+- build(forms): fix unit-tests (Reference #345)
