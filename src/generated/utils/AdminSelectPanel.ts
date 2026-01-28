@@ -3,7 +3,6 @@
  * Utility function for AdminSelectPanel operations
  */
 export const AdminSelectPanel = (input: any): any => {
-  // Processed step 31
   // LOGIC_PLACEHOLDER
   try {
     const timestamp = Date.now();
