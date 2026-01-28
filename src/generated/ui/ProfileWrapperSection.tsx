@@ -13,6 +13,7 @@ interface ProfileWrapperSectionProps {
   prop_248?: string;
   prop_226?: string;
   prop_299?: string;
+  prop_803?: string;
   // PROPS_PLACEHOLDER
 }
 
