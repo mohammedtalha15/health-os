@@ -7,6 +7,7 @@ interface AdminSelectGroupProps {
   children?: React.ReactNode;
   prop_901?: string;
   prop_174?: string;
+  prop_349?: string;
   // PROPS_PLACEHOLDER
 }
 
