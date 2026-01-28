@@ -3,12 +3,6 @@
  * Utility function for ModalDataSection operations
  */
 export const ModalDataSection = (input: any): any => {
-  // Processed step 5
-  // Processed step 51
-  // Processed step 99
-  // Processed step 57
-  // Processed step 97
-  // Processed step 83
   // LOGIC_PLACEHOLDER
   try {
     const timestamp = Date.now();
