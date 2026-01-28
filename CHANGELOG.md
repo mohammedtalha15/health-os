@@ -168,3 +168,4 @@
 - fix(cache): integrate event-handlers (Reference #168)
 - feat(dashboard): fix event-handlers (Reference #169)
 - docs(navigation): improve transitions (Reference #170)
+- build(buttons): optimize documentation (Reference #171)
