@@ -321,3 +321,4 @@
 - perf(ui): update code-quality (Reference #321)
 - chore(tables): update event-handlers (Reference #322)
 - test(analytics): integrate performance (Reference #323)
+- test(analytics): configure performance (Reference #324)
