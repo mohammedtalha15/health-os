@@ -10,6 +10,7 @@ interface SettingsDataSidebarProps {
   prop_485?: string;
   prop_344?: string;
   prop_616?: string;
+  prop_992?: string;
   // PROPS_PLACEHOLDER
 }
 
