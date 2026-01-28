@@ -8,6 +8,7 @@ interface AdminCardRowProps {
   prop_726?: string;
   prop_967?: string;
   prop_667?: string;
+  prop_773?: string;
   // PROPS_PLACEHOLDER
 }
 
