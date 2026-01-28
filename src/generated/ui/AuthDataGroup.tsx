@@ -10,6 +10,7 @@ interface AuthDataGroupProps {
   prop_313?: string;
   prop_308?: string;
   prop_514?: string;
+  prop_125?: string;
   // PROPS_PLACEHOLDER
 }
 
