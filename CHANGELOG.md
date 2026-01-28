@@ -221,3 +221,4 @@
 - ci(settings): integrate mobile-support (Reference #221)
 - perf(database): add data-fetching (Reference #222)
 - feat(modals): update state-management (Reference #223)
+- perf(profile): improve state-management (Reference #224)
