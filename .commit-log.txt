@@ -3397,3 +3397,4 @@
 // chore(layouts): integrate transitions - commit 925
 // feat(ui): configure validation - commit 926
 // chore(api): integrate dark-mode - commit 927
+// feat(auth): integrate keyboard-nav - commit 928
