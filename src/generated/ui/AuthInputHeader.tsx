@@ -9,6 +9,7 @@ interface AuthInputHeaderProps {
   prop_252?: string;
   prop_607?: string;
   prop_533?: string;
+  prop_594?: string;
   // PROPS_PLACEHOLDER
 }
 
