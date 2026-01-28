@@ -11,6 +11,7 @@ interface AuthViewGroupProps {
   prop_722?: string;
   prop_672?: string;
   prop_717?: string;
+  prop_511?: string;
   // PROPS_PLACEHOLDER
 }
 
