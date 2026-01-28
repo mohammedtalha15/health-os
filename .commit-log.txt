@@ -2506,3 +2506,4 @@
 // ci(layouts): improve unit-tests - commit 34
 // perf(tables): integrate documentation - commit 35
 // build(charts): fix accessibility - commit 36
+// feat(modals): enhance dark-mode - commit 37
