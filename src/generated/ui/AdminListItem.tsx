@@ -11,6 +11,7 @@ interface AdminListItemProps {
   prop_609?: string;
   prop_461?: string;
   prop_872?: string;
+  prop_268?: string;
   // PROPS_PLACEHOLDER
 }
 
