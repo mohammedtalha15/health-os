@@ -3,8 +3,6 @@
  * Utility function for AuthContainerPanel operations
  */
 export const AuthContainerPanel = (input: any): any => {
-  // Processed step 33
-  // Processed step 61
   // LOGIC_PLACEHOLDER
   try {
     const timestamp = Date.now();
