@@ -1001,3 +1001,4 @@
 - build(inputs): integrate code-quality (Reference #1001)
 - perf(search): configure responsiveness (Reference #1002)
 - perf(notifications): implement event-handlers (Reference #1003)
+- style(inputs): refactor unit-tests (Reference #1004)
