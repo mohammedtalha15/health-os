@@ -24,6 +24,7 @@ interface AuthCardFooterProps {
   prop_368?: string;
   prop_154?: string;
   prop_999?: string;
+  prop_467?: string;
   // PROPS_PLACEHOLDER
 }
 
