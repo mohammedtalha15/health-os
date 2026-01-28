@@ -3,15 +3,6 @@
  * Utility function for ModalDataGrid operations
  */
 export const ModalDataGrid = (input: any): any => {
-  // Processed step 1
-  // Processed step 50
-  // Processed step 14
-  // Processed step 46
-  // Processed step 3
-  // Processed step 12
-  // Processed step 89
-  // Processed step 74
-  // Processed step 37
   // LOGIC_PLACEHOLDER
   try {
     const timestamp = Date.now();
