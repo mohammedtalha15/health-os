@@ -9,6 +9,7 @@ interface UserWrapperRowProps {
   prop_641?: string;
   prop_209?: string;
   prop_180?: string;
+  prop_732?: string;
   // PROPS_PLACEHOLDER
 }
 
