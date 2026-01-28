@@ -8,6 +8,7 @@ interface TableInputboxProps {
   prop_439?: string;
   prop_173?: string;
   prop_273?: string;
+  prop_221?: string;
   // PROPS_PLACEHOLDER
 }
 
