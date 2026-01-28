@@ -7,6 +7,7 @@ interface ProfileContainerSidebarProps {
   children?: React.ReactNode;
   prop_262?: string;
   prop_969?: string;
+  prop_220?: string;
   // PROPS_PLACEHOLDER
 }
 
