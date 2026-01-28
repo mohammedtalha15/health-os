@@ -1302,3 +1302,4 @@
 - style(search): fix documentation (Reference #1302)
 - docs(inputs): improve caching-logic (Reference #1303)
 - refactor(cache): enhance performance (Reference #1304)
+- build(modals): update type-definitions (Reference #1305)
