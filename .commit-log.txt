@@ -2466,3 +2466,4 @@
 // chore(inputs): configure screen reader support - commit 502
 // perf(settings):  performance - commit 503
 // perf(analytics): improve loading states - commit 504
+// test(tables): add  - commit 505
