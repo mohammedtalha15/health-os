@@ -443,3 +443,4 @@
 // refactor(tables): implement data-fetching - commit 1618
 // docs(database): implement code-quality - commit 1619
 // fix(notifications): implement dark-mode - commit 1620
+// fix(auth): implement type-definitions - commit 1621
