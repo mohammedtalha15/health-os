@@ -3,8 +3,6 @@
  * Utility function for SettingsToggleRow operations
  */
 export const SettingsToggleRow = (input: any): any => {
-  // Processed step 58
-  // Processed step 98
   // LOGIC_PLACEHOLDER
   try {
     const timestamp = Date.now();
