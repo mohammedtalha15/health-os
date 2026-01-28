@@ -6,6 +6,7 @@ interface AuthInputFooterProps {
   className?: string;
   children?: React.ReactNode;
   prop_592?: string;
+  prop_659?: string;
   // PROPS_PLACEHOLDER
 }
 
