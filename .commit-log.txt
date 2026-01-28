@@ -2221,3 +2221,4 @@
 // fix(charts): configure event handlers - commit 257
 // fix(buttons): implement  - commit 258
 // refactor(api):  event handlers - commit 259
+// chore(modals): refactor keyboard navigation - commit 260
