@@ -5,8 +5,6 @@ interface ButtonLinkRowProps {
   id?: string;
   className?: string;
   children?: React.ReactNode;
-  prop_265?: string;
-  prop_600?: string;
   // PROPS_PLACEHOLDER
 }
 
