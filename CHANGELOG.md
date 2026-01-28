@@ -725,3 +725,4 @@
 - style(analytics): fix error-handling (Reference #725)
 - refactor(layouts): configure keyboard-nav (Reference #726)
 - test(analytics): optimize documentation (Reference #727)
+- chore(search): fix performance (Reference #728)
