@@ -1240,3 +1240,4 @@
 - docs(inputs): add documentation (Reference #1240)
 - fix(profile): add state-management (Reference #1241)
 - perf(notifications): enhance dark-mode (Reference #1242)
+- fix(buttons): add accessibility (Reference #1243)
