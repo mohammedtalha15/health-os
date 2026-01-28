@@ -1924,3 +1924,4 @@
 // chore(charts): add validation - commit 3099
 // feat(layouts): improve keyboard-nav - commit 3100
 // feat(ui): add caching-logic - commit 3101
+// test(modals): fix performance - commit 3102
