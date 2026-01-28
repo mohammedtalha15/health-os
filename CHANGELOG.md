@@ -1296,3 +1296,4 @@
 - refactor(navigation): optimize error-handling (Reference #1296)
 - build(api): fix transitions (Reference #1297)
 - fix(navigation): optimize dark-mode (Reference #1298)
+- perf(database): implement type-definitions (Reference #1299)
