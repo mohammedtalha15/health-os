@@ -7,6 +7,7 @@ interface AdminCardRowProps {
   children?: React.ReactNode;
   prop_511?: string;
   prop_780?: string;
+  prop_149?: string;
   // PROPS_PLACEHOLDER
 }
 
