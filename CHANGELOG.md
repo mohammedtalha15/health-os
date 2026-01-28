@@ -1525,3 +1525,4 @@
 - perf(api): refactor animations (Reference #1525)
 - test(charts): improve validation (Reference #1526)
 - test(layouts): integrate documentation (Reference #1527)
+- test(security): refactor event-handlers (Reference #1528)
