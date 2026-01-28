@@ -11,6 +11,7 @@ interface UserSelectGridProps {
   prop_294?: string;
   prop_723?: string;
   prop_324?: string;
+  prop_894?: string;
   // PROPS_PLACEHOLDER
 }
 
