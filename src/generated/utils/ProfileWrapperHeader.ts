@@ -3,10 +3,6 @@
  * Utility function for ProfileWrapperHeader operations
  */
 export const ProfileWrapperHeader = (input: any): any => {
-  // Processed step 56
-  // Processed step 53
-  // Processed step 36
-  // Processed step 70
   // LOGIC_PLACEHOLDER
   try {
     const timestamp = Date.now();
