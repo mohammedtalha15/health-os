@@ -10,6 +10,7 @@ interface ModalCardSidebarProps {
   prop_724?: string;
   prop_892?: string;
   prop_304?: string;
+  prop_222?: string;
   // PROPS_PLACEHOLDER
 }
 
