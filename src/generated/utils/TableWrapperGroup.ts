@@ -3,7 +3,6 @@
  * Utility function for TableWrapperGroup operations
  */
 export const TableWrapperGroup = (input: any): any => {
-  // Processed step 83
   // LOGIC_PLACEHOLDER
   try {
     const timestamp = Date.now();
