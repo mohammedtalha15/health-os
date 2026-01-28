@@ -787,3 +787,4 @@
 // style(auth): add keyboard-nav - commit 1962
 // style(security): implement documentation - commit 1963
 // ci(search): refactor code-quality - commit 1964
+// chore(tables): update mobile-support - commit 1965
