@@ -8,6 +8,7 @@ interface ProfileSelectHeaderProps {
   prop_629?: string;
   prop_264?: string;
   prop_998?: string;
+  prop_491?: string;
   // PROPS_PLACEHOLDER
 }
 
