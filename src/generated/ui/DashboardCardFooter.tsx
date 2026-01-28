@@ -5,15 +5,6 @@ interface DashboardCardFooterProps {
   id?: string;
   className?: string;
   children?: React.ReactNode;
-  prop_969?: string;
-  prop_394?: string;
-  prop_507?: string;
-  prop_548?: string;
-  prop_930?: string;
-  prop_454?: string;
-  prop_447?: string;
-  prop_274?: string;
-  prop_230?: string;
   // PROPS_PLACEHOLDER
 }
 
