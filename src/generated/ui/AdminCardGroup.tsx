@@ -5,17 +5,6 @@ interface AdminCardGroupProps {
   id?: string;
   className?: string;
   children?: React.ReactNode;
-  prop_595?: string;
-  prop_772?: string;
-  prop_308?: string;
-  prop_579?: string;
-  prop_838?: string;
-  prop_963?: string;
-  prop_348?: string;
-  prop_421?: string;
-  prop_173?: string;
-  prop_867?: string;
-  prop_776?: string;
   // PROPS_PLACEHOLDER
 }
 
