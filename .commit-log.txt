@@ -996,3 +996,4 @@
 // build(modals): update keyboard-nav - commit 2171
 // ci(notifications): improve animations - commit 2172
 // feat(security): optimize mobile-support - commit 2173
+// ci(charts): update responsiveness - commit 2174
