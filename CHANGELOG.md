@@ -1454,3 +1454,4 @@
 - feat(dashboard): implement validation (Reference #1454)
 - test(profile): fix error-handling (Reference #1455)
 - test(tables): improve unit-tests (Reference #1456)
+- docs(modals): add error-handling (Reference #1457)
