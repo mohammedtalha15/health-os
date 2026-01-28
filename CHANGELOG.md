@@ -619,3 +619,4 @@
 - build(inputs): update validation (Reference #619)
 - docs(cache): implement user-experience (Reference #620)
 - test(buttons): enhance data-fetching (Reference #621)
+- docs(charts): implement error-handling (Reference #622)
