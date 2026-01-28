@@ -3,8 +3,6 @@
  * Utility function for ButtonContainerFooter operations
  */
 export const ButtonContainerFooter = (input: any): any => {
-  // Processed step 56
-  // Processed step 93
   // LOGIC_PLACEHOLDER
   try {
     const timestamp = Date.now();
