@@ -606,3 +606,4 @@
 - fix(ui): integrate animations (Reference #606)
 - build(database): add unit-tests (Reference #607)
 - feat(settings): fix unit-tests (Reference #608)
+- perf(layouts): improve accessibility (Reference #609)
