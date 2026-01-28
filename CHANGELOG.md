@@ -660,3 +660,4 @@
 - refactor(analytics): fix user-experience (Reference #660)
 - style(ui): add loading-states (Reference #661)
 - build(notifications): integrate accessibility (Reference #662)
+- perf(profile): enhance error-handling (Reference #663)
