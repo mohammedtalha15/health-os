@@ -605,3 +605,4 @@
 - fix(buttons): fix code-quality (Reference #605)
 - fix(ui): integrate animations (Reference #606)
 - build(database): add unit-tests (Reference #607)
+- feat(settings): fix unit-tests (Reference #608)
