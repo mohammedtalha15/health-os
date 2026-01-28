@@ -7,6 +7,7 @@ interface ModalCardboxProps {
   children?: React.ReactNode;
   prop_458?: string;
   prop_835?: string;
+  prop_799?: string;
   // PROPS_PLACEHOLDER
 }
 
