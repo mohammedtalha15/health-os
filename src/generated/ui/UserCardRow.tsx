@@ -8,6 +8,7 @@ interface UserCardRowProps {
   prop_325?: string;
   prop_162?: string;
   prop_694?: string;
+  prop_256?: string;
   // PROPS_PLACEHOLDER
 }
 
