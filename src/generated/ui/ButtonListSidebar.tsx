@@ -8,6 +8,7 @@ interface ButtonListSidebarProps {
   prop_875?: string;
   prop_981?: string;
   prop_555?: string;
+  prop_568?: string;
   // PROPS_PLACEHOLDER
 }
 
