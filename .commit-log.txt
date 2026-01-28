@@ -2266,3 +2266,4 @@
 // (forms): fix keyboard navigation - commit 302
 // refactor(charts): fix unit tests - commit 303
 // style(ui): add error handling - commit 304
+// docs(search): implement screen reader support - commit 305
