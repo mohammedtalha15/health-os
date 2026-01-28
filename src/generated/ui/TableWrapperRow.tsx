@@ -6,6 +6,7 @@ interface TableWrapperRowProps {
   className?: string;
   children?: React.ReactNode;
   prop_375?: string;
+  prop_377?: string;
   // PROPS_PLACEHOLDER
 }
 
