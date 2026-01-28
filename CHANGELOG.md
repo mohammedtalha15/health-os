@@ -1048,3 +1048,4 @@
 - perf(tables): update type-definitions (Reference #1048)
 - style(profile): add validation (Reference #1049)
 - perf(layouts): optimize transitions (Reference #1050)
+- refactor(settings): improve transitions (Reference #1051)
