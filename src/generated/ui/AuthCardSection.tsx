@@ -7,6 +7,7 @@ interface AuthCardSectionProps {
   children?: React.ReactNode;
   prop_325?: string;
   prop_772?: string;
+  prop_199?: string;
   // PROPS_PLACEHOLDER
 }
 
