@@ -1535,3 +1535,4 @@
 - build(layouts): configure animations (Reference #1535)
 - feat(cache): configure code-quality (Reference #1536)
 - ci(analytics): add user-experience (Reference #1537)
+- build(database): refactor animations (Reference #1538)
