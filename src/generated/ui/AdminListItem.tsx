@@ -5,20 +5,6 @@ interface AdminListItemProps {
   id?: string;
   className?: string;
   children?: React.ReactNode;
-  prop_316?: string;
-  prop_625?: string;
-  prop_562?: string;
-  prop_830?: string;
-  prop_609?: string;
-  prop_308?: string;
-  prop_497?: string;
-  prop_595?: string;
-  prop_746?: string;
-  prop_651?: string;
-  prop_822?: string;
-  prop_915?: string;
-  prop_933?: string;
-  prop_558?: string;
   // PROPS_PLACEHOLDER
 }
 
