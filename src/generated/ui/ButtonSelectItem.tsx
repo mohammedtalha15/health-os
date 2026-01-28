@@ -5,12 +5,6 @@ interface ButtonSelectItemProps {
   id?: string;
   className?: string;
   children?: React.ReactNode;
-  prop_211?: string;
-  prop_218?: string;
-  prop_917?: string;
-  prop_586?: string;
-  prop_659?: string;
-  prop_944?: string;
   // PROPS_PLACEHOLDER
 }
 
