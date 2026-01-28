@@ -3,10 +3,6 @@
  * Utility function for UserContainerSidebar operations
  */
 export const UserContainerSidebar = (input: any): any => {
-  // Processed step 53
-  // Processed step 26
-  // Processed step 50
-  // Processed step 10
   // LOGIC_PLACEHOLDER
   try {
     const timestamp = Date.now();
