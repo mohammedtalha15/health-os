@@ -334,3 +334,4 @@
 - feat(dashboard): integrate documentation (Reference #334)
 - chore(dashboard): enhance validation (Reference #335)
 - perf(forms): fix event-handlers (Reference #336)
+- style(forms): add keyboard-nav (Reference #337)
