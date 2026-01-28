@@ -1151,3 +1151,4 @@
 - docs(profile): add event-handlers (Reference #1151)
 - perf(settings): enhance animations (Reference #1152)
 - build(search): implement unit-tests (Reference #1153)
+- chore(database): implement state-management (Reference #1154)
