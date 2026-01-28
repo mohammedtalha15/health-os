@@ -13,6 +13,7 @@ interface TableToggleGroupProps {
   prop_206?: string;
   prop_821?: string;
   prop_527?: string;
+  prop_782?: string;
   // PROPS_PLACEHOLDER
 }
 
