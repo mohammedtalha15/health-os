@@ -372,3 +372,4 @@
 - ci(buttons): enhance animations (Reference #372)
 - ci(navigation): implement validation (Reference #373)
 - perf(security): integrate responsiveness (Reference #374)
+- build(forms): fix dark-mode (Reference #375)
