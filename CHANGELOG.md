@@ -1484,3 +1484,4 @@
 - docs(inputs): fix data-fetching (Reference #1484)
 - ci(buttons): implement mobile-support (Reference #1485)
 - refactor(forms): optimize documentation (Reference #1486)
+- build(forms): improve data-fetching (Reference #1487)
