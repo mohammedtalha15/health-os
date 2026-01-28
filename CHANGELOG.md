@@ -1005,3 +1005,4 @@
 - test(modals): configure documentation (Reference #1005)
 - test(notifications): add user-experience (Reference #1006)
 - ci(buttons): optimize transitions (Reference #1007)
+- test(charts): add code-quality (Reference #1008)
