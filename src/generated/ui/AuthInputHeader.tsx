@@ -5,9 +5,6 @@ interface AuthInputHeaderProps {
   id?: string;
   className?: string;
   children?: React.ReactNode;
-  prop_417?: string;
-  prop_984?: string;
-  prop_617?: string;
   // PROPS_PLACEHOLDER
 }
 
