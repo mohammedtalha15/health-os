@@ -6,6 +6,7 @@ interface ButtonWrapperRowProps {
   className?: string;
   children?: React.ReactNode;
   prop_627?: string;
+  prop_681?: string;
   // PROPS_PLACEHOLDER
 }
 
