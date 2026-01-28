@@ -5,9 +5,6 @@ interface ButtonDataboxProps {
   id?: string;
   className?: string;
   children?: React.ReactNode;
-  prop_841?: string;
-  prop_559?: string;
-  prop_783?: string;
   // PROPS_PLACEHOLDER
 }
 
