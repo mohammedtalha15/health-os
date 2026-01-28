@@ -5,21 +5,6 @@ interface ModalCardFooterProps {
   id?: string;
   className?: string;
   children?: React.ReactNode;
-  prop_143?: string;
-  prop_477?: string;
-  prop_329?: string;
-  prop_515?: string;
-  prop_637?: string;
-  prop_931?: string;
-  prop_286?: string;
-  prop_782?: string;
-  prop_752?: string;
-  prop_434?: string;
-  prop_697?: string;
-  prop_605?: string;
-  prop_764?: string;
-  prop_831?: string;
-  prop_883?: string;
   // PROPS_PLACEHOLDER
 }
 
