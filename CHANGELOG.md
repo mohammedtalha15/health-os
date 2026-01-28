@@ -849,3 +849,4 @@
 - ci(inputs): update accessibility (Reference #849)
 - fix(charts): implement unit-tests (Reference #850)
 - test(security): configure animations (Reference #851)
+- build(search): improve event-handlers (Reference #852)
