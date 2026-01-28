@@ -249,3 +249,4 @@
 - feat(search): integrate type-definitions (Reference #249)
 - build(security): add validation (Reference #250)
 - docs(settings): fix mobile-support (Reference #251)
+- fix(search): fix dark-mode (Reference #252)
