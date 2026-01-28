@@ -6,6 +6,7 @@ interface AdminCardPanelProps {
   className?: string;
   children?: React.ReactNode;
   prop_834?: string;
+  prop_731?: string;
   // PROPS_PLACEHOLDER
 }
 
