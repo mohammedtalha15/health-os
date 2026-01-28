@@ -148,3 +148,4 @@
 - style(security): fix type-definitions (Reference #148)
 - chore(database): update state-management (Reference #149)
 - build(search): improve caching-logic (Reference #150)
+- docs(navigation): enhance user-experience (Reference #151)
