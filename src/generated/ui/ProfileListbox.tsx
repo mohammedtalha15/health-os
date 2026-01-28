@@ -9,6 +9,7 @@ interface ProfileListboxProps {
   prop_260?: string;
   prop_933?: string;
   prop_604?: string;
+  prop_174?: string;
   // PROPS_PLACEHOLDER
 }
 
