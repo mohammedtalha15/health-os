@@ -1326,3 +1326,4 @@
 - refactor(profile): fix mobile-support (Reference #1326)
 - test(inputs): fix data-fetching (Reference #1327)
 - ci(buttons): integrate dark-mode (Reference #1328)
+- refactor(buttons): optimize performance (Reference #1329)
