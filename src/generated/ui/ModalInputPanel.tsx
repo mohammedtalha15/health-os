@@ -9,6 +9,7 @@ interface ModalInputPanelProps {
   prop_253?: string;
   prop_624?: string;
   prop_288?: string;
+  prop_240?: string;
   // PROPS_PLACEHOLDER
 }
 
