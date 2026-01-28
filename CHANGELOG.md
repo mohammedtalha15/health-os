@@ -820,3 +820,4 @@
 - fix(buttons): improve loading-states (Reference #820)
 - test(inputs): implement dark-mode (Reference #821)
 - perf(api): configure code-quality (Reference #822)
+- perf(layouts): optimize caching-logic (Reference #823)
