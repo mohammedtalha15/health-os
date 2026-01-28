@@ -10,6 +10,7 @@ interface ButtonToggleItemProps {
   prop_311?: string;
   prop_440?: string;
   prop_520?: string;
+  prop_865?: string;
   // PROPS_PLACEHOLDER
 }
 
