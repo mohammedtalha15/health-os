@@ -474,3 +474,4 @@
 - build(api): fix loading-states (Reference #474)
 - ci(settings): implement event-handlers (Reference #475)
 - build(notifications): add user-experience (Reference #476)
+- chore(inputs): optimize type-definitions (Reference #477)
