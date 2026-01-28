@@ -82,3 +82,4 @@
 // docs(dashboard): improve code-quality - commit 1257
 // docs(auth): refactor data-fetching - commit 1258
 // docs(navigation): update error-handling - commit 1259
+// docs(dashboard): refactor caching-logic - commit 1260
