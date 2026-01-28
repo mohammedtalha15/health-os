@@ -11,6 +11,7 @@ interface AuthWrapperboxProps {
   prop_262?: string;
   prop_807?: string;
   prop_543?: string;
+  prop_890?: string;
   // PROPS_PLACEHOLDER
 }
 
