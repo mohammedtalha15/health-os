@@ -3394,3 +3394,4 @@
 // docs(search): enhance responsiveness - commit 922
 // style(layouts): enhance error-handling - commit 923
 // ci(auth): implement loading-states - commit 924
+// chore(layouts): integrate transitions - commit 925
