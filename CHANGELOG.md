@@ -638,3 +638,4 @@
 - perf(notifications): fix dark-mode (Reference #638)
 - style(auth): improve keyboard-nav (Reference #639)
 - build(security): enhance loading-states (Reference #640)
+- ci(buttons): integrate keyboard-nav (Reference #641)
