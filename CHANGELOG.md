@@ -1477,3 +1477,4 @@
 - fix(security): integrate responsiveness (Reference #1477)
 - fix(layouts): enhance event-handlers (Reference #1478)
 - build(navigation): add error-handling (Reference #1479)
+- chore(navigation): implement accessibility (Reference #1480)
