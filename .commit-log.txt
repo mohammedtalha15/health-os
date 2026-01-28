@@ -2584,3 +2584,4 @@
 // ci(api): enhance documentation - commit 112
 // perf(buttons): add transitions - commit 113
 // build(cache): configure keyboard-nav - commit 114
+// fix(api): refactor transitions - commit 115
