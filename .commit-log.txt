@@ -452,3 +452,4 @@
 // docs(settings): fix loading-states - commit 1627
 // fix(api): enhance unit-tests - commit 1628
 // build(api): fix responsiveness - commit 1629
+// fix(notifications): configure event-handlers - commit 1630
