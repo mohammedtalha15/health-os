@@ -1224,3 +1224,4 @@
 - chore(profile): implement unit-tests (Reference #1224)
 - refactor(api): integrate user-experience (Reference #1225)
 - fix(dashboard): add validation (Reference #1226)
+- feat(cache): improve performance (Reference #1227)
