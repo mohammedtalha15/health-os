@@ -11,6 +11,7 @@ interface ChartInputPanelProps {
   prop_394?: string;
   prop_827?: string;
   prop_527?: string;
+  prop_441?: string;
   // PROPS_PLACEHOLDER
 }
 
