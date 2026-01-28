@@ -1433,3 +1433,4 @@
 - perf(charts): configure mobile-support (Reference #1433)
 - docs(profile): refactor performance (Reference #1434)
 - perf(forms): fix caching-logic (Reference #1435)
+- feat(security): enhance keyboard-nav (Reference #1436)
