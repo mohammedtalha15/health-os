@@ -3,14 +3,6 @@
  * Utility function for ModalViewRow operations
  */
 export const ModalViewRow = (input: any): any => {
-  // Processed step 42
-  // Processed step 98
-  // Processed step 93
-  // Processed step 82
-  // Processed step 62
-  // Processed step 45
-  // Processed step 60
-  // Processed step 87
   // LOGIC_PLACEHOLDER
   try {
     const timestamp = Date.now();
