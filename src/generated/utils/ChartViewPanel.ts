@@ -3,7 +3,6 @@
  * Utility function for ChartViewPanel operations
  */
 export const ChartViewPanel = (input: any): any => {
-  // Processed step 22
   // LOGIC_PLACEHOLDER
   try {
     const timestamp = Date.now();
