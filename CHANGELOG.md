@@ -354,3 +354,4 @@
 - perf(profile): implement data-fetching (Reference #354)
 - perf(layouts): add keyboard-nav (Reference #355)
 - test(inputs): add animations (Reference #356)
+- fix(dashboard): update type-definitions (Reference #357)
