@@ -10,6 +10,7 @@ interface UserInputSidebarProps {
   prop_309?: string;
   prop_235?: string;
   prop_118?: string;
+  prop_900?: string;
   // PROPS_PLACEHOLDER
 }
 
