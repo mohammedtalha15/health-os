@@ -3,21 +3,6 @@
  * Utility function for ModalListbox operations
  */
 export const ModalListbox = (input: any): any => {
-  // Processed step 74
-  // Processed step 3
-  // Processed step 99
-  // Processed step 31
-  // Processed step 73
-  // Processed step 46
-  // Processed step 49
-  // Processed step 40
-  // Processed step 56
-  // Processed step 67
-  // Processed step 5
-  // Processed step 62
-  // Processed step 66
-  // Processed step 26
-  // Processed step 32
   // LOGIC_PLACEHOLDER
   try {
     const timestamp = Date.now();
