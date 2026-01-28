@@ -1423,3 +1423,4 @@
 - chore(forms): add dark-mode (Reference #1423)
 - ci(inputs): update keyboard-nav (Reference #1424)
 - docs(cache): fix documentation (Reference #1425)
+- feat(dashboard): update validation (Reference #1426)
