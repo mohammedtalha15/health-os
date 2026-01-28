@@ -7,6 +7,7 @@ interface UserListSectionProps {
   children?: React.ReactNode;
   prop_404?: string;
   prop_610?: string;
+  prop_464?: string;
   // PROPS_PLACEHOLDER
 }
 
