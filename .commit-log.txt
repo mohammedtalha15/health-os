@@ -96,3 +96,4 @@
 // refactor(dashboard): refactor animations - commit 1044
 // perf(analytics): optimize animations - commit 1045
 // perf(inputs): refactor type-definitions - commit 1046
+// style(settings): optimize dark-mode - commit 1047
