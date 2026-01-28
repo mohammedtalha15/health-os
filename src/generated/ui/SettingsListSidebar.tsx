@@ -5,12 +5,6 @@ interface SettingsListSidebarProps {
   id?: string;
   className?: string;
   children?: React.ReactNode;
-  prop_784?: string;
-  prop_385?: string;
-  prop_129?: string;
-  prop_564?: string;
-  prop_570?: string;
-  prop_875?: string;
   // PROPS_PLACEHOLDER
 }
 
