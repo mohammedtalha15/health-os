@@ -3,8 +3,6 @@
  * Utility function for DashboardSelectPanel operations
  */
 export const DashboardSelectPanel = (input: any): any => {
-  // Processed step 3
-  // Processed step 55
   // LOGIC_PLACEHOLDER
   try {
     const timestamp = Date.now();
