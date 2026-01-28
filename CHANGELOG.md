@@ -1103,3 +1103,4 @@
 - build(api): update validation (Reference #1103)
 - chore(buttons): update event-handlers (Reference #1104)
 - fix(ui): refactor caching-logic (Reference #1105)
+- build(layouts): fix dark-mode (Reference #1106)
