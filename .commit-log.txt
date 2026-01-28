@@ -2307,3 +2307,4 @@
 // fix(ui): fix keyboard navigation - commit 343
 // (settings):   - commit 344
 // (forms):  keyboard navigation - commit 345
+// chore(api): refactor type definitions - commit 346
