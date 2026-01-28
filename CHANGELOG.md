@@ -1168,3 +1168,4 @@
 - refactor(charts): implement dark-mode (Reference #1168)
 - refactor(modals): implement dark-mode (Reference #1169)
 - ci(auth): update dark-mode (Reference #1170)
+- perf(search): integrate user-experience (Reference #1171)
