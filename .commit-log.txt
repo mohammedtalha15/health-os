@@ -12,3 +12,4 @@
 // ci(buttons): fix code-quality - commit 1187
 // refactor(layouts): fix state-management - commit 1188
 // refactor(tables): integrate dark-mode - commit 1189
+// perf(security): add loading-states - commit 1190
