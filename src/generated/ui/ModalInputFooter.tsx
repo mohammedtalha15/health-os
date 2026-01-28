@@ -7,6 +7,7 @@ interface ModalInputFooterProps {
   children?: React.ReactNode;
   prop_831?: string;
   prop_893?: string;
+  prop_268?: string;
   // PROPS_PLACEHOLDER
 }
 
