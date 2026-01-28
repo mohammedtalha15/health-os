@@ -5,14 +5,6 @@ interface ModalInputItemProps {
   id?: string;
   className?: string;
   children?: React.ReactNode;
-  prop_833?: string;
-  prop_535?: string;
-  prop_880?: string;
-  prop_273?: string;
-  prop_885?: string;
-  prop_841?: string;
-  prop_540?: string;
-  prop_178?: string;
   // PROPS_PLACEHOLDER
 }
 
