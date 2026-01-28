@@ -8,6 +8,7 @@ interface SettingsCardRowProps {
   prop_847?: string;
   prop_577?: string;
   prop_918?: string;
+  prop_606?: string;
   // PROPS_PLACEHOLDER
 }
 
