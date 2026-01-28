@@ -972,3 +972,4 @@
 - perf(forms): add mobile-support (Reference #972)
 - style(api): configure unit-tests (Reference #973)
 - refactor(notifications): implement code-quality (Reference #974)
+- build(ui): update animations (Reference #975)
