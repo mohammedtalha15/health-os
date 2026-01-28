@@ -353,3 +353,4 @@
 - refactor(charts): implement unit-tests (Reference #353)
 - perf(profile): implement data-fetching (Reference #354)
 - perf(layouts): add keyboard-nav (Reference #355)
+- test(inputs): add animations (Reference #356)
