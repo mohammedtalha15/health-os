@@ -11,6 +11,7 @@ interface ChartLinkFooterProps {
   prop_786?: string;
   prop_669?: string;
   prop_588?: string;
+  prop_192?: string;
   // PROPS_PLACEHOLDER
 }
 
