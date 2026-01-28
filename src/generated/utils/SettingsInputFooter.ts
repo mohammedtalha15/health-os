@@ -3,8 +3,6 @@
  * Utility function for SettingsInputFooter operations
  */
 export const SettingsInputFooter = (input: any): any => {
-  // Processed step 26
-  // Processed step 43
   // LOGIC_PLACEHOLDER
   try {
     const timestamp = Date.now();
