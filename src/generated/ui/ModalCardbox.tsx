@@ -16,6 +16,7 @@ interface ModalCardboxProps {
   prop_564?: string;
   prop_796?: string;
   prop_318?: string;
+  prop_828?: string;
   // PROPS_PLACEHOLDER
 }
 
