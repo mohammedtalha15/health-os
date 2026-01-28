@@ -5,13 +5,6 @@ interface AuthLinkFooterProps {
   id?: string;
   className?: string;
   children?: React.ReactNode;
-  prop_890?: string;
-  prop_359?: string;
-  prop_887?: string;
-  prop_308?: string;
-  prop_568?: string;
-  prop_666?: string;
-  prop_165?: string;
   // PROPS_PLACEHOLDER
 }
 
