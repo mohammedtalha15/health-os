@@ -8,6 +8,7 @@ interface AuthToggleHeaderProps {
   prop_913?: string;
   prop_378?: string;
   prop_858?: string;
+  prop_637?: string;
   // PROPS_PLACEHOLDER
 }
 
