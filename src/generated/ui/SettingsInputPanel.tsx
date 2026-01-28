@@ -22,6 +22,7 @@ interface SettingsInputPanelProps {
   prop_401?: string;
   prop_107?: string;
   prop_766?: string;
+  prop_656?: string;
   // PROPS_PLACEHOLDER
 }
 
