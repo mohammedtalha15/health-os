@@ -2803,3 +2803,4 @@
 // perf(search): fix performance - commit 331
 // style(navigation): improve mobile-support - commit 332
 // fix(layouts): fix data-fetching - commit 333
+// style(search): add code-quality - commit 334
