@@ -556,3 +556,4 @@
 - style(dashboard): refactor state-management (Reference #556)
 - docs(dashboard): implement animations (Reference #557)
 - test(layouts): implement data-fetching (Reference #558)
+- ci(cache): improve animations (Reference #559)
