@@ -6,6 +6,7 @@ interface AuthLinkGroupProps {
   className?: string;
   children?: React.ReactNode;
   prop_115?: string;
+  prop_528?: string;
   // PROPS_PLACEHOLDER
 }
 
