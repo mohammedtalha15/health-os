@@ -13,6 +13,7 @@ interface AuthSelectboxProps {
   prop_115?: string;
   prop_811?: string;
   prop_641?: string;
+  prop_535?: string;
   // PROPS_PLACEHOLDER
 }
 
