@@ -482,3 +482,4 @@
 - ci(buttons): integrate user-experience (Reference #482)
 - docs(profile): improve transitions (Reference #483)
 - feat(layouts): optimize loading-states (Reference #484)
+- docs(api): fix mobile-support (Reference #485)
