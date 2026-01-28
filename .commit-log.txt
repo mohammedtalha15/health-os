@@ -534,3 +534,4 @@
 // docs(navigation): refactor loading-states - commit 1709
 // ci(api): enhance code-quality - commit 1710
 // feat(profile): improve error-handling - commit 1711
+// chore(notifications): add animations - commit 1712
