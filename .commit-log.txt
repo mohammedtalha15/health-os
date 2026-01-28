@@ -2076,3 +2076,4 @@
 // fix(notifications): configure responsiveness - commit 112
 // fix(forms):  loading states - commit 113
 // feat(notifications):  animations - commit 114
+// feat(database): refactor mobile support - commit 115
