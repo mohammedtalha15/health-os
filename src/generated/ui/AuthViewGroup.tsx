@@ -6,6 +6,7 @@ interface AuthViewGroupProps {
   className?: string;
   children?: React.ReactNode;
   prop_419?: string;
+  prop_883?: string;
   // PROPS_PLACEHOLDER
 }
 
