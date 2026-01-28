@@ -21,6 +21,7 @@ interface ButtonListRowProps {
   prop_961?: string;
   prop_804?: string;
   prop_990?: string;
+  prop_535?: string;
   // PROPS_PLACEHOLDER
 }
 
