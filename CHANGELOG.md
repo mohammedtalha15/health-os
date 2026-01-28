@@ -678,3 +678,4 @@
 - style(navigation): optimize unit-tests (Reference #678)
 - ci(database): configure validation (Reference #679)
 - build(settings): refactor type-definitions (Reference #680)
+- test(security): update data-fetching (Reference #681)
