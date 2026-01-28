@@ -3,8 +3,6 @@
  * Utility function for DashboardCardbox operations
  */
 export const DashboardCardbox = (input: any): any => {
-  // Processed step 83
-  // Processed step 77
   // LOGIC_PLACEHOLDER
   try {
     const timestamp = Date.now();
