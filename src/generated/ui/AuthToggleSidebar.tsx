@@ -9,6 +9,7 @@ interface AuthToggleSidebarProps {
   prop_983?: string;
   prop_727?: string;
   prop_540?: string;
+  prop_706?: string;
   // PROPS_PLACEHOLDER
 }
 
