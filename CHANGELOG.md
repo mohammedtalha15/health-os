@@ -1345,3 +1345,4 @@
 - refactor(settings): update state-management (Reference #1345)
 - ci(notifications): optimize caching-logic (Reference #1346)
 - chore(analytics): add dark-mode (Reference #1347)
+- build(charts): add error-handling (Reference #1348)
