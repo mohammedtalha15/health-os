@@ -7,6 +7,7 @@ interface ProfileLinkItemProps {
   children?: React.ReactNode;
   prop_279?: string;
   prop_592?: string;
+  prop_390?: string;
   // PROPS_PLACEHOLDER
 }
 
