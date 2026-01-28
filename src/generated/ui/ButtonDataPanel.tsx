@@ -22,6 +22,7 @@ interface ButtonDataPanelProps {
   prop_520?: string;
   prop_325?: string;
   prop_977?: string;
+  prop_513?: string;
   // PROPS_PLACEHOLDER
 }
 
