@@ -5,8 +5,6 @@ interface ChartContainerGridProps {
   id?: string;
   className?: string;
   children?: React.ReactNode;
-  prop_222?: string;
-  prop_415?: string;
   // PROPS_PLACEHOLDER
 }
 
