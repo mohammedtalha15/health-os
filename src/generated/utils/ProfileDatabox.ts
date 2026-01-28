@@ -3,9 +3,6 @@
  * Utility function for ProfileDatabox operations
  */
 export const ProfileDatabox = (input: any): any => {
-  // Processed step 21
-  // Processed step 32
-  // Processed step 48
   // LOGIC_PLACEHOLDER
   try {
     const timestamp = Date.now();
