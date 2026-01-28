@@ -581,3 +581,4 @@
 - refactor(settings): configure user-experience (Reference #581)
 - test(security): optimize data-fetching (Reference #582)
 - refactor(navigation): enhance event-handlers (Reference #583)
+- feat(analytics): optimize event-handlers (Reference #584)
