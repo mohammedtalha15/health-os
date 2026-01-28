@@ -3,10 +3,6 @@
  * Utility function for AdminCardGroup operations
  */
 export const AdminCardGroup = (input: any): any => {
-  // Processed step 93
-  // Processed step 96
-  // Processed step 6
-  // Processed step 51
   // LOGIC_PLACEHOLDER
   try {
     const timestamp = Date.now();
