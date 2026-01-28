@@ -531,3 +531,4 @@
 // fix(analytics): fix documentation - commit 1706
 // chore(inputs): fix dark-mode - commit 1707
 // fix(settings): optimize event-handlers - commit 1708
+// docs(navigation): refactor loading-states - commit 1709
