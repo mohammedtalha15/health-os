@@ -2447,3 +2447,4 @@
 // perf(navigation): fix event handlers - commit 483
 // build(ui): fix caching logic - commit 484
 // docs(inputs): add unit tests - commit 485
+// chore(buttons): implement error handling - commit 486
