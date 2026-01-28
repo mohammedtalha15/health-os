@@ -10,6 +10,7 @@ interface SettingsSelectRowProps {
   prop_761?: string;
   prop_931?: string;
   prop_962?: string;
+  prop_175?: string;
   // PROPS_PLACEHOLDER
 }
 
