@@ -6,6 +6,7 @@ interface AuthLinkFooterProps {
   className?: string;
   children?: React.ReactNode;
   prop_267?: string;
+  prop_768?: string;
   // PROPS_PLACEHOLDER
 }
 
