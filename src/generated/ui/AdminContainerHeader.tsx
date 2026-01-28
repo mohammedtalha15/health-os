@@ -12,6 +12,7 @@ interface AdminContainerHeaderProps {
   prop_193?: string;
   prop_996?: string;
   prop_613?: string;
+  prop_971?: string;
   // PROPS_PLACEHOLDER
 }
 
