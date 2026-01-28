@@ -8,6 +8,7 @@ interface ChartWrapperboxProps {
   prop_178?: string;
   prop_802?: string;
   prop_134?: string;
+  prop_573?: string;
   // PROPS_PLACEHOLDER
 }
 
