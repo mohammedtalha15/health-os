@@ -1753,3 +1753,4 @@
 // docs(notifications): refactor animations - commit 2928
 // docs(api): refactor responsiveness - commit 2929
 // style(api): update transitions - commit 2930
+// refactor(navigation): integrate loading-states - commit 2931
