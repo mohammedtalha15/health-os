@@ -1212,3 +1212,4 @@
 - perf(ui): enhance documentation (Reference #1212)
 - refactor(tables): optimize error-handling (Reference #1213)
 - build(analytics): integrate caching-logic (Reference #1214)
+- refactor(search): enhance unit-tests (Reference #1215)
