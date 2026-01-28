@@ -303,3 +303,4 @@
 - fix(profile): optimize responsiveness (Reference #303)
 - style(settings): optimize code-quality (Reference #304)
 - refactor(search): implement animations (Reference #305)
+- test(profile): add code-quality (Reference #306)
