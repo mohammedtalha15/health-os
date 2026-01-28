@@ -5,12 +5,6 @@ interface UserInputItemProps {
   id?: string;
   className?: string;
   children?: React.ReactNode;
-  prop_782?: string;
-  prop_144?: string;
-  prop_801?: string;
-  prop_304?: string;
-  prop_779?: string;
-  prop_161?: string;
   // PROPS_PLACEHOLDER
 }
 
