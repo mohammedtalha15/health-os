@@ -3,10 +3,6 @@
  * Utility function for ButtonLinkSection operations
  */
 export const ButtonLinkSection = (input: any): any => {
-  // Processed step 95
-  // Processed step 22
-  // Processed step 15
-  // Processed step 3
   // LOGIC_PLACEHOLDER
   try {
     const timestamp = Date.now();
