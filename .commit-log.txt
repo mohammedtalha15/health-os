@@ -3093,3 +3093,4 @@
 // fix(search): improve loading-states - commit 621
 // feat(database): configure type-definitions - commit 622
 // refactor(security): add event-handlers - commit 623
+// chore(database): integrate mobile-support - commit 624
