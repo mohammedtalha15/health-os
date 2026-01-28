@@ -3,7 +3,6 @@
  * Utility function for ButtonDataGroup operations
  */
 export const ButtonDataGroup = (input: any): any => {
-  // Processed step 50
   // LOGIC_PLACEHOLDER
   try {
     const timestamp = Date.now();
