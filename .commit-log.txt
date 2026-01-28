@@ -658,3 +658,4 @@
 // style(notifications): optimize validation - commit 1833
 // docs(security): configure unit-tests - commit 1834
 // chore(modals): refactor performance - commit 1835
+// style(auth): refactor animations - commit 1836
