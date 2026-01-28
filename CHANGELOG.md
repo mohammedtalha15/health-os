@@ -699,3 +699,4 @@
 - style(tables): integrate event-handlers (Reference #699)
 - refactor(dashboard): update accessibility (Reference #700)
 - chore(notifications): configure code-quality (Reference #701)
+- docs(search): integrate performance (Reference #702)
