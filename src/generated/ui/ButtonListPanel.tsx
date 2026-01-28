@@ -16,6 +16,7 @@ interface ButtonListPanelProps {
   prop_292?: string;
   prop_903?: string;
   prop_747?: string;
+  prop_185?: string;
   // PROPS_PLACEHOLDER
 }
 
