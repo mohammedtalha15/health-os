@@ -3,10 +3,6 @@
  * Utility function for UserViewbox operations
  */
 export const UserViewbox = (input: any): any => {
-  // Processed step 57
-  // Processed step 72
-  // Processed step 43
-  // Processed step 26
   // LOGIC_PLACEHOLDER
   try {
     const timestamp = Date.now();
