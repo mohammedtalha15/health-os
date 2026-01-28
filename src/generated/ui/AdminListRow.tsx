@@ -5,10 +5,6 @@ interface AdminListRowProps {
   id?: string;
   className?: string;
   children?: React.ReactNode;
-  prop_405?: string;
-  prop_560?: string;
-  prop_992?: string;
-  prop_699?: string;
   // PROPS_PLACEHOLDER
 }
 
