@@ -1116,3 +1116,4 @@
 // ci(settings): implement accessibility - commit 2291
 // style(navigation): refactor unit-tests - commit 2292
 // refactor(modals): refactor data-fetching - commit 2293
+// fix(modals): improve performance - commit 2294
