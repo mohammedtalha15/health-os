@@ -10,6 +10,7 @@ interface TableListItemProps {
   prop_867?: string;
   prop_767?: string;
   prop_366?: string;
+  prop_171?: string;
   // PROPS_PLACEHOLDER
 }
 
