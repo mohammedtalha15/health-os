@@ -2383,3 +2383,4 @@
 // style(notifications):   - commit 419
 // refactor(buttons):   - commit 420
 // perf(profile): enhance transitions - commit 421
+// fix(auth): fix animations - commit 422
