@@ -236,3 +236,4 @@
 - feat(modals): implement loading-states (Reference #236)
 - feat(analytics): improve data-fetching (Reference #237)
 - feat(forms): update caching-logic (Reference #238)
+- test(notifications): configure error-handling (Reference #239)
