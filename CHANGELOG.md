@@ -1044,3 +1044,4 @@
 - docs(security): configure mobile-support (Reference #1044)
 - test(search): configure documentation (Reference #1045)
 - ci(profile): refactor event-handlers (Reference #1046)
+- docs(forms): add responsiveness (Reference #1047)
