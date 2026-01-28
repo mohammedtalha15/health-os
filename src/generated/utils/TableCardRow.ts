@@ -3,12 +3,6 @@
  * Utility function for TableCardRow operations
  */
 export const TableCardRow = (input: any): any => {
-  // Processed step 5
-  // Processed step 43
-  // Processed step 36
-  // Processed step 19
-  // Processed step 30
-  // Processed step 9
   // LOGIC_PLACEHOLDER
   try {
     const timestamp = Date.now();
