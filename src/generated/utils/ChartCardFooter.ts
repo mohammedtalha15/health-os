@@ -3,8 +3,6 @@
  * Utility function for ChartCardFooter operations
  */
 export const ChartCardFooter = (input: any): any => {
-  // Processed step 66
-  // Processed step 100
   // LOGIC_PLACEHOLDER
   try {
     const timestamp = Date.now();
