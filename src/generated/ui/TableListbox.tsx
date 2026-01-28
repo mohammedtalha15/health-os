@@ -5,6 +5,7 @@ interface TableListboxProps {
   id?: string;
   className?: string;
   children?: React.ReactNode;
+  prop_772?: string;
   // PROPS_PLACEHOLDER
 }
 
