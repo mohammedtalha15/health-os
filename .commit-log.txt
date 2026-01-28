@@ -1103,3 +1103,4 @@
 // fix(modals): configure unit-tests - commit 2278
 // ci(forms): integrate event-handlers - commit 2279
 // style(tables): add transitions - commit 2280
+// build(buttons): improve data-fetching - commit 2281
