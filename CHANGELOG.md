@@ -268,3 +268,4 @@
 - ci(database): refactor transitions (Reference #268)
 - docs(database): integrate accessibility (Reference #269)
 - refactor(analytics): update responsiveness (Reference #270)
+- docs(security): integrate caching-logic (Reference #271)
