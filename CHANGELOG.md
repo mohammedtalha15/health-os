@@ -909,3 +909,4 @@
 - style(analytics): fix transitions (Reference #909)
 - docs(ui): refactor error-handling (Reference #910)
 - fix(ui): implement loading-states (Reference #911)
+- style(charts): update data-fetching (Reference #912)
