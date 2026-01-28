@@ -922,3 +922,4 @@
 // ci(inputs): improve validation - commit 2097
 // fix(modals): improve error-handling - commit 2098
 // chore(charts): configure animations - commit 2099
+// chore(buttons): refactor accessibility - commit 2100
