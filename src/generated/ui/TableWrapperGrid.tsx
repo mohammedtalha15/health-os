@@ -8,6 +8,7 @@ interface TableWrapperGridProps {
   prop_409?: string;
   prop_763?: string;
   prop_733?: string;
+  prop_449?: string;
   // PROPS_PLACEHOLDER
 }
 
