@@ -7,6 +7,7 @@ interface DashboardContainerSidebarProps {
   children?: React.ReactNode;
   prop_863?: string;
   prop_344?: string;
+  prop_264?: string;
   // PROPS_PLACEHOLDER
 }
 
