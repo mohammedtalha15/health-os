@@ -3,10 +3,6 @@
  * Utility function for TableViewSidebar operations
  */
 export const TableViewSidebar = (input: any): any => {
-  // Processed step 46
-  // Processed step 52
-  // Processed step 57
-  // Processed step 31
   // LOGIC_PLACEHOLDER
   try {
     const timestamp = Date.now();
