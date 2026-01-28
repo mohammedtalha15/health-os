@@ -5,10 +5,6 @@ interface ProfileSelectboxProps {
   id?: string;
   className?: string;
   children?: React.ReactNode;
-  prop_138?: string;
-  prop_959?: string;
-  prop_767?: string;
-  prop_334?: string;
   // PROPS_PLACEHOLDER
 }
 
