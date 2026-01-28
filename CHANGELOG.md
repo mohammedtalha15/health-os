@@ -388,3 +388,4 @@
 - build(auth): optimize error-handling (Reference #388)
 - test(layouts): improve code-quality (Reference #389)
 - fix(inputs): add dark-mode (Reference #390)
+- test(buttons): update dark-mode (Reference #391)
