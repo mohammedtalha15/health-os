@@ -592,3 +592,4 @@
 // refactor(buttons): implement caching-logic - commit 1767
 // refactor(layouts): improve unit-tests - commit 1768
 // feat(buttons): add transitions - commit 1769
+// fix(inputs): integrate data-fetching - commit 1770
