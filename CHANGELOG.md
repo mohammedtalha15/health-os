@@ -78,3 +78,4 @@
 - feat(api): integrate unit-tests (Reference #78)
 - perf(security): refactor state-management (Reference #79)
 - perf(profile): add transitions (Reference #80)
+- build(cache): optimize documentation (Reference #81)
