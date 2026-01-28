@@ -5,23 +5,6 @@ interface ButtonListGroupProps {
   id?: string;
   className?: string;
   children?: React.ReactNode;
-  prop_520?: string;
-  prop_428?: string;
-  prop_738?: string;
-  prop_950?: string;
-  prop_973?: string;
-  prop_988?: string;
-  prop_459?: string;
-  prop_201?: string;
-  prop_302?: string;
-  prop_361?: string;
-  prop_202?: string;
-  prop_328?: string;
-  prop_899?: string;
-  prop_520?: string;
-  prop_731?: string;
-  prop_172?: string;
-  prop_320?: string;
   // PROPS_PLACEHOLDER
 }
 
