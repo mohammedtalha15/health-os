@@ -203,3 +203,4 @@
 - fix(buttons): refactor unit-tests (Reference #203)
 - feat(inputs): update code-quality (Reference #204)
 - build(cache): add accessibility (Reference #205)
+- feat(inputs): improve error-handling (Reference #206)
