@@ -6,6 +6,7 @@ interface TableLinkGridProps {
   className?: string;
   children?: React.ReactNode;
   prop_738?: string;
+  prop_140?: string;
   // PROPS_PLACEHOLDER
 }
 
