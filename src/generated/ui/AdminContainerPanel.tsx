@@ -5,11 +5,6 @@ interface AdminContainerPanelProps {
   id?: string;
   className?: string;
   children?: React.ReactNode;
-  prop_781?: string;
-  prop_788?: string;
-  prop_255?: string;
-  prop_179?: string;
-  prop_472?: string;
   // PROPS_PLACEHOLDER
 }
 
