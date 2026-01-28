@@ -2241,3 +2241,4 @@
 // fix(notifications): implement accessibility - commit 277
 // chore(forms): configure accessibility - commit 278
 // build(api): configure animations - commit 279
+// build(forms): fix event handlers - commit 280
