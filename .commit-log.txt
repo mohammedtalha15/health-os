@@ -578,3 +578,4 @@
 // build(tables): optimize accessibility - commit 1753
 // feat(auth): enhance transitions - commit 1754
 // feat(buttons): refactor error-handling - commit 1755
+// ci(tables): integrate animations - commit 1756
