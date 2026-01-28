@@ -1,25 +1,21 @@
 
 import React, { useState } from 'react';
 
-interface ChartCardGridProps {
+interface ButtonToggleHeaderProps {
   id?: string;
   className?: string;
   children?: React.ReactNode;
-  prop_489?: string;
-  prop_709?: string;
-  prop_791?: string;
-  prop_652?: string;
   // PROPS_PLACEHOLDER
 }
 
-export const ChartCardGrid: React.FC<ChartCardGridProps> = ({ id, className, children, ...props }) => {
+export const ButtonToggleHeader: React.FC<ButtonToggleHeaderProps> = ({ id, className, children, ...props }) => {
   const [isActive, setIsActive] = useState(false);
 
   // HOOKS_PLACEHOLDER
 
   return (
     <div id={id} className={`p-4 rounded-lg ${isActive ? 'bg-blue-100' : 'bg-white'} ${className}`} {...props}>
-      <h3 className="text-lg font-bold mb-2">ChartCardGrid Component</h3>
+      <h3 className="text-lg font-bold mb-2">ButtonToggleHeader Component</h3>
       {children}
       <button 
         onClick={() => setIsActive(!isActive)}
