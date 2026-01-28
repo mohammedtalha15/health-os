@@ -1983,3 +1983,4 @@
 // chore(modals): implement mobile support - commit 19
 // (analytics): implement  - commit 20
 // (modals): update screen reader support - commit 21
+// build(): improve error handling - commit 22
