@@ -5,20 +5,6 @@ interface ChartWrapperGroupProps {
   id?: string;
   className?: string;
   children?: React.ReactNode;
-  prop_388?: string;
-  prop_912?: string;
-  prop_797?: string;
-  prop_479?: string;
-  prop_676?: string;
-  prop_603?: string;
-  prop_648?: string;
-  prop_719?: string;
-  prop_233?: string;
-  prop_395?: string;
-  prop_795?: string;
-  prop_769?: string;
-  prop_494?: string;
-  prop_629?: string;
   // PROPS_PLACEHOLDER
 }
 
