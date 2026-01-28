@@ -85,3 +85,4 @@
 // test(navigation): add validation - commit 1033
 // fix(buttons): add data-fetching - commit 1034
 // fix(notifications): implement loading-states - commit 1035
+// test(navigation): integrate loading-states - commit 1036
