@@ -12,6 +12,7 @@ interface DashboardInputboxProps {
   prop_395?: string;
   prop_293?: string;
   prop_650?: string;
+  prop_305?: string;
   // PROPS_PLACEHOLDER
 }
 
