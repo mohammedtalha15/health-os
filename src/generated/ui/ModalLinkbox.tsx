@@ -17,6 +17,7 @@ interface ModalLinkboxProps {
   prop_914?: string;
   prop_912?: string;
   prop_705?: string;
+  prop_230?: string;
   // PROPS_PLACEHOLDER
 }
 
