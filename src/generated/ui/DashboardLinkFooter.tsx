@@ -18,6 +18,7 @@ interface DashboardLinkFooterProps {
   prop_126?: string;
   prop_841?: string;
   prop_263?: string;
+  prop_890?: string;
   // PROPS_PLACEHOLDER
 }
 
