@@ -1367,3 +1367,4 @@
 - build(auth): configure responsiveness (Reference #1367)
 - style(ui): add error-handling (Reference #1368)
 - chore(ui): integrate code-quality (Reference #1369)
+- ci(modals): fix type-definitions (Reference #1370)
