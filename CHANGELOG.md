@@ -1421,3 +1421,4 @@
 - perf(tables): implement dark-mode (Reference #1421)
 - refactor(tables): improve documentation (Reference #1422)
 - chore(forms): add dark-mode (Reference #1423)
+- ci(inputs): update keyboard-nav (Reference #1424)
