@@ -62,3 +62,4 @@
 // style(analytics): fix responsiveness - commit 1237
 // style(search): integrate event-handlers - commit 1238
 // ci(tables): configure transitions - commit 1239
+// test(navigation): configure event-handlers - commit 1240
