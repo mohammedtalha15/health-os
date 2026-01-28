@@ -3,8 +3,6 @@
  * Utility function for AdminListbox operations
  */
 export const AdminListbox = (input: any): any => {
-  // Processed step 8
-  // Processed step 99
   // LOGIC_PLACEHOLDER
   try {
     const timestamp = Date.now();
