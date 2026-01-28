@@ -7,6 +7,7 @@ interface TableViewItemProps {
   children?: React.ReactNode;
   prop_201?: string;
   prop_990?: string;
+  prop_909?: string;
   // PROPS_PLACEHOLDER
 }
 
