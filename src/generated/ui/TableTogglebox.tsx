@@ -5,6 +5,7 @@ interface TableToggleboxProps {
   id?: string;
   className?: string;
   children?: React.ReactNode;
+  prop_365?: string;
   // PROPS_PLACEHOLDER
 }
 
