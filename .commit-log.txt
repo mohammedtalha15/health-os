@@ -2292,3 +2292,4 @@
 // refactor(dashboard): implement type definitions - commit 328
 // test(security): enhance event handlers - commit 329
 // perf(auth): configure state management - commit 330
+// build(inputs): fix mobile support - commit 331
