@@ -20,6 +20,7 @@ interface AuthListItemProps {
   prop_481?: string;
   prop_469?: string;
   prop_824?: string;
+  prop_935?: string;
   // PROPS_PLACEHOLDER
 }
 
