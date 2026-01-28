@@ -6,6 +6,7 @@ interface ChartLinkFooterProps {
   className?: string;
   children?: React.ReactNode;
   prop_681?: string;
+  prop_592?: string;
   // PROPS_PLACEHOLDER
 }
 
