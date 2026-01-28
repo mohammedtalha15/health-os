@@ -7,6 +7,7 @@ interface ModalLinkRowProps {
   children?: React.ReactNode;
   prop_657?: string;
   prop_241?: string;
+  prop_926?: string;
   // PROPS_PLACEHOLDER
 }
 
