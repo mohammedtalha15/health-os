@@ -1249,3 +1249,4 @@
 - build(modals): enhance performance (Reference #1249)
 - docs(cache): enhance unit-tests (Reference #1250)
 - test(forms): update dark-mode (Reference #1251)
+- fix(notifications): implement event-handlers (Reference #1252)
