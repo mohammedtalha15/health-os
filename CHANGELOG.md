@@ -451,3 +451,4 @@
 - refactor(security): refactor code-quality (Reference #451)
 - fix(auth): enhance error-handling (Reference #452)
 - refactor(navigation): fix mobile-support (Reference #453)
+- perf(security): add accessibility (Reference #454)
