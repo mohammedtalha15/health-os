@@ -9,6 +9,7 @@ interface ButtonViewSidebarProps {
   prop_669?: string;
   prop_420?: string;
   prop_809?: string;
+  prop_818?: string;
   // PROPS_PLACEHOLDER
 }
 
