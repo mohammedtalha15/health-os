@@ -594,3 +594,4 @@
 // feat(buttons): add transitions - commit 1769
 // fix(inputs): integrate data-fetching - commit 1770
 // style(settings): fix unit-tests - commit 1771
+// style(search): improve keyboard-nav - commit 1772
