@@ -21,3 +21,4 @@
 - refactor(navigation): fix validation (Reference #21)
 - ci(cache): configure data-fetching (Reference #22)
 - ci(forms): fix keyboard-nav (Reference #23)
+- chore(modals): fix documentation (Reference #24)
