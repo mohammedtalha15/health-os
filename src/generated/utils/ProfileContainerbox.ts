@@ -3,9 +3,6 @@
  * Utility function for ProfileContainerbox operations
  */
 export const ProfileContainerbox = (input: any): any => {
-  // Processed step 37
-  // Processed step 6
-  // Processed step 70
   // LOGIC_PLACEHOLDER
   try {
     const timestamp = Date.now();
