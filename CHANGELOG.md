@@ -1193,3 +1193,4 @@
 - style(layouts): optimize performance (Reference #1193)
 - test(charts): update caching-logic (Reference #1194)
 - chore(forms): improve dark-mode (Reference #1195)
+- perf(search): optimize documentation (Reference #1196)
