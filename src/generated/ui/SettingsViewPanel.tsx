@@ -7,6 +7,7 @@ interface SettingsViewPanelProps {
   children?: React.ReactNode;
   prop_994?: string;
   prop_400?: string;
+  prop_259?: string;
   // PROPS_PLACEHOLDER
 }
 
