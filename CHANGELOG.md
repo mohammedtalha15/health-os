@@ -368,3 +368,4 @@
 - docs(database): update data-fetching (Reference #368)
 - fix(security): enhance mobile-support (Reference #369)
 - refactor(notifications): update validation (Reference #370)
+- test(navigation): improve dark-mode (Reference #371)
