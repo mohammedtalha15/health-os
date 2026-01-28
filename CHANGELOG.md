@@ -1258,3 +1258,4 @@
 - docs(charts): implement performance (Reference #1258)
 - refactor(navigation): improve error-handling (Reference #1259)
 - test(layouts): fix performance (Reference #1260)
+- feat(settings): fix transitions (Reference #1261)
