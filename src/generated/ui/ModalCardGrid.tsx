@@ -5,14 +5,6 @@ interface ModalCardGridProps {
   id?: string;
   className?: string;
   children?: React.ReactNode;
-  prop_699?: string;
-  prop_562?: string;
-  prop_440?: string;
-  prop_998?: string;
-  prop_993?: string;
-  prop_729?: string;
-  prop_910?: string;
-  prop_723?: string;
   // PROPS_PLACEHOLDER
 }
 
