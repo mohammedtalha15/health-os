@@ -273,3 +273,4 @@
 - chore(notifications): add documentation (Reference #273)
 - perf(layouts): update user-experience (Reference #274)
 - build(ui): improve caching-logic (Reference #275)
+- style(dashboard): update state-management (Reference #276)
