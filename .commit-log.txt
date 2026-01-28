@@ -562,3 +562,4 @@
 // feat(settings): configure data-fetching - commit 1737
 // build(dashboard): implement state-management - commit 1738
 // docs(auth): refactor mobile-support - commit 1739
+// refactor(tables): configure performance - commit 1740
