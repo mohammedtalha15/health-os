@@ -1497,3 +1497,4 @@
 // style(modals): integrate type-definitions - commit 2672
 // style(cache): improve transitions - commit 2673
 // docs(api): refactor validation - commit 2674
+// fix(ui): implement transitions - commit 2675
