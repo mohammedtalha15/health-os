@@ -8,6 +8,7 @@ interface ModalSelectItemProps {
   prop_696?: string;
   prop_282?: string;
   prop_689?: string;
+  prop_778?: string;
   // PROPS_PLACEHOLDER
 }
 
