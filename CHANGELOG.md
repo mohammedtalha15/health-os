@@ -867,3 +867,4 @@
 - docs(navigation): update performance (Reference #867)
 - style(tables): configure loading-states (Reference #868)
 - build(navigation): optimize user-experience (Reference #869)
+- perf(analytics): improve dark-mode (Reference #870)
