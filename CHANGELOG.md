@@ -961,3 +961,4 @@
 - perf(database): fix documentation (Reference #961)
 - style(notifications): optimize data-fetching (Reference #962)
 - fix(profile): update transitions (Reference #963)
+- test(inputs): optimize code-quality (Reference #964)
