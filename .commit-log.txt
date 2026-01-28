@@ -2150,3 +2150,4 @@
 // style(notifications): fix responsiveness - commit 186
 // feat(): improve type definitions - commit 187
 // feat(notifications): optimize error handling - commit 188
+// refactor(auth):  data fetching - commit 189
