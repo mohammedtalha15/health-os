@@ -367,3 +367,4 @@
 - docs(notifications): add loading-states (Reference #367)
 - docs(database): update data-fetching (Reference #368)
 - fix(security): enhance mobile-support (Reference #369)
+- refactor(notifications): update validation (Reference #370)
