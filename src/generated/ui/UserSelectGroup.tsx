@@ -12,6 +12,7 @@ interface UserSelectGroupProps {
   prop_419?: string;
   prop_643?: string;
   prop_136?: string;
+  prop_860?: string;
   // PROPS_PLACEHOLDER
 }
 
