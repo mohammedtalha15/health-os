@@ -455,3 +455,4 @@
 - perf(analytics): improve error-handling (Reference #455)
 - perf(notifications): improve responsiveness (Reference #456)
 - style(profile): configure data-fetching (Reference #457)
+- refactor(layouts): optimize code-quality (Reference #458)
