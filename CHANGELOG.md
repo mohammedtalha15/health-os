@@ -1017,3 +1017,4 @@
 - test(ui): configure accessibility (Reference #1017)
 - fix(auth): improve user-experience (Reference #1018)
 - refactor(cache): enhance performance (Reference #1019)
+- fix(buttons): implement caching-logic (Reference #1020)
