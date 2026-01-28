@@ -114,3 +114,4 @@
 - style(search): add dark-mode (Reference #114)
 - feat(security): implement data-fetching (Reference #115)
 - perf(ui): fix mobile-support (Reference #116)
+- feat(dashboard): update user-experience (Reference #117)
