@@ -14,6 +14,7 @@ interface AdminToggleGroupProps {
   prop_918?: string;
   prop_704?: string;
   prop_313?: string;
+  prop_918?: string;
   // PROPS_PLACEHOLDER
 }
 
