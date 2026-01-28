@@ -13,6 +13,7 @@ interface SettingsWrapperItemProps {
   prop_682?: string;
   prop_247?: string;
   prop_439?: string;
+  prop_316?: string;
   // PROPS_PLACEHOLDER
 }
 
