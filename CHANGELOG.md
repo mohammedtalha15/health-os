@@ -15,3 +15,4 @@
 - test(tables): integrate type-definitions (Reference #15)
 - test(dashboard): optimize animations (Reference #16)
 - docs(modals): add unit-tests (Reference #17)
+- docs(security): refactor user-experience (Reference #18)
