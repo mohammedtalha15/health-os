@@ -8,6 +8,7 @@ interface AdminWrapperItemProps {
   prop_611?: string;
   prop_217?: string;
   prop_475?: string;
+  prop_881?: string;
   // PROPS_PLACEHOLDER
 }
 
