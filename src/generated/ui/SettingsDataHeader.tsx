@@ -9,6 +9,7 @@ interface SettingsDataHeaderProps {
   prop_212?: string;
   prop_847?: string;
   prop_944?: string;
+  prop_782?: string;
   // PROPS_PLACEHOLDER
 }
 
