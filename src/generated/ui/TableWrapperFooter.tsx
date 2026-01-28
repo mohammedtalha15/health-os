@@ -13,6 +13,7 @@ interface TableWrapperFooterProps {
   prop_785?: string;
   prop_179?: string;
   prop_379?: string;
+  prop_546?: string;
   // PROPS_PLACEHOLDER
 }
 
