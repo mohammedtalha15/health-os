@@ -5,16 +5,6 @@ interface UserSelectSectionProps {
   id?: string;
   className?: string;
   children?: React.ReactNode;
-  prop_779?: string;
-  prop_846?: string;
-  prop_882?: string;
-  prop_814?: string;
-  prop_384?: string;
-  prop_583?: string;
-  prop_125?: string;
-  prop_978?: string;
-  prop_649?: string;
-  prop_423?: string;
   // PROPS_PLACEHOLDER
 }
 
