@@ -6,6 +6,7 @@ interface AdminToggleRowProps {
   className?: string;
   children?: React.ReactNode;
   prop_356?: string;
+  prop_509?: string;
   // PROPS_PLACEHOLDER
 }
 
