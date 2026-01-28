@@ -35,3 +35,4 @@
 - docs(notifications): fix responsiveness (Reference #35)
 - refactor(auth): implement type-definitions (Reference #36)
 - feat(api): add mobile-support (Reference #37)
+- docs(modals): update animations (Reference #38)
