@@ -5,11 +5,6 @@ interface UserCardPanelProps {
   id?: string;
   className?: string;
   children?: React.ReactNode;
-  prop_380?: string;
-  prop_844?: string;
-  prop_669?: string;
-  prop_293?: string;
-  prop_610?: string;
   // PROPS_PLACEHOLDER
 }
 
