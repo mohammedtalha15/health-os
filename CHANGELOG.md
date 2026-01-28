@@ -459,3 +459,4 @@
 - style(forms): fix accessibility (Reference #459)
 - build(layouts): optimize responsiveness (Reference #460)
 - feat(search): update type-definitions (Reference #461)
+- docs(navigation): fix validation (Reference #462)
