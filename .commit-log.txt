@@ -3295,3 +3295,4 @@
 // fix(api): configure loading-states - commit 823
 // feat(analytics): improve loading-states - commit 824
 // docs(forms): optimize unit-tests - commit 825
+// chore(tables): improve keyboard-nav - commit 826
