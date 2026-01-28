@@ -5,18 +5,6 @@ interface ProfileCardPanelProps {
   id?: string;
   className?: string;
   children?: React.ReactNode;
-  prop_302?: string;
-  prop_208?: string;
-  prop_448?: string;
-  prop_509?: string;
-  prop_959?: string;
-  prop_289?: string;
-  prop_554?: string;
-  prop_240?: string;
-  prop_981?: string;
-  prop_185?: string;
-  prop_336?: string;
-  prop_481?: string;
   // PROPS_PLACEHOLDER
 }
 
