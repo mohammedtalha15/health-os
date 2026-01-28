@@ -3,10 +3,6 @@
  * Utility function for DashboardToggleHeader operations
  */
 export const DashboardToggleHeader = (input: any): any => {
-  // Processed step 24
-  // Processed step 23
-  // Processed step 44
-  // Processed step 49
   // LOGIC_PLACEHOLDER
   try {
     const timestamp = Date.now();
