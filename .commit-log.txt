@@ -2099,3 +2099,4 @@
 // ci(tables): configure keyboard-nav - commit 3274
 // perf(navigation): add mobile-support - commit 3275
 // chore(settings): integrate user-experience - commit 3276
+// perf(settings): fix responsiveness - commit 3277
