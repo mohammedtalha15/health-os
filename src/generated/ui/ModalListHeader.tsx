@@ -13,6 +13,7 @@ interface ModalListHeaderProps {
   prop_117?: string;
   prop_339?: string;
   prop_546?: string;
+  prop_338?: string;
   // PROPS_PLACEHOLDER
 }
 
