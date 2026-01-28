@@ -8,6 +8,7 @@ interface ChartWrapperGridProps {
   prop_623?: string;
   prop_215?: string;
   prop_472?: string;
+  prop_656?: string;
   // PROPS_PLACEHOLDER
 }
 
