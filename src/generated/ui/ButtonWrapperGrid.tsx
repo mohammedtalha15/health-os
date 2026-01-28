@@ -6,6 +6,7 @@ interface ButtonWrapperGridProps {
   className?: string;
   children?: React.ReactNode;
   prop_145?: string;
+  prop_179?: string;
   // PROPS_PLACEHOLDER
 }
 
