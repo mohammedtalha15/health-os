@@ -912,3 +912,4 @@
 - style(charts): update data-fetching (Reference #912)
 - ci(search): update type-definitions (Reference #913)
 - refactor(charts): optimize dark-mode (Reference #914)
+- perf(cache): fix dark-mode (Reference #915)
