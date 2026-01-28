@@ -502,3 +502,4 @@
 - build(buttons): update dark-mode (Reference #502)
 - chore(tables): enhance accessibility (Reference #503)
 - feat(analytics): optimize user-experience (Reference #504)
+- perf(api): configure keyboard-nav (Reference #505)
