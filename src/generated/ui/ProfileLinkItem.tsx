@@ -19,6 +19,7 @@ interface ProfileLinkItemProps {
   prop_821?: string;
   prop_914?: string;
   prop_300?: string;
+  prop_248?: string;
   // PROPS_PLACEHOLDER
 }
 
