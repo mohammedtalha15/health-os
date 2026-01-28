@@ -3,8 +3,6 @@
  * Utility function for AdminDataRow operations
  */
 export const AdminDataRow = (input: any): any => {
-  // Processed step 48
-  // Processed step 3
   // LOGIC_PLACEHOLDER
   try {
     const timestamp = Date.now();
