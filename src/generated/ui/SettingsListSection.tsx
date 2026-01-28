@@ -5,8 +5,6 @@ interface SettingsListSectionProps {
   id?: string;
   className?: string;
   children?: React.ReactNode;
-  prop_515?: string;
-  prop_250?: string;
   // PROPS_PLACEHOLDER
 }
 
