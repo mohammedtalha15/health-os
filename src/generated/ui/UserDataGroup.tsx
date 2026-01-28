@@ -7,6 +7,7 @@ interface UserDataGroupProps {
   children?: React.ReactNode;
   prop_982?: string;
   prop_595?: string;
+  prop_445?: string;
   // PROPS_PLACEHOLDER
 }
 
