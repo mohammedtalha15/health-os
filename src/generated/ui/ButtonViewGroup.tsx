@@ -6,6 +6,7 @@ interface ButtonViewGroupProps {
   className?: string;
   children?: React.ReactNode;
   prop_911?: string;
+  prop_505?: string;
   // PROPS_PLACEHOLDER
 }
 
