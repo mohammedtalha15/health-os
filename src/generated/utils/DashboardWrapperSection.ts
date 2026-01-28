@@ -3,8 +3,6 @@
  * Utility function for DashboardWrapperSection operations
  */
 export const DashboardWrapperSection = (input: any): any => {
-  // Processed step 24
-  // Processed step 20
   // LOGIC_PLACEHOLDER
   try {
     const timestamp = Date.now();
