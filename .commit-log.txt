@@ -69,3 +69,4 @@
 // ci(ui): enhance performance - commit 1244
 // refactor(auth): configure responsiveness - commit 1245
 // build(settings): update accessibility - commit 1246
+// ci(notifications): enhance keyboard-nav - commit 1247
