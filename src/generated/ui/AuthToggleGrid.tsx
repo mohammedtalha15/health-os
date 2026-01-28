@@ -11,6 +11,7 @@ interface AuthToggleGridProps {
   prop_229?: string;
   prop_787?: string;
   prop_477?: string;
+  prop_606?: string;
   // PROPS_PLACEHOLDER
 }
 
