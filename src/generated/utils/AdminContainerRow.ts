@@ -3,9 +3,6 @@
  * Utility function for AdminContainerRow operations
  */
 export const AdminContainerRow = (input: any): any => {
-  // Processed step 92
-  // Processed step 35
-  // Processed step 25
   // LOGIC_PLACEHOLDER
   try {
     const timestamp = Date.now();
