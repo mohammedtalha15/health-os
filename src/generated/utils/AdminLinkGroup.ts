@@ -3,8 +3,6 @@
  * Utility function for AdminLinkGroup operations
  */
 export const AdminLinkGroup = (input: any): any => {
-  // Processed step 26
-  // Processed step 79
   // LOGIC_PLACEHOLDER
   try {
     const timestamp = Date.now();
