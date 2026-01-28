@@ -12,6 +12,7 @@ interface AuthSelectRowProps {
   prop_284?: string;
   prop_460?: string;
   prop_142?: string;
+  prop_552?: string;
   // PROPS_PLACEHOLDER
 }
 
