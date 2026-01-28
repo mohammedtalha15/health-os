@@ -353,3 +353,4 @@
 // build(auth): add error-handling - commit 1528
 // perf(database): implement documentation - commit 1529
 // fix(tables): refactor transitions - commit 1530
+// test(api): integrate event-handlers - commit 1531
