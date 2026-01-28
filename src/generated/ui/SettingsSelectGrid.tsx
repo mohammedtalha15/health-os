@@ -9,6 +9,7 @@ interface SettingsSelectGridProps {
   prop_441?: string;
   prop_344?: string;
   prop_365?: string;
+  prop_358?: string;
   // PROPS_PLACEHOLDER
 }
 
