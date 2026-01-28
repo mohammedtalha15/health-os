@@ -3,13 +3,6 @@
  * Utility function for TableInputGroup operations
  */
 export const TableInputGroup = (input: any): any => {
-  // Processed step 77
-  // Processed step 1
-  // Processed step 60
-  // Processed step 56
-  // Processed step 98
-  // Processed step 7
-  // Processed step 19
   // LOGIC_PLACEHOLDER
   try {
     const timestamp = Date.now();
