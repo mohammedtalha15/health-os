@@ -1852,3 +1852,4 @@
 // fix(database): add type-definitions - commit 3027
 // feat(settings): update dark-mode - commit 3028
 // fix(auth): enhance error-handling - commit 3029
+// refactor(ui): improve dark-mode - commit 3030
