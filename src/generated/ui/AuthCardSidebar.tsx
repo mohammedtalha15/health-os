@@ -5,23 +5,6 @@ interface AuthCardSidebarProps {
   id?: string;
   className?: string;
   children?: React.ReactNode;
-  prop_886?: string;
-  prop_891?: string;
-  prop_835?: string;
-  prop_831?: string;
-  prop_290?: string;
-  prop_850?: string;
-  prop_195?: string;
-  prop_863?: string;
-  prop_911?: string;
-  prop_674?: string;
-  prop_652?: string;
-  prop_312?: string;
-  prop_811?: string;
-  prop_467?: string;
-  prop_584?: string;
-  prop_933?: string;
-  prop_125?: string;
   // PROPS_PLACEHOLDER
 }
 
