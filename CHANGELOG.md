@@ -879,3 +879,4 @@
 - ci(api): optimize documentation (Reference #879)
 - ci(notifications): integrate transitions (Reference #880)
 - build(search): enhance performance (Reference #881)
+- refactor(layouts): improve validation (Reference #882)
