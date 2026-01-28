@@ -6,6 +6,7 @@ interface ModalSelectPanelProps {
   className?: string;
   children?: React.ReactNode;
   prop_433?: string;
+  prop_875?: string;
   // PROPS_PLACEHOLDER
 }
 
