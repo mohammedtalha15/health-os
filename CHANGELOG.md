@@ -1341,3 +1341,4 @@
 - refactor(dashboard): fix responsiveness (Reference #1341)
 - build(database): configure user-experience (Reference #1342)
 - build(database): enhance state-management (Reference #1343)
+- ci(ui): add responsiveness (Reference #1344)
