@@ -12,6 +12,7 @@ interface ProfileToggleItemProps {
   prop_724?: string;
   prop_354?: string;
   prop_354?: string;
+  prop_863?: string;
   // PROPS_PLACEHOLDER
 }
 
