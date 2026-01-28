@@ -289,3 +289,4 @@
 - chore(api): optimize caching-logic (Reference #289)
 - style(layouts): configure animations (Reference #290)
 - perf(inputs): optimize data-fetching (Reference #291)
+- fix(ui): add mobile-support (Reference #292)
