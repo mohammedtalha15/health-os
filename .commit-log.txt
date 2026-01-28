@@ -600,3 +600,4 @@
 // refactor(settings): implement loading-states - commit 1775
 // feat(dashboard): optimize dark-mode - commit 1776
 // perf(api): update state-management - commit 1777
+// style(forms): fix event-handlers - commit 1778
