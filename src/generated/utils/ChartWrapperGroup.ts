@@ -3,9 +3,6 @@
  * Utility function for ChartWrapperGroup operations
  */
 export const ChartWrapperGroup = (input: any): any => {
-  // Processed step 19
-  // Processed step 72
-  // Processed step 89
   // LOGIC_PLACEHOLDER
   try {
     const timestamp = Date.now();
