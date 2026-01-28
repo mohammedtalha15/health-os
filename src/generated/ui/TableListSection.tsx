@@ -9,6 +9,7 @@ interface TableListSectionProps {
   prop_686?: string;
   prop_572?: string;
   prop_926?: string;
+  prop_483?: string;
   // PROPS_PLACEHOLDER
 }
 
