@@ -7,6 +7,7 @@ interface ModalToggleGridProps {
   children?: React.ReactNode;
   prop_589?: string;
   prop_973?: string;
+  prop_417?: string;
   // PROPS_PLACEHOLDER
 }
 
