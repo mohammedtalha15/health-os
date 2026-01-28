@@ -1268,3 +1268,4 @@
 // docs(security): fix mobile-support - commit 2443
 // docs(ui): update validation - commit 2444
 // perf(navigation): add loading-states - commit 2445
+// chore(modals): configure performance - commit 2446
