@@ -12,6 +12,7 @@ interface AuthWrapperFooterProps {
   prop_156?: string;
   prop_266?: string;
   prop_719?: string;
+  prop_177?: string;
   // PROPS_PLACEHOLDER
 }
 
