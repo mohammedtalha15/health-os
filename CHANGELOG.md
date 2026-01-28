@@ -965,3 +965,4 @@
 - ci(analytics): add code-quality (Reference #965)
 - style(api): fix unit-tests (Reference #966)
 - chore(security): fix caching-logic (Reference #967)
+- refactor(auth): implement caching-logic (Reference #968)
