@@ -387,3 +387,4 @@
 // perf(tables): update transitions - commit 1562
 // perf(cache): enhance dark-mode - commit 1563
 // docs(modals): implement caching-logic - commit 1564
+// fix(charts): fix documentation - commit 1565
