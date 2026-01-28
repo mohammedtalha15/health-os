@@ -18,6 +18,7 @@ interface ModalDataGridProps {
   prop_536?: string;
   prop_237?: string;
   prop_997?: string;
+  prop_562?: string;
   // PROPS_PLACEHOLDER
 }
 
