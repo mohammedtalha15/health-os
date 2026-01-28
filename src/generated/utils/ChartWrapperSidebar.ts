@@ -3,7 +3,6 @@
  * Utility function for ChartWrapperSidebar operations
  */
 export const ChartWrapperSidebar = (input: any): any => {
-  // Processed step 28
   // LOGIC_PLACEHOLDER
   try {
     const timestamp = Date.now();
