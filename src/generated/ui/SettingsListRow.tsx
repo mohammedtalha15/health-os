@@ -13,6 +13,7 @@ interface SettingsListRowProps {
   prop_301?: string;
   prop_348?: string;
   prop_386?: string;
+  prop_477?: string;
   // PROPS_PLACEHOLDER
 }
 
