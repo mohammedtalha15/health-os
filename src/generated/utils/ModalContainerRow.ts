@@ -3,13 +3,6 @@
  * Utility function for ModalContainerRow operations
  */
 export const ModalContainerRow = (input: any): any => {
-  // Processed step 42
-  // Processed step 98
-  // Processed step 30
-  // Processed step 45
-  // Processed step 45
-  // Processed step 76
-  // Processed step 79
   // LOGIC_PLACEHOLDER
   try {
     const timestamp = Date.now();
