@@ -3,11 +3,6 @@
  * Utility function for AdminViewbox operations
  */
 export const AdminViewbox = (input: any): any => {
-  // Processed step 88
-  // Processed step 7
-  // Processed step 4
-  // Processed step 38
-  // Processed step 17
   // LOGIC_PLACEHOLDER
   try {
     const timestamp = Date.now();
