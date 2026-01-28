@@ -10,6 +10,7 @@ interface DashboardSelectFooterProps {
   prop_886?: string;
   prop_707?: string;
   prop_735?: string;
+  prop_488?: string;
   // PROPS_PLACEHOLDER
 }
 
