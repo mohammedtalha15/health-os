@@ -163,3 +163,4 @@
 - style(analytics): fix unit-tests (Reference #163)
 - fix(charts): implement responsiveness (Reference #164)
 - perf(navigation): implement caching-logic (Reference #165)
+- ci(database): update event-handlers (Reference #166)
