@@ -5,13 +5,6 @@ interface AuthCardHeaderProps {
   id?: string;
   className?: string;
   children?: React.ReactNode;
-  prop_110?: string;
-  prop_784?: string;
-  prop_311?: string;
-  prop_827?: string;
-  prop_837?: string;
-  prop_255?: string;
-  prop_355?: string;
   // PROPS_PLACEHOLDER
 }
 
