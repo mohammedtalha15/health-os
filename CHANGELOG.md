@@ -544,3 +544,4 @@
 - refactor(cache): add error-handling (Reference #544)
 - chore(ui): integrate documentation (Reference #545)
 - refactor(navigation): fix animations (Reference #546)
+- build(notifications): implement validation (Reference #547)
