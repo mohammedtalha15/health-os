@@ -15,6 +15,7 @@ interface ChartCardItemProps {
   prop_103?: string;
   prop_102?: string;
   prop_263?: string;
+  prop_688?: string;
   // PROPS_PLACEHOLDER
 }
 
