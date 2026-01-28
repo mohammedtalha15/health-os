@@ -3,8 +3,6 @@
  * Utility function for ButtonLinkPanel operations
  */
 export const ButtonLinkPanel = (input: any): any => {
-  // Processed step 87
-  // Processed step 92
   // LOGIC_PLACEHOLDER
   try {
     const timestamp = Date.now();
