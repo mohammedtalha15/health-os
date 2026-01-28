@@ -1528,3 +1528,4 @@
 - test(security): refactor event-handlers (Reference #1528)
 - test(navigation): refactor performance (Reference #1529)
 - ci(search): refactor transitions (Reference #1530)
+- chore(profile): integrate keyboard-nav (Reference #1531)
