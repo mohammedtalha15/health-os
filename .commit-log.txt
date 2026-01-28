@@ -3325,3 +3325,4 @@
 // feat(analytics): update documentation - commit 853
 // chore(cache): enhance unit-tests - commit 854
 // build(layouts): fix state-management - commit 855
+// fix(search): refactor accessibility - commit 856
