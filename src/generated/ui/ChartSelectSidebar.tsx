@@ -5,16 +5,6 @@ interface ChartSelectSidebarProps {
   id?: string;
   className?: string;
   children?: React.ReactNode;
-  prop_248?: string;
-  prop_392?: string;
-  prop_495?: string;
-  prop_214?: string;
-  prop_693?: string;
-  prop_136?: string;
-  prop_580?: string;
-  prop_174?: string;
-  prop_947?: string;
-  prop_453?: string;
   // PROPS_PLACEHOLDER
 }
 
