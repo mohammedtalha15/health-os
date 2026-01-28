@@ -2493,3 +2493,4 @@
 // ci(navigation): fix type-definitions - commit 21
 // test(auth): fix loading-states - commit 22
 // style(navigation): implement user-experience - commit 23
+// fix(tables): add responsiveness - commit 24
