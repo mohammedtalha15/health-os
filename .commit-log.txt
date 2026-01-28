@@ -230,3 +230,4 @@
 // style(forms): implement unit-tests - commit 1405
 // feat(auth): implement keyboard-nav - commit 1406
 // chore(modals): update validation - commit 1407
+// ci(forms): configure code-quality - commit 1408
