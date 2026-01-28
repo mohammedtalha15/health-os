@@ -485,3 +485,4 @@
 // chore(inputs): add mobile-support - commit 1660
 // docs(notifications): fix unit-tests - commit 1661
 // test(forms): add animations - commit 1662
+// build(search): configure validation - commit 1663
