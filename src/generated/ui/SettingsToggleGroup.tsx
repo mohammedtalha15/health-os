@@ -10,6 +10,7 @@ interface SettingsToggleGroupProps {
   prop_291?: string;
   prop_388?: string;
   prop_354?: string;
+  prop_130?: string;
   // PROPS_PLACEHOLDER
 }
 
