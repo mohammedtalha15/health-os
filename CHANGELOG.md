@@ -1344,3 +1344,4 @@
 - ci(ui): add responsiveness (Reference #1344)
 - refactor(settings): update state-management (Reference #1345)
 - ci(notifications): optimize caching-logic (Reference #1346)
+- chore(analytics): add dark-mode (Reference #1347)
