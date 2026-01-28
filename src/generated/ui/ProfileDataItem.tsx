@@ -14,6 +14,7 @@ interface ProfileDataItemProps {
   prop_589?: string;
   prop_192?: string;
   prop_291?: string;
+  prop_778?: string;
   // PROPS_PLACEHOLDER
 }
 
