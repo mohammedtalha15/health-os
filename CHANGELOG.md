@@ -1426,3 +1426,4 @@
 - feat(dashboard): update validation (Reference #1426)
 - feat(forms): add event-handlers (Reference #1427)
 - refactor(modals): integrate unit-tests (Reference #1428)
+- build(charts): add animations (Reference #1429)
