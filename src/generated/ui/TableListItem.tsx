@@ -5,17 +5,6 @@ interface TableListItemProps {
   id?: string;
   className?: string;
   children?: React.ReactNode;
-  prop_152?: string;
-  prop_952?: string;
-  prop_346?: string;
-  prop_467?: string;
-  prop_782?: string;
-  prop_691?: string;
-  prop_307?: string;
-  prop_365?: string;
-  prop_949?: string;
-  prop_460?: string;
-  prop_687?: string;
   // PROPS_PLACEHOLDER
 }
 
