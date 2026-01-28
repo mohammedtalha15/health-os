@@ -1516,3 +1516,4 @@
 - build(database): integrate validation (Reference #1516)
 - perf(tables): refactor data-fetching (Reference #1517)
 - feat(navigation): enhance loading-states (Reference #1518)
+- chore(layouts): optimize animations (Reference #1519)
