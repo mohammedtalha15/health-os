@@ -9,6 +9,7 @@ interface ProfileViewSidebarProps {
   prop_205?: string;
   prop_106?: string;
   prop_488?: string;
+  prop_395?: string;
   // PROPS_PLACEHOLDER
 }
 
