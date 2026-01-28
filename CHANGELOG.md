@@ -571,3 +571,4 @@
 - docs(tables): add performance (Reference #571)
 - docs(ui): optimize accessibility (Reference #572)
 - chore(buttons): configure type-definitions (Reference #573)
+- refactor(buttons): enhance dark-mode (Reference #574)
