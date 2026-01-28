@@ -33,3 +33,4 @@
 - refactor(inputs): fix event-handlers (Reference #33)
 - docs(security): integrate code-quality (Reference #34)
 - docs(notifications): fix responsiveness (Reference #35)
+- refactor(auth): implement type-definitions (Reference #36)
