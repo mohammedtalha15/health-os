@@ -484,3 +484,4 @@
 - feat(layouts): optimize loading-states (Reference #484)
 - docs(api): fix mobile-support (Reference #485)
 - build(charts): enhance accessibility (Reference #486)
+- ci(search): update state-management (Reference #487)
