@@ -794,3 +794,4 @@
 - build(ui): enhance documentation (Reference #794)
 - refactor(dashboard): update responsiveness (Reference #795)
 - chore(profile): configure user-experience (Reference #796)
+- refactor(forms): improve mobile-support (Reference #797)
