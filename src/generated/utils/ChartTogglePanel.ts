@@ -3,9 +3,6 @@
  * Utility function for ChartTogglePanel operations
  */
 export const ChartTogglePanel = (input: any): any => {
-  // Processed step 28
-  // Processed step 58
-  // Processed step 79
   // LOGIC_PLACEHOLDER
   try {
     const timestamp = Date.now();
