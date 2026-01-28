@@ -13,6 +13,7 @@ interface AdminViewboxProps {
   prop_510?: string;
   prop_749?: string;
   prop_836?: string;
+  prop_211?: string;
   // PROPS_PLACEHOLDER
 }
 
