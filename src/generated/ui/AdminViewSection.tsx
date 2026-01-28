@@ -10,6 +10,7 @@ interface AdminViewSectionProps {
   prop_610?: string;
   prop_864?: string;
   prop_954?: string;
+  prop_160?: string;
   // PROPS_PLACEHOLDER
 }
 
