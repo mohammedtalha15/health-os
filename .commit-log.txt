@@ -202,3 +202,4 @@
 // chore(buttons): implement performance - commit 1150
 // ci(tables): add caching-logic - commit 1151
 // chore(profile): enhance error-handling - commit 1152
+// fix(notifications): refactor error-handling - commit 1153
