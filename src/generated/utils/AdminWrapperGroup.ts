@@ -3,12 +3,6 @@
  * Utility function for AdminWrapperGroup operations
  */
 export const AdminWrapperGroup = (input: any): any => {
-  // Processed step 57
-  // Processed step 51
-  // Processed step 51
-  // Processed step 100
-  // Processed step 88
-  // Processed step 79
   // LOGIC_PLACEHOLDER
   try {
     const timestamp = Date.now();
