@@ -14,6 +14,7 @@ interface AuthCardGroupProps {
   prop_601?: string;
   prop_161?: string;
   prop_668?: string;
+  prop_685?: string;
   // PROPS_PLACEHOLDER
 }
 
