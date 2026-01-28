@@ -10,6 +10,7 @@ interface ProfileListRowProps {
   prop_260?: string;
   prop_599?: string;
   prop_277?: string;
+  prop_679?: string;
   // PROPS_PLACEHOLDER
 }
 
