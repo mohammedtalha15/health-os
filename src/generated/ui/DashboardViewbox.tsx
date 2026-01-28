@@ -7,6 +7,7 @@ interface DashboardViewboxProps {
   children?: React.ReactNode;
   prop_283?: string;
   prop_240?: string;
+  prop_836?: string;
   // PROPS_PLACEHOLDER
 }
 
