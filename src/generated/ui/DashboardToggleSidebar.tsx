@@ -21,6 +21,7 @@ interface DashboardToggleSidebarProps {
   prop_871?: string;
   prop_590?: string;
   prop_295?: string;
+  prop_228?: string;
   // PROPS_PLACEHOLDER
 }
 
