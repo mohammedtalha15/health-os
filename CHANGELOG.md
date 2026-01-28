@@ -1122,3 +1122,4 @@
 - build(charts): update responsiveness (Reference #1122)
 - fix(security): configure user-experience (Reference #1123)
 - feat(charts): optimize error-handling (Reference #1124)
+- build(tables): implement performance (Reference #1125)
