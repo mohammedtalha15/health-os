@@ -5,21 +5,6 @@ interface TableWrapperRowProps {
   id?: string;
   className?: string;
   children?: React.ReactNode;
-  prop_734?: string;
-  prop_144?: string;
-  prop_964?: string;
-  prop_441?: string;
-  prop_318?: string;
-  prop_294?: string;
-  prop_298?: string;
-  prop_432?: string;
-  prop_208?: string;
-  prop_767?: string;
-  prop_856?: string;
-  prop_226?: string;
-  prop_964?: string;
-  prop_581?: string;
-  prop_579?: string;
   // PROPS_PLACEHOLDER
 }
 
