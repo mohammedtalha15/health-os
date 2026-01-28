@@ -483,3 +483,4 @@
 - docs(profile): improve transitions (Reference #483)
 - feat(layouts): optimize loading-states (Reference #484)
 - docs(api): fix mobile-support (Reference #485)
+- build(charts): enhance accessibility (Reference #486)
