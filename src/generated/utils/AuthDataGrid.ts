@@ -3,8 +3,6 @@
  * Utility function for AuthDataGrid operations
  */
 export const AuthDataGrid = (input: any): any => {
-  // Processed step 80
-  // Processed step 23
   // LOGIC_PLACEHOLDER
   try {
     const timestamp = Date.now();
