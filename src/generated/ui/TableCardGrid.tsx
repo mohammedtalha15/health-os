@@ -12,6 +12,7 @@ interface TableCardGridProps {
   prop_451?: string;
   prop_170?: string;
   prop_448?: string;
+  prop_106?: string;
   // PROPS_PLACEHOLDER
 }
 
