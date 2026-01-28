@@ -7,6 +7,7 @@ interface ButtonCardHeaderProps {
   children?: React.ReactNode;
   prop_372?: string;
   prop_383?: string;
+  prop_295?: string;
   // PROPS_PLACEHOLDER
 }
 
