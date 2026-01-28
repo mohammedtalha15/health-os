@@ -2161,3 +2161,4 @@
 // feat(dashboard): implement transitions - commit 197
 // style(search): refactor  - commit 198
 // chore(auth): configure data fetching - commit 199
+// (dashboard): implement user experience - commit 200
