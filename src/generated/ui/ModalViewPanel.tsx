@@ -5,8 +5,6 @@ interface ModalViewPanelProps {
   id?: string;
   className?: string;
   children?: React.ReactNode;
-  prop_384?: string;
-  prop_878?: string;
   // PROPS_PLACEHOLDER
 }
 
