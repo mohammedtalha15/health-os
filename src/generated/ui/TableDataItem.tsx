@@ -11,6 +11,7 @@ interface TableDataItemProps {
   prop_918?: string;
   prop_533?: string;
   prop_264?: string;
+  prop_294?: string;
   // PROPS_PLACEHOLDER
 }
 
