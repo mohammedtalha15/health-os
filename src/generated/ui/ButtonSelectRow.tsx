@@ -7,6 +7,7 @@ interface ButtonSelectRowProps {
   children?: React.ReactNode;
   prop_349?: string;
   prop_158?: string;
+  prop_561?: string;
   // PROPS_PLACEHOLDER
 }
 
