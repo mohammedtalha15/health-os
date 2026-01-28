@@ -13,6 +13,7 @@ interface ChartCardPanelProps {
   prop_773?: string;
   prop_504?: string;
   prop_876?: string;
+  prop_472?: string;
   // PROPS_PLACEHOLDER
 }
 
