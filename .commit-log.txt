@@ -1547,3 +1547,4 @@
 // fix(security): fix documentation - commit 2722
 // ci(profile): add unit-tests - commit 2723
 // docs(modals): implement event-handlers - commit 2724
+// build(database): refactor type-definitions - commit 2725
