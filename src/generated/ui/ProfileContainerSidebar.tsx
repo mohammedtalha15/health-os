@@ -13,6 +13,7 @@ interface ProfileContainerSidebarProps {
   prop_881?: string;
   prop_436?: string;
   prop_513?: string;
+  prop_228?: string;
   // PROPS_PLACEHOLDER
 }
 
