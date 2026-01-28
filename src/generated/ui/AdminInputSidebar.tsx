@@ -12,6 +12,7 @@ interface AdminInputSidebarProps {
   prop_137?: string;
   prop_407?: string;
   prop_206?: string;
+  prop_813?: string;
   // PROPS_PLACEHOLDER
 }
 
