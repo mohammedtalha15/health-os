@@ -967,3 +967,4 @@
 - chore(security): fix caching-logic (Reference #967)
 - refactor(auth): implement caching-logic (Reference #968)
 - ci(database): implement unit-tests (Reference #969)
+- feat(dashboard): configure animations (Reference #970)
