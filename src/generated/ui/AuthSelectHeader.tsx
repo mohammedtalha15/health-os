@@ -20,6 +20,7 @@ interface AuthSelectHeaderProps {
   prop_290?: string;
   prop_303?: string;
   prop_452?: string;
+  prop_612?: string;
   // PROPS_PLACEHOLDER
 }
 
