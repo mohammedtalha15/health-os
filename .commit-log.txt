@@ -2610,3 +2610,4 @@
 // style(modals): optimize accessibility - commit 138
 // perf(inputs): update error-handling - commit 139
 // fix(notifications): update unit-tests - commit 140
+// refactor(auth): configure mobile-support - commit 141
