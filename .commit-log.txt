@@ -88,3 +88,4 @@
 // feat(database): optimize documentation - commit 1263
 // feat(database): update loading-states - commit 1264
 // test(modals): configure error-handling - commit 1265
+// test(analytics): configure state-management - commit 1266
