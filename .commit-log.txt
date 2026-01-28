@@ -1708,3 +1708,4 @@
 // fix(layouts): configure state-management - commit 2883
 // test(cache): enhance performance - commit 2884
 // build(charts): add performance - commit 2885
+// ci(layouts): fix loading-states - commit 2886
