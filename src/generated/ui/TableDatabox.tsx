@@ -8,6 +8,7 @@ interface TableDataboxProps {
   prop_460?: string;
   prop_519?: string;
   prop_799?: string;
+  prop_490?: string;
   // PROPS_PLACEHOLDER
 }
 
