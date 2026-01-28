@@ -2700,3 +2700,4 @@
 // test(notifications): refactor unit-tests - commit 228
 // refactor(settings): optimize accessibility - commit 229
 // fix(charts): refactor dark-mode - commit 230
+// style(modals): fix documentation - commit 231
