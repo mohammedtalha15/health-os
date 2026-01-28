@@ -7,6 +7,7 @@ interface UserListHeaderProps {
   children?: React.ReactNode;
   prop_846?: string;
   prop_745?: string;
+  prop_388?: string;
   // PROPS_PLACEHOLDER
 }
 
