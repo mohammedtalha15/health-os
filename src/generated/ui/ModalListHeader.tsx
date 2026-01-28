@@ -5,6 +5,7 @@ interface ModalListHeaderProps {
   id?: string;
   className?: string;
   children?: React.ReactNode;
+  prop_261?: string;
   // PROPS_PLACEHOLDER
 }
 
