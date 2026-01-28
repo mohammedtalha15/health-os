@@ -290,3 +290,4 @@
 - style(layouts): configure animations (Reference #290)
 - perf(inputs): optimize data-fetching (Reference #291)
 - fix(ui): add mobile-support (Reference #292)
+- ci(inputs): optimize mobile-support (Reference #293)
