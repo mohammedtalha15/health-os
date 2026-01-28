@@ -11,6 +11,7 @@ interface SettingsContainerSidebarProps {
   prop_808?: string;
   prop_272?: string;
   prop_872?: string;
+  prop_729?: string;
   // PROPS_PLACEHOLDER
 }
 
