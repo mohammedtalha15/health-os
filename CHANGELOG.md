@@ -681,3 +681,4 @@
 - test(security): update data-fetching (Reference #681)
 - build(search): refactor type-definitions (Reference #682)
 - style(forms): add type-definitions (Reference #683)
+- test(cache): refactor responsiveness (Reference #684)
