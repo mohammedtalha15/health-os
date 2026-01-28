@@ -5,11 +5,6 @@ interface ProfileListPanelProps {
   id?: string;
   className?: string;
   children?: React.ReactNode;
-  prop_762?: string;
-  prop_897?: string;
-  prop_749?: string;
-  prop_575?: string;
-  prop_637?: string;
   // PROPS_PLACEHOLDER
 }
 
