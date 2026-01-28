@@ -7,6 +7,7 @@ interface ModalSelectRowProps {
   children?: React.ReactNode;
   prop_443?: string;
   prop_240?: string;
+  prop_972?: string;
   // PROPS_PLACEHOLDER
 }
 
