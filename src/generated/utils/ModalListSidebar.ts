@@ -3,7 +3,6 @@
  * Utility function for ModalListSidebar operations
  */
 export const ModalListSidebar = (input: any): any => {
-  // Processed step 71
   // LOGIC_PLACEHOLDER
   try {
     const timestamp = Date.now();
