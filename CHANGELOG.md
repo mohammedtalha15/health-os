@@ -548,3 +548,4 @@
 - fix(charts): configure animations (Reference #548)
 - ci(buttons): integrate code-quality (Reference #549)
 - docs(database): update documentation (Reference #550)
+- refactor(layouts): integrate loading-states (Reference #551)
