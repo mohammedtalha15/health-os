@@ -9,6 +9,7 @@ interface TableDataSidebarProps {
   prop_801?: string;
   prop_296?: string;
   prop_977?: string;
+  prop_252?: string;
   // PROPS_PLACEHOLDER
 }
 
