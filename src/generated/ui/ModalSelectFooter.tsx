@@ -9,6 +9,7 @@ interface ModalSelectFooterProps {
   prop_892?: string;
   prop_710?: string;
   prop_459?: string;
+  prop_326?: string;
   // PROPS_PLACEHOLDER
 }
 
