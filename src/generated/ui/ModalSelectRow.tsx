@@ -5,18 +5,6 @@ interface ModalSelectRowProps {
   id?: string;
   className?: string;
   children?: React.ReactNode;
-  prop_303?: string;
-  prop_970?: string;
-  prop_885?: string;
-  prop_934?: string;
-  prop_513?: string;
-  prop_273?: string;
-  prop_626?: string;
-  prop_598?: string;
-  prop_569?: string;
-  prop_893?: string;
-  prop_803?: string;
-  prop_355?: string;
   // PROPS_PLACEHOLDER
 }
 
