@@ -7,6 +7,7 @@ interface ChartContainerSectionProps {
   children?: React.ReactNode;
   prop_386?: string;
   prop_678?: string;
+  prop_445?: string;
   // PROPS_PLACEHOLDER
 }
 
