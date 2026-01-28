@@ -15,6 +15,7 @@ interface ChartSelectSectionProps {
   prop_910?: string;
   prop_906?: string;
   prop_954?: string;
+  prop_837?: string;
   // PROPS_PLACEHOLDER
 }
 
