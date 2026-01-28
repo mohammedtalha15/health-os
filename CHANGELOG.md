@@ -1184,3 +1184,4 @@
 - style(dashboard): enhance code-quality (Reference #1184)
 - style(database): configure validation (Reference #1185)
 - style(api): enhance mobile-support (Reference #1186)
+- build(ui): improve type-definitions (Reference #1187)
