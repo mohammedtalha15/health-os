@@ -5,6 +5,7 @@ interface ButtonViewSectionProps {
   id?: string;
   className?: string;
   children?: React.ReactNode;
+  prop_739?: string;
   // PROPS_PLACEHOLDER
 }
 
