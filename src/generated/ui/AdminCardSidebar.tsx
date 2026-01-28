@@ -5,19 +5,6 @@ interface AdminCardSidebarProps {
   id?: string;
   className?: string;
   children?: React.ReactNode;
-  prop_555?: string;
-  prop_831?: string;
-  prop_577?: string;
-  prop_464?: string;
-  prop_318?: string;
-  prop_329?: string;
-  prop_457?: string;
-  prop_935?: string;
-  prop_149?: string;
-  prop_717?: string;
-  prop_397?: string;
-  prop_952?: string;
-  prop_765?: string;
   // PROPS_PLACEHOLDER
 }
 
