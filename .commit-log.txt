@@ -124,3 +124,4 @@
 // docs(charts): add user-experience - commit 1072
 // style(security): enhance error-handling - commit 1073
 // docs(buttons): implement loading-states - commit 1074
+// build(charts): add animations - commit 1075
