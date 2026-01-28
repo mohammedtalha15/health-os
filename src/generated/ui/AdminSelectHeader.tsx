@@ -13,6 +13,7 @@ interface AdminSelectHeaderProps {
   prop_776?: string;
   prop_326?: string;
   prop_937?: string;
+  prop_686?: string;
   // PROPS_PLACEHOLDER
 }
 
