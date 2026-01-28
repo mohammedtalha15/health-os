@@ -10,6 +10,7 @@ interface AdminContainerGridProps {
   prop_412?: string;
   prop_810?: string;
   prop_227?: string;
+  prop_155?: string;
   // PROPS_PLACEHOLDER
 }
 
