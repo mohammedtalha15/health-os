@@ -3,8 +3,6 @@
  * Utility function for UserWrapperGrid operations
  */
 export const UserWrapperGrid = (input: any): any => {
-  // Processed step 17
-  // Processed step 20
   // LOGIC_PLACEHOLDER
   try {
     const timestamp = Date.now();
