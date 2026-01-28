@@ -3,8 +3,6 @@
  * Utility function for ButtonToggleFooter operations
  */
 export const ButtonToggleFooter = (input: any): any => {
-  // Processed step 48
-  // Processed step 17
   // LOGIC_PLACEHOLDER
   try {
     const timestamp = Date.now();
