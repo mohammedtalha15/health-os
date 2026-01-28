@@ -6,6 +6,7 @@ interface DashboardContainerboxProps {
   className?: string;
   children?: React.ReactNode;
   prop_146?: string;
+  prop_692?: string;
   // PROPS_PLACEHOLDER
 }
 
