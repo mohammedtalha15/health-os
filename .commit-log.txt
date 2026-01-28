@@ -3267,3 +3267,4 @@
 // fix(security): update animations - commit 795
 // style(profile): implement accessibility - commit 796
 // refactor(layouts): add responsiveness - commit 797
+// docs(charts): optimize user-experience - commit 798
