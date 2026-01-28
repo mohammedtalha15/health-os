@@ -427,3 +427,4 @@
 - build(dashboard): update code-quality (Reference #427)
 - chore(auth): fix responsiveness (Reference #428)
 - refactor(notifications): configure documentation (Reference #429)
+- docs(auth): configure error-handling (Reference #430)
