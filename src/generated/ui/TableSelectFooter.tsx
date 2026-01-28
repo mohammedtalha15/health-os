@@ -5,10 +5,6 @@ interface TableSelectFooterProps {
   id?: string;
   className?: string;
   children?: React.ReactNode;
-  prop_657?: string;
-  prop_377?: string;
-  prop_511?: string;
-  prop_881?: string;
   // PROPS_PLACEHOLDER
 }
 
