@@ -5,13 +5,6 @@ interface ProfileInputItemProps {
   id?: string;
   className?: string;
   children?: React.ReactNode;
-  prop_719?: string;
-  prop_261?: string;
-  prop_950?: string;
-  prop_307?: string;
-  prop_232?: string;
-  prop_575?: string;
-  prop_703?: string;
   // PROPS_PLACEHOLDER
 }
 
