@@ -268,3 +268,4 @@
 // ci(ui): update event-handlers - commit 1443
 // build(settings): optimize documentation - commit 1444
 // feat(search): fix performance - commit 1445
+// feat(navigation): integrate performance - commit 1446
