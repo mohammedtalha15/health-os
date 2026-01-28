@@ -9,6 +9,7 @@ interface ChartLinkRowProps {
   prop_209?: string;
   prop_328?: string;
   prop_669?: string;
+  prop_536?: string;
   // PROPS_PLACEHOLDER
 }
 
