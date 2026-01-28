@@ -7,6 +7,7 @@ interface ModalInputSidebarProps {
   children?: React.ReactNode;
   prop_892?: string;
   prop_330?: string;
+  prop_788?: string;
   // PROPS_PLACEHOLDER
 }
 
