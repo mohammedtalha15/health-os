@@ -18,6 +18,7 @@ interface ButtonDataItemProps {
   prop_974?: string;
   prop_487?: string;
   prop_857?: string;
+  prop_933?: string;
   // PROPS_PLACEHOLDER
 }
 
