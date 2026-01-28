@@ -1413,3 +1413,4 @@
 - fix(settings): improve error-handling (Reference #1413)
 - style(search): update performance (Reference #1414)
 - perf(settings): add performance (Reference #1415)
+- ci(notifications): integrate mobile-support (Reference #1416)
