@@ -5,8 +5,6 @@ interface ButtonViewItemProps {
   id?: string;
   className?: string;
   children?: React.ReactNode;
-  prop_961?: string;
-  prop_216?: string;
   // PROPS_PLACEHOLDER
 }
 
