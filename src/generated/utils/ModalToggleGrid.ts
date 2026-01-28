@@ -3,8 +3,6 @@
  * Utility function for ModalToggleGrid operations
  */
 export const ModalToggleGrid = (input: any): any => {
-  // Processed step 85
-  // Processed step 68
   // LOGIC_PLACEHOLDER
   try {
     const timestamp = Date.now();
