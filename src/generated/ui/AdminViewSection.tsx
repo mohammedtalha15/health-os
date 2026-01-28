@@ -6,6 +6,7 @@ interface AdminViewSectionProps {
   className?: string;
   children?: React.ReactNode;
   prop_968?: string;
+  prop_991?: string;
   // PROPS_PLACEHOLDER
 }
 
