@@ -1031,3 +1031,4 @@
 - build(database): implement type-definitions (Reference #1031)
 - ci(layouts): enhance unit-tests (Reference #1032)
 - fix(ui): optimize validation (Reference #1033)
+- test(navigation): fix accessibility (Reference #1034)
