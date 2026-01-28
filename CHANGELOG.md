@@ -797,3 +797,4 @@
 - refactor(forms): improve mobile-support (Reference #797)
 - test(dashboard): integrate data-fetching (Reference #798)
 - refactor(database): refactor dark-mode (Reference #799)
+- style(forms): add code-quality (Reference #800)
