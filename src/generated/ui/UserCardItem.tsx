@@ -5,28 +5,6 @@ interface UserCardItemProps {
   id?: string;
   className?: string;
   children?: React.ReactNode;
-  prop_638?: string;
-  prop_993?: string;
-  prop_845?: string;
-  prop_986?: string;
-  prop_705?: string;
-  prop_792?: string;
-  prop_448?: string;
-  prop_875?: string;
-  prop_542?: string;
-  prop_452?: string;
-  prop_893?: string;
-  prop_631?: string;
-  prop_165?: string;
-  prop_982?: string;
-  prop_501?: string;
-  prop_869?: string;
-  prop_994?: string;
-  prop_618?: string;
-  prop_875?: string;
-  prop_680?: string;
-  prop_901?: string;
-  prop_696?: string;
   // PROPS_PLACEHOLDER
 }
 
