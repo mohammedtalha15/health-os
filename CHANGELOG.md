@@ -297,3 +297,4 @@
 - docs(auth): implement event-handlers (Reference #297)
 - style(inputs): add performance (Reference #298)
 - test(tables): add documentation (Reference #299)
+- perf(database): improve state-management (Reference #300)
