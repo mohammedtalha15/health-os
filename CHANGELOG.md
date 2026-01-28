@@ -349,3 +349,4 @@
 - chore(tables): add unit-tests (Reference #349)
 - perf(cache): implement data-fetching (Reference #350)
 - build(buttons): implement performance (Reference #351)
+- feat(charts): integrate documentation (Reference #352)
