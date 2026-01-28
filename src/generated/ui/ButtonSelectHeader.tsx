@@ -21,6 +21,7 @@ interface ButtonSelectHeaderProps {
   prop_103?: string;
   prop_422?: string;
   prop_125?: string;
+  prop_299?: string;
   // PROPS_PLACEHOLDER
 }
 
