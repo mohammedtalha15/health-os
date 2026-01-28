@@ -7,6 +7,7 @@ interface SettingsSelectFooterProps {
   children?: React.ReactNode;
   prop_142?: string;
   prop_612?: string;
+  prop_456?: string;
   // PROPS_PLACEHOLDER
 }
 
