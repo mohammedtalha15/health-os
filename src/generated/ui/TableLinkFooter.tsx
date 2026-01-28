@@ -12,6 +12,7 @@ interface TableLinkFooterProps {
   prop_715?: string;
   prop_642?: string;
   prop_254?: string;
+  prop_224?: string;
   // PROPS_PLACEHOLDER
 }
 
