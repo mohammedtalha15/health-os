@@ -7,6 +7,7 @@ interface AuthListItemProps {
   children?: React.ReactNode;
   prop_921?: string;
   prop_346?: string;
+  prop_711?: string;
   // PROPS_PLACEHOLDER
 }
 
