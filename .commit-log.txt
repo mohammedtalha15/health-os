@@ -128,3 +128,4 @@
 // build(profile): enhance mobile-support - commit 1076
 // build(tables): configure loading-states - commit 1077
 // build(api): configure validation - commit 1078
+// chore(inputs): integrate validation - commit 1079
