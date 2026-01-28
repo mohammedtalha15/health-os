@@ -6,6 +6,7 @@ interface ButtonToggleGridProps {
   className?: string;
   children?: React.ReactNode;
   prop_411?: string;
+  prop_601?: string;
   // PROPS_PLACEHOLDER
 }
 
