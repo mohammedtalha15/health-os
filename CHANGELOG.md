@@ -676,3 +676,4 @@
 - docs(search): enhance loading-states (Reference #676)
 - refactor(tables): configure dark-mode (Reference #677)
 - style(navigation): optimize unit-tests (Reference #678)
+- ci(database): configure validation (Reference #679)
