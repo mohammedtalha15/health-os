@@ -3,9 +3,6 @@
  * Utility function for ModalCardSection operations
  */
 export const ModalCardSection = (input: any): any => {
-  // Processed step 36
-  // Processed step 41
-  // Processed step 40
   // LOGIC_PLACEHOLDER
   try {
     const timestamp = Date.now();
