@@ -5,10 +5,6 @@ interface ProfileLinkHeaderProps {
   id?: string;
   className?: string;
   children?: React.ReactNode;
-  prop_839?: string;
-  prop_596?: string;
-  prop_550?: string;
-  prop_895?: string;
   // PROPS_PLACEHOLDER
 }
 
