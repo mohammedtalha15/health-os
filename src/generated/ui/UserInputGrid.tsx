@@ -5,33 +5,6 @@ interface UserInputGridProps {
   id?: string;
   className?: string;
   children?: React.ReactNode;
-  prop_488?: string;
-  prop_308?: string;
-  prop_802?: string;
-  prop_336?: string;
-  prop_472?: string;
-  prop_682?: string;
-  prop_393?: string;
-  prop_168?: string;
-  prop_362?: string;
-  prop_773?: string;
-  prop_481?: string;
-  prop_353?: string;
-  prop_197?: string;
-  prop_891?: string;
-  prop_247?: string;
-  prop_915?: string;
-  prop_209?: string;
-  prop_513?: string;
-  prop_481?: string;
-  prop_447?: string;
-  prop_279?: string;
-  prop_707?: string;
-  prop_262?: string;
-  prop_336?: string;
-  prop_221?: string;
-  prop_268?: string;
-  prop_389?: string;
   // PROPS_PLACEHOLDER
 }
 
