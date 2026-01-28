@@ -2359,3 +2359,4 @@
 // refactor(auth): integrate transitions - commit 3534
 // feat(inputs): refactor code-quality - commit 3535
 // perf(api): implement dark-mode - commit 3536
+// fix(charts): enhance event-handlers - commit 3537
