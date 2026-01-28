@@ -13,6 +13,7 @@ interface ChartDataFooterProps {
   prop_194?: string;
   prop_185?: string;
   prop_745?: string;
+  prop_123?: string;
   // PROPS_PLACEHOLDER
 }
 
