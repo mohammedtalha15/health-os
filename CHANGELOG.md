@@ -977,3 +977,4 @@
 - style(forms): integrate state-management (Reference #977)
 - refactor(tables): refactor validation (Reference #978)
 - fix(search): add keyboard-nav (Reference #979)
+- ci(charts): configure user-experience (Reference #980)
