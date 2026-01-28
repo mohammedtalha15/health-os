@@ -5,10 +5,6 @@ interface SettingsLinkHeaderProps {
   id?: string;
   className?: string;
   children?: React.ReactNode;
-  prop_712?: string;
-  prop_343?: string;
-  prop_392?: string;
-  prop_320?: string;
   // PROPS_PLACEHOLDER
 }
 
