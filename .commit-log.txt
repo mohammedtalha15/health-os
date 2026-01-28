@@ -624,3 +624,4 @@
 // style(analytics): refactor data-fetching - commit 1799
 // style(api): enhance keyboard-nav - commit 1800
 // chore(dashboard): enhance dark-mode - commit 1801
+// feat(charts): optimize documentation - commit 1802
