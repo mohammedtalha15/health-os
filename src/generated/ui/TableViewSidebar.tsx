@@ -7,6 +7,7 @@ interface TableViewSidebarProps {
   children?: React.ReactNode;
   prop_171?: string;
   prop_561?: string;
+  prop_496?: string;
   // PROPS_PLACEHOLDER
 }
 
