@@ -5,24 +5,6 @@ interface ModalListSectionProps {
   id?: string;
   className?: string;
   children?: React.ReactNode;
-  prop_380?: string;
-  prop_695?: string;
-  prop_395?: string;
-  prop_593?: string;
-  prop_337?: string;
-  prop_766?: string;
-  prop_856?: string;
-  prop_485?: string;
-  prop_814?: string;
-  prop_955?: string;
-  prop_298?: string;
-  prop_800?: string;
-  prop_309?: string;
-  prop_969?: string;
-  prop_929?: string;
-  prop_738?: string;
-  prop_753?: string;
-  prop_120?: string;
   // PROPS_PLACEHOLDER
 }
 
