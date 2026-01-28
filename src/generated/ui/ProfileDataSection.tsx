@@ -15,6 +15,7 @@ interface ProfileDataSectionProps {
   prop_432?: string;
   prop_383?: string;
   prop_643?: string;
+  prop_389?: string;
   // PROPS_PLACEHOLDER
 }
 
