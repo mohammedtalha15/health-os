@@ -886,3 +886,4 @@
 - fix(tables): implement dark-mode (Reference #886)
 - feat(layouts): fix dark-mode (Reference #887)
 - feat(profile): update keyboard-nav (Reference #888)
+- perf(api): implement transitions (Reference #889)
