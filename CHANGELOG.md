@@ -146,3 +146,4 @@
 - perf(inputs): optimize caching-logic (Reference #146)
 - build(api): enhance error-handling (Reference #147)
 - style(security): fix type-definitions (Reference #148)
+- chore(database): update state-management (Reference #149)
