@@ -8,6 +8,7 @@ interface ChartListPanelProps {
   prop_428?: string;
   prop_653?: string;
   prop_856?: string;
+  prop_213?: string;
   // PROPS_PLACEHOLDER
 }
 
