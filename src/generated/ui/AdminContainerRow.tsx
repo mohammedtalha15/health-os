@@ -7,6 +7,7 @@ interface AdminContainerRowProps {
   children?: React.ReactNode;
   prop_666?: string;
   prop_605?: string;
+  prop_721?: string;
   // PROPS_PLACEHOLDER
 }
 
