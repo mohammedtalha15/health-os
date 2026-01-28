@@ -9,6 +9,7 @@ interface ProfileViewGroupProps {
   prop_564?: string;
   prop_381?: string;
   prop_182?: string;
+  prop_719?: string;
   // PROPS_PLACEHOLDER
 }
 
