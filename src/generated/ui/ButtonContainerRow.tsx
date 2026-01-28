@@ -6,6 +6,7 @@ interface ButtonContainerRowProps {
   className?: string;
   children?: React.ReactNode;
   prop_155?: string;
+  prop_106?: string;
   // PROPS_PLACEHOLDER
 }
 
