@@ -8,6 +8,7 @@ interface ButtonSelectSectionProps {
   prop_644?: string;
   prop_586?: string;
   prop_282?: string;
+  prop_906?: string;
   // PROPS_PLACEHOLDER
 }
 
