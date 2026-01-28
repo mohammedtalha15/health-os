@@ -10,6 +10,7 @@ interface ButtonWrapperGridProps {
   prop_627?: string;
   prop_693?: string;
   prop_810?: string;
+  prop_613?: string;
   // PROPS_PLACEHOLDER
 }
 
