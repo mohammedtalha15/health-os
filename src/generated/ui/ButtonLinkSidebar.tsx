@@ -9,6 +9,7 @@ interface ButtonLinkSidebarProps {
   prop_921?: string;
   prop_121?: string;
   prop_985?: string;
+  prop_127?: string;
   // PROPS_PLACEHOLDER
 }
 
