@@ -205,3 +205,4 @@
 // fix(notifications): refactor error-handling - commit 1153
 // fix(settings): optimize caching-logic - commit 1154
 // ci(layouts): add user-experience - commit 1155
+// style(auth): update transitions - commit 1156
