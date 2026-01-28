@@ -395,3 +395,4 @@
 - feat(navigation): optimize data-fetching (Reference #395)
 - ci(dashboard): improve documentation (Reference #396)
 - refactor(database): update keyboard-nav (Reference #397)
+- test(api): refactor data-fetching (Reference #398)
