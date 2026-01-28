@@ -379,3 +379,4 @@
 - refactor(cache): configure state-management (Reference #379)
 - docs(forms): integrate dark-mode (Reference #380)
 - build(tables): integrate keyboard-nav (Reference #381)
+- chore(security): optimize type-definitions (Reference #382)
