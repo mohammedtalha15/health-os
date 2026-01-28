@@ -19,6 +19,7 @@ interface ButtonContainerRowProps {
   prop_297?: string;
   prop_793?: string;
   prop_785?: string;
+  prop_233?: string;
   // PROPS_PLACEHOLDER
 }
 
