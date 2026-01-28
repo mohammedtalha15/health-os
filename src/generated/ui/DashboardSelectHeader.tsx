@@ -5,11 +5,6 @@ interface DashboardSelectHeaderProps {
   id?: string;
   className?: string;
   children?: React.ReactNode;
-  prop_374?: string;
-  prop_216?: string;
-  prop_616?: string;
-  prop_200?: string;
-  prop_189?: string;
   // PROPS_PLACEHOLDER
 }
 
