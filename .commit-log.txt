@@ -356,3 +356,4 @@
 // test(api): integrate event-handlers - commit 1531
 // fix(settings): improve user-experience - commit 1532
 // feat(cache): implement dark-mode - commit 1533
+// style(navigation): integrate event-handlers - commit 1534
