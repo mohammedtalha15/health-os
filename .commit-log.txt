@@ -2650,3 +2650,4 @@
 // refactor(layouts): implement state-management - commit 178
 // docs(tables): integrate performance - commit 179
 // refactor(buttons): add animations - commit 180
+// chore(buttons): implement documentation - commit 181
