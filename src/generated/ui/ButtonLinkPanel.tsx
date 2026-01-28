@@ -23,6 +23,7 @@ interface ButtonLinkPanelProps {
   prop_743?: string;
   prop_856?: string;
   prop_618?: string;
+  prop_213?: string;
   // PROPS_PLACEHOLDER
 }
 
