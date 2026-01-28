@@ -3,9 +3,6 @@
  * Utility function for AuthLinkItem operations
  */
 export const AuthLinkItem = (input: any): any => {
-  // Processed step 86
-  // Processed step 85
-  // Processed step 57
   // LOGIC_PLACEHOLDER
   try {
     const timestamp = Date.now();
