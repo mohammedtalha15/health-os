@@ -1175,3 +1175,4 @@
 - fix(auth): enhance transitions (Reference #1175)
 - feat(notifications): integrate responsiveness (Reference #1176)
 - style(ui): enhance data-fetching (Reference #1177)
+- perf(inputs): configure code-quality (Reference #1178)
