@@ -8,6 +8,7 @@ interface ButtonTogglePanelProps {
   prop_414?: string;
   prop_904?: string;
   prop_389?: string;
+  prop_154?: string;
   // PROPS_PLACEHOLDER
 }
 
