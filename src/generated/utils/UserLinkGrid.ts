@@ -3,9 +3,6 @@
  * Utility function for UserLinkGrid operations
  */
 export const UserLinkGrid = (input: any): any => {
-  // Processed step 92
-  // Processed step 70
-  // Processed step 54
   // LOGIC_PLACEHOLDER
   try {
     const timestamp = Date.now();
