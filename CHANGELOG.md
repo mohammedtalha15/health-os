@@ -481,3 +481,4 @@
 - test(search): refactor dark-mode (Reference #481)
 - ci(buttons): integrate user-experience (Reference #482)
 - docs(profile): improve transitions (Reference #483)
+- feat(layouts): optimize loading-states (Reference #484)
