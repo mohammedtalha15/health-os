@@ -14,6 +14,7 @@ interface ModalWrapperGridProps {
   prop_173?: string;
   prop_348?: string;
   prop_106?: string;
+  prop_526?: string;
   // PROPS_PLACEHOLDER
 }
 
