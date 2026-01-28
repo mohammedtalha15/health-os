@@ -5,15 +5,6 @@ interface ModalInputRowProps {
   id?: string;
   className?: string;
   children?: React.ReactNode;
-  prop_780?: string;
-  prop_181?: string;
-  prop_434?: string;
-  prop_887?: string;
-  prop_127?: string;
-  prop_111?: string;
-  prop_347?: string;
-  prop_935?: string;
-  prop_663?: string;
   // PROPS_PLACEHOLDER
 }
 
