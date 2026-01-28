@@ -18,6 +18,7 @@ interface AdminInputGroupProps {
   prop_124?: string;
   prop_467?: string;
   prop_674?: string;
+  prop_997?: string;
   // PROPS_PLACEHOLDER
 }
 
