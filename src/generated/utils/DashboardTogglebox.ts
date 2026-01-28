@@ -3,12 +3,6 @@
  * Utility function for DashboardTogglebox operations
  */
 export const DashboardTogglebox = (input: any): any => {
-  // Processed step 22
-  // Processed step 80
-  // Processed step 55
-  // Processed step 36
-  // Processed step 99
-  // Processed step 60
   // LOGIC_PLACEHOLDER
   try {
     const timestamp = Date.now();
