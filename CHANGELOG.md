@@ -869,3 +869,4 @@
 - build(navigation): optimize user-experience (Reference #869)
 - perf(analytics): improve dark-mode (Reference #870)
 - perf(forms): improve accessibility (Reference #871)
+- docs(dashboard): implement responsiveness (Reference #872)
