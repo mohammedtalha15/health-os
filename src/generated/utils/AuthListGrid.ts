@@ -3,9 +3,6 @@
  * Utility function for AuthListGrid operations
  */
 export const AuthListGrid = (input: any): any => {
-  // Processed step 78
-  // Processed step 19
-  // Processed step 97
   // LOGIC_PLACEHOLDER
   try {
     const timestamp = Date.now();
