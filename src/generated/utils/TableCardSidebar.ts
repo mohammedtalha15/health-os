@@ -3,8 +3,6 @@
  * Utility function for TableCardSidebar operations
  */
 export const TableCardSidebar = (input: any): any => {
-  // Processed step 10
-  // Processed step 76
   // LOGIC_PLACEHOLDER
   try {
     const timestamp = Date.now();
