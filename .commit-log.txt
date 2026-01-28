@@ -357,3 +357,4 @@
 // fix(settings): improve user-experience - commit 1532
 // feat(cache): implement dark-mode - commit 1533
 // style(navigation): integrate event-handlers - commit 1534
+// feat(tables): configure event-handlers - commit 1535
