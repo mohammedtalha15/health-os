@@ -768,3 +768,4 @@
 - docs(security): configure event-handlers (Reference #768)
 - ci(security): refactor code-quality (Reference #769)
 - style(cache): implement documentation (Reference #770)
+- test(modals): implement user-experience (Reference #771)
