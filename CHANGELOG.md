@@ -1489,3 +1489,4 @@
 - fix(security): add user-experience (Reference #1489)
 - test(settings): configure state-management (Reference #1490)
 - perf(ui): add unit-tests (Reference #1491)
+- feat(modals): fix code-quality (Reference #1492)
