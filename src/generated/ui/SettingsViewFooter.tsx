@@ -6,6 +6,7 @@ interface SettingsViewFooterProps {
   className?: string;
   children?: React.ReactNode;
   prop_740?: string;
+  prop_591?: string;
   // PROPS_PLACEHOLDER
 }
 
