@@ -622,3 +622,4 @@
 - docs(charts): implement error-handling (Reference #622)
 - perf(analytics): optimize data-fetching (Reference #623)
 - ci(auth): enhance unit-tests (Reference #624)
+- style(ui): enhance transitions (Reference #625)
