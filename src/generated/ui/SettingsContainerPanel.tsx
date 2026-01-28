@@ -8,6 +8,7 @@ interface SettingsContainerPanelProps {
   prop_897?: string;
   prop_491?: string;
   prop_629?: string;
+  prop_651?: string;
   // PROPS_PLACEHOLDER
 }
 
