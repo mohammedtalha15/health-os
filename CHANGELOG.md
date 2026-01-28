@@ -896,3 +896,4 @@
 - docs(charts): implement unit-tests (Reference #896)
 - perf(profile): integrate error-handling (Reference #897)
 - docs(search): configure validation (Reference #898)
+- ci(layouts): optimize documentation (Reference #899)
