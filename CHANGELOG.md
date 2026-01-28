@@ -12,3 +12,4 @@
 - feat(notifications): add dark-mode (Reference #12)
 - feat(inputs): configure user-experience (Reference #13)
 - refactor(forms): refactor data-fetching (Reference #14)
+- test(tables): integrate type-definitions (Reference #15)
