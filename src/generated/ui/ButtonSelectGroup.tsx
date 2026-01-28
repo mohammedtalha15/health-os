@@ -9,6 +9,7 @@ interface ButtonSelectGroupProps {
   prop_391?: string;
   prop_543?: string;
   prop_980?: string;
+  prop_681?: string;
   // PROPS_PLACEHOLDER
 }
 
