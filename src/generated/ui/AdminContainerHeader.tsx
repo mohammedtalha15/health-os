@@ -5,23 +5,6 @@ interface AdminContainerHeaderProps {
   id?: string;
   className?: string;
   children?: React.ReactNode;
-  prop_697?: string;
-  prop_998?: string;
-  prop_412?: string;
-  prop_281?: string;
-  prop_193?: string;
-  prop_996?: string;
-  prop_613?: string;
-  prop_971?: string;
-  prop_522?: string;
-  prop_756?: string;
-  prop_128?: string;
-  prop_677?: string;
-  prop_519?: string;
-  prop_253?: string;
-  prop_412?: string;
-  prop_587?: string;
-  prop_336?: string;
   // PROPS_PLACEHOLDER
 }
 
