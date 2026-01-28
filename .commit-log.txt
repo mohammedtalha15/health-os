@@ -217,3 +217,4 @@
 // refactor(layouts): integrate dark-mode - commit 1165
 // refactor(forms): update data-fetching - commit 1166
 // style(security): integrate accessibility - commit 1167
+// test(buttons): configure event-handlers - commit 1168
