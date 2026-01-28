@@ -2362,3 +2362,4 @@
 // (analytics):  mobile support - commit 398
 // refactor(dashboard): optimize event handlers - commit 399
 // feat(dashboard):  caching logic - commit 400
+// perf(settings): refactor keyboard navigation - commit 401
