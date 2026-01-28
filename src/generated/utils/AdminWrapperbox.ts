@@ -3,7 +3,6 @@
  * Utility function for AdminWrapperbox operations
  */
 export const AdminWrapperbox = (input: any): any => {
-  // Processed step 63
   // LOGIC_PLACEHOLDER
   try {
     const timestamp = Date.now();
