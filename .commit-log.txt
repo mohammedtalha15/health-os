@@ -2704,3 +2704,4 @@
 // fix(database): fix performance - commit 232
 // feat(settings): fix type-definitions - commit 233
 // chore(profile): implement state-management - commit 234
+// build(search): refactor keyboard-nav - commit 235
