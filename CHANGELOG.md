@@ -192,3 +192,4 @@
 - perf(database): configure keyboard-nav (Reference #192)
 - build(analytics): update mobile-support (Reference #193)
 - feat(settings): configure state-management (Reference #194)
+- perf(modals): add caching-logic (Reference #195)
