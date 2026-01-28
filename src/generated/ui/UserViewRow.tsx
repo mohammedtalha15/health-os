@@ -16,6 +16,7 @@ interface UserViewRowProps {
   prop_400?: string;
   prop_534?: string;
   prop_814?: string;
+  prop_245?: string;
   // PROPS_PLACEHOLDER
 }
 
