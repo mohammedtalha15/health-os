@@ -1348,3 +1348,4 @@
 // docs(search): integrate keyboard-nav - commit 2523
 // perf(inputs): add state-management - commit 2524
 // build(api): update keyboard-nav - commit 2525
+// docs(charts): optimize event-handlers - commit 2526
