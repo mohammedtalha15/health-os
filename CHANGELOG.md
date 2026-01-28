@@ -646,3 +646,4 @@
 - fix(charts): fix transitions (Reference #646)
 - build(profile): update animations (Reference #647)
 - ci(tables): fix type-definitions (Reference #648)
+- fix(settings): integrate documentation (Reference #649)
