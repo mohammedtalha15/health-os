@@ -171,3 +171,4 @@
 // ci(settings): integrate dark-mode - commit 1119
 // ci(buttons): implement caching-logic - commit 1120
 // feat(profile): integrate dark-mode - commit 1121
+// build(settings): improve mobile-support - commit 1122
