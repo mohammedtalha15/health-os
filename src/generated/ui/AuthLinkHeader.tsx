@@ -9,6 +9,7 @@ interface AuthLinkHeaderProps {
   prop_769?: string;
   prop_316?: string;
   prop_877?: string;
+  prop_575?: string;
   // PROPS_PLACEHOLDER
 }
 
