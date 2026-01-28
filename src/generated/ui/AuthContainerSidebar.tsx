@@ -9,6 +9,7 @@ interface AuthContainerSidebarProps {
   prop_726?: string;
   prop_151?: string;
   prop_568?: string;
+  prop_997?: string;
   // PROPS_PLACEHOLDER
 }
 
