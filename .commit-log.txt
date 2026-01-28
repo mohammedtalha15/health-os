@@ -2413,3 +2413,4 @@
 // feat(navigation): improve validation - commit 449
 // test(ui): add caching logic - commit 450
 // feat(dashboard): configure data fetching - commit 451
+// chore(modals): refactor state management - commit 452
