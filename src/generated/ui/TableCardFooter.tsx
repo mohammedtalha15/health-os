@@ -6,6 +6,7 @@ interface TableCardFooterProps {
   className?: string;
   children?: React.ReactNode;
   prop_365?: string;
+  prop_755?: string;
   // PROPS_PLACEHOLDER
 }
 
