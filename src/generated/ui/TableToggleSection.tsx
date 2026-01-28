@@ -5,14 +5,6 @@ interface TableToggleSectionProps {
   id?: string;
   className?: string;
   children?: React.ReactNode;
-  prop_284?: string;
-  prop_684?: string;
-  prop_845?: string;
-  prop_722?: string;
-  prop_778?: string;
-  prop_926?: string;
-  prop_560?: string;
-  prop_549?: string;
   // PROPS_PLACEHOLDER
 }
 
