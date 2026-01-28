@@ -310,3 +310,4 @@
 - style(dashboard): refactor user-experience (Reference #310)
 - build(cache): add dark-mode (Reference #311)
 - fix(settings): update dark-mode (Reference #312)
+- ci(notifications): configure transitions (Reference #313)
