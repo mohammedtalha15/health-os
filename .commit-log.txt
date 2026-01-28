@@ -3320,3 +3320,4 @@
 // test(ui): enhance caching-logic - commit 848
 // chore(navigation): refactor event-handlers - commit 849
 // chore(database): configure keyboard-nav - commit 850
+// style(navigation): add loading-states - commit 851
