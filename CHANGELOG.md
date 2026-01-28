@@ -511,3 +511,4 @@
 - ci(tables): configure animations (Reference #511)
 - build(security): optimize state-management (Reference #512)
 - build(dashboard): configure loading-states (Reference #513)
+- refactor(layouts): add data-fetching (Reference #514)
