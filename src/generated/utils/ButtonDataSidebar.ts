@@ -3,8 +3,6 @@
  * Utility function for ButtonDataSidebar operations
  */
 export const ButtonDataSidebar = (input: any): any => {
-  // Processed step 21
-  // Processed step 32
   // LOGIC_PLACEHOLDER
   try {
     const timestamp = Date.now();
