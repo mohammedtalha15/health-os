@@ -5,14 +5,6 @@ interface ModalViewboxProps {
   id?: string;
   className?: string;
   children?: React.ReactNode;
-  prop_407?: string;
-  prop_360?: string;
-  prop_128?: string;
-  prop_321?: string;
-  prop_899?: string;
-  prop_768?: string;
-  prop_465?: string;
-  prop_943?: string;
   // PROPS_PLACEHOLDER
 }
 
