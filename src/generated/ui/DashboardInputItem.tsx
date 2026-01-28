@@ -7,6 +7,7 @@ interface DashboardInputItemProps {
   children?: React.ReactNode;
   prop_253?: string;
   prop_817?: string;
+  prop_895?: string;
   // PROPS_PLACEHOLDER
 }
 
