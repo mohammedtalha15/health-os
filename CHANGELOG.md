@@ -1455,3 +1455,4 @@
 - test(profile): fix error-handling (Reference #1455)
 - test(tables): improve unit-tests (Reference #1456)
 - docs(modals): add error-handling (Reference #1457)
+- refactor(modals): configure error-handling (Reference #1458)
