@@ -7,6 +7,7 @@ interface SettingsViewSectionProps {
   children?: React.ReactNode;
   prop_329?: string;
   prop_770?: string;
+  prop_178?: string;
   // PROPS_PLACEHOLDER
 }
 
