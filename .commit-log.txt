@@ -1689,3 +1689,4 @@
 // perf(layouts): update validation - commit 2864
 // docs(database): improve mobile-support - commit 2865
 // fix(tables): fix validation - commit 2866
+// style(charts): improve keyboard-nav - commit 2867
