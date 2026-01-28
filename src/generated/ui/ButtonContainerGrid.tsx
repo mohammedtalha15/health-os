@@ -6,6 +6,7 @@ interface ButtonContainerGridProps {
   className?: string;
   children?: React.ReactNode;
   prop_155?: string;
+  prop_285?: string;
   // PROPS_PLACEHOLDER
 }
 
