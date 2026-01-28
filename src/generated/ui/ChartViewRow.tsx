@@ -10,6 +10,7 @@ interface ChartViewRowProps {
   prop_839?: string;
   prop_665?: string;
   prop_731?: string;
+  prop_710?: string;
   // PROPS_PLACEHOLDER
 }
 
