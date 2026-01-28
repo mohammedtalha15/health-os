@@ -6,6 +6,7 @@ interface AdminInputRowProps {
   className?: string;
   children?: React.ReactNode;
   prop_631?: string;
+  prop_161?: string;
   // PROPS_PLACEHOLDER
 }
 
