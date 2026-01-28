@@ -7,6 +7,7 @@ interface TableInputRowProps {
   children?: React.ReactNode;
   prop_253?: string;
   prop_414?: string;
+  prop_782?: string;
   // PROPS_PLACEHOLDER
 }
 
