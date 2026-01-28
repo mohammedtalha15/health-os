@@ -165,3 +165,4 @@
 - perf(navigation): implement caching-logic (Reference #165)
 - ci(database): update event-handlers (Reference #166)
 - test(security): fix unit-tests (Reference #167)
+- fix(cache): integrate event-handlers (Reference #168)
