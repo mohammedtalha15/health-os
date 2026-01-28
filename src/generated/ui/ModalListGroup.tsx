@@ -6,6 +6,7 @@ interface ModalListGroupProps {
   className?: string;
   children?: React.ReactNode;
   prop_371?: string;
+  prop_943?: string;
   // PROPS_PLACEHOLDER
 }
 
