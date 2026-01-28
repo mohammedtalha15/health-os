@@ -10,6 +10,7 @@ interface AuthInputboxProps {
   prop_806?: string;
   prop_628?: string;
   prop_701?: string;
+  prop_225?: string;
   // PROPS_PLACEHOLDER
 }
 
