@@ -252,3 +252,4 @@
 // refactor(ui): update documentation - commit 1427
 // build(navigation): enhance type-definitions - commit 1428
 // style(tables): refactor mobile-support - commit 1429
+// fix(ui): update mobile-support - commit 1430
