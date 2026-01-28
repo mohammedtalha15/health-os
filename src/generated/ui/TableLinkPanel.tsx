@@ -5,15 +5,6 @@ interface TableLinkPanelProps {
   id?: string;
   className?: string;
   children?: React.ReactNode;
-  prop_410?: string;
-  prop_990?: string;
-  prop_296?: string;
-  prop_865?: string;
-  prop_460?: string;
-  prop_567?: string;
-  prop_179?: string;
-  prop_168?: string;
-  prop_734?: string;
   // PROPS_PLACEHOLDER
 }
 
