@@ -3,12 +3,6 @@
  * Utility function for ChartDataHeader operations
  */
 export const ChartDataHeader = (input: any): any => {
-  // Processed step 20
-  // Processed step 2
-  // Processed step 12
-  // Processed step 67
-  // Processed step 64
-  // Processed step 59
   // LOGIC_PLACEHOLDER
   try {
     const timestamp = Date.now();
