@@ -5,7 +5,6 @@ interface ChartContainerItemProps {
   id?: string;
   className?: string;
   children?: React.ReactNode;
-  prop_908?: string;
   // PROPS_PLACEHOLDER
 }
 
