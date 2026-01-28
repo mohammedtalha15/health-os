@@ -20,3 +20,4 @@
 - refactor(profile): improve keyboard-nav (Reference #20)
 - refactor(navigation): fix validation (Reference #21)
 - ci(cache): configure data-fetching (Reference #22)
+- ci(forms): fix keyboard-nav (Reference #23)
