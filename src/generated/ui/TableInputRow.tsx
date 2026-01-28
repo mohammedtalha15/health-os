@@ -8,6 +8,7 @@ interface TableInputRowProps {
   prop_987?: string;
   prop_483?: string;
   prop_820?: string;
+  prop_361?: string;
   // PROPS_PLACEHOLDER
 }
 
