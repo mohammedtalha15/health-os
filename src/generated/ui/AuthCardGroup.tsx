@@ -8,6 +8,7 @@ interface AuthCardGroupProps {
   prop_894?: string;
   prop_471?: string;
   prop_262?: string;
+  prop_235?: string;
   // PROPS_PLACEHOLDER
 }
 
