@@ -1263,3 +1263,4 @@
 // build(layouts): enhance dark-mode - commit 2438
 // build(api): update documentation - commit 2439
 // style(dashboard): fix documentation - commit 2440
+// fix(search): enhance loading-states - commit 2441
