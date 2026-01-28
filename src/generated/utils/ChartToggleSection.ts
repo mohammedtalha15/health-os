@@ -3,10 +3,6 @@
  * Utility function for ChartToggleSection operations
  */
 export const ChartToggleSection = (input: any): any => {
-  // Processed step 77
-  // Processed step 31
-  // Processed step 100
-  // Processed step 59
   // LOGIC_PLACEHOLDER
   try {
     const timestamp = Date.now();
