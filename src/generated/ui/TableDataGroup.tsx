@@ -11,6 +11,7 @@ interface TableDataGroupProps {
   prop_196?: string;
   prop_932?: string;
   prop_730?: string;
+  prop_351?: string;
   // PROPS_PLACEHOLDER
 }
 
