@@ -225,3 +225,4 @@
 - style(inputs): implement user-experience (Reference #225)
 - build(navigation): fix type-definitions (Reference #226)
 - style(modals): update performance (Reference #227)
+- style(navigation): update caching-logic (Reference #228)
