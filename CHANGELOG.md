@@ -960,3 +960,4 @@
 - test(modals): refactor responsiveness (Reference #960)
 - perf(database): fix documentation (Reference #961)
 - style(notifications): optimize data-fetching (Reference #962)
+- fix(profile): update transitions (Reference #963)
