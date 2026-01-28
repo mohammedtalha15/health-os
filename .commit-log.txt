@@ -1301,3 +1301,4 @@
 // ci(forms): integrate caching-logic - commit 2476
 // feat(cache): fix responsiveness - commit 2477
 // build(layouts): fix code-quality - commit 2478
+// fix(buttons): configure event-handlers - commit 2479
