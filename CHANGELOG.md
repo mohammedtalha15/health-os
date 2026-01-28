@@ -34,3 +34,4 @@
 - docs(security): integrate code-quality (Reference #34)
 - docs(notifications): fix responsiveness (Reference #35)
 - refactor(auth): implement type-definitions (Reference #36)
+- feat(api): add mobile-support (Reference #37)
