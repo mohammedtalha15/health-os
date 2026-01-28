@@ -5,19 +5,6 @@ interface TableViewGroupProps {
   id?: string;
   className?: string;
   children?: React.ReactNode;
-  prop_578?: string;
-  prop_921?: string;
-  prop_438?: string;
-  prop_350?: string;
-  prop_315?: string;
-  prop_873?: string;
-  prop_310?: string;
-  prop_974?: string;
-  prop_807?: string;
-  prop_161?: string;
-  prop_391?: string;
-  prop_873?: string;
-  prop_726?: string;
   // PROPS_PLACEHOLDER
 }
 
