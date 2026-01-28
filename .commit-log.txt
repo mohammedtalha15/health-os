@@ -1594,3 +1594,4 @@
 // refactor(settings): implement mobile-support - commit 2769
 // feat(search): implement transitions - commit 2770
 // feat(tables): refactor loading-states - commit 2771
+// test(security): improve mobile-support - commit 2772
