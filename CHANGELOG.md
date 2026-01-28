@@ -26,3 +26,4 @@
 - ci(dashboard): implement event-handlers (Reference #26)
 - ci(forms): fix state-management (Reference #27)
 - chore(auth): integrate validation (Reference #28)
+- build(cache): fix keyboard-nav (Reference #29)
