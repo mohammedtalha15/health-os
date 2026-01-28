@@ -9,6 +9,7 @@ interface AuthListGroupProps {
   prop_626?: string;
   prop_706?: string;
   prop_243?: string;
+  prop_392?: string;
   // PROPS_PLACEHOLDER
 }
 
