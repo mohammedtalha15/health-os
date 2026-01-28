@@ -8,6 +8,7 @@ interface SettingsWrapperboxProps {
   prop_827?: string;
   prop_107?: string;
   prop_838?: string;
+  prop_599?: string;
   // PROPS_PLACEHOLDER
 }
 
