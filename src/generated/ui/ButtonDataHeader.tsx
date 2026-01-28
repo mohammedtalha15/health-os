@@ -5,14 +5,6 @@ interface ButtonDataHeaderProps {
   id?: string;
   className?: string;
   children?: React.ReactNode;
-  prop_485?: string;
-  prop_633?: string;
-  prop_544?: string;
-  prop_986?: string;
-  prop_816?: string;
-  prop_246?: string;
-  prop_804?: string;
-  prop_691?: string;
   // PROPS_PLACEHOLDER
 }
 
