@@ -11,6 +11,7 @@ interface AuthCardGridProps {
   prop_755?: string;
   prop_578?: string;
   prop_100?: string;
+  prop_292?: string;
   // PROPS_PLACEHOLDER
 }
 
