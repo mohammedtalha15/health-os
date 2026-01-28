@@ -8,6 +8,7 @@ interface AuthListboxProps {
   prop_848?: string;
   prop_553?: string;
   prop_724?: string;
+  prop_381?: string;
   // PROPS_PLACEHOLDER
 }
 
