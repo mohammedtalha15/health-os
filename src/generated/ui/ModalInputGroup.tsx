@@ -5,22 +5,6 @@ interface ModalInputGroupProps {
   id?: string;
   className?: string;
   children?: React.ReactNode;
-  prop_455?: string;
-  prop_808?: string;
-  prop_840?: string;
-  prop_481?: string;
-  prop_904?: string;
-  prop_894?: string;
-  prop_883?: string;
-  prop_841?: string;
-  prop_124?: string;
-  prop_714?: string;
-  prop_164?: string;
-  prop_695?: string;
-  prop_804?: string;
-  prop_434?: string;
-  prop_953?: string;
-  prop_942?: string;
   // PROPS_PLACEHOLDER
 }
 
