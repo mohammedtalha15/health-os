@@ -8,6 +8,7 @@ interface ButtonListboxProps {
   prop_440?: string;
   prop_356?: string;
   prop_397?: string;
+  prop_697?: string;
   // PROPS_PLACEHOLDER
 }
 
