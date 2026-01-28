@@ -1055,3 +1055,4 @@
 - refactor(database): refactor performance (Reference #1055)
 - fix(buttons): add loading-states (Reference #1056)
 - ci(modals): update transitions (Reference #1057)
+- docs(tables): improve error-handling (Reference #1058)
