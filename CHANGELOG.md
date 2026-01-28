@@ -378,3 +378,4 @@
 - docs(charts): optimize transitions (Reference #378)
 - refactor(cache): configure state-management (Reference #379)
 - docs(forms): integrate dark-mode (Reference #380)
+- build(tables): integrate keyboard-nav (Reference #381)
