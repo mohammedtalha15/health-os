@@ -5,9 +5,6 @@ interface UserContainerGroupProps {
   id?: string;
   className?: string;
   children?: React.ReactNode;
-  prop_587?: string;
-  prop_610?: string;
-  prop_607?: string;
   // PROPS_PLACEHOLDER
 }
 
