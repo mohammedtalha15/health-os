@@ -819,3 +819,4 @@
 - fix(search): integrate animations (Reference #819)
 - fix(buttons): improve loading-states (Reference #820)
 - test(inputs): implement dark-mode (Reference #821)
+- perf(api): configure code-quality (Reference #822)
