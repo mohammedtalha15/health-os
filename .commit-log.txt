@@ -213,3 +213,4 @@
 // fix(layouts): fix mobile-support - commit 1388
 // test(profile): integrate code-quality - commit 1389
 // test(api): update mobile-support - commit 1390
+// style(dashboard): enhance mobile-support - commit 1391
