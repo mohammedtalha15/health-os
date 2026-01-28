@@ -629,3 +629,4 @@
 - style(database): add state-management (Reference #629)
 - ci(layouts): integrate documentation (Reference #630)
 - feat(charts): add responsiveness (Reference #631)
+- fix(modals): fix mobile-support (Reference #632)
