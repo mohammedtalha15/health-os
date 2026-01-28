@@ -3,11 +3,6 @@
  * Utility function for TableContainerSection operations
  */
 export const TableContainerSection = (input: any): any => {
-  // Processed step 10
-  // Processed step 50
-  // Processed step 3
-  // Processed step 1
-  // Processed step 88
   // LOGIC_PLACEHOLDER
   try {
     const timestamp = Date.now();
