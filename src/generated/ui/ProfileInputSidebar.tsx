@@ -8,6 +8,7 @@ interface ProfileInputSidebarProps {
   prop_266?: string;
   prop_527?: string;
   prop_696?: string;
+  prop_260?: string;
   // PROPS_PLACEHOLDER
 }
 
