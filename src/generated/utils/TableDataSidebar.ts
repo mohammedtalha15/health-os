@@ -3,9 +3,6 @@
  * Utility function for TableDataSidebar operations
  */
 export const TableDataSidebar = (input: any): any => {
-  // Processed step 83
-  // Processed step 53
-  // Processed step 86
   // LOGIC_PLACEHOLDER
   try {
     const timestamp = Date.now();
