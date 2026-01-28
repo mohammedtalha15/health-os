@@ -316,3 +316,4 @@
 // perf(notifications): improve user-experience - commit 1491
 // feat(analytics): fix loading-states - commit 1492
 // feat(tables): update animations - commit 1493
+// build(auth): configure validation - commit 1494
