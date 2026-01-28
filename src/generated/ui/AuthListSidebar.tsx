@@ -15,6 +15,7 @@ interface AuthListSidebarProps {
   prop_424?: string;
   prop_911?: string;
   prop_580?: string;
+  prop_375?: string;
   // PROPS_PLACEHOLDER
 }
 
