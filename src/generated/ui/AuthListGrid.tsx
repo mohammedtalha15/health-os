@@ -6,6 +6,7 @@ interface AuthListGridProps {
   className?: string;
   children?: React.ReactNode;
   prop_602?: string;
+  prop_254?: string;
   // PROPS_PLACEHOLDER
 }
 
