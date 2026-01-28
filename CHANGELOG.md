@@ -1561,3 +1561,4 @@
 - style(ui): update transitions (Reference #1561)
 - chore(dashboard): implement caching-logic (Reference #1562)
 - docs(forms): optimize accessibility (Reference #1563)
+- docs(settings): optimize keyboard-nav (Reference #1564)
