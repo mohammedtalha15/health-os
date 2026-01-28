@@ -18,6 +18,7 @@ interface SettingsLinkGridProps {
   prop_300?: string;
   prop_284?: string;
   prop_541?: string;
+  prop_158?: string;
   // PROPS_PLACEHOLDER
 }
 
