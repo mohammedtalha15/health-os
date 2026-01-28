@@ -6,6 +6,7 @@ interface TableContainerPanelProps {
   className?: string;
   children?: React.ReactNode;
   prop_497?: string;
+  prop_256?: string;
   // PROPS_PLACEHOLDER
 }
 
