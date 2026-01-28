@@ -2415,3 +2415,4 @@
 // feat(dashboard): configure data fetching - commit 451
 // chore(modals): refactor state management - commit 452
 // chore(charts): refactor  - commit 453
+// fix(api): implement loading states - commit 454
