@@ -1021,3 +1021,4 @@
 // test(buttons): add user-experience - commit 2196
 // chore(charts): add validation - commit 2197
 // refactor(tables): fix type-definitions - commit 2198
+// test(charts): implement mobile-support - commit 2199
