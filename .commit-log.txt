@@ -111,3 +111,4 @@
 // docs(auth): fix responsiveness - commit 1286
 // docs(inputs): configure keyboard-nav - commit 1287
 // refactor(auth): optimize dark-mode - commit 1288
+// feat(forms): optimize mobile-support - commit 1289
