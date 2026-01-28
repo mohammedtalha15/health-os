@@ -797,3 +797,4 @@
 // feat(navigation): optimize responsiveness - commit 1972
 // style(dashboard): fix loading-states - commit 1973
 // build(analytics): enhance data-fetching - commit 1974
+// fix(charts): configure type-definitions - commit 1975
