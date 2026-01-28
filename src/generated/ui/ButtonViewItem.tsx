@@ -9,6 +9,7 @@ interface ButtonViewItemProps {
   prop_899?: string;
   prop_684?: string;
   prop_824?: string;
+  prop_945?: string;
   // PROPS_PLACEHOLDER
 }
 
