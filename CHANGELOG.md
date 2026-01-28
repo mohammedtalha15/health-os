@@ -107,3 +107,4 @@
 - feat(api): enhance event-handlers (Reference #107)
 - feat(search): integrate error-handling (Reference #108)
 - perf(profile): fix dark-mode (Reference #109)
+- docs(charts): add validation (Reference #110)
