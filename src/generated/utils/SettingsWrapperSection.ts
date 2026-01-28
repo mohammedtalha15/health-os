@@ -3,9 +3,6 @@
  * Utility function for SettingsWrapperSection operations
  */
 export const SettingsWrapperSection = (input: any): any => {
-  // Processed step 44
-  // Processed step 60
-  // Processed step 7
   // LOGIC_PLACEHOLDER
   try {
     const timestamp = Date.now();
