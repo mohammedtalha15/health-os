@@ -7,6 +7,7 @@ interface ChartLinkGroupProps {
   children?: React.ReactNode;
   prop_343?: string;
   prop_325?: string;
+  prop_937?: string;
   // PROPS_PLACEHOLDER
 }
 
