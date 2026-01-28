@@ -13,6 +13,7 @@ interface ButtonToggleSidebarProps {
   prop_606?: string;
   prop_964?: string;
   prop_953?: string;
+  prop_137?: string;
   // PROPS_PLACEHOLDER
 }
 
