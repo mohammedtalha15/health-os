@@ -2073,3 +2073,4 @@
 // refactor(navigation): refactor loading states - commit 109
 // test(buttons): implement  - commit 110
 // perf(): update state management - commit 111
+// fix(notifications): configure responsiveness - commit 112
