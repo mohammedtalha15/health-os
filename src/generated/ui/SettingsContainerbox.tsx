@@ -5,18 +5,6 @@ interface SettingsContainerboxProps {
   id?: string;
   className?: string;
   children?: React.ReactNode;
-  prop_804?: string;
-  prop_190?: string;
-  prop_523?: string;
-  prop_182?: string;
-  prop_756?: string;
-  prop_244?: string;
-  prop_909?: string;
-  prop_984?: string;
-  prop_257?: string;
-  prop_789?: string;
-  prop_864?: string;
-  prop_905?: string;
   // PROPS_PLACEHOLDER
 }
 
