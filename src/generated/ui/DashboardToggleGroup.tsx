@@ -6,6 +6,7 @@ interface DashboardToggleGroupProps {
   className?: string;
   children?: React.ReactNode;
   prop_410?: string;
+  prop_468?: string;
   // PROPS_PLACEHOLDER
 }
 
