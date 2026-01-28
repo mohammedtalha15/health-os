@@ -3364,3 +3364,4 @@
 // perf(tables): integrate loading-states - commit 892
 // feat(modals): improve responsiveness - commit 893
 // test(analytics): update accessibility - commit 894
+// chore(dashboard): refactor keyboard-nav - commit 895
