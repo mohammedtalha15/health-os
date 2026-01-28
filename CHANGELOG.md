@@ -1394,3 +1394,4 @@
 - test(buttons): fix loading-states (Reference #1394)
 - chore(navigation): enhance state-management (Reference #1395)
 - fix(cache): enhance documentation (Reference #1396)
+- refactor(profile): optimize mobile-support (Reference #1397)
