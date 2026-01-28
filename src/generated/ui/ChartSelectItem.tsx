@@ -12,6 +12,7 @@ interface ChartSelectItemProps {
   prop_203?: string;
   prop_527?: string;
   prop_488?: string;
+  prop_812?: string;
   // PROPS_PLACEHOLDER
 }
 
