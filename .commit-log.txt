@@ -538,3 +538,4 @@
 // fix(navigation): fix caching-logic - commit 1713
 // feat(api): configure error-handling - commit 1714
 // ci(analytics): improve transitions - commit 1715
+// refactor(settings): update type-definitions - commit 1716
