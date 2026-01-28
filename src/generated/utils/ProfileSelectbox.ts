@@ -3,11 +3,6 @@
  * Utility function for ProfileSelectbox operations
  */
 export const ProfileSelectbox = (input: any): any => {
-  // Processed step 93
-  // Processed step 48
-  // Processed step 75
-  // Processed step 5
-  // Processed step 17
   // LOGIC_PLACEHOLDER
   try {
     const timestamp = Date.now();
