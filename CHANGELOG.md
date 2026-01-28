@@ -1242,3 +1242,4 @@
 - perf(notifications): enhance dark-mode (Reference #1242)
 - fix(buttons): add accessibility (Reference #1243)
 - test(layouts): enhance code-quality (Reference #1244)
+- refactor(search): add responsiveness (Reference #1245)
