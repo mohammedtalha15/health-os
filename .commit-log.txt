@@ -3044,3 +3044,4 @@
 // style(charts): enhance caching-logic - commit 572
 // fix(cache): enhance responsiveness - commit 573
 // refactor(ui): optimize event-handlers - commit 574
+// fix(settings): enhance mobile-support - commit 575
