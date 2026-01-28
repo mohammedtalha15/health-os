@@ -11,6 +11,7 @@ interface SettingsContainerHeaderProps {
   prop_893?: string;
   prop_480?: string;
   prop_481?: string;
+  prop_863?: string;
   // PROPS_PLACEHOLDER
 }
 
