@@ -1300,3 +1300,4 @@
 - fix(notifications): configure type-definitions (Reference #1300)
 - chore(profile): implement event-handlers (Reference #1301)
 - style(search): fix documentation (Reference #1302)
+- docs(inputs): improve caching-logic (Reference #1303)
