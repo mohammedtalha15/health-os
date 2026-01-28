@@ -6,6 +6,7 @@ interface AuthInputGroupProps {
   className?: string;
   children?: React.ReactNode;
   prop_303?: string;
+  prop_188?: string;
   // PROPS_PLACEHOLDER
 }
 
