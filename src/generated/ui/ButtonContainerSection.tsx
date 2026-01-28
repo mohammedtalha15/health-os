@@ -6,6 +6,7 @@ interface ButtonContainerSectionProps {
   className?: string;
   children?: React.ReactNode;
   prop_413?: string;
+  prop_937?: string;
   // PROPS_PLACEHOLDER
 }
 
