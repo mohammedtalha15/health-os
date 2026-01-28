@@ -5,17 +5,6 @@ interface TableWrapperFooterProps {
   id?: string;
   className?: string;
   children?: React.ReactNode;
-  prop_945?: string;
-  prop_453?: string;
-  prop_275?: string;
-  prop_694?: string;
-  prop_634?: string;
-  prop_785?: string;
-  prop_179?: string;
-  prop_379?: string;
-  prop_546?: string;
-  prop_318?: string;
-  prop_359?: string;
   // PROPS_PLACEHOLDER
 }
 
