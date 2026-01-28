@@ -3334,3 +3334,4 @@
 // feat(charts): add keyboard-nav - commit 862
 // style(api): integrate event-handlers - commit 863
 // perf(inputs): integrate caching-logic - commit 864
+// refactor(profile): implement event-handlers - commit 865
