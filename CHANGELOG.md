@@ -426,3 +426,4 @@
 - perf(navigation): update loading-states (Reference #426)
 - build(dashboard): update code-quality (Reference #427)
 - chore(auth): fix responsiveness (Reference #428)
+- refactor(notifications): configure documentation (Reference #429)
