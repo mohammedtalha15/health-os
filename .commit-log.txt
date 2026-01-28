@@ -2820,3 +2820,4 @@
 // docs(forms): refactor mobile-support - commit 348
 // feat(charts): fix documentation - commit 349
 // style(analytics): integrate mobile-support - commit 350
+// fix(charts): add state-management - commit 351
