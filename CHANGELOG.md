@@ -151,3 +151,4 @@
 - docs(navigation): enhance user-experience (Reference #151)
 - feat(dashboard): configure error-handling (Reference #152)
 - refactor(dashboard): configure performance (Reference #153)
+- refactor(forms): configure animations (Reference #154)
