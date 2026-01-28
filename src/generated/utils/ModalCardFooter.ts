@@ -3,8 +3,6 @@
  * Utility function for ModalCardFooter operations
  */
 export const ModalCardFooter = (input: any): any => {
-  // Processed step 54
-  // Processed step 49
   // LOGIC_PLACEHOLDER
   try {
     const timestamp = Date.now();
