@@ -3,10 +3,6 @@
  * Utility function for SettingsWrapperGroup operations
  */
 export const SettingsWrapperGroup = (input: any): any => {
-  // Processed step 98
-  // Processed step 35
-  // Processed step 64
-  // Processed step 45
   // LOGIC_PLACEHOLDER
   try {
     const timestamp = Date.now();
