@@ -5,11 +5,6 @@ interface SettingsWrapperboxProps {
   id?: string;
   className?: string;
   children?: React.ReactNode;
-  prop_423?: string;
-  prop_167?: string;
-  prop_814?: string;
-  prop_621?: string;
-  prop_462?: string;
   // PROPS_PLACEHOLDER
 }
 
