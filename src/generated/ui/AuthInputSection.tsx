@@ -5,6 +5,7 @@ interface AuthInputSectionProps {
   id?: string;
   className?: string;
   children?: React.ReactNode;
+  prop_924?: string;
   // PROPS_PLACEHOLDER
 }
 
