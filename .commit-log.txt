@@ -1640,3 +1640,4 @@
 // refactor(tables): refactor performance - commit 2815
 // refactor(dashboard): configure data-fetching - commit 2816
 // fix(security): update accessibility - commit 2817
+// docs(inputs): update validation - commit 2818
