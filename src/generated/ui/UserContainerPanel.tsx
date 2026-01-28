@@ -11,6 +11,7 @@ interface UserContainerPanelProps {
   prop_338?: string;
   prop_578?: string;
   prop_348?: string;
+  prop_155?: string;
   // PROPS_PLACEHOLDER
 }
 
