@@ -182,3 +182,4 @@
 - feat(analytics): update code-quality (Reference #182)
 - perf(search): integrate caching-logic (Reference #183)
 - test(buttons): refactor accessibility (Reference #184)
+- fix(analytics): update event-handlers (Reference #185)
