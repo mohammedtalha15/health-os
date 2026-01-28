@@ -1575,3 +1575,4 @@
 // feat(buttons): add code-quality - commit 2750
 // test(api): improve user-experience - commit 2751
 // feat(dashboard): enhance performance - commit 2752
+// test(auth): enhance loading-states - commit 2753
