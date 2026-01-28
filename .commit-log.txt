@@ -673,3 +673,4 @@
 // perf(analytics): optimize loading-states - commit 1848
 // chore(charts): improve error-handling - commit 1849
 // style(layouts): optimize responsiveness - commit 1850
+// test(search): add responsiveness - commit 1851
