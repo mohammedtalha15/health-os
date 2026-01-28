@@ -5,10 +5,6 @@ interface TableContainerSidebarProps {
   id?: string;
   className?: string;
   children?: React.ReactNode;
-  prop_500?: string;
-  prop_242?: string;
-  prop_789?: string;
-  prop_838?: string;
   // PROPS_PLACEHOLDER
 }
 
