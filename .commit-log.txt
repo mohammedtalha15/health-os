@@ -2402,3 +2402,4 @@
 // docs(analytics): improve validation - commit 438
 // (analytics): optimize validation - commit 439
 // docs(security): update data fetching - commit 440
+// fix(security): fix mobile support - commit 441
