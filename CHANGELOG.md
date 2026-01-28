@@ -656,3 +656,4 @@
 - style(security): update animations (Reference #656)
 - build(layouts): implement loading-states (Reference #657)
 - perf(buttons): enhance unit-tests (Reference #658)
+- build(charts): enhance data-fetching (Reference #659)
