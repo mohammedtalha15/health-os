@@ -2504,3 +2504,4 @@
 // fix(search): update loading-states - commit 32
 // chore(database): configure keyboard-nav - commit 33
 // ci(layouts): improve unit-tests - commit 34
+// perf(tables): integrate documentation - commit 35
