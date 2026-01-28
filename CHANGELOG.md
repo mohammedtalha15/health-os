@@ -522,3 +522,4 @@
 - test(settings): integrate unit-tests (Reference #522)
 - chore(api): integrate accessibility (Reference #523)
 - perf(forms): improve transitions (Reference #524)
+- docs(forms): integrate dark-mode (Reference #525)
