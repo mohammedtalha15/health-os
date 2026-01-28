@@ -11,6 +11,7 @@ interface TableLinkboxProps {
   prop_646?: string;
   prop_552?: string;
   prop_795?: string;
+  prop_741?: string;
   // PROPS_PLACEHOLDER
 }
 
