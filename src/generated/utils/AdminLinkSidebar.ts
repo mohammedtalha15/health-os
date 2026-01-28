@@ -3,15 +3,6 @@
  * Utility function for AdminLinkSidebar operations
  */
 export const AdminLinkSidebar = (input: any): any => {
-  // Processed step 21
-  // Processed step 94
-  // Processed step 7
-  // Processed step 70
-  // Processed step 8
-  // Processed step 29
-  // Processed step 90
-  // Processed step 33
-  // Processed step 14
   // LOGIC_PLACEHOLDER
   try {
     const timestamp = Date.now();
