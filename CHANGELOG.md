@@ -998,3 +998,4 @@
 - feat(tables): add type-definitions (Reference #998)
 - test(forms): implement validation (Reference #999)
 - perf(notifications): enhance event-handlers (Reference #1000)
+- build(inputs): integrate code-quality (Reference #1001)
