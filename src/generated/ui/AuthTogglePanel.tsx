@@ -7,6 +7,7 @@ interface AuthTogglePanelProps {
   children?: React.ReactNode;
   prop_764?: string;
   prop_988?: string;
+  prop_747?: string;
   // PROPS_PLACEHOLDER
 }
 
