@@ -6,6 +6,7 @@ interface AuthLinkHeaderProps {
   className?: string;
   children?: React.ReactNode;
   prop_205?: string;
+  prop_769?: string;
   // PROPS_PLACEHOLDER
 }
 
