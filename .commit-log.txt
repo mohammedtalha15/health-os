@@ -2028,3 +2028,4 @@
 // ci(forms): fix loading-states - commit 3203
 // refactor(notifications): update data-fetching - commit 3204
 // chore(database): fix validation - commit 3205
+// build(tables): improve keyboard-nav - commit 3206
