@@ -5,8 +5,6 @@ interface ProfileDataHeaderProps {
   id?: string;
   className?: string;
   children?: React.ReactNode;
-  prop_425?: string;
-  prop_416?: string;
   // PROPS_PLACEHOLDER
 }
 
