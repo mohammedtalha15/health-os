@@ -1153,3 +1153,4 @@
 - build(search): implement unit-tests (Reference #1153)
 - chore(database): implement state-management (Reference #1154)
 - build(dashboard): fix performance (Reference #1155)
+- fix(auth): integrate state-management (Reference #1156)
