@@ -905,3 +905,4 @@
 - perf(navigation): refactor performance (Reference #905)
 - feat(api): optimize validation (Reference #906)
 - feat(modals): add caching-logic (Reference #907)
+- refactor(security): add validation (Reference #908)
