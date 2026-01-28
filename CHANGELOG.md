@@ -288,3 +288,4 @@
 - refactor(charts): optimize data-fetching (Reference #288)
 - chore(api): optimize caching-logic (Reference #289)
 - style(layouts): configure animations (Reference #290)
+- perf(inputs): optimize data-fetching (Reference #291)
