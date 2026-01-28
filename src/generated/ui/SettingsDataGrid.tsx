@@ -11,6 +11,7 @@ interface SettingsDataGridProps {
   prop_982?: string;
   prop_306?: string;
   prop_526?: string;
+  prop_415?: string;
   // PROPS_PLACEHOLDER
 }
 
