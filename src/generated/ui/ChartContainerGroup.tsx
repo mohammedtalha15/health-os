@@ -9,6 +9,7 @@ interface ChartContainerGroupProps {
   prop_779?: string;
   prop_592?: string;
   prop_820?: string;
+  prop_542?: string;
   // PROPS_PLACEHOLDER
 }
 
