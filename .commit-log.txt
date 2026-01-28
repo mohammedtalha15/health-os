@@ -2319,3 +2319,4 @@
 // docs(navigation): update caching logic - commit 355
 // test(dashboard): update event handlers - commit 356
 // chore(charts): optimize error handling - commit 357
+// feat(api): fix caching logic - commit 358
