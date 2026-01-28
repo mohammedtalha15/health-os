@@ -3237,3 +3237,4 @@
 // refactor(analytics): improve loading-states - commit 765
 // test(inputs): refactor validation - commit 766
 // fix(api): improve type-definitions - commit 767
+// fix(auth): refactor loading-states - commit 768
