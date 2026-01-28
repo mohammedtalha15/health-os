@@ -3,7 +3,6 @@
  * Utility function for AuthViewHeader operations
  */
 export const AuthViewHeader = (input: any): any => {
-  // Processed step 2
   // LOGIC_PLACEHOLDER
   try {
     const timestamp = Date.now();
