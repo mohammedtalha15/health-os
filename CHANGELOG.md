@@ -332,3 +332,4 @@
 - docs(layouts): update state-management (Reference #332)
 - feat(profile): update keyboard-nav (Reference #333)
 - feat(dashboard): integrate documentation (Reference #334)
+- chore(dashboard): enhance validation (Reference #335)
