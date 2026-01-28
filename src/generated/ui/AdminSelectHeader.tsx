@@ -5,9 +5,6 @@ interface AdminSelectHeaderProps {
   id?: string;
   className?: string;
   children?: React.ReactNode;
-  prop_677?: string;
-  prop_667?: string;
-  prop_256?: string;
   // PROPS_PLACEHOLDER
 }
 
