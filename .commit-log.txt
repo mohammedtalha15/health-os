@@ -529,3 +529,4 @@
 // chore(buttons): configure code-quality - commit 1704
 // feat(analytics): update animations - commit 1705
 // fix(analytics): fix documentation - commit 1706
+// chore(inputs): fix dark-mode - commit 1707
