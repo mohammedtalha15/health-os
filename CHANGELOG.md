@@ -255,3 +255,4 @@
 - fix(database): enhance keyboard-nav (Reference #255)
 - style(security): add accessibility (Reference #256)
 - style(cache): configure caching-logic (Reference #257)
+- perf(api): update mobile-support (Reference #258)
