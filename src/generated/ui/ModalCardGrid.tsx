@@ -12,6 +12,7 @@ interface ModalCardGridProps {
   prop_340?: string;
   prop_155?: string;
   prop_349?: string;
+  prop_442?: string;
   // PROPS_PLACEHOLDER
 }
 
