@@ -6,6 +6,7 @@ interface SettingsCardFooterProps {
   className?: string;
   children?: React.ReactNode;
   prop_920?: string;
+  prop_959?: string;
   // PROPS_PLACEHOLDER
 }
 
