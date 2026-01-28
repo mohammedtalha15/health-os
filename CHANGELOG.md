@@ -986,3 +986,4 @@
 - test(forms): implement code-quality (Reference #986)
 - build(settings): refactor performance (Reference #987)
 - fix(charts): add event-handlers (Reference #988)
+- test(cache): refactor state-management (Reference #989)
