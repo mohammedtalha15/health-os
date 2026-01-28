@@ -1918,3 +1918,4 @@
 // ci(dashboard): optimize state-management - commit 3093
 // refactor(database): refactor keyboard-nav - commit 3094
 // chore(search): fix loading-states - commit 3095
+// refactor(database): optimize mobile-support - commit 3096
