@@ -3149,3 +3149,4 @@
 // perf(settings): update validation - commit 677
 // build(layouts): refactor data-fetching - commit 678
 // ci(navigation): fix documentation - commit 679
+// feat(ui): update caching-logic - commit 680
