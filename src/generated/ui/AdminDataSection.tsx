@@ -5,12 +5,6 @@ interface AdminDataSectionProps {
   id?: string;
   className?: string;
   children?: React.ReactNode;
-  prop_127?: string;
-  prop_359?: string;
-  prop_444?: string;
-  prop_772?: string;
-  prop_958?: string;
-  prop_959?: string;
   // PROPS_PLACEHOLDER
 }
 
