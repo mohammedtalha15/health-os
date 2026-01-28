@@ -1592,3 +1592,4 @@
 // perf(tables): fix error-handling - commit 2767
 // refactor(charts): refactor keyboard-nav - commit 2768
 // refactor(settings): implement mobile-support - commit 2769
+// feat(search): implement transitions - commit 2770
