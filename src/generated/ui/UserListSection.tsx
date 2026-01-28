@@ -5,29 +5,6 @@ interface UserListSectionProps {
   id?: string;
   className?: string;
   children?: React.ReactNode;
-  prop_102?: string;
-  prop_342?: string;
-  prop_387?: string;
-  prop_716?: string;
-  prop_118?: string;
-  prop_957?: string;
-  prop_295?: string;
-  prop_340?: string;
-  prop_919?: string;
-  prop_970?: string;
-  prop_663?: string;
-  prop_785?: string;
-  prop_216?: string;
-  prop_529?: string;
-  prop_926?: string;
-  prop_725?: string;
-  prop_329?: string;
-  prop_349?: string;
-  prop_288?: string;
-  prop_707?: string;
-  prop_529?: string;
-  prop_187?: string;
-  prop_835?: string;
   // PROPS_PLACEHOLDER
 }
 
