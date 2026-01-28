@@ -997,3 +997,4 @@
 - fix(profile): implement event-handlers (Reference #997)
 - feat(tables): add type-definitions (Reference #998)
 - test(forms): implement validation (Reference #999)
+- perf(notifications): enhance event-handlers (Reference #1000)
