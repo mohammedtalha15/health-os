@@ -2058,3 +2058,4 @@
 // build(modals): add responsiveness - commit 94
 // test(settings): enhance loading states - commit 95
 // style(charts): improve dark mode - commit 96
+// test(charts): fix animations - commit 97
