@@ -6,6 +6,7 @@ interface ButtonDataFooterProps {
   className?: string;
   children?: React.ReactNode;
   prop_285?: string;
+  prop_663?: string;
   // PROPS_PLACEHOLDER
 }
 
