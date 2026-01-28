@@ -1125,3 +1125,4 @@
 - build(tables): implement performance (Reference #1125)
 - fix(analytics): improve caching-logic (Reference #1126)
 - chore(profile): configure user-experience (Reference #1127)
+- test(search): refactor keyboard-nav (Reference #1128)
