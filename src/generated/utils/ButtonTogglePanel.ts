@@ -3,9 +3,6 @@
  * Utility function for ButtonTogglePanel operations
  */
 export const ButtonTogglePanel = (input: any): any => {
-  // Processed step 6
-  // Processed step 42
-  // Processed step 49
   // LOGIC_PLACEHOLDER
   try {
     const timestamp = Date.now();
