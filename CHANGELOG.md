@@ -951,3 +951,4 @@
 - refactor(inputs): refactor unit-tests (Reference #951)
 - style(charts): add error-handling (Reference #952)
 - refactor(security): improve validation (Reference #953)
+- test(notifications): refactor type-definitions (Reference #954)
