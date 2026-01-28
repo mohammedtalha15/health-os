@@ -5,14 +5,6 @@ interface AdminViewGroupProps {
   id?: string;
   className?: string;
   children?: React.ReactNode;
-  prop_428?: string;
-  prop_839?: string;
-  prop_594?: string;
-  prop_651?: string;
-  prop_529?: string;
-  prop_834?: string;
-  prop_258?: string;
-  prop_865?: string;
   // PROPS_PLACEHOLDER
 }
 
