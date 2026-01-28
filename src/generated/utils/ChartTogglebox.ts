@@ -3,7 +3,6 @@
  * Utility function for ChartTogglebox operations
  */
 export const ChartTogglebox = (input: any): any => {
-  // Processed step 95
   // LOGIC_PLACEHOLDER
   try {
     const timestamp = Date.now();
