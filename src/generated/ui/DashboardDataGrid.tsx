@@ -6,6 +6,7 @@ interface DashboardDataGridProps {
   className?: string;
   children?: React.ReactNode;
   prop_749?: string;
+  prop_597?: string;
   // PROPS_PLACEHOLDER
 }
 
