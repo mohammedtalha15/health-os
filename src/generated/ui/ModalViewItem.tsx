@@ -11,6 +11,7 @@ interface ModalViewItemProps {
   prop_956?: string;
   prop_853?: string;
   prop_773?: string;
+  prop_872?: string;
   // PROPS_PLACEHOLDER
 }
 
