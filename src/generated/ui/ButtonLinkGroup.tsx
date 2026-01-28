@@ -8,6 +8,7 @@ interface ButtonLinkGroupProps {
   prop_667?: string;
   prop_547?: string;
   prop_689?: string;
+  prop_543?: string;
   // PROPS_PLACEHOLDER
 }
 
