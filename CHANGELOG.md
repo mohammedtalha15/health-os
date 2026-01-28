@@ -901,3 +901,4 @@
 - docs(inputs): integrate responsiveness (Reference #901)
 - chore(inputs): improve code-quality (Reference #902)
 - style(ui): add validation (Reference #903)
+- docs(notifications): configure user-experience (Reference #904)
