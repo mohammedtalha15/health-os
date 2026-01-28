@@ -4,3 +4,4 @@
 - test(search): enhance transitions (Reference #4)
 - chore(buttons): fix caching-logic (Reference #5)
 - test(cache): refactor data-fetching (Reference #6)
+- chore(auth): optimize caching-logic (Reference #7)
