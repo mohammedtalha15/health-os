@@ -386,3 +386,4 @@
 - docs(buttons): enhance error-handling (Reference #386)
 - refactor(layouts): fix error-handling (Reference #387)
 - build(auth): optimize error-handling (Reference #388)
+- test(layouts): improve code-quality (Reference #389)
