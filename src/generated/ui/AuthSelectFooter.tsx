@@ -7,6 +7,7 @@ interface AuthSelectFooterProps {
   children?: React.ReactNode;
   prop_808?: string;
   prop_212?: string;
+  prop_809?: string;
   // PROPS_PLACEHOLDER
 }
 
