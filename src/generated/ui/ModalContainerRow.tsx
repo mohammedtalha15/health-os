@@ -10,6 +10,7 @@ interface ModalContainerRowProps {
   prop_290?: string;
   prop_960?: string;
   prop_884?: string;
+  prop_102?: string;
   // PROPS_PLACEHOLDER
 }
 
