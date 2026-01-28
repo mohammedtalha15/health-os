@@ -7,6 +7,7 @@ interface AdminToggleHeaderProps {
   children?: React.ReactNode;
   prop_388?: string;
   prop_242?: string;
+  prop_917?: string;
   // PROPS_PLACEHOLDER
 }
 
