@@ -3,7 +3,6 @@
  * Utility function for ChartToggleGrid operations
  */
 export const ChartToggleGrid = (input: any): any => {
-  // Processed step 24
   // LOGIC_PLACEHOLDER
   try {
     const timestamp = Date.now();
