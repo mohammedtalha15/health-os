@@ -3,9 +3,6 @@
  * Utility function for AuthToggleSidebar operations
  */
 export const AuthToggleSidebar = (input: any): any => {
-  // Processed step 86
-  // Processed step 39
-  // Processed step 13
   // LOGIC_PLACEHOLDER
   try {
     const timestamp = Date.now();
