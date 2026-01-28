@@ -10,6 +10,7 @@ interface ChartDataHeaderProps {
   prop_847?: string;
   prop_893?: string;
   prop_151?: string;
+  prop_165?: string;
   // PROPS_PLACEHOLDER
 }
 
