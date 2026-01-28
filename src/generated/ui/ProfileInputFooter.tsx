@@ -14,6 +14,7 @@ interface ProfileInputFooterProps {
   prop_846?: string;
   prop_719?: string;
   prop_936?: string;
+  prop_821?: string;
   // PROPS_PLACEHOLDER
 }
 
