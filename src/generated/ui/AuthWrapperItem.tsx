@@ -5,7 +5,6 @@ interface AuthWrapperItemProps {
   id?: string;
   className?: string;
   children?: React.ReactNode;
-  prop_291?: string;
   // PROPS_PLACEHOLDER
 }
 
