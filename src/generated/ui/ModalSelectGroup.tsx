@@ -8,6 +8,7 @@ interface ModalSelectGroupProps {
   prop_462?: string;
   prop_582?: string;
   prop_481?: string;
+  prop_140?: string;
   // PROPS_PLACEHOLDER
 }
 
