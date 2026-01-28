@@ -3,8 +3,6 @@
  * Utility function for ProfileInputFooter operations
  */
 export const ProfileInputFooter = (input: any): any => {
-  // Processed step 97
-  // Processed step 85
   // LOGIC_PLACEHOLDER
   try {
     const timestamp = Date.now();
