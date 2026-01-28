@@ -305,3 +305,4 @@
 - refactor(search): implement animations (Reference #305)
 - test(profile): add code-quality (Reference #306)
 - test(search): enhance performance (Reference #307)
+- feat(modals): improve animations (Reference #308)
