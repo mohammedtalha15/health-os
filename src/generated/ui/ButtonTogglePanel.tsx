@@ -6,6 +6,7 @@ interface ButtonTogglePanelProps {
   className?: string;
   children?: React.ReactNode;
   prop_277?: string;
+  prop_746?: string;
   // PROPS_PLACEHOLDER
 }
 
