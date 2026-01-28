@@ -6,6 +6,7 @@ interface AdminViewGroupProps {
   className?: string;
   children?: React.ReactNode;
   prop_617?: string;
+  prop_730?: string;
   // PROPS_PLACEHOLDER
 }
 
