@@ -10,6 +10,7 @@ interface DashboardSelectRowProps {
   prop_827?: string;
   prop_469?: string;
   prop_679?: string;
+  prop_205?: string;
   // PROPS_PLACEHOLDER
 }
 
