@@ -5,20 +5,6 @@ interface UserWrapperHeaderProps {
   id?: string;
   className?: string;
   children?: React.ReactNode;
-  prop_316?: string;
-  prop_251?: string;
-  prop_968?: string;
-  prop_527?: string;
-  prop_847?: string;
-  prop_242?: string;
-  prop_394?: string;
-  prop_758?: string;
-  prop_683?: string;
-  prop_879?: string;
-  prop_703?: string;
-  prop_511?: string;
-  prop_334?: string;
-  prop_498?: string;
   // PROPS_PLACEHOLDER
 }
 
