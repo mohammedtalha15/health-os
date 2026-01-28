@@ -817,3 +817,4 @@
 - feat(auth): implement mobile-support (Reference #817)
 - docs(notifications): configure keyboard-nav (Reference #818)
 - fix(search): integrate animations (Reference #819)
+- fix(buttons): improve loading-states (Reference #820)
