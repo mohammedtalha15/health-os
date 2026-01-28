@@ -11,6 +11,7 @@ interface TableLinkPanelProps {
   prop_865?: string;
   prop_460?: string;
   prop_567?: string;
+  prop_179?: string;
   // PROPS_PLACEHOLDER
 }
 
