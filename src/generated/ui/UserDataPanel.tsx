@@ -9,6 +9,7 @@ interface UserDataPanelProps {
   prop_344?: string;
   prop_818?: string;
   prop_961?: string;
+  prop_563?: string;
   // PROPS_PLACEHOLDER
 }
 
