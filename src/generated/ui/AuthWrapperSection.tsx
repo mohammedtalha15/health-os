@@ -5,15 +5,6 @@ interface AuthWrapperSectionProps {
   id?: string;
   className?: string;
   children?: React.ReactNode;
-  prop_943?: string;
-  prop_958?: string;
-  prop_938?: string;
-  prop_934?: string;
-  prop_548?: string;
-  prop_753?: string;
-  prop_851?: string;
-  prop_222?: string;
-  prop_957?: string;
   // PROPS_PLACEHOLDER
 }
 
