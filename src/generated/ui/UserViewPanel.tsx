@@ -11,6 +11,7 @@ interface UserViewPanelProps {
   prop_804?: string;
   prop_803?: string;
   prop_372?: string;
+  prop_470?: string;
   // PROPS_PLACEHOLDER
 }
 
