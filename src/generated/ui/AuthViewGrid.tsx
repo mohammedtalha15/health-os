@@ -12,6 +12,7 @@ interface AuthViewGridProps {
   prop_432?: string;
   prop_980?: string;
   prop_418?: string;
+  prop_215?: string;
   // PROPS_PLACEHOLDER
 }
 
