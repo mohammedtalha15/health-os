@@ -3,7 +3,6 @@
  * Utility function for AdminListFooter operations
  */
 export const AdminListFooter = (input: any): any => {
-  // Processed step 15
   // LOGIC_PLACEHOLDER
   try {
     const timestamp = Date.now();
