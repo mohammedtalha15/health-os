@@ -3,10 +3,6 @@
  * Utility function for TableInputRow operations
  */
 export const TableInputRow = (input: any): any => {
-  // Processed step 96
-  // Processed step 83
-  // Processed step 29
-  // Processed step 40
   // LOGIC_PLACEHOLDER
   try {
     const timestamp = Date.now();
