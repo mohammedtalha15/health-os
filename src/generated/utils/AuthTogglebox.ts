@@ -3,7 +3,6 @@
  * Utility function for AuthTogglebox operations
  */
 export const AuthTogglebox = (input: any): any => {
-  // Processed step 1
   // LOGIC_PLACEHOLDER
   try {
     const timestamp = Date.now();
