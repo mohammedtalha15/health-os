@@ -3,8 +3,6 @@
  * Utility function for AuthWrapperGroup operations
  */
 export const AuthWrapperGroup = (input: any): any => {
-  // Processed step 92
-  // Processed step 9
   // LOGIC_PLACEHOLDER
   try {
     const timestamp = Date.now();
