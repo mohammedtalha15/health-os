@@ -5,6 +5,7 @@
 export const DashboardSelectSidebar = (input: any): any => {
   // Processed step 78
   // Processed step 5
+  // Processed step 4
   // LOGIC_PLACEHOLDER
   try {
     const timestamp = Date.now();
