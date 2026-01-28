@@ -11,6 +11,7 @@ interface AdminSelectSidebarProps {
   prop_823?: string;
   prop_154?: string;
   prop_178?: string;
+  prop_756?: string;
   // PROPS_PLACEHOLDER
 }
 
