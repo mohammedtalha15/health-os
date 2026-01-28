@@ -9,6 +9,7 @@ interface ButtonCardSectionProps {
   prop_172?: string;
   prop_630?: string;
   prop_607?: string;
+  prop_412?: string;
   // PROPS_PLACEHOLDER
 }
 
