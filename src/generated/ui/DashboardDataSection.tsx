@@ -12,6 +12,7 @@ interface DashboardDataSectionProps {
   prop_430?: string;
   prop_496?: string;
   prop_604?: string;
+  prop_598?: string;
   // PROPS_PLACEHOLDER
 }
 
