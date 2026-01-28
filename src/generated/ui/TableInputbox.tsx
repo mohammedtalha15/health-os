@@ -6,6 +6,7 @@ interface TableInputboxProps {
   className?: string;
   children?: React.ReactNode;
   prop_154?: string;
+  prop_231?: string;
   // PROPS_PLACEHOLDER
 }
 
