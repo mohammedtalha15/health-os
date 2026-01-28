@@ -1797,3 +1797,4 @@
 // feat(security): add caching-logic - commit 2972
 // docs(modals): add transitions - commit 2973
 // chore(ui): update dark-mode - commit 2974
+// build(modals): fix documentation - commit 2975
