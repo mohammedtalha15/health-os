@@ -7,6 +7,7 @@ interface ProfileWrapperFooterProps {
   children?: React.ReactNode;
   prop_827?: string;
   prop_635?: string;
+  prop_421?: string;
   // PROPS_PLACEHOLDER
 }
 
