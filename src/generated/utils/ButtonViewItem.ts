@@ -3,8 +3,6 @@
  * Utility function for ButtonViewItem operations
  */
 export const ButtonViewItem = (input: any): any => {
-  // Processed step 47
-  // Processed step 63
   // LOGIC_PLACEHOLDER
   try {
     const timestamp = Date.now();
