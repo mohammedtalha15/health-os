@@ -3,7 +3,6 @@
  * Utility function for ChartSelectHeader operations
  */
 export const ChartSelectHeader = (input: any): any => {
-  // Processed step 29
   // LOGIC_PLACEHOLDER
   try {
     const timestamp = Date.now();
