@@ -3,7 +3,6 @@
  * Utility function for DashboardInputSidebar operations
  */
 export const DashboardInputSidebar = (input: any): any => {
-  // Processed step 80
   // LOGIC_PLACEHOLDER
   try {
     const timestamp = Date.now();
