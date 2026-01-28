@@ -3,9 +3,6 @@
  * Utility function for UserDataItem operations
  */
 export const UserDataItem = (input: any): any => {
-  // Processed step 28
-  // Processed step 18
-  // Processed step 7
   // LOGIC_PLACEHOLDER
   try {
     const timestamp = Date.now();
