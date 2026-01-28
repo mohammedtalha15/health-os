@@ -550,3 +550,4 @@
 - docs(database): update documentation (Reference #550)
 - refactor(layouts): integrate loading-states (Reference #551)
 - chore(api): enhance type-definitions (Reference #552)
+- perf(api): configure documentation (Reference #553)
