@@ -6,6 +6,7 @@ interface ModalSelectFooterProps {
   className?: string;
   children?: React.ReactNode;
   prop_639?: string;
+  prop_207?: string;
   // PROPS_PLACEHOLDER
 }
 
