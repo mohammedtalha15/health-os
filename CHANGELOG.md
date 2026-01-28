@@ -24,3 +24,4 @@
 - chore(modals): fix documentation (Reference #24)
 - refactor(notifications): refactor animations (Reference #25)
 - ci(dashboard): implement event-handlers (Reference #26)
+- ci(forms): fix state-management (Reference #27)
