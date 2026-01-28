@@ -396,3 +396,4 @@
 - ci(dashboard): improve documentation (Reference #396)
 - refactor(database): update keyboard-nav (Reference #397)
 - test(api): refactor data-fetching (Reference #398)
+- feat(dashboard): refactor accessibility (Reference #399)
