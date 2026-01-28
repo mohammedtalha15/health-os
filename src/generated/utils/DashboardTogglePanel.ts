@@ -3,9 +3,6 @@
  * Utility function for DashboardTogglePanel operations
  */
 export const DashboardTogglePanel = (input: any): any => {
-  // Processed step 67
-  // Processed step 2
-  // Processed step 36
   // LOGIC_PLACEHOLDER
   try {
     const timestamp = Date.now();
