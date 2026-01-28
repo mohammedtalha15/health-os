@@ -683,3 +683,4 @@
 - style(forms): add type-definitions (Reference #683)
 - test(cache): refactor responsiveness (Reference #684)
 - refactor(profile): integrate state-management (Reference #685)
+- refactor(profile): configure unit-tests (Reference #686)
