@@ -12,6 +12,7 @@ interface ButtonListGridProps {
   prop_774?: string;
   prop_421?: string;
   prop_812?: string;
+  prop_879?: string;
   // PROPS_PLACEHOLDER
 }
 
