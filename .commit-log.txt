@@ -9,3 +9,4 @@
 // refactor(tables): update keyboard-nav - commit 1184
 // feat(cache): enhance performance - commit 1185
 // refactor(modals): optimize dark-mode - commit 1186
+// ci(buttons): fix code-quality - commit 1187
