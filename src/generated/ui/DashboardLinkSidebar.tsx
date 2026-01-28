@@ -18,6 +18,7 @@ interface DashboardLinkSidebarProps {
   prop_916?: string;
   prop_601?: string;
   prop_960?: string;
+  prop_236?: string;
   // PROPS_PLACEHOLDER
 }
 
