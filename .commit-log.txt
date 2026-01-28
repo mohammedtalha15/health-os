@@ -603,3 +603,4 @@
 // style(forms): fix event-handlers - commit 1778
 // style(inputs): refactor transitions - commit 1779
 // chore(security): fix type-definitions - commit 1780
+// test(tables): integrate accessibility - commit 1781
