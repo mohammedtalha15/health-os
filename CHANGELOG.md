@@ -218,3 +218,4 @@
 - ci(layouts): enhance user-experience (Reference #218)
 - docs(dashboard): optimize mobile-support (Reference #219)
 - build(auth): integrate transitions (Reference #220)
+- ci(settings): integrate mobile-support (Reference #221)
