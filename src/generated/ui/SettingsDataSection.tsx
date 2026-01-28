@@ -14,6 +14,7 @@ interface SettingsDataSectionProps {
   prop_348?: string;
   prop_930?: string;
   prop_170?: string;
+  prop_496?: string;
   // PROPS_PLACEHOLDER
 }
 
