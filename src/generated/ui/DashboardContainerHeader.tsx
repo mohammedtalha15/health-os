@@ -5,10 +5,6 @@ interface DashboardContainerHeaderProps {
   id?: string;
   className?: string;
   children?: React.ReactNode;
-  prop_858?: string;
-  prop_271?: string;
-  prop_198?: string;
-  prop_834?: string;
   // PROPS_PLACEHOLDER
 }
 
