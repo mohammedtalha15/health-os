@@ -264,3 +264,4 @@
 - ci(charts): configure code-quality (Reference #264)
 - feat(modals): implement keyboard-nav (Reference #265)
 - style(profile): optimize code-quality (Reference #266)
+- build(api): refactor mobile-support (Reference #267)
