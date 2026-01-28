@@ -716,3 +716,4 @@
 - chore(database): update animations (Reference #716)
 - docs(auth): add documentation (Reference #717)
 - test(security): enhance accessibility (Reference #718)
+- refactor(notifications): integrate animations (Reference #719)
