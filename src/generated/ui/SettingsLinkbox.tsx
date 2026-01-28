@@ -7,6 +7,7 @@ interface SettingsLinkboxProps {
   children?: React.ReactNode;
   prop_811?: string;
   prop_240?: string;
+  prop_848?: string;
   // PROPS_PLACEHOLDER
 }
 
