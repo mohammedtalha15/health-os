@@ -7,6 +7,7 @@ interface ChartWrapperboxProps {
   children?: React.ReactNode;
   prop_324?: string;
   prop_847?: string;
+  prop_815?: string;
   // PROPS_PLACEHOLDER
 }
 
