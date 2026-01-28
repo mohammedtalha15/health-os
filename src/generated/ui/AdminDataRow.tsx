@@ -5,6 +5,7 @@ interface AdminDataRowProps {
   id?: string;
   className?: string;
   children?: React.ReactNode;
+  prop_948?: string;
   // PROPS_PLACEHOLDER
 }
 
