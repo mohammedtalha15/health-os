@@ -1214,3 +1214,4 @@
 - build(analytics): integrate caching-logic (Reference #1214)
 - refactor(search): enhance unit-tests (Reference #1215)
 - fix(tables): refactor loading-states (Reference #1216)
+- style(settings): implement error-handling (Reference #1217)
