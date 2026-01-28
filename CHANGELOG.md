@@ -1143,3 +1143,4 @@
 - perf(auth): fix code-quality (Reference #1143)
 - docs(search): update transitions (Reference #1144)
 - feat(auth): fix user-experience (Reference #1145)
+- ci(auth): optimize keyboard-nav (Reference #1146)
