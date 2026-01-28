@@ -6,6 +6,7 @@ interface ProfileWrapperPanelProps {
   className?: string;
   children?: React.ReactNode;
   prop_973?: string;
+  prop_329?: string;
   // PROPS_PLACEHOLDER
 }
 
