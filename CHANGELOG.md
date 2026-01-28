@@ -362,3 +362,4 @@
 - fix(search): enhance performance (Reference #362)
 - perf(security): improve caching-logic (Reference #363)
 - feat(modals): fix caching-logic (Reference #364)
+- docs(notifications): add user-experience (Reference #365)
