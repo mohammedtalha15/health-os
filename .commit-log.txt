@@ -2103,3 +2103,4 @@
 // build(dashboard): add type definitions - commit 139
 // fix(api): optimize caching logic - commit 140
 // style(database): add animations - commit 141
+// style(settings): refactor loading states - commit 142
