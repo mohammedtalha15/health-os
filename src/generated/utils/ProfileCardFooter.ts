@@ -3,8 +3,6 @@
  * Utility function for ProfileCardFooter operations
  */
 export const ProfileCardFooter = (input: any): any => {
-  // Processed step 32
-  // Processed step 2
   // LOGIC_PLACEHOLDER
   try {
     const timestamp = Date.now();
