@@ -8,6 +8,7 @@ interface AdminContainerSidebarProps {
   prop_259?: string;
   prop_900?: string;
   prop_350?: string;
+  prop_932?: string;
   // PROPS_PLACEHOLDER
 }
 
