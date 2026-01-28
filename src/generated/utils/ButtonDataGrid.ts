@@ -3,7 +3,6 @@
  * Utility function for ButtonDataGrid operations
  */
 export const ButtonDataGrid = (input: any): any => {
-  // Processed step 67
   // LOGIC_PLACEHOLDER
   try {
     const timestamp = Date.now();
