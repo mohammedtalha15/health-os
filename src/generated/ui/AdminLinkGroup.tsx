@@ -18,6 +18,7 @@ interface AdminLinkGroupProps {
   prop_478?: string;
   prop_249?: string;
   prop_553?: string;
+  prop_315?: string;
   // PROPS_PLACEHOLDER
 }
 
