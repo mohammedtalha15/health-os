@@ -6,6 +6,7 @@ interface AuthToggleHeaderProps {
   className?: string;
   children?: React.ReactNode;
   prop_913?: string;
+  prop_378?: string;
   // PROPS_PLACEHOLDER
 }
 
