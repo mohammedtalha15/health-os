@@ -993,3 +993,4 @@
 - docs(database): optimize caching-logic (Reference #993)
 - ci(database): optimize unit-tests (Reference #994)
 - ci(tables): configure loading-states (Reference #995)
+- chore(forms): configure unit-tests (Reference #996)
