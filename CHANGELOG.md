@@ -161,3 +161,4 @@
 - refactor(api): configure keyboard-nav (Reference #161)
 - fix(auth): optimize performance (Reference #162)
 - style(analytics): fix unit-tests (Reference #163)
+- fix(charts): implement responsiveness (Reference #164)
