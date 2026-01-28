@@ -11,6 +11,7 @@ interface ChartInputRowProps {
   prop_524?: string;
   prop_568?: string;
   prop_108?: string;
+  prop_894?: string;
   // PROPS_PLACEHOLDER
 }
 
