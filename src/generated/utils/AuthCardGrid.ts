@@ -3,8 +3,6 @@
  * Utility function for AuthCardGrid operations
  */
 export const AuthCardGrid = (input: any): any => {
-  // Processed step 5
-  // Processed step 17
   // LOGIC_PLACEHOLDER
   try {
     const timestamp = Date.now();
