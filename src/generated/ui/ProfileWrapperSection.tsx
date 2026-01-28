@@ -8,6 +8,7 @@ interface ProfileWrapperSectionProps {
   prop_245?: string;
   prop_637?: string;
   prop_898?: string;
+  prop_900?: string;
   // PROPS_PLACEHOLDER
 }
 
