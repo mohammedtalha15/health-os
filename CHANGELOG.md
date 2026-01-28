@@ -189,3 +189,4 @@
 - chore(database): implement documentation (Reference #189)
 - refactor(api): fix responsiveness (Reference #190)
 - fix(layouts): optimize dark-mode (Reference #191)
+- perf(database): configure keyboard-nav (Reference #192)
