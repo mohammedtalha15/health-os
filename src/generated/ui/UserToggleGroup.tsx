@@ -12,6 +12,7 @@ interface UserToggleGroupProps {
   prop_537?: string;
   prop_366?: string;
   prop_623?: string;
+  prop_833?: string;
   // PROPS_PLACEHOLDER
 }
 
