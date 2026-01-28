@@ -9,6 +9,7 @@ interface AuthInputRowProps {
   prop_183?: string;
   prop_973?: string;
   prop_651?: string;
+  prop_222?: string;
   // PROPS_PLACEHOLDER
 }
 
