@@ -1011,3 +1011,4 @@
 - style(forms): improve documentation (Reference #1011)
 - chore(profile): update code-quality (Reference #1012)
 - build(analytics): optimize documentation (Reference #1013)
+- docs(settings): implement keyboard-nav (Reference #1014)
