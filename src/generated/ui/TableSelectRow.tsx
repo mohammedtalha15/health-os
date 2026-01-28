@@ -5,13 +5,6 @@ interface TableSelectRowProps {
   id?: string;
   className?: string;
   children?: React.ReactNode;
-  prop_945?: string;
-  prop_825?: string;
-  prop_610?: string;
-  prop_682?: string;
-  prop_327?: string;
-  prop_515?: string;
-  prop_339?: string;
   // PROPS_PLACEHOLDER
 }
 
