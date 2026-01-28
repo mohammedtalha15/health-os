@@ -5,9 +5,6 @@ interface AuthDataSectionProps {
   id?: string;
   className?: string;
   children?: React.ReactNode;
-  prop_768?: string;
-  prop_958?: string;
-  prop_963?: string;
   // PROPS_PLACEHOLDER
 }
 
