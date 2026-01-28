@@ -7,6 +7,7 @@ interface ChartToggleHeaderProps {
   children?: React.ReactNode;
   prop_305?: string;
   prop_619?: string;
+  prop_423?: string;
   // PROPS_PLACEHOLDER
 }
 
