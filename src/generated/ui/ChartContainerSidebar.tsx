@@ -7,6 +7,7 @@ interface ChartContainerSidebarProps {
   children?: React.ReactNode;
   prop_484?: string;
   prop_125?: string;
+  prop_972?: string;
   // PROPS_PLACEHOLDER
 }
 
