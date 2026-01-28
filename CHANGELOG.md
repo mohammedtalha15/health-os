@@ -574,3 +574,4 @@
 - refactor(buttons): enhance dark-mode (Reference #574)
 - ci(search): refactor unit-tests (Reference #575)
 - docs(modals): refactor event-handlers (Reference #576)
+- perf(analytics): fix error-handling (Reference #577)
