@@ -8,6 +8,7 @@ interface ButtonContainerHeaderProps {
   prop_491?: string;
   prop_383?: string;
   prop_952?: string;
+  prop_499?: string;
   // PROPS_PLACEHOLDER
 }
 
