@@ -5,10 +5,6 @@ interface ChartToggleGridProps {
   id?: string;
   className?: string;
   children?: React.ReactNode;
-  prop_770?: string;
-  prop_464?: string;
-  prop_651?: string;
-  prop_812?: string;
   // PROPS_PLACEHOLDER
 }
 
