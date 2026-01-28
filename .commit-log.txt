@@ -2735,3 +2735,4 @@
 // refactor(forms): optimize mobile-support - commit 263
 // ci(modals): implement data-fetching - commit 264
 // refactor(charts): optimize responsiveness - commit 265
+// docs(buttons): enhance type-definitions - commit 266
