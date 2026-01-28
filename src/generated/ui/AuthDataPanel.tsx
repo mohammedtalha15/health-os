@@ -13,6 +13,7 @@ interface AuthDataPanelProps {
   prop_300?: string;
   prop_375?: string;
   prop_950?: string;
+  prop_861?: string;
   // PROPS_PLACEHOLDER
 }
 
