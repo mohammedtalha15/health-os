@@ -5,15 +5,6 @@ interface ProfileContainerGridProps {
   id?: string;
   className?: string;
   children?: React.ReactNode;
-  prop_989?: string;
-  prop_511?: string;
-  prop_672?: string;
-  prop_701?: string;
-  prop_562?: string;
-  prop_842?: string;
-  prop_810?: string;
-  prop_313?: string;
-  prop_950?: string;
   // PROPS_PLACEHOLDER
 }
 
