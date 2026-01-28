@@ -8,6 +8,7 @@ interface ModalToggleHeaderProps {
   prop_346?: string;
   prop_736?: string;
   prop_268?: string;
+  prop_280?: string;
   // PROPS_PLACEHOLDER
 }
 
