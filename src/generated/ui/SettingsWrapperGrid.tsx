@@ -7,6 +7,7 @@ interface SettingsWrapperGridProps {
   children?: React.ReactNode;
   prop_328?: string;
   prop_215?: string;
+  prop_523?: string;
   // PROPS_PLACEHOLDER
 }
 
