@@ -5,17 +5,6 @@ interface UserSelectPanelProps {
   id?: string;
   className?: string;
   children?: React.ReactNode;
-  prop_744?: string;
-  prop_350?: string;
-  prop_866?: string;
-  prop_866?: string;
-  prop_580?: string;
-  prop_314?: string;
-  prop_497?: string;
-  prop_271?: string;
-  prop_101?: string;
-  prop_430?: string;
-  prop_964?: string;
   // PROPS_PLACEHOLDER
 }
 
