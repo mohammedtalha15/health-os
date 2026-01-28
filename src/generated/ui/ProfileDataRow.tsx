@@ -12,6 +12,7 @@ interface ProfileDataRowProps {
   prop_944?: string;
   prop_123?: string;
   prop_441?: string;
+  prop_834?: string;
   // PROPS_PLACEHOLDER
 }
 
