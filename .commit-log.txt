@@ -3362,3 +3362,4 @@
 // perf(layouts): enhance mobile-support - commit 890
 // style(search): add accessibility - commit 891
 // perf(tables): integrate loading-states - commit 892
+// feat(modals): improve responsiveness - commit 893
