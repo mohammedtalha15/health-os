@@ -1432,3 +1432,4 @@
 // feat(inputs): implement keyboard-nav - commit 2607
 // test(analytics): integrate mobile-support - commit 2608
 // perf(charts): fix event-handlers - commit 2609
+// feat(tables): implement documentation - commit 2610
