@@ -1175,3 +1175,4 @@
 // style(buttons): update unit-tests - commit 2350
 // fix(database): update code-quality - commit 2351
 // ci(tables): configure loading-states - commit 2352
+// style(modals): enhance type-definitions - commit 2353
