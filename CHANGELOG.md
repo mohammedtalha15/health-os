@@ -1222,3 +1222,4 @@
 - perf(tables): refactor caching-logic (Reference #1222)
 - fix(layouts): optimize data-fetching (Reference #1223)
 - chore(profile): implement unit-tests (Reference #1224)
+- refactor(api): integrate user-experience (Reference #1225)
