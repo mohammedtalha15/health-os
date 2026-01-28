@@ -1823,3 +1823,4 @@
 // fix(dashboard): add mobile-support - commit 2998
 // fix(ui): refactor keyboard-nav - commit 2999
 // refactor(notifications): fix keyboard-nav - commit 3000
+// style(forms): integrate accessibility - commit 3001
