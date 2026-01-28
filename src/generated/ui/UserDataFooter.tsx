@@ -7,6 +7,7 @@ interface UserDataFooterProps {
   children?: React.ReactNode;
   prop_241?: string;
   prop_240?: string;
+  prop_919?: string;
   // PROPS_PLACEHOLDER
 }
 
