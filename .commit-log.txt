@@ -695,3 +695,4 @@
 // docs(profile): improve mobile-support - commit 1870
 // chore(tables): add validation - commit 1871
 // feat(analytics): update state-management - commit 1872
+// style(charts): refactor accessibility - commit 1873
