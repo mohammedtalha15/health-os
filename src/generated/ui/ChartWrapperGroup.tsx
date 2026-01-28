@@ -14,6 +14,7 @@ interface ChartWrapperGroupProps {
   prop_506?: string;
   prop_454?: string;
   prop_207?: string;
+  prop_804?: string;
   // PROPS_PLACEHOLDER
 }
 
