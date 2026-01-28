@@ -7,6 +7,7 @@ interface TableInputGridProps {
   children?: React.ReactNode;
   prop_846?: string;
   prop_908?: string;
+  prop_237?: string;
   // PROPS_PLACEHOLDER
 }
 
