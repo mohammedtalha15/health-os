@@ -515,3 +515,4 @@
 - fix(security): improve unit-tests (Reference #515)
 - perf(forms): implement code-quality (Reference #516)
 - ci(notifications): update state-management (Reference #517)
+- feat(security): improve user-experience (Reference #518)
