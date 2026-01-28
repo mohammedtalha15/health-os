@@ -34,6 +34,7 @@ interface DashboardSelectPanelProps {
   prop_460?: string;
   prop_694?: string;
   prop_119?: string;
+  prop_138?: string;
   // PROPS_PLACEHOLDER
 }
 
