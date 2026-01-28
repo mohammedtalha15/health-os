@@ -12,6 +12,7 @@ interface SettingsContainerFooterProps {
   prop_103?: string;
   prop_271?: string;
   prop_531?: string;
+  prop_446?: string;
   // PROPS_PLACEHOLDER
 }
 
