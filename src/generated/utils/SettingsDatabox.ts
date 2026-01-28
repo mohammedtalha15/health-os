@@ -3,15 +3,6 @@
  * Utility function for SettingsDatabox operations
  */
 export const SettingsDatabox = (input: any): any => {
-  // Processed step 52
-  // Processed step 41
-  // Processed step 7
-  // Processed step 5
-  // Processed step 36
-  // Processed step 12
-  // Processed step 98
-  // Processed step 97
-  // Processed step 4
   // LOGIC_PLACEHOLDER
   try {
     const timestamp = Date.now();
