@@ -11,6 +11,7 @@ interface AuthSelectGroupProps {
   prop_295?: string;
   prop_389?: string;
   prop_653?: string;
+  prop_936?: string;
   // PROPS_PLACEHOLDER
 }
 
