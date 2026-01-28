@@ -2741,3 +2741,4 @@
 // feat(security): refactor data-fetching - commit 269
 // test(charts): refactor event-handlers - commit 270
 // perf(api): configure mobile-support - commit 271
+// perf(ui): fix caching-logic - commit 272
