@@ -1375,3 +1375,4 @@
 - fix(settings): configure unit-tests (Reference #1375)
 - docs(buttons): fix performance (Reference #1376)
 - perf(cache): implement documentation (Reference #1377)
+- ci(modals): add code-quality (Reference #1378)
