@@ -3,8 +3,6 @@
  * Utility function for SettingsDataItem operations
  */
 export const SettingsDataItem = (input: any): any => {
-  // Processed step 44
-  // Processed step 72
   // LOGIC_PLACEHOLDER
   try {
     const timestamp = Date.now();
