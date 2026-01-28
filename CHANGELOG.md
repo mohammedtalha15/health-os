@@ -113,3 +113,4 @@
 - docs(api): configure dark-mode (Reference #113)
 - style(search): add dark-mode (Reference #114)
 - feat(security): implement data-fetching (Reference #115)
+- perf(ui): fix mobile-support (Reference #116)
