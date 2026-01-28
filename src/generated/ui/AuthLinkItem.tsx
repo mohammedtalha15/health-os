@@ -11,6 +11,7 @@ interface AuthLinkItemProps {
   prop_213?: string;
   prop_595?: string;
   prop_429?: string;
+  prop_280?: string;
   // PROPS_PLACEHOLDER
 }
 
