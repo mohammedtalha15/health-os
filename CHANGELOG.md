@@ -1551,3 +1551,4 @@
 - refactor(dashboard): configure keyboard-nav (Reference #1551)
 - chore(auth): fix keyboard-nav (Reference #1552)
 - chore(tables): fix state-management (Reference #1553)
+- refactor(security): refactor state-management (Reference #1554)
