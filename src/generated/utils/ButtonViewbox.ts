@@ -3,11 +3,6 @@
  * Utility function for ButtonViewbox operations
  */
 export const ButtonViewbox = (input: any): any => {
-  // Processed step 7
-  // Processed step 9
-  // Processed step 26
-  // Processed step 20
-  // Processed step 69
   // LOGIC_PLACEHOLDER
   try {
     const timestamp = Date.now();
