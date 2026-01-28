@@ -18,6 +18,7 @@ interface ButtonViewGridProps {
   prop_401?: string;
   prop_891?: string;
   prop_781?: string;
+  prop_278?: string;
   // PROPS_PLACEHOLDER
 }
 
