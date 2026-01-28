@@ -5,8 +5,6 @@ interface UserInputFooterProps {
   id?: string;
   className?: string;
   children?: React.ReactNode;
-  prop_934?: string;
-  prop_147?: string;
   // PROPS_PLACEHOLDER
 }
 
