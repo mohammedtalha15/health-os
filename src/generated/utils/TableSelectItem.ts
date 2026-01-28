@@ -3,11 +3,6 @@
  * Utility function for TableSelectItem operations
  */
 export const TableSelectItem = (input: any): any => {
-  // Processed step 9
-  // Processed step 53
-  // Processed step 20
-  // Processed step 15
-  // Processed step 75
   // LOGIC_PLACEHOLDER
   try {
     const timestamp = Date.now();
