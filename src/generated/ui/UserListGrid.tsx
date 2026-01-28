@@ -12,6 +12,7 @@ interface UserListGridProps {
   prop_557?: string;
   prop_876?: string;
   prop_618?: string;
+  prop_754?: string;
   // PROPS_PLACEHOLDER
 }
 
