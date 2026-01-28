@@ -3,8 +3,6 @@
  * Utility function for AuthWrapperbox operations
  */
 export const AuthWrapperbox = (input: any): any => {
-  // Processed step 88
-  // Processed step 26
   // LOGIC_PLACEHOLDER
   try {
     const timestamp = Date.now();
