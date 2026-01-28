@@ -1350,3 +1350,4 @@
 - build(tables): update error-handling (Reference #1350)
 - build(tables): update performance (Reference #1351)
 - docs(dashboard): refactor validation (Reference #1352)
+- ci(cache): configure type-definitions (Reference #1353)
