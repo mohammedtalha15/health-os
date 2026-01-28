@@ -1519,3 +1519,4 @@
 // chore(api): integrate responsiveness - commit 2694
 // feat(charts): improve type-definitions - commit 2695
 // refactor(ui): add user-experience - commit 2696
+// chore(analytics): fix responsiveness - commit 2697
