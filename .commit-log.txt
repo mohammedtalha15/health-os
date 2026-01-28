@@ -70,3 +70,4 @@
 // refactor(auth): configure responsiveness - commit 1245
 // build(settings): update accessibility - commit 1246
 // ci(notifications): enhance keyboard-nav - commit 1247
+// fix(dashboard): enhance mobile-support - commit 1248
