@@ -1410,3 +1410,4 @@
 - refactor(profile): refactor state-management (Reference #1410)
 - perf(ui): update keyboard-nav (Reference #1411)
 - docs(tables): improve code-quality (Reference #1412)
+- fix(settings): improve error-handling (Reference #1413)
