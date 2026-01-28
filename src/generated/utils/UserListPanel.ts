@@ -3,11 +3,6 @@
  * Utility function for UserListPanel operations
  */
 export const UserListPanel = (input: any): any => {
-  // Processed step 36
-  // Processed step 77
-  // Processed step 55
-  // Processed step 18
-  // Processed step 24
   // LOGIC_PLACEHOLDER
   try {
     const timestamp = Date.now();
