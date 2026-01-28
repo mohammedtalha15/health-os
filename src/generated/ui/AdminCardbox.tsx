@@ -5,10 +5,6 @@ interface AdminCardboxProps {
   id?: string;
   className?: string;
   children?: React.ReactNode;
-  prop_205?: string;
-  prop_368?: string;
-  prop_114?: string;
-  prop_457?: string;
   // PROPS_PLACEHOLDER
 }
 
