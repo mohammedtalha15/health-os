@@ -1229,3 +1229,4 @@
 // style(database): add event-handlers - commit 2404
 // perf(modals): update documentation - commit 2405
 // refactor(tables): improve type-definitions - commit 2406
+// ci(search): refactor transitions - commit 2407
