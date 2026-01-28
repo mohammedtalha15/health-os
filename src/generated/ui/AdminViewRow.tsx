@@ -14,6 +14,7 @@ interface AdminViewRowProps {
   prop_569?: string;
   prop_653?: string;
   prop_974?: string;
+  prop_818?: string;
   // PROPS_PLACEHOLDER
 }
 
