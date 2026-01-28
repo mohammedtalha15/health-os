@@ -6,6 +6,7 @@ interface ChartSelectGridProps {
   className?: string;
   children?: React.ReactNode;
   prop_293?: string;
+  prop_840?: string;
   // PROPS_PLACEHOLDER
 }
 
