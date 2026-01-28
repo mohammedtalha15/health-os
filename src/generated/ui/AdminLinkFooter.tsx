@@ -5,6 +5,7 @@ interface AdminLinkFooterProps {
   id?: string;
   className?: string;
   children?: React.ReactNode;
+  prop_492?: string;
   // PROPS_PLACEHOLDER
 }
 
