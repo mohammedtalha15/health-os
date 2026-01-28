@@ -22,3 +22,4 @@
 // refactor(auth): configure caching-logic - commit 1197
 // perf(charts): improve mobile-support - commit 1198
 // style(cache): integrate mobile-support - commit 1199
+// refactor(ui): configure transitions - commit 1200
