@@ -5,12 +5,6 @@ interface ModalDataboxProps {
   id?: string;
   className?: string;
   children?: React.ReactNode;
-  prop_115?: string;
-  prop_416?: string;
-  prop_472?: string;
-  prop_144?: string;
-  prop_953?: string;
-  prop_376?: string;
   // PROPS_PLACEHOLDER
 }
 
