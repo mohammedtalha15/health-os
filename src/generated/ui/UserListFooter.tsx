@@ -8,6 +8,7 @@ interface UserListFooterProps {
   prop_194?: string;
   prop_940?: string;
   prop_738?: string;
+  prop_448?: string;
   // PROPS_PLACEHOLDER
 }
 
