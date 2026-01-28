@@ -8,6 +8,7 @@ interface TableWrapperSidebarProps {
   prop_802?: string;
   prop_627?: string;
   prop_922?: string;
+  prop_775?: string;
   // PROPS_PLACEHOLDER
 }
 
