@@ -256,3 +256,4 @@
 - style(security): add accessibility (Reference #256)
 - style(cache): configure caching-logic (Reference #257)
 - perf(api): update mobile-support (Reference #258)
+- ci(notifications): update data-fetching (Reference #259)
