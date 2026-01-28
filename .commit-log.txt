@@ -2758,3 +2758,4 @@
 // perf(analytics): implement animations - commit 286
 // style(api): integrate user-experience - commit 287
 // chore(security): implement loading-states - commit 288
+// test(modals): fix loading-states - commit 289
