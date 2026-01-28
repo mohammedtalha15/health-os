@@ -5,20 +5,6 @@ interface UserViewPanelProps {
   id?: string;
   className?: string;
   children?: React.ReactNode;
-  prop_837?: string;
-  prop_219?: string;
-  prop_588?: string;
-  prop_804?: string;
-  prop_803?: string;
-  prop_372?: string;
-  prop_470?: string;
-  prop_365?: string;
-  prop_907?: string;
-  prop_741?: string;
-  prop_189?: string;
-  prop_717?: string;
-  prop_113?: string;
-  prop_456?: string;
   // PROPS_PLACEHOLDER
 }
 
