@@ -2661,3 +2661,4 @@
 // docs(navigation): enhance unit-tests - commit 189
 // build(dashboard): integrate transitions - commit 190
 // ci(tables): improve data-fetching - commit 191
+// style(charts): fix documentation - commit 192
