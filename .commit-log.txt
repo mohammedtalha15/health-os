@@ -19,3 +19,4 @@
 // test(database): configure documentation - commit 1194
 // style(dashboard): configure caching-logic - commit 1195
 // ci(tables): implement keyboard-nav - commit 1196
+// refactor(auth): configure caching-logic - commit 1197
