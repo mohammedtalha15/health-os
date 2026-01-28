@@ -6,6 +6,7 @@ interface ProfileCardRowProps {
   className?: string;
   children?: React.ReactNode;
   prop_273?: string;
+  prop_440?: string;
   // PROPS_PLACEHOLDER
 }
 
