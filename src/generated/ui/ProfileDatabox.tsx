@@ -8,6 +8,7 @@ interface ProfileDataboxProps {
   prop_581?: string;
   prop_353?: string;
   prop_829?: string;
+  prop_375?: string;
   // PROPS_PLACEHOLDER
 }
 
