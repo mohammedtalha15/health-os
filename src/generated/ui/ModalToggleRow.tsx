@@ -6,6 +6,7 @@ interface ModalToggleRowProps {
   className?: string;
   children?: React.ReactNode;
   prop_516?: string;
+  prop_901?: string;
   // PROPS_PLACEHOLDER
 }
 
