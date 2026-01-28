@@ -3,13 +3,6 @@
  * Utility function for ModalInputHeader operations
  */
 export const ModalInputHeader = (input: any): any => {
-  // Processed step 1
-  // Processed step 75
-  // Processed step 51
-  // Processed step 51
-  // Processed step 59
-  // Processed step 33
-  // Processed step 15
   // LOGIC_PLACEHOLDER
   try {
     const timestamp = Date.now();
