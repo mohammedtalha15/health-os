@@ -3,10 +3,6 @@
  * Utility function for TableSelectSidebar operations
  */
 export const TableSelectSidebar = (input: any): any => {
-  // Processed step 98
-  // Processed step 65
-  // Processed step 22
-  // Processed step 39
   // LOGIC_PLACEHOLDER
   try {
     const timestamp = Date.now();
