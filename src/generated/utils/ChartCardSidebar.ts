@@ -3,7 +3,6 @@
  * Utility function for ChartCardSidebar operations
  */
 export const ChartCardSidebar = (input: any): any => {
-  // Processed step 29
   // LOGIC_PLACEHOLDER
   try {
     const timestamp = Date.now();
