@@ -690,3 +690,4 @@
 - fix(notifications): configure keyboard-nav (Reference #690)
 - docs(api): update user-experience (Reference #691)
 - docs(inputs): update validation (Reference #692)
+- refactor(security): add performance (Reference #693)
