@@ -3,31 +3,6 @@
  * Utility function for ModalWrapperGroup operations
  */
 export const ModalWrapperGroup = (input: any): any => {
-  // Processed step 31
-  // Processed step 27
-  // Processed step 80
-  // Processed step 2
-  // Processed step 20
-  // Processed step 100
-  // Processed step 46
-  // Processed step 12
-  // Processed step 97
-  // Processed step 31
-  // Processed step 21
-  // Processed step 73
-  // Processed step 56
-  // Processed step 100
-  // Processed step 4
-  // Processed step 42
-  // Processed step 3
-  // Processed step 23
-  // Processed step 46
-  // Processed step 14
-  // Processed step 65
-  // Processed step 28
-  // Processed step 70
-  // Processed step 70
-  // Processed step 23
   // LOGIC_PLACEHOLDER
   try {
     const timestamp = Date.now();
