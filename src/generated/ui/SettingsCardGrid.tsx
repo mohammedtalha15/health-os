@@ -16,6 +16,7 @@ interface SettingsCardGridProps {
   prop_651?: string;
   prop_445?: string;
   prop_682?: string;
+  prop_361?: string;
   // PROPS_PLACEHOLDER
 }
 
