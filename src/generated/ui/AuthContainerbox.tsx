@@ -7,6 +7,7 @@ interface AuthContainerboxProps {
   children?: React.ReactNode;
   prop_812?: string;
   prop_642?: string;
+  prop_230?: string;
   // PROPS_PLACEHOLDER
 }
 
