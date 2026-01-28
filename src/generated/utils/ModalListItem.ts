@@ -3,11 +3,6 @@
  * Utility function for ModalListItem operations
  */
 export const ModalListItem = (input: any): any => {
-  // Processed step 19
-  // Processed step 27
-  // Processed step 21
-  // Processed step 69
-  // Processed step 46
   // LOGIC_PLACEHOLDER
   try {
     const timestamp = Date.now();
