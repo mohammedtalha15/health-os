@@ -13,6 +13,7 @@ interface UserSelectSidebarProps {
   prop_202?: string;
   prop_228?: string;
   prop_305?: string;
+  prop_515?: string;
   // PROPS_PLACEHOLDER
 }
 
