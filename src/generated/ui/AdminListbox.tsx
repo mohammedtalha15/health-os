@@ -7,6 +7,7 @@ interface AdminListboxProps {
   children?: React.ReactNode;
   prop_188?: string;
   prop_787?: string;
+  prop_791?: string;
   // PROPS_PLACEHOLDER
 }
 
