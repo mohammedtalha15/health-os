@@ -377,3 +377,4 @@
 - perf(settings): add performance (Reference #377)
 - docs(charts): optimize transitions (Reference #378)
 - refactor(cache): configure state-management (Reference #379)
+- docs(forms): integrate dark-mode (Reference #380)
