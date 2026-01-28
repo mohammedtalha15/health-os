@@ -8,6 +8,7 @@ interface AuthInputFooterProps {
   prop_592?: string;
   prop_659?: string;
   prop_768?: string;
+  prop_507?: string;
   // PROPS_PLACEHOLDER
 }
 
