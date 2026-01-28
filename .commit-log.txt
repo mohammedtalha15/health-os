@@ -102,3 +102,4 @@
 // fix(forms): improve performance - commit 1277
 // fix(settings): fix loading-states - commit 1278
 // fix(profile): refactor documentation - commit 1279
+// chore(security): update loading-states - commit 1280
