@@ -3,28 +3,6 @@
  * Utility function for DashboardLinkItem operations
  */
 export const DashboardLinkItem = (input: any): any => {
-  // Processed step 9
-  // Processed step 41
-  // Processed step 51
-  // Processed step 52
-  // Processed step 100
-  // Processed step 1
-  // Processed step 51
-  // Processed step 96
-  // Processed step 61
-  // Processed step 35
-  // Processed step 72
-  // Processed step 34
-  // Processed step 74
-  // Processed step 96
-  // Processed step 33
-  // Processed step 12
-  // Processed step 8
-  // Processed step 79
-  // Processed step 34
-  // Processed step 71
-  // Processed step 40
-  // Processed step 28
   // LOGIC_PLACEHOLDER
   try {
     const timestamp = Date.now();
