@@ -5,16 +5,6 @@ interface TableContainerFooterProps {
   id?: string;
   className?: string;
   children?: React.ReactNode;
-  prop_788?: string;
-  prop_185?: string;
-  prop_561?: string;
-  prop_292?: string;
-  prop_396?: string;
-  prop_473?: string;
-  prop_396?: string;
-  prop_583?: string;
-  prop_265?: string;
-  prop_389?: string;
   // PROPS_PLACEHOLDER
 }
 
