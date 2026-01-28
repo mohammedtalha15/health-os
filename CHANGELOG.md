@@ -1335,3 +1335,4 @@
 - style(cache): add type-definitions (Reference #1335)
 - style(dashboard): configure code-quality (Reference #1336)
 - feat(profile): enhance mobile-support (Reference #1337)
+- ci(tables): add loading-states (Reference #1338)
