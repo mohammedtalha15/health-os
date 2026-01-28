@@ -6,6 +6,7 @@ interface SettingsViewItemProps {
   className?: string;
   children?: React.ReactNode;
   prop_496?: string;
+  prop_700?: string;
   // PROPS_PLACEHOLDER
 }
 
