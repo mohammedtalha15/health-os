@@ -2066,3 +2066,4 @@
 // feat(tables):  transitions - commit 102
 // feat(search): add data fetching - commit 103
 // test(buttons): implement mobile support - commit 104
+// feat(ui): refactor transitions - commit 105
