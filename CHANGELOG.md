@@ -850,3 +850,4 @@
 - fix(charts): implement unit-tests (Reference #850)
 - test(security): configure animations (Reference #851)
 - build(search): improve event-handlers (Reference #852)
+- feat(layouts): implement transitions (Reference #853)
