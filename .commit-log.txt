@@ -718,3 +718,4 @@
 // feat(api): refactor loading-states - commit 1893
 // style(inputs): add user-experience - commit 1894
 // build(layouts): implement validation - commit 1895
+// style(api): enhance data-fetching - commit 1896
