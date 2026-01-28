@@ -6,6 +6,7 @@ interface ProfileCardGroupProps {
   className?: string;
   children?: React.ReactNode;
   prop_658?: string;
+  prop_968?: string;
   // PROPS_PLACEHOLDER
 }
 
