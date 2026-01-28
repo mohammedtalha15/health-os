@@ -7,6 +7,7 @@ interface ModalWrapperFooterProps {
   children?: React.ReactNode;
   prop_881?: string;
   prop_770?: string;
+  prop_378?: string;
   // PROPS_PLACEHOLDER
 }
 
