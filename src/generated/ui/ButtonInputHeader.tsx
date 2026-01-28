@@ -5,15 +5,6 @@ interface ButtonInputHeaderProps {
   id?: string;
   className?: string;
   children?: React.ReactNode;
-  prop_468?: string;
-  prop_413?: string;
-  prop_851?: string;
-  prop_532?: string;
-  prop_533?: string;
-  prop_370?: string;
-  prop_983?: string;
-  prop_167?: string;
-  prop_826?: string;
   // PROPS_PLACEHOLDER
 }
 
