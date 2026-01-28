@@ -3,14 +3,6 @@
  * Utility function for ModalSelectRow operations
  */
 export const ModalSelectRow = (input: any): any => {
-  // Processed step 54
-  // Processed step 57
-  // Processed step 8
-  // Processed step 27
-  // Processed step 29
-  // Processed step 35
-  // Processed step 73
-  // Processed step 68
   // LOGIC_PLACEHOLDER
   try {
     const timestamp = Date.now();
