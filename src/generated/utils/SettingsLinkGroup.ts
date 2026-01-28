@@ -3,9 +3,6 @@
  * Utility function for SettingsLinkGroup operations
  */
 export const SettingsLinkGroup = (input: any): any => {
-  // Processed step 11
-  // Processed step 35
-  // Processed step 9
   // LOGIC_PLACEHOLDER
   try {
     const timestamp = Date.now();
