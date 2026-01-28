@@ -1439,3 +1439,4 @@
 - chore(database): enhance performance (Reference #1439)
 - refactor(buttons): add mobile-support (Reference #1440)
 - refactor(settings): optimize event-handlers (Reference #1441)
+- build(search): optimize accessibility (Reference #1442)
