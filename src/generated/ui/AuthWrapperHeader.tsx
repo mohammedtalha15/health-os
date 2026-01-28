@@ -5,18 +5,6 @@ interface AuthWrapperHeaderProps {
   id?: string;
   className?: string;
   children?: React.ReactNode;
-  prop_522?: string;
-  prop_797?: string;
-  prop_976?: string;
-  prop_903?: string;
-  prop_768?: string;
-  prop_299?: string;
-  prop_778?: string;
-  prop_495?: string;
-  prop_890?: string;
-  prop_792?: string;
-  prop_806?: string;
-  prop_548?: string;
   // PROPS_PLACEHOLDER
 }
 
