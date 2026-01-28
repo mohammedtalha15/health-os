@@ -12,6 +12,7 @@ interface ModalToggleboxProps {
   prop_471?: string;
   prop_395?: string;
   prop_632?: string;
+  prop_703?: string;
   // PROPS_PLACEHOLDER
 }
 
