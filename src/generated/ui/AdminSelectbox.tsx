@@ -8,6 +8,7 @@ interface AdminSelectboxProps {
   prop_870?: string;
   prop_604?: string;
   prop_962?: string;
+  prop_673?: string;
   // PROPS_PLACEHOLDER
 }
 
