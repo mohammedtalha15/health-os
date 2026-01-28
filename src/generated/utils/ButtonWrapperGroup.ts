@@ -3,13 +3,6 @@
  * Utility function for ButtonWrapperGroup operations
  */
 export const ButtonWrapperGroup = (input: any): any => {
-  // Processed step 12
-  // Processed step 1
-  // Processed step 10
-  // Processed step 81
-  // Processed step 13
-  // Processed step 17
-  // Processed step 91
   // LOGIC_PLACEHOLDER
   try {
     const timestamp = Date.now();
