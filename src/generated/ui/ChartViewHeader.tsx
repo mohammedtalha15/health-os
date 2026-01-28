@@ -8,6 +8,7 @@ interface ChartViewHeaderProps {
   prop_973?: string;
   prop_886?: string;
   prop_349?: string;
+  prop_172?: string;
   // PROPS_PLACEHOLDER
 }
 
