@@ -5,10 +5,6 @@ interface ProfileLinkGroupProps {
   id?: string;
   className?: string;
   children?: React.ReactNode;
-  prop_768?: string;
-  prop_215?: string;
-  prop_527?: string;
-  prop_104?: string;
   // PROPS_PLACEHOLDER
 }
 
