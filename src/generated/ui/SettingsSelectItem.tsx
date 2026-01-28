@@ -11,6 +11,7 @@ interface SettingsSelectItemProps {
   prop_838?: string;
   prop_819?: string;
   prop_635?: string;
+  prop_237?: string;
   // PROPS_PLACEHOLDER
 }
 
