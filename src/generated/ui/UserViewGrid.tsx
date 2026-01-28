@@ -5,8 +5,6 @@ interface UserViewGridProps {
   id?: string;
   className?: string;
   children?: React.ReactNode;
-  prop_934?: string;
-  prop_613?: string;
   // PROPS_PLACEHOLDER
 }
 
