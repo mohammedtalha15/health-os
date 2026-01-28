@@ -14,6 +14,7 @@ interface UserCardSidebarProps {
   prop_867?: string;
   prop_446?: string;
   prop_689?: string;
+  prop_875?: string;
   // PROPS_PLACEHOLDER
 }
 
