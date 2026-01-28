@@ -3,9 +3,6 @@
  * Utility function for ProfileInputGroup operations
  */
 export const ProfileInputGroup = (input: any): any => {
-  // Processed step 28
-  // Processed step 26
-  // Processed step 36
   // LOGIC_PLACEHOLDER
   try {
     const timestamp = Date.now();
