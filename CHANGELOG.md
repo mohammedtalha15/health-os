@@ -1111,3 +1111,4 @@
 - ci(analytics): configure unit-tests (Reference #1111)
 - perf(charts): improve user-experience (Reference #1112)
 - docs(buttons): enhance transitions (Reference #1113)
+- refactor(modals): implement mobile-support (Reference #1114)
