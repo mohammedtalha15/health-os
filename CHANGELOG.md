@@ -632,3 +632,4 @@
 - fix(modals): fix mobile-support (Reference #632)
 - feat(search): integrate dark-mode (Reference #633)
 - fix(forms): enhance event-handlers (Reference #634)
+- fix(forms): refactor accessibility (Reference #635)
