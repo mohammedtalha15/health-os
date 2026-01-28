@@ -16,6 +16,7 @@ interface AdminTogglePanelProps {
   prop_722?: string;
   prop_552?: string;
   prop_271?: string;
+  prop_174?: string;
   // PROPS_PLACEHOLDER
 }
 
