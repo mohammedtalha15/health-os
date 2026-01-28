@@ -12,6 +12,7 @@ interface SettingsDataRowProps {
   prop_497?: string;
   prop_726?: string;
   prop_405?: string;
+  prop_719?: string;
   // PROPS_PLACEHOLDER
 }
 
