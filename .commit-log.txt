@@ -1819,3 +1819,4 @@
 // fix(buttons): integrate keyboard-nav - commit 2994
 // build(api): fix documentation - commit 2995
 // docs(database): configure validation - commit 2996
+// feat(settings): fix documentation - commit 2997
