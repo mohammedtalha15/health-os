@@ -5,8 +5,6 @@ interface TableSelectSidebarProps {
   id?: string;
   className?: string;
   children?: React.ReactNode;
-  prop_489?: string;
-  prop_333?: string;
   // PROPS_PLACEHOLDER
 }
 
