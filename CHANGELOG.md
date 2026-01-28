@@ -489,3 +489,4 @@
 - style(buttons): fix unit-tests (Reference #489)
 - perf(dashboard): refactor event-handlers (Reference #490)
 - build(modals): update validation (Reference #491)
+- feat(buttons): integrate data-fetching (Reference #492)
