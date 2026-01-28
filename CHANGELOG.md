@@ -214,3 +214,4 @@
 - refactor(inputs): implement unit-tests (Reference #214)
 - refactor(dashboard): optimize accessibility (Reference #215)
 - feat(search): refactor responsiveness (Reference #216)
+- docs(auth): fix transitions (Reference #217)
