@@ -3,9 +3,6 @@
  * Utility function for ButtonSelectRow operations
  */
 export const ButtonSelectRow = (input: any): any => {
-  // Processed step 34
-  // Processed step 88
-  // Processed step 82
   // LOGIC_PLACEHOLDER
   try {
     const timestamp = Date.now();
