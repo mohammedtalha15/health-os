@@ -26,6 +26,7 @@ interface ChartDataSectionProps {
   prop_166?: string;
   prop_132?: string;
   prop_701?: string;
+  prop_498?: string;
   // PROPS_PLACEHOLDER
 }
 
