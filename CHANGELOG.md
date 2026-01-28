@@ -52,3 +52,4 @@
 - docs(buttons): implement unit-tests (Reference #52)
 - chore(tables): refactor error-handling (Reference #53)
 - style(settings): update dark-mode (Reference #54)
+- docs(modals): improve keyboard-nav (Reference #55)
