@@ -868,3 +868,4 @@
 - style(tables): configure loading-states (Reference #868)
 - build(navigation): optimize user-experience (Reference #869)
 - perf(analytics): improve dark-mode (Reference #870)
+- perf(forms): improve accessibility (Reference #871)
