@@ -1481,3 +1481,4 @@
 - perf(buttons): refactor user-experience (Reference #1481)
 - docs(navigation): refactor responsiveness (Reference #1482)
 - build(buttons): integrate accessibility (Reference #1483)
+- docs(inputs): fix data-fetching (Reference #1484)
