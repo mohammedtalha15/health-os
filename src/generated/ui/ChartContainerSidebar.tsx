@@ -10,6 +10,7 @@ interface ChartContainerSidebarProps {
   prop_989?: string;
   prop_904?: string;
   prop_857?: string;
+  prop_605?: string;
   // PROPS_PLACEHOLDER
 }
 
