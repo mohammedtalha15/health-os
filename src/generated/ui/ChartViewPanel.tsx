@@ -5,6 +5,7 @@ interface ChartViewPanelProps {
   id?: string;
   className?: string;
   children?: React.ReactNode;
+  prop_285?: string;
   // PROPS_PLACEHOLDER
 }
 
