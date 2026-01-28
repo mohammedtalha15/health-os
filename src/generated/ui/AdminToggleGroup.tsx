@@ -5,8 +5,6 @@ interface AdminToggleGroupProps {
   id?: string;
   className?: string;
   children?: React.ReactNode;
-  prop_364?: string;
-  prop_781?: string;
   // PROPS_PLACEHOLDER
 }
 
