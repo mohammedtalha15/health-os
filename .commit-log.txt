@@ -2942,3 +2942,4 @@
 // build(auth): update documentation - commit 470
 // style(security): update documentation - commit 471
 // style(forms): optimize unit-tests - commit 472
+// perf(settings): fix event-handlers - commit 473
