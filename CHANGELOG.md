@@ -640,3 +640,4 @@
 - build(security): enhance loading-states (Reference #640)
 - ci(buttons): integrate keyboard-nav (Reference #641)
 - chore(inputs): implement transitions (Reference #642)
+- style(settings): integrate animations (Reference #643)
