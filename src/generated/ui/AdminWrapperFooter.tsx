@@ -5,14 +5,6 @@ interface AdminWrapperFooterProps {
   id?: string;
   className?: string;
   children?: React.ReactNode;
-  prop_994?: string;
-  prop_831?: string;
-  prop_571?: string;
-  prop_676?: string;
-  prop_552?: string;
-  prop_816?: string;
-  prop_524?: string;
-  prop_706?: string;
   // PROPS_PLACEHOLDER
 }
 
