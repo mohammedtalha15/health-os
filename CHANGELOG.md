@@ -277,3 +277,4 @@
 - feat(navigation): add unit-tests (Reference #277)
 - perf(forms): add state-management (Reference #278)
 - ci(inputs): configure dark-mode (Reference #279)
+- docs(security): optimize accessibility (Reference #280)
