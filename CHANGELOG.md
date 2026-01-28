@@ -1419,3 +1419,4 @@
 - ci(modals): optimize documentation (Reference #1419)
 - style(modals): add dark-mode (Reference #1420)
 - perf(tables): implement dark-mode (Reference #1421)
+- refactor(tables): improve documentation (Reference #1422)
