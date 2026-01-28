@@ -2315,3 +2315,4 @@
 // ci(modals): configure keyboard-nav - commit 3490
 // perf(profile): fix performance - commit 3491
 // docs(charts): improve data-fetching - commit 3492
+// docs(security): add event-handlers - commit 3493
