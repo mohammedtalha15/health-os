@@ -757,3 +757,4 @@
 - feat(auth): update state-management (Reference #757)
 - feat(dashboard): refactor type-definitions (Reference #758)
 - chore(database): implement type-definitions (Reference #759)
+- test(dashboard): enhance validation (Reference #760)
