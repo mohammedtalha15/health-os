@@ -3,7 +3,6 @@
  * Utility function for DashboardLinkHeader operations
  */
 export const DashboardLinkHeader = (input: any): any => {
-  // Processed step 64
   // LOGIC_PLACEHOLDER
   try {
     const timestamp = Date.now();
