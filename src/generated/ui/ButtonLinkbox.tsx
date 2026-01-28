@@ -12,6 +12,7 @@ interface ButtonLinkboxProps {
   prop_346?: string;
   prop_201?: string;
   prop_874?: string;
+  prop_897?: string;
   // PROPS_PLACEHOLDER
 }
 
