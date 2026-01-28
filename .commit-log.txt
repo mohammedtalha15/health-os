@@ -1058,3 +1058,4 @@
 // ci(cache): update loading-states - commit 2233
 // perf(dashboard): refactor unit-tests - commit 2234
 // fix(profile): enhance loading-states - commit 2235
+// docs(notifications): fix loading-states - commit 2236
