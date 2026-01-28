@@ -3,8 +3,6 @@
  * Utility function for UserToggleRow operations
  */
 export const UserToggleRow = (input: any): any => {
-  // Processed step 41
-  // Processed step 54
   // LOGIC_PLACEHOLDER
   try {
     const timestamp = Date.now();
