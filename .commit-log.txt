@@ -1256,3 +1256,4 @@
 // refactor(api): improve caching-logic - commit 2431
 // build(dashboard): fix unit-tests - commit 2432
 // style(settings): implement responsiveness - commit 2433
+// chore(layouts): integrate mobile-support - commit 2434
