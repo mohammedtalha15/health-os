@@ -3,22 +3,6 @@
  * Utility function for ModalContainerGroup operations
  */
 export const ModalContainerGroup = (input: any): any => {
-  // Processed step 25
-  // Processed step 32
-  // Processed step 72
-  // Processed step 46
-  // Processed step 42
-  // Processed step 70
-  // Processed step 73
-  // Processed step 43
-  // Processed step 55
-  // Processed step 72
-  // Processed step 40
-  // Processed step 37
-  // Processed step 2
-  // Processed step 22
-  // Processed step 19
-  // Processed step 71
   // LOGIC_PLACEHOLDER
   try {
     const timestamp = Date.now();
