@@ -2599,3 +2599,4 @@
 // chore(security): optimize event-handlers - commit 127
 // docs(api): improve unit-tests - commit 128
 // test(settings): fix state-management - commit 129
+// docs(api): add keyboard-nav - commit 130
