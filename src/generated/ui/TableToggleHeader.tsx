@@ -6,6 +6,7 @@ interface TableToggleHeaderProps {
   className?: string;
   children?: React.ReactNode;
   prop_924?: string;
+  prop_164?: string;
   // PROPS_PLACEHOLDER
 }
 
