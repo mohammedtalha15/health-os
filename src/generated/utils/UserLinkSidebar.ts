@@ -3,11 +3,6 @@
  * Utility function for UserLinkSidebar operations
  */
 export const UserLinkSidebar = (input: any): any => {
-  // Processed step 55
-  // Processed step 50
-  // Processed step 21
-  // Processed step 14
-  // Processed step 73
   // LOGIC_PLACEHOLDER
   try {
     const timestamp = Date.now();
