@@ -5,12 +5,6 @@ interface SettingsWrapperRowProps {
   id?: string;
   className?: string;
   children?: React.ReactNode;
-  prop_375?: string;
-  prop_515?: string;
-  prop_963?: string;
-  prop_660?: string;
-  prop_341?: string;
-  prop_845?: string;
   // PROPS_PLACEHOLDER
 }
 
