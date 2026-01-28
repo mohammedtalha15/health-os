@@ -1245,3 +1245,4 @@
 // refactor(forms): implement caching-logic - commit 2420
 // ci(dashboard): fix responsiveness - commit 2421
 // chore(cache): fix loading-states - commit 2422
+// docs(dashboard): integrate documentation - commit 2423
