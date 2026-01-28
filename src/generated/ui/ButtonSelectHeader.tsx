@@ -5,11 +5,6 @@ interface ButtonSelectHeaderProps {
   id?: string;
   className?: string;
   children?: React.ReactNode;
-  prop_685?: string;
-  prop_976?: string;
-  prop_165?: string;
-  prop_894?: string;
-  prop_613?: string;
   // PROPS_PLACEHOLDER
 }
 
