@@ -5,8 +5,6 @@ interface UserContainerHeaderProps {
   id?: string;
   className?: string;
   children?: React.ReactNode;
-  prop_463?: string;
-  prop_895?: string;
   // PROPS_PLACEHOLDER
 }
 
