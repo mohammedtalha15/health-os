@@ -1515,3 +1515,4 @@
 - fix(modals): implement performance (Reference #1515)
 - build(database): integrate validation (Reference #1516)
 - perf(tables): refactor data-fetching (Reference #1517)
+- feat(navigation): enhance loading-states (Reference #1518)
