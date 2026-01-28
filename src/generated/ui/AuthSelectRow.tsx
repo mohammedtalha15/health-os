@@ -7,6 +7,7 @@ interface AuthSelectRowProps {
   children?: React.ReactNode;
   prop_269?: string;
   prop_372?: string;
+  prop_677?: string;
   // PROPS_PLACEHOLDER
 }
 
