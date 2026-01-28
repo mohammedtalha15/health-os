@@ -14,6 +14,7 @@ interface ProfileInputHeaderProps {
   prop_585?: string;
   prop_688?: string;
   prop_354?: string;
+  prop_515?: string;
   // PROPS_PLACEHOLDER
 }
 
