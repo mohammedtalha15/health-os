@@ -18,6 +18,7 @@ interface ModalViewHeaderProps {
   prop_929?: string;
   prop_941?: string;
   prop_838?: string;
+  prop_327?: string;
   // PROPS_PLACEHOLDER
 }
 
