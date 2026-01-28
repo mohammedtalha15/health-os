@@ -1219,3 +1219,4 @@
 - build(modals): add responsiveness (Reference #1219)
 - chore(buttons): update state-management (Reference #1220)
 - ci(inputs): configure keyboard-nav (Reference #1221)
+- perf(tables): refactor caching-logic (Reference #1222)
