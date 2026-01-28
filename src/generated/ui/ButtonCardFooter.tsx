@@ -5,17 +5,6 @@ interface ButtonCardFooterProps {
   id?: string;
   className?: string;
   children?: React.ReactNode;
-  prop_751?: string;
-  prop_403?: string;
-  prop_985?: string;
-  prop_730?: string;
-  prop_685?: string;
-  prop_971?: string;
-  prop_231?: string;
-  prop_451?: string;
-  prop_480?: string;
-  prop_723?: string;
-  prop_594?: string;
   // PROPS_PLACEHOLDER
 }
 
