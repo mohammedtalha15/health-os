@@ -3,8 +3,6 @@
  * Utility function for TableDataPanel operations
  */
 export const TableDataPanel = (input: any): any => {
-  // Processed step 89
-  // Processed step 6
   // LOGIC_PLACEHOLDER
   try {
     const timestamp = Date.now();
