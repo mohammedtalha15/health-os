@@ -13,6 +13,7 @@ interface ButtonSelectPanelProps {
   prop_683?: string;
   prop_243?: string;
   prop_769?: string;
+  prop_848?: string;
   // PROPS_PLACEHOLDER
 }
 
