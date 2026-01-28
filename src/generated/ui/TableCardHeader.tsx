@@ -13,6 +13,7 @@ interface TableCardHeaderProps {
   prop_868?: string;
   prop_316?: string;
   prop_559?: string;
+  prop_620?: string;
   // PROPS_PLACEHOLDER
 }
 
