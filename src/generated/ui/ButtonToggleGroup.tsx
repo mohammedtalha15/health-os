@@ -12,6 +12,7 @@ interface ButtonToggleGroupProps {
   prop_178?: string;
   prop_609?: string;
   prop_189?: string;
+  prop_460?: string;
   // PROPS_PLACEHOLDER
 }
 
