@@ -435,3 +435,4 @@
 - perf(modals): improve unit-tests (Reference #435)
 - feat(search): fix caching-logic (Reference #436)
 - docs(inputs): enhance validation (Reference #437)
+- docs(navigation): improve accessibility (Reference #438)
