@@ -748,3 +748,4 @@
 - style(dashboard): fix accessibility (Reference #748)
 - build(security): implement responsiveness (Reference #749)
 - docs(dashboard): configure documentation (Reference #750)
+- fix(charts): fix caching-logic (Reference #751)
