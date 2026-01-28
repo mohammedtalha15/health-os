@@ -5,13 +5,6 @@ interface SettingsListPanelProps {
   id?: string;
   className?: string;
   children?: React.ReactNode;
-  prop_699?: string;
-  prop_297?: string;
-  prop_420?: string;
-  prop_784?: string;
-  prop_680?: string;
-  prop_756?: string;
-  prop_303?: string;
   // PROPS_PLACEHOLDER
 }
 
