@@ -1512,3 +1512,4 @@
 - test(modals): refactor user-experience (Reference #1512)
 - docs(analytics): configure documentation (Reference #1513)
 - ci(security): improve animations (Reference #1514)
+- fix(modals): implement performance (Reference #1515)
