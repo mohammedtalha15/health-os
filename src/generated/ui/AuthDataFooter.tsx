@@ -15,6 +15,7 @@ interface AuthDataFooterProps {
   prop_585?: string;
   prop_718?: string;
   prop_672?: string;
+  prop_656?: string;
   // PROPS_PLACEHOLDER
 }
 
