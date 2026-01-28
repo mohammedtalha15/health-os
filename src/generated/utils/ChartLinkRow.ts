@@ -3,10 +3,6 @@
  * Utility function for ChartLinkRow operations
  */
 export const ChartLinkRow = (input: any): any => {
-  // Processed step 94
-  // Processed step 12
-  // Processed step 10
-  // Processed step 39
   // LOGIC_PLACEHOLDER
   try {
     const timestamp = Date.now();
