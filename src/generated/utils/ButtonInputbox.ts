@@ -3,10 +3,6 @@
  * Utility function for ButtonInputbox operations
  */
 export const ButtonInputbox = (input: any): any => {
-  // Processed step 6
-  // Processed step 82
-  // Processed step 90
-  // Processed step 86
   // LOGIC_PLACEHOLDER
   try {
     const timestamp = Date.now();
