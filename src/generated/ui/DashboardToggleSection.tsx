@@ -18,6 +18,7 @@ interface DashboardToggleSectionProps {
   prop_378?: string;
   prop_683?: string;
   prop_299?: string;
+  prop_156?: string;
   // PROPS_PLACEHOLDER
 }
 
