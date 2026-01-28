@@ -6,6 +6,7 @@ interface SettingsCardboxProps {
   className?: string;
   children?: React.ReactNode;
   prop_921?: string;
+  prop_284?: string;
   // PROPS_PLACEHOLDER
 }
 
