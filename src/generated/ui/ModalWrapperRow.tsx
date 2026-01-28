@@ -6,6 +6,7 @@ interface ModalWrapperRowProps {
   className?: string;
   children?: React.ReactNode;
   prop_911?: string;
+  prop_473?: string;
   // PROPS_PLACEHOLDER
 }
 
