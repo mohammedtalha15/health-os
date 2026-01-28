@@ -629,3 +629,4 @@
 // feat(inputs): refactor responsiveness - commit 1804
 // ci(cache): fix event-handlers - commit 1805
 // fix(forms): optimize event-handlers - commit 1806
+// docs(profile): integrate dark-mode - commit 1807
