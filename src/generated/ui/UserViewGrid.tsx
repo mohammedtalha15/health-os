@@ -8,6 +8,7 @@ interface UserViewGridProps {
   prop_560?: string;
   prop_873?: string;
   prop_330?: string;
+  prop_855?: string;
   // PROPS_PLACEHOLDER
 }
 
