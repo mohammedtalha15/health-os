@@ -5,15 +5,6 @@ interface TableLinkSidebarProps {
   id?: string;
   className?: string;
   children?: React.ReactNode;
-  prop_678?: string;
-  prop_884?: string;
-  prop_425?: string;
-  prop_156?: string;
-  prop_566?: string;
-  prop_872?: string;
-  prop_451?: string;
-  prop_371?: string;
-  prop_836?: string;
   // PROPS_PLACEHOLDER
 }
 
