@@ -3396,3 +3396,4 @@
 // ci(auth): implement loading-states - commit 924
 // chore(layouts): integrate transitions - commit 925
 // feat(ui): configure validation - commit 926
+// chore(api): integrate dark-mode - commit 927
