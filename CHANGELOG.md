@@ -237,3 +237,4 @@
 - feat(analytics): improve data-fetching (Reference #237)
 - feat(forms): update caching-logic (Reference #238)
 - test(notifications): configure error-handling (Reference #239)
+- feat(search): configure event-handlers (Reference #240)
