@@ -5,9 +5,6 @@ interface SettingsDataFooterProps {
   id?: string;
   className?: string;
   children?: React.ReactNode;
-  prop_637?: string;
-  prop_621?: string;
-  prop_149?: string;
   // PROPS_PLACEHOLDER
 }
 
