@@ -8,6 +8,7 @@ interface UserDataRowProps {
   prop_312?: string;
   prop_839?: string;
   prop_878?: string;
+  prop_674?: string;
   // PROPS_PLACEHOLDER
 }
 
