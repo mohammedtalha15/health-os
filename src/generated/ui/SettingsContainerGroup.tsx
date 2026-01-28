@@ -7,6 +7,7 @@ interface SettingsContainerGroupProps {
   children?: React.ReactNode;
   prop_533?: string;
   prop_653?: string;
+  prop_968?: string;
   // PROPS_PLACEHOLDER
 }
 
