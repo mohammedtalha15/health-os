@@ -834,3 +834,4 @@
 - perf(inputs): fix user-experience (Reference #834)
 - refactor(layouts): improve keyboard-nav (Reference #835)
 - chore(settings): optimize error-handling (Reference #836)
+- test(forms): optimize error-handling (Reference #837)
