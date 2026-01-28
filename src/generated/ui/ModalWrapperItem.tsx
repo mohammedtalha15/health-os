@@ -7,6 +7,7 @@ interface ModalWrapperItemProps {
   children?: React.ReactNode;
   prop_113?: string;
   prop_373?: string;
+  prop_938?: string;
   // PROPS_PLACEHOLDER
 }
 
