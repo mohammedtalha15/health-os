@@ -8,6 +8,7 @@ interface SettingsViewItemProps {
   prop_190?: string;
   prop_944?: string;
   prop_876?: string;
+  prop_361?: string;
   // PROPS_PLACEHOLDER
 }
 
