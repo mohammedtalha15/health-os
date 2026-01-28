@@ -941,3 +941,4 @@
 - feat(ui): fix responsiveness (Reference #941)
 - test(database): integrate documentation (Reference #942)
 - build(navigation): configure state-management (Reference #943)
+- perf(tables): add code-quality (Reference #944)
