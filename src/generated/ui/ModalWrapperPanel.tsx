@@ -6,6 +6,7 @@ interface ModalWrapperPanelProps {
   className?: string;
   children?: React.ReactNode;
   prop_283?: string;
+  prop_671?: string;
   // PROPS_PLACEHOLDER
 }
 
