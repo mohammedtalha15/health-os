@@ -6,6 +6,7 @@ interface ModalWrapperSidebarProps {
   className?: string;
   children?: React.ReactNode;
   prop_544?: string;
+  prop_143?: string;
   // PROPS_PLACEHOLDER
 }
 
