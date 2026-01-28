@@ -5,16 +5,6 @@ interface AuthLinkHeaderProps {
   id?: string;
   className?: string;
   children?: React.ReactNode;
-  prop_645?: string;
-  prop_856?: string;
-  prop_457?: string;
-  prop_731?: string;
-  prop_688?: string;
-  prop_507?: string;
-  prop_233?: string;
-  prop_678?: string;
-  prop_526?: string;
-  prop_385?: string;
   // PROPS_PLACEHOLDER
 }
 
