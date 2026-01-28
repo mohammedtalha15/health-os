@@ -14,6 +14,7 @@ interface UserLinkboxProps {
   prop_452?: string;
   prop_964?: string;
   prop_320?: string;
+  prop_723?: string;
   // PROPS_PLACEHOLDER
 }
 
