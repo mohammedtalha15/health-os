@@ -7,6 +7,7 @@ interface UserDataPanelProps {
   children?: React.ReactNode;
   prop_302?: string;
   prop_564?: string;
+  prop_350?: string;
   // PROPS_PLACEHOLDER
 }
 
