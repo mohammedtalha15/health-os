@@ -11,6 +11,7 @@ interface UserWrapperPanelProps {
   prop_154?: string;
   prop_688?: string;
   prop_420?: string;
+  prop_190?: string;
   // PROPS_PLACEHOLDER
 }
 
