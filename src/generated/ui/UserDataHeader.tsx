@@ -7,6 +7,7 @@ interface UserDataHeaderProps {
   children?: React.ReactNode;
   prop_934?: string;
   prop_824?: string;
+  prop_685?: string;
   // PROPS_PLACEHOLDER
 }
 
