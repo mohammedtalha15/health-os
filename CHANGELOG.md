@@ -466,3 +466,4 @@
 - refactor(modals): implement caching-logic (Reference #466)
 - test(tables): configure performance (Reference #467)
 - fix(database): integrate type-definitions (Reference #468)
+- docs(modals): refactor responsiveness (Reference #469)
