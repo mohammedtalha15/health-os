@@ -890,3 +890,4 @@
 - docs(cache): optimize validation (Reference #890)
 - chore(forms): update responsiveness (Reference #891)
 - fix(layouts): implement error-handling (Reference #892)
+- build(security): fix transitions (Reference #893)
