@@ -3,8 +3,6 @@
  * Utility function for AdminTogglebox operations
  */
 export const AdminTogglebox = (input: any): any => {
-  // Processed step 88
-  // Processed step 34
   // LOGIC_PLACEHOLDER
   try {
     const timestamp = Date.now();
