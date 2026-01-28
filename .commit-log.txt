@@ -100,3 +100,4 @@
 // ci(auth): integrate state-management - commit 1275
 // feat(buttons): fix code-quality - commit 1276
 // fix(forms): improve performance - commit 1277
+// fix(settings): fix loading-states - commit 1278
