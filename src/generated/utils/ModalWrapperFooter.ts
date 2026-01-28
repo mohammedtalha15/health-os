@@ -3,9 +3,6 @@
  * Utility function for ModalWrapperFooter operations
  */
 export const ModalWrapperFooter = (input: any): any => {
-  // Processed step 63
-  // Processed step 89
-  // Processed step 15
   // LOGIC_PLACEHOLDER
   try {
     const timestamp = Date.now();
