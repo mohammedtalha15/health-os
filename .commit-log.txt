@@ -2119,3 +2119,4 @@
 // perf(auth): add keyboard-nav - commit 3294
 // docs(charts): update state-management - commit 3295
 // fix(security): fix unit-tests - commit 3296
+// chore(dashboard): configure performance - commit 3297
