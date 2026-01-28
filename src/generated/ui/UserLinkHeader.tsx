@@ -20,6 +20,7 @@ interface UserLinkHeaderProps {
   prop_563?: string;
   prop_974?: string;
   prop_473?: string;
+  prop_245?: string;
   // PROPS_PLACEHOLDER
 }
 
