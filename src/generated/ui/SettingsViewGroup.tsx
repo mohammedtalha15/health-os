@@ -8,6 +8,7 @@ interface SettingsViewGroupProps {
   prop_418?: string;
   prop_842?: string;
   prop_455?: string;
+  prop_443?: string;
   // PROPS_PLACEHOLDER
 }
 
