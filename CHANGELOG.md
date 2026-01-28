@@ -769,3 +769,4 @@
 - ci(security): refactor code-quality (Reference #769)
 - style(cache): implement documentation (Reference #770)
 - test(modals): implement user-experience (Reference #771)
+- ci(database): add validation (Reference #772)
