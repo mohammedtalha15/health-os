@@ -3,8 +3,6 @@
  * Utility function for SettingsWrapperSidebar operations
  */
 export const SettingsWrapperSidebar = (input: any): any => {
-  // Processed step 5
-  // Processed step 85
   // LOGIC_PLACEHOLDER
   try {
     const timestamp = Date.now();
