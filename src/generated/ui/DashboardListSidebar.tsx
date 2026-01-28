@@ -6,6 +6,7 @@ interface DashboardListSidebarProps {
   className?: string;
   children?: React.ReactNode;
   prop_753?: string;
+  prop_638?: string;
   // PROPS_PLACEHOLDER
 }
 
