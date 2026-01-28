@@ -6,6 +6,7 @@ interface SettingsViewGroupProps {
   className?: string;
   children?: React.ReactNode;
   prop_780?: string;
+  prop_657?: string;
   // PROPS_PLACEHOLDER
 }
 
