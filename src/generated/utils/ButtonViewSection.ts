@@ -3,8 +3,6 @@
  * Utility function for ButtonViewSection operations
  */
 export const ButtonViewSection = (input: any): any => {
-  // Processed step 41
-  // Processed step 61
   // LOGIC_PLACEHOLDER
   try {
     const timestamp = Date.now();
