@@ -2892,3 +2892,4 @@
 // refactor(settings): optimize caching-logic - commit 420
 // docs(security): fix transitions - commit 421
 // feat(notifications): improve performance - commit 422
+// fix(search): add loading-states - commit 423
