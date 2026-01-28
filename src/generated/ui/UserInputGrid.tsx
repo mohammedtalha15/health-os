@@ -5,7 +5,6 @@ interface UserInputGridProps {
   id?: string;
   className?: string;
   children?: React.ReactNode;
-  prop_789?: string;
   // PROPS_PLACEHOLDER
 }
 
