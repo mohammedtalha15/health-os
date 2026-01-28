@@ -6,6 +6,7 @@ interface ModalCardFooterProps {
   className?: string;
   children?: React.ReactNode;
   prop_650?: string;
+  prop_687?: string;
   // PROPS_PLACEHOLDER
 }
 
