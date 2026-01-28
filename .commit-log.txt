@@ -2487,3 +2487,4 @@
 // perf(modals): fix unit-tests - commit 15
 // perf(search): configure type-definitions - commit 16
 // test(modals): enhance loading-states - commit 17
+// perf(charts): configure accessibility - commit 18
