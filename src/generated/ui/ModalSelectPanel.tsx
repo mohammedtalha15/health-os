@@ -9,6 +9,7 @@ interface ModalSelectPanelProps {
   prop_494?: string;
   prop_508?: string;
   prop_456?: string;
+  prop_252?: string;
   // PROPS_PLACEHOLDER
 }
 
