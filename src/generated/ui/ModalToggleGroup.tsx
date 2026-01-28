@@ -12,6 +12,7 @@ interface ModalToggleGroupProps {
   prop_105?: string;
   prop_670?: string;
   prop_846?: string;
+  prop_977?: string;
   // PROPS_PLACEHOLDER
 }
 
