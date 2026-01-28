@@ -3,8 +3,6 @@
  * Utility function for AdminSelectbox operations
  */
 export const AdminSelectbox = (input: any): any => {
-  // Processed step 96
-  // Processed step 50
   // LOGIC_PLACEHOLDER
   try {
     const timestamp = Date.now();
