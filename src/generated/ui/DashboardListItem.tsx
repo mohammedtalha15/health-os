@@ -5,15 +5,6 @@ interface DashboardListItemProps {
   id?: string;
   className?: string;
   children?: React.ReactNode;
-  prop_312?: string;
-  prop_973?: string;
-  prop_921?: string;
-  prop_377?: string;
-  prop_369?: string;
-  prop_734?: string;
-  prop_324?: string;
-  prop_967?: string;
-  prop_683?: string;
   // PROPS_PLACEHOLDER
 }
 
