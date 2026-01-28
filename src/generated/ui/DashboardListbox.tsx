@@ -5,14 +5,6 @@ interface DashboardListboxProps {
   id?: string;
   className?: string;
   children?: React.ReactNode;
-  prop_201?: string;
-  prop_953?: string;
-  prop_949?: string;
-  prop_764?: string;
-  prop_466?: string;
-  prop_786?: string;
-  prop_571?: string;
-  prop_434?: string;
   // PROPS_PLACEHOLDER
 }
 
