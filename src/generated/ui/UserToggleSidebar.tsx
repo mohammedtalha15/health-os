@@ -5,15 +5,6 @@ interface UserToggleSidebarProps {
   id?: string;
   className?: string;
   children?: React.ReactNode;
-  prop_717?: string;
-  prop_240?: string;
-  prop_512?: string;
-  prop_873?: string;
-  prop_790?: string;
-  prop_223?: string;
-  prop_288?: string;
-  prop_731?: string;
-  prop_187?: string;
   // PROPS_PLACEHOLDER
 }
 
