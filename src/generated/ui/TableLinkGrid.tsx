@@ -9,6 +9,7 @@ interface TableLinkGridProps {
   prop_140?: string;
   prop_468?: string;
   prop_339?: string;
+  prop_265?: string;
   // PROPS_PLACEHOLDER
 }
 
