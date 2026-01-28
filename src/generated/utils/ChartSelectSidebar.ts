@@ -3,10 +3,6 @@
  * Utility function for ChartSelectSidebar operations
  */
 export const ChartSelectSidebar = (input: any): any => {
-  // Processed step 78
-  // Processed step 62
-  // Processed step 35
-  // Processed step 73
   // LOGIC_PLACEHOLDER
   try {
     const timestamp = Date.now();
