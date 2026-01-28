@@ -247,3 +247,4 @@
 - perf(api): update user-experience (Reference #247)
 - ci(forms): add keyboard-nav (Reference #248)
 - feat(search): integrate type-definitions (Reference #249)
+- build(security): add validation (Reference #250)
