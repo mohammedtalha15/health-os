@@ -8,6 +8,7 @@ interface ProfileDataPanelProps {
   prop_302?: string;
   prop_700?: string;
   prop_781?: string;
+  prop_746?: string;
   // PROPS_PLACEHOLDER
 }
 
