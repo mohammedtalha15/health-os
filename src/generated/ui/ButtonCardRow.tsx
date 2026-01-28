@@ -12,6 +12,7 @@ interface ButtonCardRowProps {
   prop_542?: string;
   prop_623?: string;
   prop_674?: string;
+  prop_481?: string;
   // PROPS_PLACEHOLDER
 }
 
