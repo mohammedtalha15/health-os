@@ -421,3 +421,4 @@
 - refactor(modals): configure validation (Reference #421)
 - style(navigation): implement accessibility (Reference #422)
 - perf(tables): improve responsiveness (Reference #423)
+- fix(tables): enhance event-handlers (Reference #424)
