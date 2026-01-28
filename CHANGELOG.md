@@ -248,3 +248,4 @@
 - ci(forms): add keyboard-nav (Reference #248)
 - feat(search): integrate type-definitions (Reference #249)
 - build(security): add validation (Reference #250)
+- docs(settings): fix mobile-support (Reference #251)
