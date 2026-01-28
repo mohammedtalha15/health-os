@@ -5,3 +5,4 @@
 - chore(buttons): fix caching-logic (Reference #5)
 - test(cache): refactor data-fetching (Reference #6)
 - chore(auth): optimize caching-logic (Reference #7)
+- fix(notifications): configure mobile-support (Reference #8)
