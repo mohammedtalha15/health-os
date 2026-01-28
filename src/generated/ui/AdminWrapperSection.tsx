@@ -12,6 +12,7 @@ interface AdminWrapperSectionProps {
   prop_669?: string;
   prop_352?: string;
   prop_668?: string;
+  prop_390?: string;
   // PROPS_PLACEHOLDER
 }
 
