@@ -5,10 +5,6 @@ interface AuthSelectPanelProps {
   id?: string;
   className?: string;
   children?: React.ReactNode;
-  prop_844?: string;
-  prop_299?: string;
-  prop_833?: string;
-  prop_546?: string;
   // PROPS_PLACEHOLDER
 }
 
