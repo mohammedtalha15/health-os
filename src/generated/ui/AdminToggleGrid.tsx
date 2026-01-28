@@ -12,6 +12,7 @@ interface AdminToggleGridProps {
   prop_266?: string;
   prop_719?: string;
   prop_565?: string;
+  prop_563?: string;
   // PROPS_PLACEHOLDER
 }
 
