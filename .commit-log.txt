@@ -688,3 +688,4 @@
 // feat(navigation): fix data-fetching - commit 1863
 // build(buttons): improve animations - commit 1864
 // ci(api): enhance error-handling - commit 1865
+// perf(auth): integrate keyboard-nav - commit 1866
