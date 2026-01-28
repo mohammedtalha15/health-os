@@ -72,3 +72,4 @@
 // ci(notifications): enhance keyboard-nav - commit 1247
 // fix(dashboard): enhance mobile-support - commit 1248
 // perf(navigation): fix state-management - commit 1249
+// style(tables): improve unit-tests - commit 1250
