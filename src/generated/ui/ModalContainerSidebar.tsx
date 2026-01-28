@@ -7,6 +7,7 @@ interface ModalContainerSidebarProps {
   children?: React.ReactNode;
   prop_664?: string;
   prop_472?: string;
+  prop_340?: string;
   // PROPS_PLACEHOLDER
 }
 
