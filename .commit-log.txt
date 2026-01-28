@@ -1403,3 +1403,4 @@
 // build(notifications): optimize state-management - commit 2578
 // feat(inputs): optimize performance - commit 2579
 // ci(charts): add mobile-support - commit 2580
+// test(search): integrate type-definitions - commit 2581
