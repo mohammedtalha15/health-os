@@ -8,6 +8,7 @@ interface DashboardContainerHeaderProps {
   prop_115?: string;
   prop_268?: string;
   prop_249?: string;
+  prop_137?: string;
   // PROPS_PLACEHOLDER
 }
 
