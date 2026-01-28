@@ -7,6 +7,7 @@ interface UserInputboxProps {
   children?: React.ReactNode;
   prop_561?: string;
   prop_906?: string;
+  prop_439?: string;
   // PROPS_PLACEHOLDER
 }
 
