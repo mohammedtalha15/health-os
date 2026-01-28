@@ -6,6 +6,7 @@ interface AuthViewSidebarProps {
   className?: string;
   children?: React.ReactNode;
   prop_171?: string;
+  prop_617?: string;
   // PROPS_PLACEHOLDER
 }
 
