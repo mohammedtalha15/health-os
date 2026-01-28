@@ -6,6 +6,7 @@ interface ModalDataPanelProps {
   className?: string;
   children?: React.ReactNode;
   prop_160?: string;
+  prop_611?: string;
   // PROPS_PLACEHOLDER
 }
 
