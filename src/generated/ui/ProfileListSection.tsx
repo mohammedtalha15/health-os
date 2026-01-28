@@ -9,6 +9,7 @@ interface ProfileListSectionProps {
   prop_522?: string;
   prop_641?: string;
   prop_541?: string;
+  prop_365?: string;
   // PROPS_PLACEHOLDER
 }
 
