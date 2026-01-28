@@ -10,6 +10,7 @@ interface AdminListGroupProps {
   prop_389?: string;
   prop_868?: string;
   prop_223?: string;
+  prop_312?: string;
   // PROPS_PLACEHOLDER
 }
 
