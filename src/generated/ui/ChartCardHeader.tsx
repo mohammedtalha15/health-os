@@ -11,6 +11,7 @@ interface ChartCardHeaderProps {
   prop_526?: string;
   prop_101?: string;
   prop_471?: string;
+  prop_320?: string;
   // PROPS_PLACEHOLDER
 }
 
