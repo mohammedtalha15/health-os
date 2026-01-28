@@ -15,6 +15,7 @@ interface ChartLinkboxProps {
   prop_372?: string;
   prop_395?: string;
   prop_829?: string;
+  prop_368?: string;
   // PROPS_PLACEHOLDER
 }
 
