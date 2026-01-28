@@ -1358,3 +1358,4 @@
 // ci(charts): improve validation - commit 2533
 // test(profile): implement event-handlers - commit 2534
 // fix(security): integrate validation - commit 2535
+// test(buttons): configure loading-states - commit 2536
