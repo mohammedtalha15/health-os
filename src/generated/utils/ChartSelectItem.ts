@@ -3,10 +3,6 @@
  * Utility function for ChartSelectItem operations
  */
 export const ChartSelectItem = (input: any): any => {
-  // Processed step 60
-  // Processed step 82
-  // Processed step 21
-  // Processed step 58
   // LOGIC_PLACEHOLDER
   try {
     const timestamp = Date.now();
