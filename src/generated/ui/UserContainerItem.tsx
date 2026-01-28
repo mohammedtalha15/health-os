@@ -13,6 +13,7 @@ interface UserContainerItemProps {
   prop_939?: string;
   prop_622?: string;
   prop_402?: string;
+  prop_879?: string;
   // PROPS_PLACEHOLDER
 }
 
