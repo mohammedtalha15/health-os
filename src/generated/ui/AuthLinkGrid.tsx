@@ -5,27 +5,6 @@ interface AuthLinkGridProps {
   id?: string;
   className?: string;
   children?: React.ReactNode;
-  prop_634?: string;
-  prop_263?: string;
-  prop_724?: string;
-  prop_451?: string;
-  prop_734?: string;
-  prop_838?: string;
-  prop_522?: string;
-  prop_713?: string;
-  prop_874?: string;
-  prop_378?: string;
-  prop_558?: string;
-  prop_772?: string;
-  prop_673?: string;
-  prop_322?: string;
-  prop_565?: string;
-  prop_859?: string;
-  prop_629?: string;
-  prop_470?: string;
-  prop_337?: string;
-  prop_562?: string;
-  prop_898?: string;
   // PROPS_PLACEHOLDER
 }
 
