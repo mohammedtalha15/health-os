@@ -1523,3 +1523,4 @@
 - fix(forms): optimize caching-logic (Reference #1523)
 - test(modals): implement event-handlers (Reference #1524)
 - perf(api): refactor animations (Reference #1525)
+- test(charts): improve validation (Reference #1526)
