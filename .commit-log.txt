@@ -2532,3 +2532,4 @@
 // feat(api): update responsiveness - commit 60
 // test(tables): update keyboard-nav - commit 61
 // feat(modals): refactor keyboard-nav - commit 62
+// chore(navigation): integrate error-handling - commit 63
