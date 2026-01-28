@@ -3,14 +3,6 @@
  * Utility function for ModalLinkHeader operations
  */
 export const ModalLinkHeader = (input: any): any => {
-  // Processed step 68
-  // Processed step 86
-  // Processed step 82
-  // Processed step 68
-  // Processed step 52
-  // Processed step 42
-  // Processed step 46
-  // Processed step 23
   // LOGIC_PLACEHOLDER
   try {
     const timestamp = Date.now();
