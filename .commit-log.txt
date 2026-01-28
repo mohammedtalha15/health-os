@@ -16,3 +16,4 @@
 // style(database): fix responsiveness - commit 964
 // test(cache): improve type-definitions - commit 965
 // chore(notifications): update transitions - commit 966
+// fix(layouts): configure code-quality - commit 967
