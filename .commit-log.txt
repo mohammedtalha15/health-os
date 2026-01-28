@@ -1288,3 +1288,4 @@
 // refactor(layouts): improve responsiveness - commit 2463
 // build(modals): refactor user-experience - commit 2464
 // docs(auth): add loading-states - commit 2465
+// docs(charts): fix caching-logic - commit 2466
