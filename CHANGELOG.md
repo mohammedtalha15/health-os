@@ -1056,3 +1056,4 @@
 - fix(buttons): add loading-states (Reference #1056)
 - ci(modals): update transitions (Reference #1057)
 - docs(tables): improve error-handling (Reference #1058)
+- ci(navigation): refactor responsiveness (Reference #1059)
