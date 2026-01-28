@@ -5,14 +5,6 @@ interface AuthDataGridProps {
   id?: string;
   className?: string;
   children?: React.ReactNode;
-  prop_386?: string;
-  prop_391?: string;
-  prop_823?: string;
-  prop_688?: string;
-  prop_901?: string;
-  prop_663?: string;
-  prop_156?: string;
-  prop_664?: string;
   // PROPS_PLACEHOLDER
 }
 
