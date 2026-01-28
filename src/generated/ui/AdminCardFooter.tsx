@@ -14,6 +14,7 @@ interface AdminCardFooterProps {
   prop_890?: string;
   prop_210?: string;
   prop_335?: string;
+  prop_887?: string;
   // PROPS_PLACEHOLDER
 }
 
