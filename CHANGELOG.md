@@ -299,3 +299,4 @@
 - test(tables): add documentation (Reference #299)
 - perf(database): improve state-management (Reference #300)
 - build(tables): fix unit-tests (Reference #301)
+- feat(database): implement validation (Reference #302)
