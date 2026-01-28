@@ -5,14 +5,6 @@ interface ButtonListSectionProps {
   id?: string;
   className?: string;
   children?: React.ReactNode;
-  prop_936?: string;
-  prop_954?: string;
-  prop_617?: string;
-  prop_412?: string;
-  prop_688?: string;
-  prop_778?: string;
-  prop_432?: string;
-  prop_188?: string;
   // PROPS_PLACEHOLDER
 }
 
