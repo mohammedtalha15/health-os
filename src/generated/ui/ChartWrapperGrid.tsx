@@ -6,6 +6,7 @@ interface ChartWrapperGridProps {
   className?: string;
   children?: React.ReactNode;
   prop_623?: string;
+  prop_215?: string;
   // PROPS_PLACEHOLDER
 }
 
