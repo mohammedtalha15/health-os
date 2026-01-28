@@ -1303,3 +1303,4 @@
 - docs(inputs): improve caching-logic (Reference #1303)
 - refactor(cache): enhance performance (Reference #1304)
 - build(modals): update type-definitions (Reference #1305)
+- refactor(inputs): refactor data-fetching (Reference #1306)
