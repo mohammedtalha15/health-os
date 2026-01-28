@@ -1002,3 +1002,4 @@
 - perf(search): configure responsiveness (Reference #1002)
 - perf(notifications): implement event-handlers (Reference #1003)
 - style(inputs): refactor unit-tests (Reference #1004)
+- test(modals): configure documentation (Reference #1005)
