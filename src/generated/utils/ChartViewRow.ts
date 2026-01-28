@@ -3,7 +3,6 @@
  * Utility function for ChartViewRow operations
  */
 export const ChartViewRow = (input: any): any => {
-  // Processed step 94
   // LOGIC_PLACEHOLDER
   try {
     const timestamp = Date.now();
