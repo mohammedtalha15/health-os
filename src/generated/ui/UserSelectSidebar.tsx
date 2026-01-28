@@ -7,6 +7,7 @@ interface UserSelectSidebarProps {
   children?: React.ReactNode;
   prop_324?: string;
   prop_218?: string;
+  prop_502?: string;
   // PROPS_PLACEHOLDER
 }
 
