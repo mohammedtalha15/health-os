@@ -6,6 +6,7 @@ interface ModalInputPanelProps {
   className?: string;
   children?: React.ReactNode;
   prop_394?: string;
+  prop_999?: string;
   // PROPS_PLACEHOLDER
 }
 
