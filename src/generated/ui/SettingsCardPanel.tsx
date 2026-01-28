@@ -5,13 +5,6 @@ interface SettingsCardPanelProps {
   id?: string;
   className?: string;
   children?: React.ReactNode;
-  prop_471?: string;
-  prop_813?: string;
-  prop_759?: string;
-  prop_934?: string;
-  prop_392?: string;
-  prop_600?: string;
-  prop_724?: string;
   // PROPS_PLACEHOLDER
 }
 
