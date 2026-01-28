@@ -8,6 +8,7 @@ interface UserListHeaderProps {
   prop_379?: string;
   prop_535?: string;
   prop_162?: string;
+  prop_741?: string;
   // PROPS_PLACEHOLDER
 }
 
