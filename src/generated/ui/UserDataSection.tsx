@@ -6,6 +6,7 @@ interface UserDataSectionProps {
   className?: string;
   children?: React.ReactNode;
   prop_341?: string;
+  prop_811?: string;
   // PROPS_PLACEHOLDER
 }
 
