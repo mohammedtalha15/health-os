@@ -14,6 +14,7 @@ interface AdminToggleRowProps {
   prop_954?: string;
   prop_228?: string;
   prop_361?: string;
+  prop_158?: string;
   // PROPS_PLACEHOLDER
 }
 
