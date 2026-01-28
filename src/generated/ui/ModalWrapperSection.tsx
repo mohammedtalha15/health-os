@@ -8,6 +8,7 @@ interface ModalWrapperSectionProps {
   prop_601?: string;
   prop_373?: string;
   prop_560?: string;
+  prop_498?: string;
   // PROPS_PLACEHOLDER
 }
 
