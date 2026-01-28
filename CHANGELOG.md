@@ -1444,3 +1444,4 @@
 - feat(notifications): refactor event-handlers (Reference #1444)
 - style(security): fix documentation (Reference #1445)
 - fix(forms): implement keyboard-nav (Reference #1446)
+- feat(layouts): integrate keyboard-nav (Reference #1447)
