@@ -8,6 +8,7 @@ interface TableToggleFooterProps {
   prop_735?: string;
   prop_726?: string;
   prop_631?: string;
+  prop_679?: string;
   // PROPS_PLACEHOLDER
 }
 
