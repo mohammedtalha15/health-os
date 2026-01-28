@@ -2238,3 +2238,4 @@
 // (dashboard): refactor data fetching - commit 274
 // refactor(auth): enhance loading states - commit 275
 // feat(profile): add error handling - commit 276
+// fix(notifications): implement accessibility - commit 277
