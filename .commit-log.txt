@@ -2448,3 +2448,4 @@
 // build(ui): fix caching logic - commit 484
 // docs(inputs): add unit tests - commit 485
 // chore(buttons): implement error handling - commit 486
+// style(navigation): update error handling - commit 487
