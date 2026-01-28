@@ -5,12 +5,6 @@ interface ModalDataHeaderProps {
   id?: string;
   className?: string;
   children?: React.ReactNode;
-  prop_841?: string;
-  prop_468?: string;
-  prop_946?: string;
-  prop_909?: string;
-  prop_275?: string;
-  prop_252?: string;
   // PROPS_PLACEHOLDER
 }
 
