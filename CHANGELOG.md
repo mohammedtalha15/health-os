@@ -1504,3 +1504,4 @@
 - feat(buttons): enhance documentation (Reference #1504)
 - fix(buttons): update keyboard-nav (Reference #1505)
 - perf(security): update dark-mode (Reference #1506)
+- perf(ui): add caching-logic (Reference #1507)
