@@ -703,3 +703,4 @@
 - test(settings): enhance unit-tests (Reference #703)
 - feat(auth): configure state-management (Reference #704)
 - test(modals): add state-management (Reference #705)
+- build(search): refactor validation (Reference #706)
