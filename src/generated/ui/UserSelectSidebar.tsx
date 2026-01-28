@@ -5,8 +5,6 @@ interface UserSelectSidebarProps {
   id?: string;
   className?: string;
   children?: React.ReactNode;
-  prop_440?: string;
-  prop_898?: string;
   // PROPS_PLACEHOLDER
 }
 
