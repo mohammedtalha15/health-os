@@ -12,6 +12,7 @@ interface ButtonLinkHeaderProps {
   prop_281?: string;
   prop_127?: string;
   prop_798?: string;
+  prop_433?: string;
   // PROPS_PLACEHOLDER
 }
 
