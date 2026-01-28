@@ -5,8 +5,6 @@ interface TableContainerGridProps {
   id?: string;
   className?: string;
   children?: React.ReactNode;
-  prop_923?: string;
-  prop_404?: string;
   // PROPS_PLACEHOLDER
 }
 
