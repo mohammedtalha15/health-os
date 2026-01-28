@@ -7,6 +7,7 @@ interface ModalWrapperGridProps {
   children?: React.ReactNode;
   prop_988?: string;
   prop_655?: string;
+  prop_194?: string;
   // PROPS_PLACEHOLDER
 }
 
