@@ -10,6 +10,7 @@ interface UserInputRowProps {
   prop_619?: string;
   prop_392?: string;
   prop_342?: string;
+  prop_170?: string;
   // PROPS_PLACEHOLDER
 }
 
