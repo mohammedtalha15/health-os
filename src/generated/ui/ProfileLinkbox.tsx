@@ -8,6 +8,7 @@ interface ProfileLinkboxProps {
   prop_180?: string;
   prop_987?: string;
   prop_430?: string;
+  prop_526?: string;
   // PROPS_PLACEHOLDER
 }
 
