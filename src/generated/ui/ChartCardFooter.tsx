@@ -14,6 +14,7 @@ interface ChartCardFooterProps {
   prop_564?: string;
   prop_445?: string;
   prop_755?: string;
+  prop_307?: string;
   // PROPS_PLACEHOLDER
 }
 
