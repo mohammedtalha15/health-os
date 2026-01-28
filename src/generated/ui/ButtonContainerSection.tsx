@@ -9,6 +9,7 @@ interface ButtonContainerSectionProps {
   prop_930?: string;
   prop_531?: string;
   prop_751?: string;
+  prop_940?: string;
   // PROPS_PLACEHOLDER
 }
 
