@@ -15,6 +15,7 @@ interface UserWrapperSectionProps {
   prop_379?: string;
   prop_847?: string;
   prop_976?: string;
+  prop_364?: string;
   // PROPS_PLACEHOLDER
 }
 
