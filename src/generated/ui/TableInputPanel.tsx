@@ -6,6 +6,7 @@ interface TableInputPanelProps {
   className?: string;
   children?: React.ReactNode;
   prop_307?: string;
+  prop_592?: string;
   // PROPS_PLACEHOLDER
 }
 
