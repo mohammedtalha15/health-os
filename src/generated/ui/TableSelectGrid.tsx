@@ -9,6 +9,7 @@ interface TableSelectGridProps {
   prop_386?: string;
   prop_478?: string;
   prop_477?: string;
+  prop_324?: string;
   // PROPS_PLACEHOLDER
 }
 
