@@ -992,3 +992,4 @@
 - chore(cache): update validation (Reference #992)
 - docs(database): optimize caching-logic (Reference #993)
 - ci(database): optimize unit-tests (Reference #994)
+- ci(tables): configure loading-states (Reference #995)
