@@ -1257,3 +1257,4 @@
 // build(dashboard): fix unit-tests - commit 2432
 // style(settings): implement responsiveness - commit 2433
 // chore(layouts): integrate mobile-support - commit 2434
+// chore(forms): implement documentation - commit 2435
