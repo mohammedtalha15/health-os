@@ -5,21 +5,6 @@ interface ProfileWrapperPanelProps {
   id?: string;
   className?: string;
   children?: React.ReactNode;
-  prop_973?: string;
-  prop_329?: string;
-  prop_530?: string;
-  prop_892?: string;
-  prop_739?: string;
-  prop_539?: string;
-  prop_918?: string;
-  prop_504?: string;
-  prop_980?: string;
-  prop_611?: string;
-  prop_948?: string;
-  prop_289?: string;
-  prop_910?: string;
-  prop_779?: string;
-  prop_324?: string;
   // PROPS_PLACEHOLDER
 }
 
