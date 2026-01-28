@@ -5,16 +5,6 @@ interface ProfileToggleGroupProps {
   id?: string;
   className?: string;
   children?: React.ReactNode;
-  prop_128?: string;
-  prop_579?: string;
-  prop_856?: string;
-  prop_604?: string;
-  prop_743?: string;
-  prop_554?: string;
-  prop_313?: string;
-  prop_391?: string;
-  prop_403?: string;
-  prop_449?: string;
   // PROPS_PLACEHOLDER
 }
 
