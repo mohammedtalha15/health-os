@@ -13,6 +13,7 @@ interface ProfileDataGroupProps {
   prop_741?: string;
   prop_312?: string;
   prop_340?: string;
+  prop_331?: string;
   // PROPS_PLACEHOLDER
 }
 
