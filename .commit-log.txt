@@ -74,3 +74,4 @@
 // perf(navigation): fix state-management - commit 1249
 // style(tables): improve unit-tests - commit 1250
 // build(notifications): implement performance - commit 1251
+// style(modals): improve unit-tests - commit 1252
