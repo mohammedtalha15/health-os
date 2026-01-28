@@ -8,6 +8,7 @@ interface ChartWrapperSidebarProps {
   prop_344?: string;
   prop_708?: string;
   prop_623?: string;
+  prop_639?: string;
   // PROPS_PLACEHOLDER
 }
 
