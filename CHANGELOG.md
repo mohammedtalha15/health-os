@@ -759,3 +759,4 @@
 - chore(database): implement type-definitions (Reference #759)
 - test(dashboard): enhance validation (Reference #760)
 - feat(forms): configure mobile-support (Reference #761)
+- test(dashboard): update documentation (Reference #762)
