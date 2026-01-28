@@ -13,6 +13,7 @@ interface DashboardDataboxProps {
   prop_770?: string;
   prop_690?: string;
   prop_498?: string;
+  prop_152?: string;
   // PROPS_PLACEHOLDER
 }
 
