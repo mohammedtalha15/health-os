@@ -10,6 +10,7 @@ interface ProfileViewRowProps {
   prop_344?: string;
   prop_366?: string;
   prop_160?: string;
+  prop_161?: string;
   // PROPS_PLACEHOLDER
 }
 
