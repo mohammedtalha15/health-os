@@ -6,6 +6,7 @@ interface DashboardContainerRowProps {
   className?: string;
   children?: React.ReactNode;
   prop_289?: string;
+  prop_839?: string;
   // PROPS_PLACEHOLDER
 }
 
