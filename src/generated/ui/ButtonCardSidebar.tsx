@@ -7,6 +7,7 @@ interface ButtonCardSidebarProps {
   children?: React.ReactNode;
   prop_306?: string;
   prop_171?: string;
+  prop_517?: string;
   // PROPS_PLACEHOLDER
 }
 
