@@ -3,11 +3,6 @@
  * Utility function for AuthContainerGroup operations
  */
 export const AuthContainerGroup = (input: any): any => {
-  // Processed step 63
-  // Processed step 100
-  // Processed step 85
-  // Processed step 49
-  // Processed step 66
   // LOGIC_PLACEHOLDER
   try {
     const timestamp = Date.now();
