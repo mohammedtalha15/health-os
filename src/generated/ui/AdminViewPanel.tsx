@@ -9,6 +9,7 @@ interface AdminViewPanelProps {
   prop_853?: string;
   prop_901?: string;
   prop_647?: string;
+  prop_888?: string;
   // PROPS_PLACEHOLDER
 }
 
