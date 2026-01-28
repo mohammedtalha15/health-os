@@ -11,6 +11,7 @@ interface TableViewHeaderProps {
   prop_991?: string;
   prop_189?: string;
   prop_336?: string;
+  prop_762?: string;
   // PROPS_PLACEHOLDER
 }
 
