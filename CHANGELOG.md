@@ -602,3 +602,4 @@
 - docs(charts): fix performance (Reference #602)
 - chore(settings): integrate mobile-support (Reference #603)
 - fix(layouts): enhance user-experience (Reference #604)
+- fix(buttons): fix code-quality (Reference #605)
