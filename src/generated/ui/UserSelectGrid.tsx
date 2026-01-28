@@ -7,6 +7,7 @@ interface UserSelectGridProps {
   children?: React.ReactNode;
   prop_746?: string;
   prop_421?: string;
+  prop_469?: string;
   // PROPS_PLACEHOLDER
 }
 
