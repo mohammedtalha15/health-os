@@ -18,6 +18,7 @@ interface UserDataItemProps {
   prop_456?: string;
   prop_532?: string;
   prop_348?: string;
+  prop_163?: string;
   // PROPS_PLACEHOLDER
 }
 
