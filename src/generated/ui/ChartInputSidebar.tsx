@@ -5,9 +5,6 @@ interface ChartInputSidebarProps {
   id?: string;
   className?: string;
   children?: React.ReactNode;
-  prop_984?: string;
-  prop_253?: string;
-  prop_656?: string;
   // PROPS_PLACEHOLDER
 }
 
