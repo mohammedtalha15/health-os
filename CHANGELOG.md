@@ -157,3 +157,4 @@
 - docs(ui): improve mobile-support (Reference #157)
 - build(layouts): refactor responsiveness (Reference #158)
 - chore(buttons): improve unit-tests (Reference #159)
+- ci(profile): integrate error-handling (Reference #160)
