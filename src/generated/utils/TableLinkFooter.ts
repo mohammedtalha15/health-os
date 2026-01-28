@@ -3,10 +3,6 @@
  * Utility function for TableLinkFooter operations
  */
 export const TableLinkFooter = (input: any): any => {
-  // Processed step 53
-  // Processed step 63
-  // Processed step 33
-  // Processed step 98
   // LOGIC_PLACEHOLDER
   try {
     const timestamp = Date.now();
