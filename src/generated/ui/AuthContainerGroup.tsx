@@ -6,6 +6,7 @@ interface AuthContainerGroupProps {
   className?: string;
   children?: React.ReactNode;
   prop_921?: string;
+  prop_855?: string;
   // PROPS_PLACEHOLDER
 }
 
