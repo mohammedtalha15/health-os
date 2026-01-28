@@ -1183,3 +1183,4 @@
 - style(dashboard): enhance state-management (Reference #1183)
 - style(dashboard): enhance code-quality (Reference #1184)
 - style(database): configure validation (Reference #1185)
+- style(api): enhance mobile-support (Reference #1186)
