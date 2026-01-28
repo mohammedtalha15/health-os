@@ -7,6 +7,7 @@ interface UserContainerHeaderProps {
   children?: React.ReactNode;
   prop_712?: string;
   prop_101?: string;
+  prop_722?: string;
   // PROPS_PLACEHOLDER
 }
 
