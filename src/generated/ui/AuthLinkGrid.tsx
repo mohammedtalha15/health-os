@@ -18,6 +18,7 @@ interface AuthLinkGridProps {
   prop_558?: string;
   prop_772?: string;
   prop_673?: string;
+  prop_322?: string;
   // PROPS_PLACEHOLDER
 }
 
