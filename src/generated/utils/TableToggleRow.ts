@@ -3,9 +3,6 @@
  * Utility function for TableToggleRow operations
  */
 export const TableToggleRow = (input: any): any => {
-  // Processed step 19
-  // Processed step 53
-  // Processed step 59
   // LOGIC_PLACEHOLDER
   try {
     const timestamp = Date.now();
