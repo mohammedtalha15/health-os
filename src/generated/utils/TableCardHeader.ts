@@ -3,9 +3,6 @@
  * Utility function for TableCardHeader operations
  */
 export const TableCardHeader = (input: any): any => {
-  // Processed step 81
-  // Processed step 16
-  // Processed step 90
   // LOGIC_PLACEHOLDER
   try {
     const timestamp = Date.now();
