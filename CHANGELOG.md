@@ -883,3 +883,4 @@
 - refactor(auth): integrate responsiveness (Reference #883)
 - feat(layouts): implement code-quality (Reference #884)
 - perf(tables): integrate loading-states (Reference #885)
+- fix(tables): implement dark-mode (Reference #886)
