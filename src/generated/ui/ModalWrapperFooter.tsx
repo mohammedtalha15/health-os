@@ -5,16 +5,6 @@ interface ModalWrapperFooterProps {
   id?: string;
   className?: string;
   children?: React.ReactNode;
-  prop_838?: string;
-  prop_294?: string;
-  prop_823?: string;
-  prop_434?: string;
-  prop_717?: string;
-  prop_701?: string;
-  prop_664?: string;
-  prop_936?: string;
-  prop_939?: string;
-  prop_132?: string;
   // PROPS_PLACEHOLDER
 }
 
