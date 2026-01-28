@@ -3,10 +3,6 @@
  * Utility function for ChartWrapperbox operations
  */
 export const ChartWrapperbox = (input: any): any => {
-  // Processed step 86
-  // Processed step 29
-  // Processed step 19
-  // Processed step 51
   // LOGIC_PLACEHOLDER
   try {
     const timestamp = Date.now();
