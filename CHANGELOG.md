@@ -866,3 +866,4 @@
 - perf(cache): update animations (Reference #866)
 - docs(navigation): update performance (Reference #867)
 - style(tables): configure loading-states (Reference #868)
+- build(navigation): optimize user-experience (Reference #869)
