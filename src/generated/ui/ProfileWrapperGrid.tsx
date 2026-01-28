@@ -5,14 +5,6 @@ interface ProfileWrapperGridProps {
   id?: string;
   className?: string;
   children?: React.ReactNode;
-  prop_685?: string;
-  prop_456?: string;
-  prop_539?: string;
-  prop_926?: string;
-  prop_548?: string;
-  prop_956?: string;
-  prop_653?: string;
-  prop_479?: string;
   // PROPS_PLACEHOLDER
 }
 
