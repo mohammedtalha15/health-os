@@ -32,6 +32,7 @@ interface DashboardToggleGridProps {
   prop_823?: string;
   prop_116?: string;
   prop_343?: string;
+  prop_484?: string;
   // PROPS_PLACEHOLDER
 }
 
