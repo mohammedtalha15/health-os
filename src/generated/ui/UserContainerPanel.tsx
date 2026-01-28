@@ -5,11 +5,6 @@ interface UserContainerPanelProps {
   id?: string;
   className?: string;
   children?: React.ReactNode;
-  prop_726?: string;
-  prop_911?: string;
-  prop_585?: string;
-  prop_957?: string;
-  prop_237?: string;
   // PROPS_PLACEHOLDER
 }
 
