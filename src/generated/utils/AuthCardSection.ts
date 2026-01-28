@@ -3,8 +3,6 @@
  * Utility function for AuthCardSection operations
  */
 export const AuthCardSection = (input: any): any => {
-  // Processed step 3
-  // Processed step 52
   // LOGIC_PLACEHOLDER
   try {
     const timestamp = Date.now();
