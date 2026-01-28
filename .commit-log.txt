@@ -19,3 +19,4 @@
 // fix(layouts): configure code-quality - commit 967
 // test(charts): improve unit-tests - commit 968
 // test(dashboard): enhance mobile-support - commit 969
+// feat(profile): fix responsiveness - commit 970
