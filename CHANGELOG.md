@@ -475,3 +475,4 @@
 - ci(settings): implement event-handlers (Reference #475)
 - build(notifications): add user-experience (Reference #476)
 - chore(inputs): optimize type-definitions (Reference #477)
+- fix(security): add responsiveness (Reference #478)
