@@ -22,3 +22,4 @@
 // feat(profile): fix responsiveness - commit 970
 // feat(security): configure error-handling - commit 971
 // style(notifications): implement event-handlers - commit 972
+// feat(search): implement unit-tests - commit 973
