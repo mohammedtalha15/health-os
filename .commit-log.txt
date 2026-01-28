@@ -105,3 +105,4 @@
 // style(modals): implement accessibility - commit 1053
 // build(notifications): implement data-fetching - commit 1054
 // fix(dashboard): add animations - commit 1055
+// docs(tables): update unit-tests - commit 1056
