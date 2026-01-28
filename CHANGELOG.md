@@ -1363,3 +1363,4 @@
 - perf(api): fix dark-mode (Reference #1363)
 - fix(navigation): add documentation (Reference #1364)
 - refactor(charts): update performance (Reference #1365)
+- style(profile): refactor code-quality (Reference #1366)
