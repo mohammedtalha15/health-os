@@ -7,6 +7,7 @@ interface AdminWrapperRowProps {
   children?: React.ReactNode;
   prop_136?: string;
   prop_837?: string;
+  prop_425?: string;
   // PROPS_PLACEHOLDER
 }
 
