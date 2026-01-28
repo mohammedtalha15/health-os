@@ -7,6 +7,7 @@ interface ButtonLinkGridProps {
   children?: React.ReactNode;
   prop_314?: string;
   prop_948?: string;
+  prop_365?: string;
   // PROPS_PLACEHOLDER
 }
 
