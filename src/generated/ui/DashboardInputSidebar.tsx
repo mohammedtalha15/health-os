@@ -25,6 +25,7 @@ interface DashboardInputSidebarProps {
   prop_700?: string;
   prop_728?: string;
   prop_723?: string;
+  prop_317?: string;
   // PROPS_PLACEHOLDER
 }
 
