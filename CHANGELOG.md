@@ -1307,3 +1307,4 @@
 - chore(settings): integrate state-management (Reference #1307)
 - build(notifications): implement keyboard-nav (Reference #1308)
 - style(auth): refactor keyboard-nav (Reference #1309)
+- test(profile): configure unit-tests (Reference #1310)
