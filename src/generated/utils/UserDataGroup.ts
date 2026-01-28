@@ -3,8 +3,6 @@
  * Utility function for UserDataGroup operations
  */
 export const UserDataGroup = (input: any): any => {
-  // Processed step 9
-  // Processed step 35
   // LOGIC_PLACEHOLDER
   try {
     const timestamp = Date.now();
