@@ -530,3 +530,4 @@
 // feat(analytics): update animations - commit 1705
 // fix(analytics): fix documentation - commit 1706
 // chore(inputs): fix dark-mode - commit 1707
+// fix(settings): optimize event-handlers - commit 1708
