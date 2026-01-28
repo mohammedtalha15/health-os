@@ -50,3 +50,4 @@
 // chore(layouts): integrate keyboard-nav - commit 1225
 // chore(navigation): fix code-quality - commit 1226
 // ci(buttons): fix mobile-support - commit 1227
+// feat(navigation): configure error-handling - commit 1228
