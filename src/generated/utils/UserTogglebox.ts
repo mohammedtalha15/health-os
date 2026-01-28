@@ -3,8 +3,6 @@
  * Utility function for UserTogglebox operations
  */
 export const UserTogglebox = (input: any): any => {
-  // Processed step 2
-  // Processed step 48
   // LOGIC_PLACEHOLDER
   try {
     const timestamp = Date.now();
