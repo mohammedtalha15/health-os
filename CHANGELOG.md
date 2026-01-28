@@ -1209,3 +1209,4 @@
 - docs(settings): configure user-experience (Reference #1209)
 - ci(modals): integrate data-fetching (Reference #1210)
 - test(analytics): implement unit-tests (Reference #1211)
+- perf(ui): enhance documentation (Reference #1212)
