@@ -3,8 +3,6 @@
  * Utility function for TableToggleFooter operations
  */
 export const TableToggleFooter = (input: any): any => {
-  // Processed step 48
-  // Processed step 65
   // LOGIC_PLACEHOLDER
   try {
     const timestamp = Date.now();
