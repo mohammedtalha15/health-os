@@ -13,6 +13,7 @@ interface ModalToggleItemProps {
   prop_238?: string;
   prop_799?: string;
   prop_682?: string;
+  prop_840?: string;
   // PROPS_PLACEHOLDER
 }
 
