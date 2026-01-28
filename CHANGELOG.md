@@ -925,3 +925,4 @@
 - ci(notifications): optimize unit-tests (Reference #925)
 - test(api): optimize responsiveness (Reference #926)
 - test(api): update unit-tests (Reference #927)
+- fix(dashboard): implement caching-logic (Reference #928)
