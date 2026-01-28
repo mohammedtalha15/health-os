@@ -3,14 +3,6 @@
  * Utility function for ButtonContainerSidebar operations
  */
 export const ButtonContainerSidebar = (input: any): any => {
-  // Processed step 10
-  // Processed step 100
-  // Processed step 4
-  // Processed step 85
-  // Processed step 55
-  // Processed step 22
-  // Processed step 4
-  // Processed step 94
   // LOGIC_PLACEHOLDER
   try {
     const timestamp = Date.now();
