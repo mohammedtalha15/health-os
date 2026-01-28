@@ -5,12 +5,6 @@ interface TableListSectionProps {
   id?: string;
   className?: string;
   children?: React.ReactNode;
-  prop_375?: string;
-  prop_686?: string;
-  prop_572?: string;
-  prop_926?: string;
-  prop_483?: string;
-  prop_679?: string;
   // PROPS_PLACEHOLDER
 }
 
