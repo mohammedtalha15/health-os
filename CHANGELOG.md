@@ -1162,3 +1162,4 @@
 - ci(charts): configure keyboard-nav (Reference #1162)
 - fix(navigation): update unit-tests (Reference #1163)
 - ci(tables): refactor unit-tests (Reference #1164)
+- ci(cache): integrate event-handlers (Reference #1165)
