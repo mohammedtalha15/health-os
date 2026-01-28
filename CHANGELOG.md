@@ -324,3 +324,4 @@
 - test(analytics): configure performance (Reference #324)
 - fix(api): update error-handling (Reference #325)
 - docs(api): improve keyboard-nav (Reference #326)
+- style(ui): update mobile-support (Reference #327)
