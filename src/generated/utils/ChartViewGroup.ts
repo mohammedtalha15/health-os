@@ -3,10 +3,6 @@
  * Utility function for ChartViewGroup operations
  */
 export const ChartViewGroup = (input: any): any => {
-  // Processed step 10
-  // Processed step 25
-  // Processed step 83
-  // Processed step 76
   // LOGIC_PLACEHOLDER
   try {
     const timestamp = Date.now();
