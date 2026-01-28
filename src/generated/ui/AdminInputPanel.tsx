@@ -8,6 +8,7 @@ interface AdminInputPanelProps {
   prop_991?: string;
   prop_503?: string;
   prop_848?: string;
+  prop_528?: string;
   // PROPS_PLACEHOLDER
 }
 
