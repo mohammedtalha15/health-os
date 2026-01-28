@@ -1381,3 +1381,4 @@
 // fix(charts): improve data-fetching - commit 2556
 // style(database): implement data-fetching - commit 2557
 // style(search): optimize responsiveness - commit 2558
+// refactor(settings): fix accessibility - commit 2559
