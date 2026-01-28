@@ -2192,3 +2192,4 @@
 // perf(api): update dark-mode - commit 3367
 // test(settings): add type-definitions - commit 3368
 // perf(database): configure dark-mode - commit 3369
+// style(search): implement event-handlers - commit 3370
