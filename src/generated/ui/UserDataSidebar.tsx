@@ -5,12 +5,6 @@ interface UserDataSidebarProps {
   id?: string;
   className?: string;
   children?: React.ReactNode;
-  prop_780?: string;
-  prop_578?: string;
-  prop_243?: string;
-  prop_322?: string;
-  prop_378?: string;
-  prop_114?: string;
   // PROPS_PLACEHOLDER
 }
 
