@@ -1108,3 +1108,4 @@
 // feat(notifications): fix code-quality - commit 2283
 // fix(forms): integrate type-definitions - commit 2284
 // ci(auth): fix dark-mode - commit 2285
+// build(api): fix error-handling - commit 2286
