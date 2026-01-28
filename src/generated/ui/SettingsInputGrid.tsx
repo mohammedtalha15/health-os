@@ -5,12 +5,6 @@ interface SettingsInputGridProps {
   id?: string;
   className?: string;
   children?: React.ReactNode;
-  prop_808?: string;
-  prop_406?: string;
-  prop_335?: string;
-  prop_652?: string;
-  prop_971?: string;
-  prop_526?: string;
   // PROPS_PLACEHOLDER
 }
 
