@@ -8,6 +8,7 @@ interface UserWrapperGroupProps {
   prop_277?: string;
   prop_829?: string;
   prop_587?: string;
+  prop_879?: string;
   // PROPS_PLACEHOLDER
 }
 
