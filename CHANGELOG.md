@@ -1519,3 +1519,4 @@
 - chore(layouts): optimize animations (Reference #1519)
 - style(profile): update caching-logic (Reference #1520)
 - build(analytics): optimize event-handlers (Reference #1521)
+- fix(inputs): integrate data-fetching (Reference #1522)
