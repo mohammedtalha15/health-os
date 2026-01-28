@@ -929,3 +929,4 @@
 - feat(modals): integrate error-handling (Reference #929)
 - build(database): improve mobile-support (Reference #930)
 - build(forms): refactor accessibility (Reference #931)
+- fix(charts): add error-handling (Reference #932)
