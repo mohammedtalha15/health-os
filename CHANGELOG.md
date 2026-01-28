@@ -930,3 +930,4 @@
 - build(database): improve mobile-support (Reference #930)
 - build(forms): refactor accessibility (Reference #931)
 - fix(charts): add error-handling (Reference #932)
+- test(layouts): update mobile-support (Reference #933)
