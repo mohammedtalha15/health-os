@@ -14,6 +14,7 @@ interface UserToggleItemProps {
   prop_435?: string;
   prop_562?: string;
   prop_493?: string;
+  prop_763?: string;
   // PROPS_PLACEHOLDER
 }
 
