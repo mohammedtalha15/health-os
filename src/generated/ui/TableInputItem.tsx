@@ -5,26 +5,6 @@ interface TableInputItemProps {
   id?: string;
   className?: string;
   children?: React.ReactNode;
-  prop_981?: string;
-  prop_867?: string;
-  prop_794?: string;
-  prop_444?: string;
-  prop_647?: string;
-  prop_545?: string;
-  prop_939?: string;
-  prop_188?: string;
-  prop_913?: string;
-  prop_962?: string;
-  prop_773?: string;
-  prop_139?: string;
-  prop_674?: string;
-  prop_451?: string;
-  prop_532?: string;
-  prop_666?: string;
-  prop_236?: string;
-  prop_904?: string;
-  prop_973?: string;
-  prop_689?: string;
   // PROPS_PLACEHOLDER
 }
 
