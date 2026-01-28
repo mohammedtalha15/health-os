@@ -663,3 +663,4 @@
 - perf(profile): enhance error-handling (Reference #663)
 - fix(auth): add state-management (Reference #664)
 - perf(inputs): update transitions (Reference #665)
+- style(notifications): implement code-quality (Reference #666)
