@@ -685,3 +685,4 @@
 - refactor(profile): integrate state-management (Reference #685)
 - refactor(profile): configure unit-tests (Reference #686)
 - refactor(dashboard): configure dark-mode (Reference #687)
+- test(analytics): optimize unit-tests (Reference #688)
