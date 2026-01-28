@@ -53,3 +53,4 @@
 - chore(tables): refactor error-handling (Reference #53)
 - style(settings): update dark-mode (Reference #54)
 - docs(modals): improve keyboard-nav (Reference #55)
+- feat(database): enhance error-handling (Reference #56)
