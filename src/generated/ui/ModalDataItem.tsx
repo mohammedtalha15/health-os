@@ -9,6 +9,7 @@ interface ModalDataItemProps {
   prop_683?: string;
   prop_727?: string;
   prop_718?: string;
+  prop_976?: string;
   // PROPS_PLACEHOLDER
 }
 
