@@ -390,3 +390,4 @@
 - fix(inputs): add dark-mode (Reference #390)
 - test(buttons): update dark-mode (Reference #391)
 - fix(buttons): improve responsiveness (Reference #392)
+- feat(search): configure accessibility (Reference #393)
