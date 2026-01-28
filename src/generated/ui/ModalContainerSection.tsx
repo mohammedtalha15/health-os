@@ -26,6 +26,7 @@ interface ModalContainerSectionProps {
   prop_768?: string;
   prop_695?: string;
   prop_675?: string;
+  prop_284?: string;
   // PROPS_PLACEHOLDER
 }
 
