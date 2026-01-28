@@ -16,6 +16,7 @@ interface ButtonDataSectionProps {
   prop_599?: string;
   prop_509?: string;
   prop_257?: string;
+  prop_953?: string;
   // PROPS_PLACEHOLDER
 }
 
