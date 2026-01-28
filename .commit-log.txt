@@ -2116,3 +2116,4 @@
 // fix(modals): optimize type definitions - commit 152
 // refactor(modals): update mobile support - commit 153
 // fix(navigation): add type definitions - commit 154
+// refactor(modals): refactor state management - commit 155
