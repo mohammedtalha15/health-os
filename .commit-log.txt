@@ -80,3 +80,4 @@
 // style(ui): optimize type-definitions - commit 1028
 // style(settings): integrate mobile-support - commit 1029
 // refactor(navigation): integrate responsiveness - commit 1030
+// feat(profile): add event-handlers - commit 1031
