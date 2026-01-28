@@ -6,6 +6,7 @@ interface AuthContainerPanelProps {
   className?: string;
   children?: React.ReactNode;
   prop_311?: string;
+  prop_710?: string;
   // PROPS_PLACEHOLDER
 }
 
