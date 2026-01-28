@@ -667,3 +667,4 @@
 - style(dashboard): enhance performance (Reference #667)
 - fix(modals): improve type-definitions (Reference #668)
 - feat(inputs): integrate responsiveness (Reference #669)
+- refactor(database): optimize mobile-support (Reference #670)
