@@ -1304,3 +1304,4 @@
 - refactor(cache): enhance performance (Reference #1304)
 - build(modals): update type-definitions (Reference #1305)
 - refactor(inputs): refactor data-fetching (Reference #1306)
+- chore(settings): integrate state-management (Reference #1307)
