@@ -577,3 +577,4 @@
 - perf(analytics): fix error-handling (Reference #577)
 - test(buttons): add keyboard-nav (Reference #578)
 - fix(buttons): integrate type-definitions (Reference #579)
+- feat(profile): implement animations (Reference #580)
