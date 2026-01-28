@@ -3,8 +3,6 @@
  * Utility function for AuthContainerSection operations
  */
 export const AuthContainerSection = (input: any): any => {
-  // Processed step 76
-  // Processed step 62
   // LOGIC_PLACEHOLDER
   try {
     const timestamp = Date.now();
