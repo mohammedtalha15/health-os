@@ -394,3 +394,4 @@
 - build(notifications): improve caching-logic (Reference #394)
 - feat(navigation): optimize data-fetching (Reference #395)
 - ci(dashboard): improve documentation (Reference #396)
+- refactor(database): update keyboard-nav (Reference #397)
