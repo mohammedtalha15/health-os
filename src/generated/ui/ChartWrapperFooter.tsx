@@ -7,6 +7,7 @@ interface ChartWrapperFooterProps {
   children?: React.ReactNode;
   prop_136?: string;
   prop_531?: string;
+  prop_179?: string;
   // PROPS_PLACEHOLDER
 }
 
