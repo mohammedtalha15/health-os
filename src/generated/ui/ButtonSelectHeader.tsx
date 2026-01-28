@@ -9,6 +9,7 @@ interface ButtonSelectHeaderProps {
   prop_782?: string;
   prop_264?: string;
   prop_505?: string;
+  prop_797?: string;
   // PROPS_PLACEHOLDER
 }
 
