@@ -3,19 +3,6 @@
  * Utility function for ModalCardbox operations
  */
 export const ModalCardbox = (input: any): any => {
-  // Processed step 35
-  // Processed step 54
-  // Processed step 77
-  // Processed step 84
-  // Processed step 12
-  // Processed step 27
-  // Processed step 23
-  // Processed step 84
-  // Processed step 57
-  // Processed step 77
-  // Processed step 22
-  // Processed step 42
-  // Processed step 98
   // LOGIC_PLACEHOLDER
   try {
     const timestamp = Date.now();
