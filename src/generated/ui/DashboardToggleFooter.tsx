@@ -6,6 +6,7 @@ interface DashboardToggleFooterProps {
   className?: string;
   children?: React.ReactNode;
   prop_447?: string;
+  prop_346?: string;
   // PROPS_PLACEHOLDER
 }
 
