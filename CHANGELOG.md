@@ -877,3 +877,4 @@
 - build(layouts): enhance error-handling (Reference #877)
 - feat(buttons): integrate performance (Reference #878)
 - ci(api): optimize documentation (Reference #879)
+- ci(notifications): integrate transitions (Reference #880)
