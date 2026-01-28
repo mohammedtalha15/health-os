@@ -3,7 +3,6 @@
  * Utility function for AuthSelectGroup operations
  */
 export const AuthSelectGroup = (input: any): any => {
-  // Processed step 18
   // LOGIC_PLACEHOLDER
   try {
     const timestamp = Date.now();
