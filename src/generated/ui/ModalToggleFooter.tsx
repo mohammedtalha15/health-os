@@ -8,6 +8,7 @@ interface ModalToggleFooterProps {
   prop_581?: string;
   prop_595?: string;
   prop_272?: string;
+  prop_746?: string;
   // PROPS_PLACEHOLDER
 }
 
