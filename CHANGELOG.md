@@ -1447,3 +1447,4 @@
 - feat(layouts): integrate keyboard-nav (Reference #1447)
 - ci(inputs): enhance loading-states (Reference #1448)
 - refactor(buttons): optimize user-experience (Reference #1449)
+- fix(settings): enhance keyboard-nav (Reference #1450)
