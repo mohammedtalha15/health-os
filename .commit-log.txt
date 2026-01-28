@@ -610,3 +610,4 @@
 // chore(database): add transitions - commit 1785
 // fix(database): optimize unit-tests - commit 1786
 // fix(dashboard): configure transitions - commit 1787
+// style(api): enhance transitions - commit 1788
