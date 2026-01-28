@@ -35,3 +35,4 @@
 // ci(tables): fix validation - commit 983
 // refactor(ui): optimize state-management - commit 984
 // test(cache): optimize transitions - commit 985
+// build(auth): implement dark-mode - commit 986
