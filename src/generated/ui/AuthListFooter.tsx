@@ -14,6 +14,7 @@ interface AuthListFooterProps {
   prop_671?: string;
   prop_357?: string;
   prop_155?: string;
+  prop_592?: string;
   // PROPS_PLACEHOLDER
 }
 
