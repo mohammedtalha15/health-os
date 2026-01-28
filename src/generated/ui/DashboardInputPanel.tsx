@@ -10,6 +10,7 @@ interface DashboardInputPanelProps {
   prop_659?: string;
   prop_678?: string;
   prop_103?: string;
+  prop_740?: string;
   // PROPS_PLACEHOLDER
 }
 
