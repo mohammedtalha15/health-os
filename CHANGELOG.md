@@ -1206,3 +1206,4 @@
 - docs(notifications): integrate code-quality (Reference #1206)
 - refactor(search): update event-handlers (Reference #1207)
 - refactor(notifications): fix state-management (Reference #1208)
+- docs(settings): configure user-experience (Reference #1209)
