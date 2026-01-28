@@ -5,12 +5,6 @@ interface UserDataRowProps {
   id?: string;
   className?: string;
   children?: React.ReactNode;
-  prop_639?: string;
-  prop_668?: string;
-  prop_337?: string;
-  prop_208?: string;
-  prop_922?: string;
-  prop_387?: string;
   // PROPS_PLACEHOLDER
 }
 
