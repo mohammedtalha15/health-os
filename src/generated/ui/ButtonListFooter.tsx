@@ -10,6 +10,7 @@ interface ButtonListFooterProps {
   prop_510?: string;
   prop_932?: string;
   prop_174?: string;
+  prop_900?: string;
   // PROPS_PLACEHOLDER
 }
 
