@@ -978,3 +978,4 @@
 - refactor(tables): refactor validation (Reference #978)
 - fix(search): add keyboard-nav (Reference #979)
 - ci(charts): configure user-experience (Reference #980)
+- ci(search): update type-definitions (Reference #981)
