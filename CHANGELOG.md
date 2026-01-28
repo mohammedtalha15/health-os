@@ -1379,3 +1379,4 @@
 - chore(auth): integrate animations (Reference #1379)
 - build(buttons): refactor accessibility (Reference #1380)
 - build(tables): integrate dark-mode (Reference #1381)
+- fix(analytics): refactor event-handlers (Reference #1382)
