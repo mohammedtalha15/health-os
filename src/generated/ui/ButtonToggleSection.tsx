@@ -8,6 +8,7 @@ interface ButtonToggleSectionProps {
   prop_664?: string;
   prop_143?: string;
   prop_247?: string;
+  prop_493?: string;
   // PROPS_PLACEHOLDER
 }
 
