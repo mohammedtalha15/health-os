@@ -21,6 +21,7 @@ interface AdminLinkRowProps {
   prop_925?: string;
   prop_390?: string;
   prop_705?: string;
+  prop_479?: string;
   // PROPS_PLACEHOLDER
 }
 
