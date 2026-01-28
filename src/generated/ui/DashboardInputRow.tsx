@@ -5,20 +5,6 @@ interface DashboardInputRowProps {
   id?: string;
   className?: string;
   children?: React.ReactNode;
-  prop_571?: string;
-  prop_142?: string;
-  prop_791?: string;
-  prop_566?: string;
-  prop_549?: string;
-  prop_563?: string;
-  prop_683?: string;
-  prop_739?: string;
-  prop_957?: string;
-  prop_521?: string;
-  prop_761?: string;
-  prop_539?: string;
-  prop_934?: string;
-  prop_899?: string;
   // PROPS_PLACEHOLDER
 }
 
