@@ -1131,3 +1131,4 @@
 - fix(profile): add keyboard-nav (Reference #1131)
 - perf(search): enhance keyboard-nav (Reference #1132)
 - feat(modals): improve responsiveness (Reference #1133)
+- feat(tables): update loading-states (Reference #1134)
