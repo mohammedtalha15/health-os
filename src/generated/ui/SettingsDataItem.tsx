@@ -5,6 +5,7 @@ interface SettingsDataItemProps {
   id?: string;
   className?: string;
   children?: React.ReactNode;
+  prop_431?: string;
   // PROPS_PLACEHOLDER
 }
 
