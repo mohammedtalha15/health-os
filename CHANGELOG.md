@@ -1102,3 +1102,4 @@
 - build(notifications): fix accessibility (Reference #1102)
 - build(api): update validation (Reference #1103)
 - chore(buttons): update event-handlers (Reference #1104)
+- fix(ui): refactor caching-logic (Reference #1105)
