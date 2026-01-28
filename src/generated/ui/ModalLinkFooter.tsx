@@ -28,6 +28,7 @@ interface ModalLinkFooterProps {
   prop_964?: string;
   prop_123?: string;
   prop_429?: string;
+  prop_155?: string;
   // PROPS_PLACEHOLDER
 }
 
