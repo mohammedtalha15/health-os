@@ -40,3 +40,4 @@
 - test(api): configure loading-states (Reference #40)
 - style(dashboard): integrate transitions (Reference #41)
 - refactor(layouts): improve animations (Reference #42)
+- fix(tables): enhance performance (Reference #43)
