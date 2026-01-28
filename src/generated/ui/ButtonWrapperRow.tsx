@@ -9,6 +9,7 @@ interface ButtonWrapperRowProps {
   prop_236?: string;
   prop_915?: string;
   prop_132?: string;
+  prop_208?: string;
   // PROPS_PLACEHOLDER
 }
 
