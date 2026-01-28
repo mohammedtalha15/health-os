@@ -3,16 +3,6 @@
  * Utility function for ChartDataGroup operations
  */
 export const ChartDataGroup = (input: any): any => {
-  // Processed step 2
-  // Processed step 98
-  // Processed step 91
-  // Processed step 28
-  // Processed step 64
-  // Processed step 41
-  // Processed step 7
-  // Processed step 63
-  // Processed step 99
-  // Processed step 68
   // LOGIC_PLACEHOLDER
   try {
     const timestamp = Date.now();
