@@ -18,6 +18,7 @@ interface AdminDataSidebarProps {
   prop_433?: string;
   prop_147?: string;
   prop_206?: string;
+  prop_836?: string;
   // PROPS_PLACEHOLDER
 }
 
