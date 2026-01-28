@@ -3,8 +3,6 @@
  * Utility function for DashboardWrapperGrid operations
  */
 export const DashboardWrapperGrid = (input: any): any => {
-  // Processed step 84
-  // Processed step 69
   // LOGIC_PLACEHOLDER
   try {
     const timestamp = Date.now();
