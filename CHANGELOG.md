@@ -441,3 +441,4 @@
 - build(dashboard): integrate accessibility (Reference #441)
 - test(security): integrate caching-logic (Reference #442)
 - build(search): add data-fetching (Reference #443)
+- feat(notifications): configure keyboard-nav (Reference #444)
