@@ -306,3 +306,4 @@
 - test(profile): add code-quality (Reference #306)
 - test(search): enhance performance (Reference #307)
 - feat(modals): improve animations (Reference #308)
+- style(charts): improve validation (Reference #309)
