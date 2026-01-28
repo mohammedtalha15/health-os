@@ -3,7 +3,6 @@
  * Utility function for ModalInputPanel operations
  */
 export const ModalInputPanel = (input: any): any => {
-  // Processed step 77
   // LOGIC_PLACEHOLDER
   try {
     const timestamp = Date.now();
