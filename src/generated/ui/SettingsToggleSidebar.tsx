@@ -11,6 +11,7 @@ interface SettingsToggleSidebarProps {
   prop_649?: string;
   prop_934?: string;
   prop_961?: string;
+  prop_565?: string;
   // PROPS_PLACEHOLDER
 }
 
