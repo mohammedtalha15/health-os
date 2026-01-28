@@ -11,6 +11,7 @@ interface AuthContainerItemProps {
   prop_850?: string;
   prop_763?: string;
   prop_372?: string;
+  prop_762?: string;
   // PROPS_PLACEHOLDER
 }
 
