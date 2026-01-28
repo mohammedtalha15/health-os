@@ -7,6 +7,7 @@ interface UserViewGroupProps {
   children?: React.ReactNode;
   prop_750?: string;
   prop_123?: string;
+  prop_157?: string;
   // PROPS_PLACEHOLDER
 }
 
