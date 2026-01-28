@@ -412,3 +412,4 @@
 - test(layouts): implement transitions (Reference #412)
 - refactor(buttons): integrate user-experience (Reference #413)
 - build(dashboard): implement user-experience (Reference #414)
+- build(auth): update state-management (Reference #415)
