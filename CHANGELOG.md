@@ -304,3 +304,4 @@
 - style(settings): optimize code-quality (Reference #304)
 - refactor(search): implement animations (Reference #305)
 - test(profile): add code-quality (Reference #306)
+- test(search): enhance performance (Reference #307)
