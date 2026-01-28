@@ -9,6 +9,7 @@ interface AdminInputGridProps {
   prop_968?: string;
   prop_696?: string;
   prop_786?: string;
+  prop_570?: string;
   // PROPS_PLACEHOLDER
 }
 
