@@ -7,6 +7,7 @@ interface SettingsCardSidebarProps {
   children?: React.ReactNode;
   prop_321?: string;
   prop_547?: string;
+  prop_543?: string;
   // PROPS_PLACEHOLDER
 }
 
