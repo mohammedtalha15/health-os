@@ -337,3 +337,4 @@
 // chore(database): improve error-handling - commit 1512
 // refactor(api): fix event-handlers - commit 1513
 // fix(forms): add performance - commit 1514
+// test(charts): improve transitions - commit 1515
