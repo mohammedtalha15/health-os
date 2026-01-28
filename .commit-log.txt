@@ -2120,3 +2120,4 @@
 // docs(charts): update state-management - commit 3295
 // fix(security): fix unit-tests - commit 3296
 // chore(dashboard): configure performance - commit 3297
+// chore(settings): improve transitions - commit 3298
