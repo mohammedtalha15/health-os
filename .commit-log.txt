@@ -2823,3 +2823,4 @@
 // fix(charts): add state-management - commit 351
 // build(navigation): refactor dark-mode - commit 352
 // perf(tables): optimize unit-tests - commit 353
+// test(tables): enhance documentation - commit 354
