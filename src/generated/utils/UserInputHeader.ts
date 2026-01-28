@@ -3,7 +3,6 @@
  * Utility function for UserInputHeader operations
  */
 export const UserInputHeader = (input: any): any => {
-  // Processed step 30
   // LOGIC_PLACEHOLDER
   try {
     const timestamp = Date.now();
