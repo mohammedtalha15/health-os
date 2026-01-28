@@ -1416,3 +1416,4 @@
 - ci(notifications): integrate mobile-support (Reference #1416)
 - ci(dashboard): add user-experience (Reference #1417)
 - perf(forms): implement unit-tests (Reference #1418)
+- ci(modals): optimize documentation (Reference #1419)
