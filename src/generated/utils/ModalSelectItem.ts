@@ -3,7 +3,6 @@
  * Utility function for ModalSelectItem operations
  */
 export const ModalSelectItem = (input: any): any => {
-  // Processed step 4
   // LOGIC_PLACEHOLDER
   try {
     const timestamp = Date.now();
