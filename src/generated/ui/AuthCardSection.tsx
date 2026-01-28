@@ -21,6 +21,7 @@ interface AuthCardSectionProps {
   prop_129?: string;
   prop_639?: string;
   prop_978?: string;
+  prop_681?: string;
   // PROPS_PLACEHOLDER
 }
 
