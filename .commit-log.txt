@@ -1682,3 +1682,4 @@
 // test(auth): improve documentation - commit 2857
 // test(notifications): configure validation - commit 2858
 // build(profile): configure type-definitions - commit 2859
+// chore(modals): implement state-management - commit 2860
