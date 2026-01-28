@@ -8,3 +8,4 @@
 // chore(navigation): refactor documentation - commit 1183
 // refactor(tables): update keyboard-nav - commit 1184
 // feat(cache): enhance performance - commit 1185
+// refactor(modals): optimize dark-mode - commit 1186
