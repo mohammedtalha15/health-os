@@ -893,3 +893,4 @@
 - build(security): fix transitions (Reference #893)
 - fix(api): improve data-fetching (Reference #894)
 - build(layouts): add code-quality (Reference #895)
+- docs(charts): implement unit-tests (Reference #896)
