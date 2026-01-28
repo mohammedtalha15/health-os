@@ -750,3 +750,4 @@
 // style(modals): configure data-fetching - commit 1925
 // fix(api): add dark-mode - commit 1926
 // chore(settings): integrate loading-states - commit 1927
+// chore(settings): fix code-quality - commit 1928
