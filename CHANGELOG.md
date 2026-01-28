@@ -599,3 +599,4 @@
 - style(database): integrate state-management (Reference #599)
 - docs(charts): enhance loading-states (Reference #600)
 - refactor(search): improve state-management (Reference #601)
+- docs(charts): fix performance (Reference #602)
