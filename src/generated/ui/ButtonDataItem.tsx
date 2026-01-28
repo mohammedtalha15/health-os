@@ -5,8 +5,6 @@ interface ButtonDataItemProps {
   id?: string;
   className?: string;
   children?: React.ReactNode;
-  prop_231?: string;
-  prop_261?: string;
   // PROPS_PLACEHOLDER
 }
 
