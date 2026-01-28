@@ -19,6 +19,7 @@ interface ButtonWrapperboxProps {
   prop_693?: string;
   prop_918?: string;
   prop_161?: string;
+  prop_906?: string;
   // PROPS_PLACEHOLDER
 }
 
