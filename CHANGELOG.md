@@ -1160,3 +1160,4 @@
 - docs(security): integrate validation (Reference #1160)
 - refactor(profile): refactor state-management (Reference #1161)
 - ci(charts): configure keyboard-nav (Reference #1162)
+- fix(navigation): update unit-tests (Reference #1163)
