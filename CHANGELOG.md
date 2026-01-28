@@ -647,3 +647,4 @@
 - build(profile): update animations (Reference #647)
 - ci(tables): fix type-definitions (Reference #648)
 - fix(settings): integrate documentation (Reference #649)
+- ci(search): refactor documentation (Reference #650)
