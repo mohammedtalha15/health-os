@@ -119,3 +119,4 @@
 - test(tables): enhance code-quality (Reference #119)
 - test(auth): optimize state-management (Reference #120)
 - ci(security): add loading-states (Reference #121)
+- perf(search): optimize documentation (Reference #122)
