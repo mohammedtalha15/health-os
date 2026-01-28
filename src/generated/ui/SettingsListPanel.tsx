@@ -10,6 +10,7 @@ interface SettingsListPanelProps {
   prop_733?: string;
   prop_744?: string;
   prop_747?: string;
+  prop_203?: string;
   // PROPS_PLACEHOLDER
 }
 
