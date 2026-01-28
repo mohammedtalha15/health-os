@@ -5,8 +5,6 @@ interface ChartSelectboxProps {
   id?: string;
   className?: string;
   children?: React.ReactNode;
-  prop_570?: string;
-  prop_369?: string;
   // PROPS_PLACEHOLDER
 }
 
