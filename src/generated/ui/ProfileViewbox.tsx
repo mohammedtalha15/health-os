@@ -11,6 +11,7 @@ interface ProfileViewboxProps {
   prop_995?: string;
   prop_491?: string;
   prop_820?: string;
+  prop_612?: string;
   // PROPS_PLACEHOLDER
 }
 
