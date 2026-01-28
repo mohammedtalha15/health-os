@@ -1635,3 +1635,4 @@
 // test(tables): configure validation - commit 2810
 // test(tables): improve accessibility - commit 2811
 // ci(tables): integrate data-fetching - commit 2812
+// build(search): implement loading-states - commit 2813
