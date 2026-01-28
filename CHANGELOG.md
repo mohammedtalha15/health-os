@@ -1464,3 +1464,4 @@
 - build(api): fix loading-states (Reference #1464)
 - ci(navigation): enhance transitions (Reference #1465)
 - test(tables): optimize dark-mode (Reference #1466)
+- chore(database): fix data-fetching (Reference #1467)
