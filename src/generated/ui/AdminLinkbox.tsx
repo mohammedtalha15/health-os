@@ -8,6 +8,7 @@ interface AdminLinkboxProps {
   prop_946?: string;
   prop_399?: string;
   prop_377?: string;
+  prop_401?: string;
   // PROPS_PLACEHOLDER
 }
 
