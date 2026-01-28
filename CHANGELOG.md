@@ -1115,3 +1115,4 @@
 - build(dashboard): enhance animations (Reference #1115)
 - feat(navigation): update code-quality (Reference #1116)
 - refactor(auth): integrate type-definitions (Reference #1117)
+- ci(auth): configure loading-states (Reference #1118)
