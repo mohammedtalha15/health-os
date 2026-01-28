@@ -1051,3 +1051,4 @@
 - refactor(settings): improve transitions (Reference #1051)
 - ci(tables): configure responsiveness (Reference #1052)
 - style(ui): fix user-experience (Reference #1053)
+- test(tables): update event-handlers (Reference #1054)
