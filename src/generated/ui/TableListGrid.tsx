@@ -5,6 +5,7 @@ interface TableListGridProps {
   id?: string;
   className?: string;
   children?: React.ReactNode;
+  prop_800?: string;
   // PROPS_PLACEHOLDER
 }
 
