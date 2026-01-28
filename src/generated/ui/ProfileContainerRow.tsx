@@ -11,6 +11,7 @@ interface ProfileContainerRowProps {
   prop_366?: string;
   prop_260?: string;
   prop_654?: string;
+  prop_579?: string;
   // PROPS_PLACEHOLDER
 }
 
