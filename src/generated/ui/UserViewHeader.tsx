@@ -17,6 +17,7 @@ interface UserViewHeaderProps {
   prop_970?: string;
   prop_243?: string;
   prop_415?: string;
+  prop_670?: string;
   // PROPS_PLACEHOLDER
 }
 
