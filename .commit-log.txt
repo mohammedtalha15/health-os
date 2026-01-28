@@ -2712,3 +2712,4 @@
 // fix(modals): enhance documentation - commit 240
 // build(buttons): update dark-mode - commit 241
 // ci(dashboard): optimize type-definitions - commit 242
+// fix(buttons): optimize loading-states - commit 243
