@@ -5,6 +5,7 @@ interface AuthListSectionProps {
   id?: string;
   className?: string;
   children?: React.ReactNode;
+  prop_284?: string;
   // PROPS_PLACEHOLDER
 }
 
