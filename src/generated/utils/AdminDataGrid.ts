@@ -3,8 +3,6 @@
  * Utility function for AdminDataGrid operations
  */
 export const AdminDataGrid = (input: any): any => {
-  // Processed step 43
-  // Processed step 87
   // LOGIC_PLACEHOLDER
   try {
     const timestamp = Date.now();
