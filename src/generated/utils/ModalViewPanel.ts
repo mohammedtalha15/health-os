@@ -3,9 +3,6 @@
  * Utility function for ModalViewPanel operations
  */
 export const ModalViewPanel = (input: any): any => {
-  // Processed step 94
-  // Processed step 44
-  // Processed step 55
   // LOGIC_PLACEHOLDER
   try {
     const timestamp = Date.now();
