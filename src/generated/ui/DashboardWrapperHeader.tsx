@@ -13,6 +13,7 @@ interface DashboardWrapperHeaderProps {
   prop_480?: string;
   prop_625?: string;
   prop_400?: string;
+  prop_122?: string;
   // PROPS_PLACEHOLDER
 }
 
