@@ -10,6 +10,7 @@ interface ModalInputFooterProps {
   prop_268?: string;
   prop_964?: string;
   prop_626?: string;
+  prop_990?: string;
   // PROPS_PLACEHOLDER
 }
 
