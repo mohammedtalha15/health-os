@@ -6,6 +6,7 @@ interface UserCardFooterProps {
   className?: string;
   children?: React.ReactNode;
   prop_309?: string;
+  prop_552?: string;
   // PROPS_PLACEHOLDER
 }
 
