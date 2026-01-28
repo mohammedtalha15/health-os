@@ -78,3 +78,4 @@
 // build(settings): add performance - commit 1253
 // docs(navigation): implement data-fetching - commit 1254
 // style(settings): add animations - commit 1255
+// build(database): improve type-definitions - commit 1256
