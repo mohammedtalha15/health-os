@@ -1186,3 +1186,4 @@
 - style(api): enhance mobile-support (Reference #1186)
 - build(ui): improve type-definitions (Reference #1187)
 - style(forms): integrate state-management (Reference #1188)
+- build(profile): enhance mobile-support (Reference #1189)
