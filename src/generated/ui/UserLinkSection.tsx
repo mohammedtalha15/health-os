@@ -8,6 +8,7 @@ interface UserLinkSectionProps {
   prop_768?: string;
   prop_710?: string;
   prop_518?: string;
+  prop_434?: string;
   // PROPS_PLACEHOLDER
 }
 
