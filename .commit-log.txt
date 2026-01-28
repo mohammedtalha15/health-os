@@ -148,3 +148,4 @@
 // fix(buttons): integrate loading-states - commit 1096
 // ci(security): update unit-tests - commit 1097
 // perf(ui): integrate unit-tests - commit 1098
+// build(settings): configure responsiveness - commit 1099
