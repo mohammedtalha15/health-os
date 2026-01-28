@@ -7,6 +7,7 @@ interface TableContainerSectionProps {
   children?: React.ReactNode;
   prop_901?: string;
   prop_602?: string;
+  prop_566?: string;
   // PROPS_PLACEHOLDER
 }
 
