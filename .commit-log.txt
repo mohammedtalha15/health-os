@@ -166,3 +166,4 @@
 // ci(modals): improve transitions - commit 1114
 // docs(security): implement validation - commit 1115
 // chore(cache): improve performance - commit 1116
+// refactor(auth): improve unit-tests - commit 1117
