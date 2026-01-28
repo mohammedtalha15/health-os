@@ -319,3 +319,4 @@
 - perf(modals): optimize state-management (Reference #319)
 - style(modals): update validation (Reference #320)
 - perf(ui): update code-quality (Reference #321)
+- chore(tables): update event-handlers (Reference #322)
