@@ -10,6 +10,7 @@ interface AuthSelectItemProps {
   prop_575?: string;
   prop_890?: string;
   prop_448?: string;
+  prop_779?: string;
   // PROPS_PLACEHOLDER
 }
 
