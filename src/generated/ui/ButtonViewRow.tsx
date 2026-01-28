@@ -5,16 +5,6 @@ interface ButtonViewRowProps {
   id?: string;
   className?: string;
   children?: React.ReactNode;
-  prop_879?: string;
-  prop_452?: string;
-  prop_999?: string;
-  prop_619?: string;
-  prop_386?: string;
-  prop_147?: string;
-  prop_296?: string;
-  prop_943?: string;
-  prop_688?: string;
-  prop_401?: string;
   // PROPS_PLACEHOLDER
 }
 
