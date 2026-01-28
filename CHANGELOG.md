@@ -671,3 +671,4 @@
 - refactor(tables): update dark-mode (Reference #671)
 - build(settings): enhance loading-states (Reference #672)
 - refactor(tables): integrate data-fetching (Reference #673)
+- perf(analytics): configure performance (Reference #674)
