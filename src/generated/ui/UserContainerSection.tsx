@@ -5,16 +5,6 @@ interface UserContainerSectionProps {
   id?: string;
   className?: string;
   children?: React.ReactNode;
-  prop_578?: string;
-  prop_349?: string;
-  prop_473?: string;
-  prop_811?: string;
-  prop_717?: string;
-  prop_527?: string;
-  prop_248?: string;
-  prop_946?: string;
-  prop_468?: string;
-  prop_631?: string;
   // PROPS_PLACEHOLDER
 }
 
