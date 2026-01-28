@@ -12,6 +12,7 @@ interface UserInputPanelProps {
   prop_428?: string;
   prop_716?: string;
   prop_789?: string;
+  prop_152?: string;
   // PROPS_PLACEHOLDER
 }
 
