@@ -3,10 +3,6 @@
  * Utility function for TableLinkRow operations
  */
 export const TableLinkRow = (input: any): any => {
-  // Processed step 86
-  // Processed step 89
-  // Processed step 7
-  // Processed step 8
   // LOGIC_PLACEHOLDER
   try {
     const timestamp = Date.now();
