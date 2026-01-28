@@ -8,6 +8,7 @@ interface TableLinkRowProps {
   prop_421?: string;
   prop_389?: string;
   prop_804?: string;
+  prop_608?: string;
   // PROPS_PLACEHOLDER
 }
 
