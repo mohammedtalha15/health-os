@@ -7,6 +7,7 @@ interface ProfileContainerGridProps {
   children?: React.ReactNode;
   prop_777?: string;
   prop_816?: string;
+  prop_354?: string;
   // PROPS_PLACEHOLDER
 }
 
