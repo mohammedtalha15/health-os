@@ -462,3 +462,4 @@
 - docs(navigation): fix validation (Reference #462)
 - fix(forms): update keyboard-nav (Reference #463)
 - test(tables): update mobile-support (Reference #464)
+- perf(analytics): configure loading-states (Reference #465)
