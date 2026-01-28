@@ -983,3 +983,4 @@
 - refactor(database): refactor error-handling (Reference #983)
 - refactor(cache): fix unit-tests (Reference #984)
 - fix(layouts): configure documentation (Reference #985)
+- test(forms): implement code-quality (Reference #986)
