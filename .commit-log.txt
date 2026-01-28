@@ -2007,3 +2007,4 @@
 // chore(inputs): optimize loading-states - commit 3182
 // chore(inputs): refactor type-definitions - commit 3183
 // perf(navigation): update documentation - commit 3184
+// build(navigation): add loading-states - commit 3185
