@@ -6,6 +6,7 @@ interface ProfileToggleGroupProps {
   className?: string;
   children?: React.ReactNode;
   prop_239?: string;
+  prop_735?: string;
   // PROPS_PLACEHOLDER
 }
 
