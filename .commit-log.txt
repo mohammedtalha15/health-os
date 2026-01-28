@@ -26,3 +26,4 @@
 // fix(cache): fix responsiveness - commit 974
 // feat(dashboard): refactor caching-logic - commit 975
 // feat(cache): refactor event-handlers - commit 976
+// build(analytics): improve transitions - commit 977
