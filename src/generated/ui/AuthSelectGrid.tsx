@@ -5,18 +5,6 @@ interface AuthSelectGridProps {
   id?: string;
   className?: string;
   children?: React.ReactNode;
-  prop_685?: string;
-  prop_638?: string;
-  prop_308?: string;
-  prop_790?: string;
-  prop_199?: string;
-  prop_513?: string;
-  prop_135?: string;
-  prop_447?: string;
-  prop_516?: string;
-  prop_245?: string;
-  prop_220?: string;
-  prop_177?: string;
   // PROPS_PLACEHOLDER
 }
 
