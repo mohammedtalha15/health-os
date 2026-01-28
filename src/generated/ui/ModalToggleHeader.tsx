@@ -6,6 +6,7 @@ interface ModalToggleHeaderProps {
   className?: string;
   children?: React.ReactNode;
   prop_813?: string;
+  prop_621?: string;
   // PROPS_PLACEHOLDER
 }
 
