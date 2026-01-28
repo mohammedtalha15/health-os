@@ -6,6 +6,7 @@ interface ModalInputGridProps {
   className?: string;
   children?: React.ReactNode;
   prop_650?: string;
+  prop_765?: string;
   // PROPS_PLACEHOLDER
 }
 
