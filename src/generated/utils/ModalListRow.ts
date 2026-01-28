@@ -3,10 +3,6 @@
  * Utility function for ModalListRow operations
  */
 export const ModalListRow = (input: any): any => {
-  // Processed step 89
-  // Processed step 79
-  // Processed step 59
-  // Processed step 25
   // LOGIC_PLACEHOLDER
   try {
     const timestamp = Date.now();
