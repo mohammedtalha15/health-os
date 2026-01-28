@@ -610,3 +610,4 @@
 - test(modals): add data-fetching (Reference #610)
 - style(settings): implement accessibility (Reference #611)
 - ci(cache): implement performance (Reference #612)
+- ci(navigation): improve transitions (Reference #613)
