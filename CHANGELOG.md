@@ -1027,3 +1027,4 @@
 - ci(security): optimize keyboard-nav (Reference #1027)
 - test(layouts): update data-fetching (Reference #1028)
 - perf(database): add documentation (Reference #1029)
+- feat(security): implement responsiveness (Reference #1030)
