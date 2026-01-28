@@ -149,3 +149,4 @@
 // style(api): integrate accessibility - commit 1324
 // style(navigation): enhance caching-logic - commit 1325
 // perf(search): integrate validation - commit 1326
+// build(tables): integrate type-definitions - commit 1327
