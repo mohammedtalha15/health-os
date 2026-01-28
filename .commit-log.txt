@@ -1803,3 +1803,4 @@
 // docs(dashboard): implement dark-mode - commit 2978
 // feat(analytics): fix error-handling - commit 2979
 // test(database): optimize unit-tests - commit 2980
+// build(settings): add mobile-support - commit 2981
