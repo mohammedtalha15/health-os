@@ -122,3 +122,4 @@
 - perf(search): optimize documentation (Reference #122)
 - ci(forms): implement error-handling (Reference #123)
 - perf(database): integrate performance (Reference #124)
+- refactor(cache): improve dark-mode (Reference #125)
