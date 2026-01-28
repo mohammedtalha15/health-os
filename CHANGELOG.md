@@ -1370,3 +1370,4 @@
 - ci(modals): fix type-definitions (Reference #1370)
 - chore(buttons): update error-handling (Reference #1371)
 - build(buttons): improve event-handlers (Reference #1372)
+- feat(security): configure accessibility (Reference #1373)
