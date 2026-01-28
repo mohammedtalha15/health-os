@@ -5,6 +5,7 @@ interface ModalDataFooterProps {
   id?: string;
   className?: string;
   children?: React.ReactNode;
+  prop_983?: string;
   // PROPS_PLACEHOLDER
 }
 
