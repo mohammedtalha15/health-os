@@ -862,3 +862,4 @@
 - fix(security): fix error-handling (Reference #862)
 - refactor(ui): improve state-management (Reference #863)
 - chore(dashboard): optimize user-experience (Reference #864)
+- perf(search): configure animations (Reference #865)
