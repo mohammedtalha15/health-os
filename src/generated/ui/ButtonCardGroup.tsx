@@ -5,14 +5,6 @@ interface ButtonCardGroupProps {
   id?: string;
   className?: string;
   children?: React.ReactNode;
-  prop_327?: string;
-  prop_138?: string;
-  prop_445?: string;
-  prop_659?: string;
-  prop_621?: string;
-  prop_577?: string;
-  prop_101?: string;
-  prop_118?: string;
   // PROPS_PLACEHOLDER
 }
 
