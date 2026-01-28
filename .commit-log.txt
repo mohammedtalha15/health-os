@@ -700,3 +700,4 @@
 // style(charts): implement accessibility - commit 1875
 // perf(analytics): fix caching-logic - commit 1876
 // build(cache): implement accessibility - commit 1877
+// build(tables): fix transitions - commit 1878
