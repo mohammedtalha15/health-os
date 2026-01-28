@@ -2026,3 +2026,4 @@
 // perf(dashboard): enhance performance - commit 62
 // (ui): optimize performance - commit 63
 // feat(tables): configure loading states - commit 64
+// fix(auth): add transitions - commit 65
