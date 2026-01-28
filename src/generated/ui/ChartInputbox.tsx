@@ -5,9 +5,6 @@ interface ChartInputboxProps {
   id?: string;
   className?: string;
   children?: React.ReactNode;
-  prop_521?: string;
-  prop_764?: string;
-  prop_127?: string;
   // PROPS_PLACEHOLDER
 }
 
