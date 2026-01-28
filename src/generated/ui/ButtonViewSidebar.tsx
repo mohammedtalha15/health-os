@@ -10,6 +10,7 @@ interface ButtonViewSidebarProps {
   prop_403?: string;
   prop_522?: string;
   prop_505?: string;
+  prop_263?: string;
   // PROPS_PLACEHOLDER
 }
 
