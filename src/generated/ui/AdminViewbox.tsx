@@ -5,21 +5,6 @@ interface AdminViewboxProps {
   id?: string;
   className?: string;
   children?: React.ReactNode;
-  prop_571?: string;
-  prop_966?: string;
-  prop_424?: string;
-  prop_365?: string;
-  prop_397?: string;
-  prop_510?: string;
-  prop_749?: string;
-  prop_836?: string;
-  prop_211?: string;
-  prop_835?: string;
-  prop_713?: string;
-  prop_552?: string;
-  prop_104?: string;
-  prop_159?: string;
-  prop_959?: string;
   // PROPS_PLACEHOLDER
 }
 
