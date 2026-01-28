@@ -7,6 +7,7 @@ interface AdminContainerFooterProps {
   children?: React.ReactNode;
   prop_551?: string;
   prop_223?: string;
+  prop_698?: string;
   // PROPS_PLACEHOLDER
 }
 
