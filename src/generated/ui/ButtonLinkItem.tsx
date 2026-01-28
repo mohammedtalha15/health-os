@@ -7,6 +7,7 @@ interface ButtonLinkItemProps {
   children?: React.ReactNode;
   prop_525?: string;
   prop_391?: string;
+  prop_430?: string;
   // PROPS_PLACEHOLDER
 }
 
