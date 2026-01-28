@@ -11,6 +11,7 @@ interface ModalDataSidebarProps {
   prop_977?: string;
   prop_295?: string;
   prop_827?: string;
+  prop_723?: string;
   // PROPS_PLACEHOLDER
 }
 
