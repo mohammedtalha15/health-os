@@ -5,12 +5,6 @@ interface DashboardToggleboxProps {
   id?: string;
   className?: string;
   children?: React.ReactNode;
-  prop_468?: string;
-  prop_257?: string;
-  prop_259?: string;
-  prop_529?: string;
-  prop_804?: string;
-  prop_203?: string;
   // PROPS_PLACEHOLDER
 }
 
