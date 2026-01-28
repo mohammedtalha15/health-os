@@ -1487,3 +1487,4 @@
 - build(forms): improve data-fetching (Reference #1487)
 - feat(tables): add state-management (Reference #1488)
 - fix(security): add user-experience (Reference #1489)
+- test(settings): configure state-management (Reference #1490)
