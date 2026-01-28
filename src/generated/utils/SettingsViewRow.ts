@@ -3,8 +3,6 @@
  * Utility function for SettingsViewRow operations
  */
 export const SettingsViewRow = (input: any): any => {
-  // Processed step 52
-  // Processed step 13
   // LOGIC_PLACEHOLDER
   try {
     const timestamp = Date.now();
