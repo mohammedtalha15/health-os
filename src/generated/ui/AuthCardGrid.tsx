@@ -7,6 +7,7 @@ interface AuthCardGridProps {
   children?: React.ReactNode;
   prop_149?: string;
   prop_286?: string;
+  prop_164?: string;
   // PROPS_PLACEHOLDER
 }
 
