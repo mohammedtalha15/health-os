@@ -3150,3 +3150,4 @@
 // build(layouts): refactor data-fetching - commit 678
 // ci(navigation): fix documentation - commit 679
 // feat(ui): update caching-logic - commit 680
+// chore(dashboard): refactor state-management - commit 681
