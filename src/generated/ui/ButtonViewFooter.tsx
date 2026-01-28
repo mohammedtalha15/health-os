@@ -10,6 +10,7 @@ interface ButtonViewFooterProps {
   prop_923?: string;
   prop_863?: string;
   prop_845?: string;
+  prop_942?: string;
   // PROPS_PLACEHOLDER
 }
 
