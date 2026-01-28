@@ -8,6 +8,7 @@ interface ChartToggleSidebarProps {
   prop_867?: string;
   prop_675?: string;
   prop_435?: string;
+  prop_426?: string;
   // PROPS_PLACEHOLDER
 }
 
