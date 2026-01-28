@@ -774,3 +774,4 @@
 - build(profile): configure keyboard-nav (Reference #774)
 - chore(tables): integrate accessibility (Reference #775)
 - docs(profile): fix transitions (Reference #776)
+- build(cache): add state-management (Reference #777)
