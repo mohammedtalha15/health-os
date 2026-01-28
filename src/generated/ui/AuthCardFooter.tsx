@@ -5,12 +5,6 @@ interface AuthCardFooterProps {
   id?: string;
   className?: string;
   children?: React.ReactNode;
-  prop_254?: string;
-  prop_781?: string;
-  prop_982?: string;
-  prop_374?: string;
-  prop_177?: string;
-  prop_702?: string;
   // PROPS_PLACEHOLDER
 }
 
