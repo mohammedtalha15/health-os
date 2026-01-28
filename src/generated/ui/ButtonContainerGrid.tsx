@@ -8,6 +8,7 @@ interface ButtonContainerGridProps {
   prop_155?: string;
   prop_285?: string;
   prop_239?: string;
+  prop_271?: string;
   // PROPS_PLACEHOLDER
 }
 
