@@ -3,7 +3,6 @@
  * Utility function for AdminInputbox operations
  */
 export const AdminInputbox = (input: any): any => {
-  // Processed step 71
   // LOGIC_PLACEHOLDER
   try {
     const timestamp = Date.now();
