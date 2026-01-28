@@ -3,9 +3,6 @@
  * Utility function for ModalContainerGrid operations
  */
 export const ModalContainerGrid = (input: any): any => {
-  // Processed step 84
-  // Processed step 93
-  // Processed step 78
   // LOGIC_PLACEHOLDER
   try {
     const timestamp = Date.now();
