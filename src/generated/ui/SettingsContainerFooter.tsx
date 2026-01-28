@@ -7,6 +7,7 @@ interface SettingsContainerFooterProps {
   children?: React.ReactNode;
   prop_779?: string;
   prop_824?: string;
+  prop_109?: string;
   // PROPS_PLACEHOLDER
 }
 
