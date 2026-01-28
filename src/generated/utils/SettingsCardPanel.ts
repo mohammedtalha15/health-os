@@ -3,8 +3,6 @@
  * Utility function for SettingsCardPanel operations
  */
 export const SettingsCardPanel = (input: any): any => {
-  // Processed step 12
-  // Processed step 40
   // LOGIC_PLACEHOLDER
   try {
     const timestamp = Date.now();
