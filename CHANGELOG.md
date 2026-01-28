@@ -526,3 +526,4 @@
 - refactor(dashboard): configure user-experience (Reference #526)
 - build(cache): enhance caching-logic (Reference #527)
 - chore(notifications): add caching-logic (Reference #528)
+- test(cache): add event-handlers (Reference #529)
