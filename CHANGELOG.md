@@ -496,3 +496,4 @@
 - style(security): fix documentation (Reference #496)
 - fix(cache): update unit-tests (Reference #497)
 - chore(cache): configure unit-tests (Reference #498)
+- refactor(settings): fix user-experience (Reference #499)
