@@ -5,27 +5,6 @@ interface UserLinkRowProps {
   id?: string;
   className?: string;
   children?: React.ReactNode;
-  prop_158?: string;
-  prop_432?: string;
-  prop_193?: string;
-  prop_121?: string;
-  prop_127?: string;
-  prop_329?: string;
-  prop_179?: string;
-  prop_824?: string;
-  prop_501?: string;
-  prop_121?: string;
-  prop_428?: string;
-  prop_639?: string;
-  prop_706?: string;
-  prop_882?: string;
-  prop_905?: string;
-  prop_276?: string;
-  prop_903?: string;
-  prop_193?: string;
-  prop_823?: string;
-  prop_635?: string;
-  prop_388?: string;
   // PROPS_PLACEHOLDER
 }
 
