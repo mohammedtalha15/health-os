@@ -5,29 +5,6 @@ interface SettingsListboxProps {
   id?: string;
   className?: string;
   children?: React.ReactNode;
-  prop_941?: string;
-  prop_251?: string;
-  prop_185?: string;
-  prop_684?: string;
-  prop_342?: string;
-  prop_707?: string;
-  prop_413?: string;
-  prop_348?: string;
-  prop_487?: string;
-  prop_543?: string;
-  prop_128?: string;
-  prop_928?: string;
-  prop_308?: string;
-  prop_294?: string;
-  prop_431?: string;
-  prop_395?: string;
-  prop_568?: string;
-  prop_664?: string;
-  prop_986?: string;
-  prop_369?: string;
-  prop_180?: string;
-  prop_598?: string;
-  prop_380?: string;
   // PROPS_PLACEHOLDER
 }
 
