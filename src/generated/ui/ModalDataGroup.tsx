@@ -15,6 +15,7 @@ interface ModalDataGroupProps {
   prop_959?: string;
   prop_800?: string;
   prop_603?: string;
+  prop_723?: string;
   // PROPS_PLACEHOLDER
 }
 
