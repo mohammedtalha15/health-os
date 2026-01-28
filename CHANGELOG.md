@@ -1034,3 +1034,4 @@
 - test(navigation): fix accessibility (Reference #1034)
 - refactor(charts): implement type-definitions (Reference #1035)
 - docs(ui): improve event-handlers (Reference #1036)
+- ci(navigation): optimize performance (Reference #1037)
