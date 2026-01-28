@@ -5,8 +5,6 @@ interface SettingsToggleGridProps {
   id?: string;
   className?: string;
   children?: React.ReactNode;
-  prop_199?: string;
-  prop_971?: string;
   // PROPS_PLACEHOLDER
 }
 
