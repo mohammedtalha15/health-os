@@ -543,3 +543,4 @@
 - build(settings): refactor unit-tests (Reference #543)
 - refactor(cache): add error-handling (Reference #544)
 - chore(ui): integrate documentation (Reference #545)
+- refactor(navigation): fix animations (Reference #546)
