@@ -15,6 +15,7 @@ interface ModalWrapperRowProps {
   prop_348?: string;
   prop_328?: string;
   prop_237?: string;
+  prop_286?: string;
   // PROPS_PLACEHOLDER
 }
 
