@@ -1313,3 +1313,4 @@
 - feat(notifications): configure data-fetching (Reference #1313)
 - perf(navigation): optimize user-experience (Reference #1314)
 - build(security): add mobile-support (Reference #1315)
+- fix(security): update error-handling (Reference #1316)
