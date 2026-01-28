@@ -11,6 +11,7 @@ interface SettingsInputSidebarProps {
   prop_396?: string;
   prop_230?: string;
   prop_264?: string;
+  prop_454?: string;
   // PROPS_PLACEHOLDER
 }
 
