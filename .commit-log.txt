@@ -1166,3 +1166,4 @@
 // fix(notifications): fix keyboard-nav - commit 2341
 // refactor(auth): fix documentation - commit 2342
 // test(auth): add loading-states - commit 2343
+// docs(notifications): integrate data-fetching - commit 2344
