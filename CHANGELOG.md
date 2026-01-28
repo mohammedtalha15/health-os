@@ -434,3 +434,4 @@
 - build(inputs): configure responsiveness (Reference #434)
 - perf(modals): improve unit-tests (Reference #435)
 - feat(search): fix caching-logic (Reference #436)
+- docs(inputs): enhance validation (Reference #437)
