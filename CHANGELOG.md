@@ -1255,3 +1255,4 @@
 - feat(profile): implement loading-states (Reference #1255)
 - test(profile): integrate caching-logic (Reference #1256)
 - chore(auth): update keyboard-nav (Reference #1257)
+- docs(charts): implement performance (Reference #1258)
