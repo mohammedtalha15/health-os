@@ -775,3 +775,4 @@
 // ci(forms): refactor performance - commit 1950
 // fix(api): update code-quality - commit 1951
 // build(modals): integrate unit-tests - commit 1952
+// perf(navigation): implement animations - commit 1953
