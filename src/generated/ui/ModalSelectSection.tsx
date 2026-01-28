@@ -7,6 +7,7 @@ interface ModalSelectSectionProps {
   children?: React.ReactNode;
   prop_493?: string;
   prop_137?: string;
+  prop_943?: string;
   // PROPS_PLACEHOLDER
 }
 
