@@ -3,3 +3,4 @@
 - refactor(api): fix code-quality (Reference #3)
 - test(search): enhance transitions (Reference #4)
 - chore(buttons): fix caching-logic (Reference #5)
+- test(cache): refactor data-fetching (Reference #6)
