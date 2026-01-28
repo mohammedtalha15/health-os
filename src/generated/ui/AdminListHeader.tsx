@@ -6,6 +6,7 @@ interface AdminListHeaderProps {
   className?: string;
   children?: React.ReactNode;
   prop_386?: string;
+  prop_182?: string;
   // PROPS_PLACEHOLDER
 }
 
