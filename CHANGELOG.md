@@ -16,3 +16,4 @@
 - test(dashboard): optimize animations (Reference #16)
 - docs(modals): add unit-tests (Reference #17)
 - docs(security): refactor user-experience (Reference #18)
+- style(cache): implement performance (Reference #19)
