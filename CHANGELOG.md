@@ -661,3 +661,4 @@
 - style(ui): add loading-states (Reference #661)
 - build(notifications): integrate accessibility (Reference #662)
 - perf(profile): enhance error-handling (Reference #663)
+- fix(auth): add state-management (Reference #664)
