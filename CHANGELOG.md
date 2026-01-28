@@ -407,3 +407,4 @@
 - test(settings): update loading-states (Reference #407)
 - perf(tables): configure performance (Reference #408)
 - test(modals): optimize transitions (Reference #409)
+- test(notifications): optimize performance (Reference #410)
