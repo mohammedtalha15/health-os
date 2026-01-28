@@ -3,8 +3,6 @@
  * Utility function for AuthWrapperSection operations
  */
 export const AuthWrapperSection = (input: any): any => {
-  // Processed step 96
-  // Processed step 7
   // LOGIC_PLACEHOLDER
   try {
     const timestamp = Date.now();
