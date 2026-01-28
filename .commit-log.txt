@@ -2490,3 +2490,4 @@
 // perf(charts): configure accessibility - commit 18
 // docs(cache): improve accessibility - commit 19
 // ci(settings): update keyboard-nav - commit 20
+// ci(navigation): fix type-definitions - commit 21
