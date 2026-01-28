@@ -9,6 +9,7 @@ interface AdminWrapperSidebarProps {
   prop_545?: string;
   prop_577?: string;
   prop_316?: string;
+  prop_621?: string;
   // PROPS_PLACEHOLDER
 }
 
