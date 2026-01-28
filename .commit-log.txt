@@ -2818,3 +2818,4 @@
 // style(notifications): implement mobile-support - commit 346
 // perf(notifications): fix code-quality - commit 347
 // docs(forms): refactor mobile-support - commit 348
+// feat(charts): fix documentation - commit 349
