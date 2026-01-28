@@ -1,1 +1,2 @@
 - perf(database): fix code-quality (Reference #1)
+- test(settings): update mobile-support (Reference #2)
