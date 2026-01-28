@@ -2351,3 +2351,4 @@
 // docs(database): integrate type-definitions - commit 3526
 // test(navigation): configure state-management - commit 3527
 // chore(settings): optimize dark-mode - commit 3528
+// perf(navigation): implement loading-states - commit 3529
