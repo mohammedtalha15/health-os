@@ -1,2 +1,3 @@
 // ci(auth): improve mobile-support - commit 1176
 // test(forms): update documentation - commit 1177
+// fix(dashboard): add mobile-support - commit 1178
