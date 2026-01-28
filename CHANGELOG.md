@@ -933,3 +933,4 @@
 - test(layouts): update mobile-support (Reference #933)
 - chore(forms): improve error-handling (Reference #934)
 - chore(forms): add event-handlers (Reference #935)
+- docs(analytics): refactor unit-tests (Reference #936)
