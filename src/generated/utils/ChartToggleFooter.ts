@@ -3,9 +3,6 @@
  * Utility function for ChartToggleFooter operations
  */
 export const ChartToggleFooter = (input: any): any => {
-  // Processed step 12
-  // Processed step 80
-  // Processed step 30
   // LOGIC_PLACEHOLDER
   try {
     const timestamp = Date.now();
