@@ -884,3 +884,4 @@
 - feat(layouts): implement code-quality (Reference #884)
 - perf(tables): integrate loading-states (Reference #885)
 - fix(tables): implement dark-mode (Reference #886)
+- feat(layouts): fix dark-mode (Reference #887)
