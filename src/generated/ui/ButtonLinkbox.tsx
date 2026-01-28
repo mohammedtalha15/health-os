@@ -6,6 +6,7 @@ interface ButtonLinkboxProps {
   className?: string;
   children?: React.ReactNode;
   prop_707?: string;
+  prop_506?: string;
   // PROPS_PLACEHOLDER
 }
 
