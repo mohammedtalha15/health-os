@@ -763,3 +763,4 @@
 - style(forms): improve user-experience (Reference #763)
 - test(modals): optimize user-experience (Reference #764)
 - docs(analytics): improve performance (Reference #765)
+- chore(forms): implement data-fetching (Reference #766)
