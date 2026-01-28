@@ -8,6 +8,7 @@ interface UserContainerFooterProps {
   prop_761?: string;
   prop_435?: string;
   prop_662?: string;
+  prop_989?: string;
   // PROPS_PLACEHOLDER
 }
 
