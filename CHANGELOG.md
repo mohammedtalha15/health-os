@@ -1471,3 +1471,4 @@
 - refactor(profile): implement state-management (Reference #1471)
 - chore(tables): refactor performance (Reference #1472)
 - build(forms): implement performance (Reference #1473)
+- chore(search): update documentation (Reference #1474)
