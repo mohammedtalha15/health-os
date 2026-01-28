@@ -2245,3 +2245,4 @@
 // docs(modals): enhance mobile support - commit 281
 // docs(buttons): implement caching logic - commit 282
 // fix(search):  type definitions - commit 283
+// refactor(charts): enhance  - commit 284
