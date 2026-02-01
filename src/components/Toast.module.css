@@ -16,7 +16,7 @@
     background: rgba(255, 255, 255, 0.95);
     backdrop-filter: blur(10px);
     -webkit-backdrop-filter: blur(10px);
-    border-radius: var(--radius-xl);
+    border-radius: 20px;
     padding: var(--spacing-lg);
     box-shadow: var(--shadow-xl);
     display: flex;
