@@ -158,6 +158,7 @@
         right: var(--spacing-md);
         left: var(--spacing-md);
         max-width: none;
+        backdrop-filter: blur(4px);
     }
 }
 
