@@ -16,6 +16,12 @@ interface ActivityFeedProps {
     activities: Activity[];
 }
 
+/**
+ * ActivityFeed component displays a list of recent user activities.
+ * Handles different activity types with specific colors and icons.
+ *
+ * @param activities - Array of activity objects to display
+ */
 export default function ActivityFeed({ activities }: ActivityFeedProps) {
     const getActivityColor = (type: Activity['type']) => {
         const colors = {
