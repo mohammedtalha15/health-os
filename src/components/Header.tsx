@@ -6,6 +6,11 @@ import { useAuth } from '@/hooks/useAuth';
 import NotificationBell from './NotificationBell';
 import styles from './Header.module.css';
 
+/**
+ * Header component for the application.
+ * Contains navigation, user profile, and authentication actions.
+ * Responsive design with mobile menu support.
+ */
 export default function Header() {
     const [isMenuOpen, setIsMenuOpen] = useState(false);
     const [isProfileOpen, setIsProfileOpen] = useState(false);
