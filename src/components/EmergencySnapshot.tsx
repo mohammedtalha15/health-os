@@ -22,6 +22,14 @@ interface EmergencySnapshotProps {
     expiresAt?: string;
 }
 
+/**
+ * EmergencySnapshot component displays critical medical information.
+ * Features QR code sharing and animated alerts.
+ *
+ * @param data - The emergency medical data object
+ * @param shareLink - Optional link for sharing the snapshot
+ * @param expiresAt - Optional expiration date string
+ */
 export default function EmergencySnapshot({ data, shareLink, expiresAt }: EmergencySnapshotProps) {
     const [showQR, setShowQR] = useState(false);
 
