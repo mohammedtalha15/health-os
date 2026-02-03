@@ -11,6 +11,16 @@ interface CardProps {
     onClick?: () => void;
 }
 
+/**
+ * Card component for containing content in a styled container.
+ * Supports different variants and padding sizes.
+ *
+ * @param children - Card content
+ * @param variant - Visual style variant (default, glass, elevated, bordered)
+ * @param padding - Padding size (none, small, medium, large)
+ * @param hover - Whether to show hover effects
+ * @param onClick - Click handler
+ */
 export default function Card({
     children,
     variant = 'default',
