@@ -11,6 +11,16 @@ interface CheckboxProps {
     indeterminate?: boolean;
 }
 
+/**
+ * Checkbox component for boolean selection.
+ * Supports indeterminate state and animations.
+ *
+ * @param checked - Whether the checkbox is checked
+ * @param onChange - Callback when the state changes
+ * @param label - Optional label text
+ * @param disabled - Whether the checkbox is disabled
+ * @param indeterminate - Whether the checkbox is in indeterminate state
+ */
 export default function Checkbox({
     checked,
     onChange,
