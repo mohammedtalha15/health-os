@@ -11,6 +11,13 @@ interface AnimatedUploadProps {
     profileId: number;
 }
 
+/**
+ * AnimatedUpload component for file uploads with drag and drop support.
+ * Features smooth animations for upload states (idle, uploading, success).
+ *
+ * @param onUpload - Async callback function to handle file upload
+ * @param profileId - ID of the profile associated with the upload
+ */
 export default function AnimatedUpload({ onUpload, profileId }: AnimatedUploadProps) {
     const [uploading, setUploading] = useState(false);
     const [progress, setProgress] = useState(0);
