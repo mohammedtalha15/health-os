@@ -12,6 +12,17 @@ interface AvatarProps {
     showStatus?: boolean;
 }
 
+/**
+ * Avatar component for displaying user images or initials.
+ * Supports online status indicators and multiple sizes.
+ *
+ * @param src - Image source URL
+ * @param alt - Alt text for the image
+ * @param name - User name (used for initials if no image provided)
+ * @param size - Size of the avatar (small, medium, large, xlarge)
+ * @param status - User status (online, offline, away, busy)
+ * @param showStatus - Whether to show the status indicator
+ */
 export default function Avatar({
     src,
     alt,
