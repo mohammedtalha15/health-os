@@ -13,6 +13,12 @@ interface BreadcrumbProps {
     items: BreadcrumbItem[];
 }
 
+/**
+ * Breadcrumb component for displaying navigation hierarchy.
+ * Automatically handles separators and current page styling.
+ *
+ * @param items - Array of breadcrumb items with label and optional href
+ */
 export default function Breadcrumb({ items }: BreadcrumbProps) {
     return (
         <nav className={styles.breadcrumb} aria-label="Breadcrumb">
