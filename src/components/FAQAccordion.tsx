@@ -53,6 +53,10 @@ const faqs: FAQItem[] = [
     },
 ];
 
+/**
+ * FAQAccordion component for displaying frequently asked questions.
+ * Features search functionality and animated accordion expansion.
+ */
 export default function FAQAccordion() {
     const [openIndex, setOpenIndex] = useState<number | null>(null);
     const [searchQuery, setSearchQuery] = useState('');
