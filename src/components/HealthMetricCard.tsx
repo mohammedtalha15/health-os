@@ -20,6 +20,20 @@ interface HealthMetricCardProps {
     history?: number[];
 }
 
+/**
+ * HealthMetricCard component for displaying health vital statistics.
+ * Supports reference ranges, trend indicators, and detailed views.
+ *
+ * @param metric - Name of the metric (e.g., Blood Pressure)
+ * @param value - Current value
+ * @param unit - Unit of measurement
+ * @param refLow - Lower bound of reference range
+ * @param refHigh - Upper bound of reference range
+ * @param severity - Severity level (green, yellow, red)
+ * @param trend - Trend direction (up, down, stable)
+ * @param trendPercent - Percentage change
+ * @param date - Date of measurement
+ */
 export default function HealthMetricCard({
     metric,
     value,
