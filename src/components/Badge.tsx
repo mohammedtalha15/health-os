@@ -10,6 +10,15 @@ interface BadgeProps {
     pulse?: boolean;
 }
 
+/**
+ * Badge component for displaying status indicators or counts.
+ * Supports various semantic variants and sizes.
+ *
+ * @param children - The content to display inside the badge
+ * @param variant - Visual style variant (success, warning, etc.)
+ * @param size - Size of the badge
+ * @param pulse - Whether to enable a pulse animation effect
+ */
 export default function Badge({
     children,
     variant = 'primary',
