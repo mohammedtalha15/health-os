@@ -14,6 +14,16 @@ interface EmptyStateProps {
     illustration?: React.ReactNode;
 }
 
+/**
+ * EmptyState component for displaying when no data is available.
+ * Supports icons, illustrations, and action buttons.
+ *
+ * @param icon - Optional emoji or icon string
+ * @param title - Main title text
+ * @param description - Optional description text
+ * @param action - Optional action button config
+ * @param illustration - Custom illustration element
+ */
 export default function EmptyState({
     icon = '📭',
     title,
