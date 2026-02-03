@@ -17,6 +17,14 @@ interface AccordionProps {
     defaultOpen?: string[];
 }
 
+/**
+ * Accordion component for displaying collapsible content sections.
+ * Supports single or multiple open items.
+ *
+ * @param items - Array of accordion items containing id, title, content, and optional icon
+ * @param allowMultiple - Whether multiple items can be open simultaneously
+ * @param defaultOpen - Array of item IDs to be open by default
+ */
 export default function Accordion({ items, allowMultiple = false, defaultOpen = [] }: AccordionProps) {
     const [openItems, setOpenItems] = useState<string[]>(defaultOpen);
 
