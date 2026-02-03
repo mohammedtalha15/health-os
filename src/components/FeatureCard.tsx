@@ -11,6 +11,16 @@ interface FeatureCardProps {
     delay?: number;
 }
 
+/**
+ * FeatureCard component for showcasing application features.
+ * Supports hover animations and 3D effects.
+ *
+ * @param icon - Feature icon
+ * @param title - Feature title
+ * @param description - Feature description
+ * @param gradient - Background gradient for the icon
+ * @param delay - Animation delay
+ */
 export default function FeatureCard({ icon, title, description, gradient, delay = 0 }: FeatureCardProps) {
     return (
         <motion.div
