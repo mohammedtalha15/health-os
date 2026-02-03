@@ -12,6 +12,17 @@ interface ChipProps {
     icon?: React.ReactNode;
 }
 
+/**
+ * Chip component for concise data representation or actions.
+ * Supports deletion and click interactions.
+ *
+ * @param label - Text label
+ * @param variant - Visual style variant
+ * @param size - Size of the chip
+ * @param onDelete - Optional deletion handler
+ * @param onClick - Optional click handler
+ * @param icon - Optional icon element
+ */
 export default function Chip({
     label,
     variant = 'default',
