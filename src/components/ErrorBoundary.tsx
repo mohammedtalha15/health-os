@@ -10,6 +10,13 @@ interface State {
     error?: Error;
 }
 
+/**
+ * ErrorBoundary component to catch JavaScript errors in child components.
+ * Displays a fallback UI instead of crashing the whole app.
+ *
+ * @param children - Child components to wrap
+ * @param fallback - Optional custom fallback UI
+ */
 export class ErrorBoundary extends Component<Props, State> {
     constructor(props: Props) {
         super(props);
