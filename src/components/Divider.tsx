@@ -9,6 +9,14 @@ interface DividerProps {
     variant?: 'solid' | 'dashed' | 'dotted';
 }
 
+/**
+ * Divider component for separating content.
+ * Supports horizontal and vertical orientation, and optional labels.
+ *
+ * @param orientation - Orientation of the divider (horizontal/vertical)
+ * @param label - Optional label for horizontal dividers
+ * @param variant - Visual style (solid, dashed, dotted)
+ */
 export default function Divider({
     orientation = 'horizontal',
     label,
