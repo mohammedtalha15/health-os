@@ -11,6 +11,16 @@ interface AlertProps {
     icon?: string;
 }
 
+/**
+ * Alert component for displaying feedback messages to the user.
+ * Supports different variants like info, success, warning, and danger.
+ *
+ * @param variant - Type of alert (info, success, warning, danger)
+ * @param title - Optional title for the alert
+ * @param children - Content of the alert
+ * @param onClose - Optional callback to close the alert
+ * @param icon - Optional custom icon
+ */
 export default function Alert({
     variant = 'info',
     title,
