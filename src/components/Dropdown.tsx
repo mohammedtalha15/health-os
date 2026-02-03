@@ -18,6 +18,16 @@ interface DropdownProps {
     disabled?: boolean;
 }
 
+/**
+ * Dropdown component for selecting options from a list.
+ * Supports custom option rendering and disabled state.
+ *
+ * @param options - Array of dropdown options
+ * @param value - Currently selected value
+ * @param onChange - Callback when selection changes
+ * @param placeholder - Placeholder text when no value is selected
+ * @param disabled - Whether the dropdown is disabled
+ */
 export default function Dropdown({
     options,
     value,
