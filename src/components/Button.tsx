@@ -14,6 +14,19 @@ interface ButtonProps {
     type?: 'button' | 'submit' | 'reset';
 }
 
+/**
+ * Button component for user interactions.
+ * Supports multiple variants, sizes, and states (loading, disabled).
+ *
+ * @param children - Button content
+ * @param variant - Visual style variant
+ * @param size - Size of the button
+ * @param fullWidth - Whether the button should take full width
+ * @param disabled - Whether the button is disabled
+ * @param loading - Whether to show a loading spinner
+ * @param onClick - Click handler
+ * @param type - Button type attribute
+ */
 export default function Button({
     children,
     variant = 'primary',
